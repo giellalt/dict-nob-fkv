@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <entry>
+      <lemma decl="m2">arbeider</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">tekkiijä</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">arbeidsgiver</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">työnanttaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">baker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">paakari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">bergenser</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">perunalainen</trans>
+            <stem>perunalaise-</stem>
+            <stem>perunalais-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">betaler</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">maksaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">bismer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">pismari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">borger</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">porvari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">deltaker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">osanottaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">dommer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">tuomari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">dranker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">juoppo</trans>
+            <stem>juopo-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">drøvtygger</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">märehtijä</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">eier</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">omistaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">einer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">kataja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">ettersommer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">loppukesä</trans>
+            <stem>loppukessä-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">europeer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">eurooppalainen</trans>
+            <stem>europpalaise-</stem>
+            <stem>europpalais-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">femmer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">viitonen</trans>
+            <stem>viitose-</stem>
+            <stem>viitos-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">fetter</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">nepu</trans>
+            <stem>nepu-</stem>
+            <stem>neppu-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">finlender</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">suomalainen</trans>
+            <stem>suomalaise-</stem>
+            <stem>suomalais-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">firer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">nelonen</trans>
+            <stem>nelose-</stem>
+            <stem>nelos-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">fisker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">kalastaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">flyger</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">lenttääjä</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">forsker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">tutkiija</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">forsommer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">kevätkesä</trans>
+            <stem>kevätkessä-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">fosterdatter</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">ruokkotytär</trans>
+            <stem>ruokkotyttäre-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">frelser</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">vapahtaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">fører</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">ajjaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">genser</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">kensseri</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">giver</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">anttaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">gjeter</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">paimen</trans>
+            <stem>paimene-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">hammer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">vasara</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">handlanger</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">hantlangari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">heder</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">kunnia</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">helbreder</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">puoskari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">henter</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">nouttaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">hjelper</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">auttaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">hjerter</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">hertta</trans>
+            <stem>herta-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">jeger</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">jääkäri</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">kareler</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">karjalainen</trans>
+            <stem>karjalaise-</stem>
+            <stem>karjalais-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">keiser</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">keisari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">kjeller</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">kellari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">kjøper</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">ostaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">klokker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">lukkari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">latter</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">nauru</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">leser</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">lukkiija</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">liter</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">litteri</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">låner</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">lainaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">lærer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">opettaja</trans>
+         </trgr>
+         <trgr>
+            <trans pos="n">koulumies</trans>
+            <stem>koulumiehe-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">læstadianer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">lestaatilainen</trans>
+            <stem>lestaatilaise-</stem>
+            <stem>lestaatilais-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">maler</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">maalari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">medhjelper</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">apulainen</trans>
+            <stem>apulaise-</stem>
+            <stem>apulais-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">melker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">lypsääjä</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">mester</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">mestari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">minister</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">ministeri</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">morder</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">murhaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">mottaker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">saaja</trans>
+         </trgr>
+         <trgr>
+            <trans pos="n">vasthaanottaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">murer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">muurari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">mutter</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">mutteri</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">måler</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">mittari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">ordfører</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">sananjohtaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">oter</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">saukko</trans>
+            <stem>sauko-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">oversetter</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">käänttääjä</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">pleier</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">hoittaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">politiker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">pulitiikkari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">reingjeter</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">poromies</trans>
+            <stem>poromiehe-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">russer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">ryssä</trans>
+         </trgr>
+         <trgr>
+            <trans pos="n">ryssäläinen</trans>
+            <stem>ryssäläise-</stem>
+            <stem>ryssäläis-</stem>
+         </trgr>
+         <trgr>
+            <trans pos="n">venäläinen</trans>
+            <stem>venäläise-</stem>
+            <stem>venäläis-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">selger</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">myyjä</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">sigøyner</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">mustalainen</trans>
+            <stem>mustalaise-</stem>
+            <stem>mustalais-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">skaper</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">luoja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">skiløper</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">hihtaaja</trans>
+         </trgr>
+         <trgr>
+            <trans pos="n">hihtomies</trans>
+            <stem>hihtomiehe-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">skomaker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">suutari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">skredder</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">kraatari</trans>
+         </trgr>
+         <trgr>
+            <trans pos="n">skraatari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">skriver</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">kirjottaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">skuter</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">skuutteri</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">skytter</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">amppuuja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">skøyer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">kälmi</trans>
+         </trgr>
+         <trgr>
+            <trans pos="n">skälmi</trans>
+         </trgr>
+      </mgr>
+      <syngr>
+         <syn>kälmi"</syn>
+      </syngr>
+   </entry>
+   <entry>
+      <lemma decl="m2">snekker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">nikkari</trans>
+         </trgr>
+         <trgr>
+            <trans pos="n">snikkari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">spiller</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">pellaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">statsborger</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">kansalainen</trans>
+            <stem>kansalaise-</stem>
+            <stem>kansalais-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">statsminister</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">staatsministeri</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">strikker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">kuttooja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">synder</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">syntinen</trans>
+            <stem>syntise-</stem>
+            <stem>syntis-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">søker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">hakkiija</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">taler</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">puhhuuja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">tannpirker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">hammastikku</trans>
+            <stem>hammatiku-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">tilhører</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">kuulija</trans>
+         </trgr>
+         <trgr>
+            <trans pos="n">kuuntelija</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">tjener</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">palveelija</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">tysker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">saksalainen</trans>
+            <stem>saksalaise-</stem>
+            <stem>saksalais-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">ungarer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">unkaarnilainen</trans>
+            <stem>unkaarnilaise-</stem>
+            <stem>unkaarnilais-</stem>
+         </trgr>
+         <trgr>
+            <trans pos="n">unkarilainen</trans>
+            <stem>unkarilaise-</stem>
+            <stem>unkarilais-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">utgiver</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">ilmottaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">vandrer</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">kulkkiija</trans>
+         </trgr>
+         <trgr>
+            <trans pos="n">looppari</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">vinner</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">voittaaja</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="m2">øyenstikker</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">pitkesenkorento</trans>
+            <stem>pitkesenkorenno-</stem>
+            <stem>pitkesenkorentto-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+</r>

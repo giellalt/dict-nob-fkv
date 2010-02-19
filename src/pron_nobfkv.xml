@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <entry>
+      <lemma decl="pron">de</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="pron">net</trans>
+            <stem>nii-</stem>
+            <stem>nii-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">den</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="pron">se</trans>
+            <stem>se-</stem>
+            <stem>si-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">dere</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="pron">tet:tei</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">han</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">hän</trans>
+            <stem>häne-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">hva</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="pron">mikä</trans>
+            <stem>mi-</stem>
+            <stem>mi-</stem>
+         </trgr>
+      </mgr>
+      <mgr>
+         <trgr>
+            <trans decl="x">mitä</trans>
+         </trgr>
+      </mgr>
+      <syngr>
+         <syn>mikä"</syn>
+      </syngr>
+   </entry>
+   <entry>
+      <lemma decl="pron">jeg</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">mie</trans>
+            <stem>minu-</stem>
+            <stem>minnu-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">alle</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="pron">kaikki</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">begge</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="pron">molemat</trans>
+            <stem>molemii-</stem>
+            <stem>molemii-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">denne</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="pron">tämä</trans>
+            <stem>tä-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">annen</lemma>
+      <mgr>
+         <trgr>
+            <trans>eri</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">annen</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">eri</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">du</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="pron">sie</trans>
+            <stem>sinu-</stem>
+            <stem>sinnu-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">ingen</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">ei kukhaan</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">ingenting</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">ei mithään</trans>
+            <exgr>
+               <ex>det gjør ingenting</ex>
+               <extr>ei se mithään</extr>
+            </exgr>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">min</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="pron">minun</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pron">vi</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="pron">met</trans>
+            <stem>mei-</stem>
+            <stem>mei-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+</r>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <entry>
+      <lemma decl="f2">dreping</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">tappaminen</trans>
+            <stem>tappamise-</stem>
+            <stem>tappamis-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="f2">forbedring</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">parannus</trans>
+            <stem>parannukse-</stem>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="f2">fornorskning</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="n">norjalaistuminen</trans>
+            <stem>norjalaistumise-</stem>
+            <stem>norjalaistumis-"</stem>
+         </trgr>
+      </mgr>
+      <mgr>
+         <trgr>
+            <trans pos="n">norjalaistaminen</trans>
+            <stem>norjalaistamise-</stem>
+            <stem>norjalaistamis-"</stem>
+         </trgr>
+      </mgr>
+   </entry>
+</r>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <entry>
+      <lemma decl="pr">bak</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="pr">takana</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pr">gjennom</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="po">kautta</trans>
+         </trgr>
+      </mgr>
+      <mgr>
+         <trgr>
+            <trans pos="po">läpi</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pr">hos</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="po">tykköö</trans>
+            <exgr>
+               <ex>hun er hos meg</ex>
+               <extr>hän oon minun tykköö</extr>
+            </exgr>
+         </trgr>
+         <trgr>
+            <trans decl="x">tykönä</trans>
+            <exgr>
+               <ex>hun er hos meg</ex>
+               <extr>Hän oon minun tykkönä</extr>
+            </exgr>
+         </trgr>
+      </mgr>
+      <syngr>
+         <syn>tykönä"</syn>
+      </syngr>
+   </entry>
+   <entry>
+      <lemma decl="pr">med</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="po">kans(a)</trans>
+            <exgr>
+               <ex>Hun kom med gutten</ex>
+               <extr>Hän tuli pojan kansa</extr>
+            </exgr>
+         </trgr>
+      </mgr>
+      <mgr>
+         <trgr>
+            <trans pos="po">myötä</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="pr">mot</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="po">vasten</trans>
+         </trgr>
+         <trgr>
+            <trans pos="po">vasthaan</trans>
+         </trgr>
+      </mgr>
+   </entry>
+</r>

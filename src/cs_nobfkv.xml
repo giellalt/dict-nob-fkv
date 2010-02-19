@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <entry>
+      <lemma decl="cs">da</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="cs">ko</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="cs">eller</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">eli</trans>
+            <trans decl="x">elikkä</trans>
+         </trgr>
+      </mgr>
+      <mgr>
+         <trgr>
+            <trans decl="x">tahi</trans>
+            <trans decl="x">tai</trans>
+         </trgr>
+      </mgr>
+      <mgr>
+         <trgr>
+            <trans decl="x">vai</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="cs">fordi</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="cs">koska</trans>
+         </trgr>
+      </mgr>
+      <mgr>
+         <trgr>
+            <trans pos="cs">siksi</trans>
+         </trgr>
+      </mgr>
+   </entry>
+</r>

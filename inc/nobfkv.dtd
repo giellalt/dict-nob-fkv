@@ -1,0 +1,54 @@
+<!--
+Planar
+Norsk oppslagsord
+norsk ordklasse 
+
+Kvensk omsetjing
+Stammeklasse
+Stamme+
+-->
+<!ELEMENT rootdict (entry+) >
+<!ELEMENT entry (lemma, mgr+, syngr*, refgr*, comm?) >
+
+<!ELEMENT lemma (#PCDATA) >
+<!ATTLIST lemma 
+		    decl ( f | fx | f1 | f1x | f2 | f3 | fpl |
+  m | mx | mo | m1 | m1b | mix | m2 | m3 | m3x | m4 | mpl |
+  n | nx | no | n1 | n1b | n2 | n2c | n3 | n3b | n3c | n4 | n4b | npl | 
+  v | num | pr | adv | cs | cc | i |
+  ax | a | a1 | a2 | a3 | a4 | a5 | apl | det | pron | x ) #IMPLIED
+ >
+
+<!--
+Kodane er frå finsk-norsk ordbok.
+Koden x er plasshaldar når det ikkje er kode der.
+-->
+
+<!ELEMENT mgr (trgr+)>
+<!ELEMENT trgr (restr?, trans+, stem*, exgr*)>
+
+<!ELEMENT restr (#PCDATA) >
+<!ELEMENT trans (#PCDATA) >
+<!ATTLIST trans 
+      pos ( proa | a | adv | apl | cc | i | cs | det | n | npl | num | pr | po |pron | v | x ) #IMPLIED
+      decl ( 1 | 2 | x ) #IMPLIED
+      geo ( eva | por | rai | pva) #IMPLIED 
+>      
+
+<!ELEMENT stem (#PCDATA)>
+
+<!ELEMENT exgr (ex, extr)>
+<!ELEMENT ex (#PCDATA)>
+<!ELEMENT extr (#PCDATA)>
+
+<!ELEMENT syngr (syn+)>
+<!ELEMENT syn (#PCDATA)>
+
+<!ELEMENT refgr (ref+)>
+<!ELEMENT ref (#PCDATA)>
+
+<!ELEMENT comm (#PCDATA)>
+
+
+
+
