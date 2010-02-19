@@ -231,6 +231,9 @@ For the full license text, see the link above.</lic>
             <trans pos="a"/>
             <stem>hieno</stem>
          </trgr>
+         <trgr>
+            <trans pos="x">fiini</trans>
+         </trgr>
       </mgr>
    </entry>
    <entry>
@@ -1350,26 +1353,10 @@ For the full license text, see the link above.</lic>
       </mgr>
    </entry>
    <entry>
-      <lemma decl="a1">fin</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="x">fiini</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
       <lemma decl="a1">fjern</lemma>
       <mgr>
          <trgr>
             <trans pos="a">kaukainen</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">hel</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="x">koko</trans>
          </trgr>
       </mgr>
    </entry>
