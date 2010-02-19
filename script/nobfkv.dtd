@@ -7,7 +7,18 @@ Kvensk omsetjing
 Stammeklasse
 Stamme+
 -->
-<!ELEMENT rootdict (entry+) >
+<!ELEMENT r (lics, entry+) >
+
+
+<!-- the header -->
+<!ELEMENT lics (lic, ref*, sourcenote*) >
+<!ELEMENT lic (#PCDATA|a)*>
+<!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
+<!ELEMENT ref (#PCDATA|a)*>
+<!ELEMENT sourcenote (#PCDATA|a)*>
+<!ELEMENT a (#PCDATA)>
+
+<!-- the header -->
 <!ELEMENT entry (lemma, mgr+, syngr*, refgr*, comm?) >
 
 <!ELEMENT lemma (#PCDATA) >
@@ -43,9 +54,6 @@ Koden x er plasshaldar når det ikkje er kode der.
 
 <!ELEMENT syngr (syn+)>
 <!ELEMENT syn (#PCDATA)>
-
-<!ELEMENT refgr (ref+)>
-<!ELEMENT ref (#PCDATA)>
 
 <!ELEMENT comm (#PCDATA)>
 
