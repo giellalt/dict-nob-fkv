@@ -552,7 +552,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">lenge</lemma>
+      <lemma decl="adv">lenge</lemma>
       <mgr>
          <trgr>
             <trans decl="x">kauvon</trans>
@@ -686,10 +686,10 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">mye</lemma>
+      <lemma decl="adv">mye</lemma>
       <mgr>
          <trgr>
-            <trans decl="adv">kovasti</trans>
+            <trans decl="adv">kovin</trans>
          </trgr>
       </mgr>
       <mgr>
@@ -699,15 +699,36 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">mørk</lemma>
+      <lemma decl="a3">mye</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">tumma</trans>
+            <trans decl="a">kovasti</trans>
+         </trgr>
+      </mgr>
+      <mgr>
+         <trgr>
+            <trans decl="x">paljon</trans>
          </trgr>
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">naken</lemma>
+      <lemma decl="a1">mørk</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="a">tumma</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="a5">naken</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="adv">alaston</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="adv">nakent</lemma>
       <mgr>
          <trgr>
             <trans decl="adv">alasti</trans>
@@ -715,7 +736,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">naturligvis</lemma>
+      <lemma decl="adv">naturligvis</lemma>
       <mgr>
          <trgr>
             <trans decl="adv">luontolisesti</trans>
