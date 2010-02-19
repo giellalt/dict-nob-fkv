@@ -3,6 +3,33 @@
 "nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
 <r>
+  <lics>
+    <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+
+     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+     <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not always
+     sorted, or sorted in the wrong order. (If consistent (but wrong) sorting is
+     important, use Firefox.)
+     </sourcenote>
+   </lics>
+
    <entry>
       <lemma decl="a">andpusten</lemma>
       <mgr>
@@ -495,7 +522,7 @@
       <lemma decl="a">fullstendig</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">kokonhaansa</trans>
+            <trans pos="x">kokonhaansa</trans>
             <exgr>
                <ex>fullstendig feil</ex>
                <extr>nurin väärin</extr>
@@ -504,7 +531,7 @@
       </mgr>
       <mgr>
          <trgr>
-            <trans decl="x">täyđesti</trans>
+            <trans pos="x">täyđesti</trans>
          </trgr>
       </mgr>
    </entry>
@@ -1662,7 +1689,7 @@
       <lemma decl="a">ingen</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">ei yhthään</trans>
+            <trans pos="x">ei yhthään</trans>
          </trgr>
       </mgr>
    </entry>

@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE rootdict PUBLIC "-//XMLmind//DTD nobfkv//FI"
-"nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
+<?xml-stylesheet type="text/xsl" href="../script/nobfkv.xsl"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//SE" "../script/nobfkv.dtd">
 <r>
+  <lics>
+    <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+
+     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+     <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not always
+     sorted, or sorted in the wrong order. (If consistent (but wrong) sorting is
+     important, use Firefox.)
+     </sourcenote>
+   </lics>
+
    <entry>
       <lemma decl="a2">absolutt</lemma>
       <mgr>
@@ -110,7 +138,7 @@
       <lemma decl="a2">disig</lemma>
       <mgr>
          <trgr>
-            <trans decl="a">himmee</trans>
+            <trans pos="a">himmee</trans>
          </trgr>
       </mgr>
       <syngr>
@@ -931,7 +959,7 @@
       <lemma decl="a2">bestemt</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">tođesti</trans>
+            <trans pos="x">tođesti</trans>
          </trgr>
       </mgr>
    </entry>
@@ -939,7 +967,7 @@
       <lemma decl="a2">billig</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">halvempi</trans>
+            <trans pos="x">halvempi</trans>
             <stem>halvemma-</stem>
          </trgr>
       </mgr>
@@ -948,7 +976,7 @@
       <lemma decl="a2">bunnløs</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">pohjaton</trans>
+            <trans pos="x">pohjaton</trans>
             <stem>pohjattoma-</stem>
          </trgr>
       </mgr>
@@ -957,7 +985,7 @@
       <lemma decl="a2">dårlig</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">pahoin</trans>
+            <trans pos="x">pahoin</trans>
          </trgr>
       </mgr>
    </entry>
@@ -965,7 +993,7 @@
       <lemma decl="a2">egentlig</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">oikkeesthaansa</trans>
+            <trans pos="x">oikkeesthaansa</trans>
          </trgr>
       </mgr>
    </entry>
@@ -973,7 +1001,7 @@
       <lemma decl="a2">engelsk</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">engelska</trans>
+            <trans pos="x">engelska</trans>
          </trgr>
       </mgr>
    </entry>
@@ -981,7 +1009,7 @@
       <lemma decl="a2">enkelt</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">helposti</trans>
+            <trans pos="x">helposti</trans>
          </trgr>
       </mgr>
    </entry>
@@ -989,7 +1017,7 @@
       <lemma decl="a2">faglig</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">faakilinen</trans>
+            <trans pos="x">faakilinen</trans>
             <stem>faakilise-</stem>
             <stem>faakilis-</stem>
          </trgr>
@@ -999,7 +1027,7 @@
       <lemma decl="a2">ferdig</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">valmis</trans>
+            <trans pos="x">valmis</trans>
             <stem>valmhii-</stem>
             <exgr>
                <ex>Gjør den nå ferdig!</ex>
@@ -1020,7 +1048,7 @@
       <lemma decl="a2">forsiktig</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">varovaisesti</trans>
+            <trans pos="x">varovaisesti</trans>
          </trgr>
       </mgr>
    </entry>
@@ -1039,7 +1067,7 @@
       <lemma decl="a2">forståelig</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">ymmärrettäävä</trans>
+            <trans pos="x">ymmärrettäävä</trans>
          </trgr>
       </mgr>
    </entry>
@@ -1047,7 +1075,7 @@
       <lemma decl="a2">grundig</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">nuuka</trans>
+            <trans pos="x">nuuka</trans>
             <stem>nuua-</stem>
             <stem>nuukka-</stem>
          </trgr>
@@ -1057,7 +1085,7 @@
       <lemma decl="a2">hemmelig</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">sala</trans>
+            <trans pos="x">sala</trans>
             <stem>salla-</stem>
          </trgr>
       </mgr>
@@ -1066,7 +1094,7 @@
       <lemma decl="a2">stolt</lemma>
       <mgr>
          <trgr>
-            <trans decl="a">ylppee</trans>
+            <trans pos="a">ylppee</trans>
          </trgr>
       </mgr>
    </entry>
@@ -1074,7 +1102,7 @@
       <lemma decl="a2">tett</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">taahjaan</trans>
+            <trans pos="x">taahjaan</trans>
          </trgr>
          <trgr>
             <trans pos="a">taaja</trans>

@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE rootdict PUBLIC "-//XMLmind//DTD nobfkv//FI"
-"nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
+<?xml-stylesheet type="text/xsl" href="../script/nobfkv.xsl"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//SE" "../script/nobfkv.dtd">
 <r>
+  <lics>
+    <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+
+     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+     <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not always
+     sorted, or sorted in the wrong order. (If consistent (but wrong) sorting is
+     important, use Firefox.)
+     </sourcenote>
+   </lics>
+
    <entry>
       <lemma decl="num">ti</lemma>
       <mgr>
@@ -44,7 +72,7 @@
       <lemma decl="num" type="ord">ellevte</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">yhđestoista</trans>
+            <trans pos="num">yhđestoista</trans>
          </trgr>
       </mgr>
    </entry>
@@ -52,7 +80,7 @@
       <lemma decl="num">en</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">yksi</trans>
+            <trans pos="num">yksi</trans>
             <stem>yhđe-</stem>
             <stem>yh-</stem>
          </trgr>
@@ -62,8 +90,8 @@
       <lemma decl="num">fem</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">viisi</trans>
-            <trans decl="num">viis</trans>
+            <trans pos="num">viisi</trans>
+            <trans pos="num">viis</trans>
             <stem>viiđe-</stem>
             <stem>viit-</stem>
          </trgr>
@@ -73,8 +101,8 @@
       <lemma decl="num">femten</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">viisitoista</trans>
-            <trans decl="num">viistoista</trans>
+            <trans pos="num">viisitoista</trans>
+            <trans pos="num">viistoista</trans>
          </trgr>
       </mgr>
    </entry>
@@ -82,8 +110,8 @@
       <lemma decl="num">femti</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">viiskymmentä</trans>
-            <trans decl="num">viisikymmentä</trans>
+            <trans pos="num">viiskymmentä</trans>
+            <trans pos="num">viisikymmentä</trans>
             <stem>viisikymmene-</stem>
          </trgr>
       </mgr>
@@ -92,7 +120,7 @@
       <lemma decl="num">fire</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">nelje</trans>
+            <trans pos="num">nelje</trans>
          </trgr>
       </mgr>
    </entry>
@@ -100,7 +128,7 @@
       <lemma decl="num" type="ord">fjerde</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">neljes</trans>
+            <trans pos="num">neljes</trans>
             <stem>neljenhee-</stem>
             <stem>neljet-</stem>
          </trgr>
@@ -110,7 +138,7 @@
       <lemma decl="num">ni</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">yhđeksen</trans>
+            <trans pos="num">yhđeksen</trans>
          </trgr>
       </mgr>
    </entry>
@@ -118,12 +146,12 @@
       <lemma decl="num">seks</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kuus</trans>
+            <trans pos="num">kuus</trans>
             <stem>kuuđe-</stem>
             <stem>kuut-</stem>
          </trgr>
          <trgr>
-            <trans decl="num">kuusi</trans>
+            <trans pos="num">kuusi</trans>
             <stem>kuuđe-</stem>
             <stem>kuut-</stem>
          </trgr>
@@ -133,7 +161,7 @@
       <lemma decl="num">sekshundre</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kuusisattaa</trans>
+            <trans pos="num">kuusisattaa</trans>
          </trgr>
       </mgr>
    </entry>
@@ -141,7 +169,7 @@
       <lemma decl="num">seksten</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kuusitoista</trans>
+            <trans pos="num">kuusitoista</trans>
          </trgr>
       </mgr>
    </entry>
@@ -149,7 +177,7 @@
       <lemma decl="num">seksti</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kuusikymmentä</trans>
+            <trans pos="num">kuusikymmentä</trans>
          </trgr>
       </mgr>
    </entry>
@@ -157,7 +185,7 @@
       <lemma decl="num">sekstusen</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kuusituhatta</trans>
+            <trans pos="num">kuusituhatta</trans>
          </trgr>
       </mgr>
    </entry>
@@ -165,7 +193,7 @@
       <lemma decl="num" type="ord">sjette</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kuuđes</trans>
+            <trans pos="num">kuuđes</trans>
             <stem>kuuđenne-</stem>
             <stem>kuuđet-</stem>
          </trgr>
@@ -175,8 +203,8 @@
       <lemma decl="num">sju</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">seittemen</trans>
-            <trans decl="x">seittemän</trans>
+            <trans pos="num">seittemen</trans>
+            <trans pos="x">seittemän</trans>
          </trgr>
       </mgr>
    </entry>
@@ -184,7 +212,7 @@
       <lemma decl="num" type="ord">tiende</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kymmenes</trans>
+            <trans pos="num">kymmenes</trans>
             <stem>kymmenenne-</stem>
             <stem>kymmenet-</stem>
          </trgr>
@@ -194,7 +222,7 @@
       <lemma decl="num">tjue</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kakskymmentä</trans>
+            <trans pos="num">kakskymmentä</trans>
             <stem>kakskymmene-</stem>
          </trgr>
       </mgr>
@@ -203,7 +231,7 @@
       <lemma decl="num">tolv</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kakstoista</trans>
+            <trans pos="num">kakstoista</trans>
          </trgr>
       </mgr>
    </entry>
@@ -211,7 +239,7 @@
       <lemma decl="num">totusen</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kakstuhatta</trans>
+            <trans pos="num">kakstuhatta</trans>
          </trgr>
       </mgr>
    </entry>
@@ -219,7 +247,7 @@
       <lemma decl="num">tre</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kolme</trans>
+            <trans pos="num">kolme</trans>
          </trgr>
       </mgr>
    </entry>
@@ -227,7 +255,7 @@
       <lemma decl="num">trehundre</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kolmesattaa</trans>
+            <trans pos="num">kolmesattaa</trans>
          </trgr>
       </mgr>
    </entry>
@@ -235,7 +263,7 @@
       <lemma decl="num">tretti</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kolmekymmentä</trans>
+            <trans pos="num">kolmekymmentä</trans>
          </trgr>
       </mgr>
    </entry>
@@ -243,7 +271,7 @@
       <lemma decl="num">åttehundre</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kahđeksensattaa</trans>
+            <trans pos="num">kahđeksensattaa</trans>
             <stem>kahđeksensađa-</stem>
          </trgr>
       </mgr>
@@ -252,7 +280,7 @@
       <lemma decl="num">åtti</lemma>
       <mgr>
          <trgr>
-            <trans decl="num">kahđeksenkymmentä</trans>
+            <trans pos="num">kahđeksenkymmentä</trans>
             <stem>kahđeksenkymmene-</stem>
          </trgr>
       </mgr>

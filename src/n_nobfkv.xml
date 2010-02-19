@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE rootdict PUBLIC "-//XMLmind//DTD nobfkv//FI"
-"nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r>
-   <entry>
+trans pos   <entry>
       <lemma decl="n">agn</lemma>
       <mgr>
          <trgr>
@@ -4839,7 +4834,7 @@
       <lemma decl="n">hunndyr</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">runo</trans>
+            <trans pos="x">runo</trans>
             <stem>runno-</stem>
          </trgr>
       </mgr>

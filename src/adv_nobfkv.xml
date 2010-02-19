@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE rootdict PUBLIC "-//XMLmind//DTD nobfkv//FI"
-"nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
+<?xml-stylesheet type="text/xsl" href="../script/nobfkv.xsl"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//SE" "../script/nobfkv.dtd">
 <r>
+  <lics>
+    <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+
+     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+     <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not always
+     sorted, or sorted in the wrong order. (If consistent (but wrong) sorting is
+     important, use Firefox.)
+     </sourcenote>
+   </lics>
+
    <entry>
       <lemma decl="adv">akkurat</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">justhiin</trans>
+            <trans pos="x">justhiin</trans>
          </trgr>
          <trgr>
-            <trans decl="x">juuri</trans>
+            <trans pos="x">juuri</trans>
          </trgr>
       </mgr>
    </entry>
@@ -73,8 +101,8 @@
       </mgr>
       <mgr>
          <trgr>
-            <trans decl="x">vaan</trans>
-            <trans decl="x">vain</trans>
+            <trans pos="x">vaan</trans>
+            <trans pos="x">vain</trans>
          </trgr>
       </mgr>
    </entry>
@@ -172,12 +200,12 @@
       <lemma decl="adv">forferdelig</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">kauheesti</trans>
+            <trans pos="x">kauheesti</trans>
          </trgr>
       </mgr>
       <mgr>
          <trgr>
-            <trans decl="x">kolosti</trans>
+            <trans pos="x">kolosti</trans>
          </trgr>
       </mgr>
    </entry>
@@ -185,19 +213,19 @@
       <lemma decl="adv">først</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">alusta</trans>
+            <trans pos="x">alusta</trans>
          </trgr>
       </mgr>
       <mgr>
          <trgr>
-            <trans decl="x">ensiksi</trans>
-            <trans decl="x">ensin</trans>
-            <trans decl="x">ensisti</trans>
+            <trans pos="x">ensiksi</trans>
+            <trans pos="x">ensin</trans>
+            <trans pos="x">ensisti</trans>
          </trgr>
       </mgr>
       <mgr>
          <trgr>
-            <trans decl="x">vasta</trans>
+            <trans pos="x">vasta</trans>
          </trgr>
       </mgr>
    </entry>
@@ -248,7 +276,7 @@
       </mgr>
       <mgr>
          <trgr>
-            <trans decl="x">vähä</trans>
+            <trans pos="x">vähä</trans>
          </trgr>
          <trgr>
             <trans pos="adv">vähän</trans>
@@ -327,7 +355,7 @@
       <lemma decl="adv">oftere</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">usheemasti</trans>
+            <trans pos="x">usheemasti</trans>
          </trgr>
       </mgr>
    </entry>
@@ -340,7 +368,7 @@
       </mgr>
       <mgr>
          <trgr>
-            <trans decl="x">tietenki</trans>
+            <trans pos="x">tietenki</trans>
          </trgr>
       </mgr>
    </entry>
@@ -397,7 +425,7 @@
       <lemma decl="adv">borte</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">poissa</trans>
+            <trans pos="x">poissa</trans>
          </trgr>
       </mgr>
    </entry>
@@ -405,7 +433,7 @@
       <lemma decl="adv">delvis</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">osittan</trans>
+            <trans pos="x">osittan</trans>
          </trgr>
       </mgr>
    </entry>
@@ -413,7 +441,7 @@
       <lemma decl="adv">derfra</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">siitä</trans>
+            <trans pos="x">siitä</trans>
          </trgr>
       </mgr>
    </entry>
@@ -421,7 +449,7 @@
       <lemma decl="adv">ellers</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">muuten</trans>
+            <trans pos="x">muuten</trans>
          </trgr>
       </mgr>
    </entry>
@@ -429,7 +457,7 @@
       <lemma decl="adv">engang</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">kerran</trans>
+            <trans pos="x">kerran</trans>
          </trgr>
       </mgr>
    </entry>
@@ -445,7 +473,7 @@
       <lemma decl="adv">fort</lemma>
       <mgr>
          <trgr>
-            <trans decl="adv">noppeesti</trans>
+            <trans pos="adv">noppeesti</trans>
          </trgr>
       </mgr>
    </entry>
@@ -461,7 +489,7 @@
       <lemma decl="adv">ganske</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">melkkeen</trans>
+            <trans pos="x">melkkeen</trans>
          </trgr>
       </mgr>
    </entry>
@@ -469,7 +497,7 @@
       <lemma decl="adv">gratis</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">ilman</trans>
+            <trans pos="x">ilman</trans>
          </trgr>
       </mgr>
    </entry>
@@ -477,7 +505,7 @@
       <lemma decl="adv">heldigvis</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">onneksi</trans>
+            <trans pos="x">onneksi</trans>
          </trgr>
       </mgr>
    </entry>
@@ -485,7 +513,7 @@
       <lemma decl="adv">hit</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">tänne</trans>
+            <trans pos="x">tänne</trans>
          </trgr>
       </mgr>
    </entry>
@@ -493,7 +521,7 @@
       <lemma decl="adv">hjemme</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">kotona</trans>
+            <trans pos="x">kotona</trans>
          </trgr>
       </mgr>
    </entry>
@@ -501,7 +529,7 @@
       <lemma decl="adv">igjen</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">taas</trans>
+            <trans pos="x">taas</trans>
          </trgr>
       </mgr>
    </entry>
@@ -509,7 +537,7 @@
       <lemma decl="adv">ille</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">pahasti</trans>
+            <trans pos="x">pahasti</trans>
          </trgr>
       </mgr>
    </entry>
@@ -517,7 +545,7 @@
       <lemma decl="adv">ingensteds</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">ei mishään</trans>
+            <trans pos="x">ei mishään</trans>
             <exgr>
                <ex>han er ikke noen steder</ex>
                <extr>hän ei ole mishään</extr>
@@ -529,7 +557,7 @@
       <lemma decl="adv">inn</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">sisäle</trans>
+            <trans pos="x">sisäle</trans>
          </trgr>
       </mgr>
    </entry>
@@ -537,7 +565,7 @@
       <lemma decl="adv">kanskje</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">piian</trans>
+            <trans pos="x">piian</trans>
          </trgr>
       </mgr>
    </entry>
@@ -545,7 +573,7 @@
       <lemma decl="adv">knapt</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">knapisti</trans>
+            <trans pos="x">knapisti</trans>
          </trgr>
       </mgr>
    </entry>
@@ -553,7 +581,7 @@
       <lemma decl="adv">midtsommers</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">keskikesälä</trans>
+            <trans pos="x">keskikesälä</trans>
          </trgr>
       </mgr>
    </entry>
@@ -561,7 +589,7 @@
       <lemma decl="adv">midtveis</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">puolivälissä</trans>
+            <trans pos="x">puolivälissä</trans>
          </trgr>
       </mgr>
    </entry>

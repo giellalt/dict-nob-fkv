@@ -3,11 +3,38 @@
 "nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
 <r>
+  <lics>
+    <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+
+     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+     <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not always
+     sorted, or sorted in the wrong order. (If consistent (but wrong) sorting is
+     important, use Firefox.)
+     </sourcenote>
+   </lics>
+
    <entry>
       <lemma decl="pron">de</lemma>
       <mgr>
          <trgr>
-            <trans decl="pron">net</trans>
+            <trans pos="pron">net</trans>
             <stem>nii-</stem>
             <stem>nii-</stem>
          </trgr>
@@ -17,7 +44,7 @@
       <lemma decl="pron">den</lemma>
       <mgr>
          <trgr>
-            <trans decl="pron">se</trans>
+            <trans pos="pron">se</trans>
             <stem>se-</stem>
             <stem>si-</stem>
          </trgr>
@@ -35,7 +62,7 @@
       <lemma decl="pron">han</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">hän</trans>
+            <trans pos="x">hän</trans>
             <stem>häne-</stem>
          </trgr>
       </mgr>
@@ -51,7 +78,7 @@
       </mgr>
       <mgr>
          <trgr>
-            <trans decl="x">mitä</trans>
+            <trans pos="x">mitä</trans>
          </trgr>
       </mgr>
       <syngr>
@@ -62,7 +89,7 @@
       <lemma decl="pron">jeg</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">mie</trans>
+            <trans pos="x">mie</trans>
             <stem>minu-</stem>
             <stem>minnu-</stem>
          </trgr>
@@ -107,7 +134,7 @@
       <lemma decl="pron">annen</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">eri</trans>
+            <trans pos="x">eri</trans>
          </trgr>
       </mgr>
    </entry>
@@ -115,7 +142,7 @@
       <lemma decl="pron">du</lemma>
       <mgr>
          <trgr>
-            <trans decl="pron">sie</trans>
+            <trans pos="pron">sie</trans>
             <stem>sinu-</stem>
             <stem>sinnu-</stem>
          </trgr>
@@ -125,7 +152,7 @@
       <lemma decl="pron">ingen</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">ei kukhaan</trans>
+            <trans pos="x">ei kukhaan</trans>
          </trgr>
       </mgr>
    </entry>
@@ -133,7 +160,7 @@
       <lemma decl="pron">ingenting</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">ei mithään</trans>
+            <trans pos="x">ei mithään</trans>
             <exgr>
                <ex>det gjør ingenting</ex>
                <extr>ei se mithään</extr>
@@ -145,7 +172,7 @@
       <lemma decl="pron">min</lemma>
       <mgr>
          <trgr>
-            <trans decl="pron">minun</trans>
+            <trans pos="pron">minun</trans>
          </trgr>
       </mgr>
    </entry>
@@ -153,7 +180,7 @@
       <lemma decl="pron">vi</lemma>
       <mgr>
          <trgr>
-            <trans decl="pron">met</trans>
+            <trans pos="pron">met</trans>
             <stem>mei-</stem>
             <stem>mei-</stem>
          </trgr>
