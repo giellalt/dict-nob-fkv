@@ -1,7 +1,9 @@
-rootdict {
+import "../../scripts/gt_dictionary.css";
+
+r, rootdict {
     display: block;
     border: 1 solid gray;
-    margin-bottom: 1.33ex;
+    margin: 1ex;
     background-color: #eeeeee;
 }
 
@@ -9,7 +11,6 @@ entry {
     display: block;
     collapsible: yes;
     not-collapsible-head: 1;
-    margin-bottom: 1.33ex;
     background-color: #eeeeee;
 }
 
@@ -55,8 +56,7 @@ trans[decl]:after {
     vertical-align: super;
 }
 
-stem
- 	{
+stem {
 	font-style: italic;
 }
 
@@ -70,11 +70,6 @@ stem:after {
     content: ")";
     font-style: normal;
     font-size:small;
-}
-
-stem
- 	{
-	font-style: italic;
 }
 
 stem:before {
