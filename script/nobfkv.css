@@ -1,11 +1,4 @@
-import "../../scripts/gt_dictionary.css";
-
-r, rootdict {
-    display: block;
-    border: 1 solid gray;
-    margin: 1ex;
-    background-color: #eeeeee;
-}
+@import "../../scripts/gt_dictionary.css";
 
 entry {
     display: block;
