@@ -897,7 +897,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">plutselig</lemma>
+      <lemma decl="a2">plutselig</lemma>
       <mgr>
          <trgr>
             <trans decl="x" pos="adv">yht'äkkii</trans>
@@ -924,7 +924,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">rikelig</lemma>
+      <lemma decl="a2">rikelig</lemma>
       <mgr>
          <trgr>
             <trans decl="x">viljasti</trans>
@@ -945,7 +945,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">sammen</lemma>
+      <lemma decl="adv">sammen</lemma>
       <mgr>
          <trgr>
             <trans decl="x">yhđessä</trans>
@@ -961,7 +961,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">samtidig</lemma>
+      <lemma decl="a2">samtidig</lemma>
       <mgr>
          <trgr>
             <trans decl="x">yht'aikkaa</trans>
@@ -977,7 +977,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">selvfølgelig</lemma>
+      <lemma decl="a2">selvfølgelig</lemma>
       <mgr>
          <trgr>
             <trans decl="x">tietysti</trans>
@@ -988,7 +988,7 @@
       </syngr>
    </entry>
    <entry>
-      <lemma decl="x">selvom</lemma>
+      <lemma decl="cc">selv om</lemma>
       <mgr>
          <trgr>
             <trans decl="x">vaikka</trans>
@@ -1015,15 +1015,15 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">skikkelig</lemma>
+      <lemma decl="a2">skikkelig</lemma>
       <mgr>
          <trgr>
-            <trans>kunnon</trans>
+            <trans decl="x">kunnon</trans>
          </trgr>
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">snart</lemma>
+      <lemma decl="adv">snart</lemma>
       <mgr>
          <trgr>
             <trans decl="x">heti</trans>
@@ -1055,7 +1055,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">stedvis</lemma>
+      <lemma decl="adv">stedvis</lemma>
       <mgr>
          <trgr>
             <trans decl="x">paikottaan</trans>
@@ -1079,10 +1079,10 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">svart</lemma>
+      <lemma decl="a2">svart</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">musta</trans>
+            <trans decl="a">musta</trans>
          </trgr>
       </mgr>
    </entry>
@@ -1103,7 +1103,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">sykkel</lemma>
+      <lemma decl="m">sykkel</lemma>
       <mgr>
          <trgr>
             <trans decl="x">sykkelit</trans>
@@ -1122,7 +1122,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">så</lemma>
+      <lemma decl="">så</lemma>
       <mgr>
          <trgr>
             <trans pos="adv">niin</trans>
@@ -1130,7 +1130,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">særdeles</lemma>
+      <lemma decl="adv">særdeles</lemma>
       <mgr>
          <trgr>
             <trans decl="x">sangen</trans>
@@ -1138,10 +1138,10 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">søsken</lemma>
+      <lemma decl="npl">søsken</lemma>
       <mgr>
          <trgr>
-            <trans decl="x">sisarukset</trans>
+            <trans decl="npl">sisarukset</trans>
          </trgr>
       </mgr>
    </entry>
@@ -1158,7 +1158,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">tilbake</lemma>
+      <lemma decl="adv">tilbake</lemma>
       <mgr>
          <trgr>
             <trans decl="x">takasin</trans>
@@ -1199,7 +1199,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">turvis</lemma>
+      <lemma decl="adv">turvis</lemma>
       <mgr>
          <trgr>
             <trans decl="x">vuorothaan</trans>
@@ -1207,7 +1207,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">tømmer</lemma>
+      <lemma decl="n">tømmer</lemma>
       <mgr>
          <trgr>
             <trans decl="x">suittet</trans>
@@ -1223,7 +1223,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">ullvott</lemma>
+      <lemma decl="m1">ullvott</lemma>
       <mgr>
          <trgr>
             <trans decl="x">villavanthuut</trans>
@@ -1250,7 +1250,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">unnskylde</lemma>
+      <lemma decl="v">unnskylde</lemma>
       <mgr>
          <trgr>
             <trans decl="x">suođa antheeksi</trans>
@@ -1266,7 +1266,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">urørt</lemma>
+      <lemma decl="a2">urørt</lemma>
       <mgr>
          <trgr>
             <trans decl="x">liikuttamatta</trans>
@@ -1311,7 +1311,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">utenat</lemma>
+      <lemma decl="adv">utenat</lemma>
       <mgr>
          <trgr>
             <trans decl="x">ulkomuistoo</trans>
@@ -1319,7 +1319,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">vanligvis</lemma>
+      <lemma decl="adv">vanligvis</lemma>
       <mgr>
          <trgr>
             <trans decl="x">tavalisesti</trans>
@@ -1327,7 +1327,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">vannskadet</lemma>
+      <lemma decl="a4">vannskadet</lemma>
       <mgr>
          <trgr>
             <trans decl="x">veđenpillaama</trans>
@@ -1343,7 +1343,7 @@
       </mgr>
    </entry>
    <entry>
-      <lemma decl="x">veldig</lemma>
+      <lemma decl="a2">veldig</lemma>
       <mgr>
          <trgr>
             <trans decl="x">kauheen</trans>
