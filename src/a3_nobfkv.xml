@@ -93,4 +93,35 @@ For the full license text, see the link above.</lic>
          </trgr>
       </mgr>
    </entry>
+   <entry>
+      <lemma decl="a3">nøye</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="x">tarkon</trans>
+         </trgr>
+         <trgr>
+            <trans pos="x">vasiten</trans>
+         </trgr>
+         <trgr>
+            <trans pos="a">tarkka</trans>
+            <stem>tarka-</stem>
+         </trgr>
+         <trgr>
+            <trans pos="adv">tarkasti</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma decl="a3">mye</lemma>
+      <mgr>
+         <trgr>
+            <trans pos="x">tumma</trans>
+         </trgr>
+      </mgr>
+      <mgr>
+         <trgr>
+            <trans decl="x">paljon</trans>
+         </trgr>
+      </mgr>
+   </entry>
 </r>
