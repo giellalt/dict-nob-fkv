@@ -1,31 +1,31 @@
 @import "../../scripts/gt_dictionary.css";
 
-entry {
+e {
     display: block;
     collapsible: yes;
     not-collapsible-head: 1;
     background-color: #eeeeee;
 }
 
-lemma {
+l {
 	font-weight: bold;
 	color: blue;
 }
 
-lemma:after {
+l:after {
     display: inline;
     content: " " attr(decl) ', ' ;
     font-style: italic;
     font-size: smaller;
 }
 
-entry > mgr:before {
+e > mg:before {
 	display: inline;
     content: counter(n, decimal) ". ";
     font-weight: bold;
 }
 
-mgr {
+mg {
     display: block;
     collapsible: yes;
     border: 1 solid gray;
@@ -33,15 +33,15 @@ mgr {
     background-color: #ffffff;
 }
 
-trgr + trgr:before {
+tg + tg:before {
     content: "; ";
 }
 
-trans + trans:before {
+t + t:before {
     content: ", ";
 }
 
-trans[decl]:after {
+t[decl]:after {
     display: inline;
     content: attr(decl);
     font-style: italic;
@@ -76,23 +76,23 @@ stem:after {
 }
 
 
-exgr {
+xg {
     display: block;
 }
 
-exgr ex {
+xg x {
     font-style: italic;
 }
 
-exgr extr:before {
+xg xt:before {
     content: " ";
 }
 
-syngr  {
+syng  {
     display: block;
 }
 
-trgr syngr syn {
+tg syng syn {
     font-style: italic;
 }
 
