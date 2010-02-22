@@ -31,45 +31,45 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
 
-   <entry>
-      <lemma decl="cs">da</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="cs">ko</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="cs">eller</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="x">eli</trans>
-            <trans pos="x">elikkä</trans>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="x">tahi</trans>
-            <trans pos="x">tai</trans>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="x">vai</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="cs">fordi</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="cs">koska</trans>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="cs">siksi</trans>
-         </trgr>
-      </mgr>
-   </entry>
+   <e>
+      <l decl="cs">da</l>
+      <mg>
+         <tg>
+            <t pos="cs">ko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="cs">eller</l>
+      <mg>
+         <tg>
+            <t pos="x">eli</t>
+            <t pos="x">elikkä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">tahi</t>
+            <t pos="x">tai</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">vai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="cs">fordi</l>
+      <mg>
+         <tg>
+            <t pos="cs">koska</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="cs">siksi</t>
+         </tg>
+      </mg>
+   </e>
 </r>

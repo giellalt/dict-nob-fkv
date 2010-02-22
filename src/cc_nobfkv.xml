@@ -31,20 +31,20 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
 
-   <entry>
-      <lemma decl="cc">og</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="cc">ja</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="cc">selv om</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="x">vaikka</trans>
-         </trgr>
-      </mgr>
-   </entry>
+   <e>
+      <l decl="cc">og</l>
+      <mg>
+         <tg>
+            <t pos="cc">ja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="cc">selv om</l>
+      <mg>
+         <tg>
+            <t pos="x">vaikka</t>
+         </tg>
+      </mg>
+   </e>
 </r>

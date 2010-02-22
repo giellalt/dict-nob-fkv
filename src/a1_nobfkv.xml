@@ -31,1357 +31,1357 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
 
-   <entry>
-      <lemma decl="a1">aktuell</lemma>
-      <mgr>
-         <trgr>
-            <trans>aktuelli</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">alminnelig</lemma>
-      <mgr>
-         <trgr>
-            <trans>tavalinen?</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">bred</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">laaja</trans>
-         </trgr>
-         <trgr>
+   <e>
+      <l decl="a1">aktuell</l>
+      <mg>
+         <tg>
+            <t>aktuelli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">alminnelig</l>
+      <mg>
+         <tg>
+            <t>tavalinen?</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">bred</l>
+      <mg>
+         <tg>
+            <t pos="a">laaja</t>
+         </tg>
+         <tg>
             <restr/>
-            <trans pos="a">levvee</trans>
-            <exgr>
+            <t pos="a">levvee</t>
+            <xg>
                <ex/>
                <extr/>
-            </exgr>
-         </trgr>
-      </mgr>
+            </xg>
+         </tg>
+      </mg>
       <comm/>
-   </entry>
-   <entry>
-      <lemma decl="a1">aktiv</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">aktiivinen</trans>
+   </e>
+   <e>
+      <l decl="a1">aktiv</l>
+      <mg>
+         <tg>
+            <t pos="a">aktiivinen</t>
             <stem>aktiivise-</stem>
             <stem>aktiivis-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">allmenn</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">ylheinen</trans>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">allmenn</l>
+      <mg>
+         <tg>
+            <t pos="a">ylheinen</t>
             <stem>ylheisese-</stem>
             <stem>ylheis-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">anilinrød</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">aniliinipunanen</trans>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">anilinrød</l>
+      <mg>
+         <tg>
+            <t pos="a">aniliinipunanen</t>
             <stem>aniliinipunase-</stem>
             <stem>aniliinipunas-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">arbeidsløs</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="x">jouten</trans>
-         </trgr>
-         <trgr>
-            <trans pos="a">joutilas</trans>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">arbeidsløs</l>
+      <mg>
+         <tg>
+            <t pos="x">jouten</t>
+         </tg>
+         <tg>
+            <t pos="a">joutilas</t>
             <stem>joutilhaa-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">bekmørk</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">säkkipimmee</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">drøy</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">bekmørk</l>
+      <mg>
+         <tg>
+            <t pos="a">säkkipimmee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">drøy</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>rappee</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">dum</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">dum</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>tyhjä</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">dyp</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">dyp</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>syvä</stem>
             <stem>syvvä-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">dyr</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">dyr</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>tyyris</stem>
             <stem>tyyrhii-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">ekkel</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">ekkel</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>ilkkee</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">endeløs</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">endeløs</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>loputon</stem>
             <stem>loputtoma-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">enkel</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">enkel</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>yksinkertanen</stem>
             <stem>yksinkertase-</stem>
             <stem>yksinkertas-</stem>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="a">helppo</trans>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">helppo</t>
             <stem>helpo-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">fargeløs</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">fargeløs</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>färitön</stem>
             <stem>färittömä-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">fersk</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">fersk</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>tuoret</stem>
             <stem>tuorhee-</stem>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>veres</stem>
             <stem>verhee-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">fet</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">fet</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>lihava</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">fin</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">fin</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>hieno</stem>
-         </trgr>
-         <trgr>
-            <trans pos="x">fiini</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">foreldreløs</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">orpo</trans>
+         </tg>
+         <tg>
+            <t pos="x">fiini</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">foreldreløs</l>
+      <mg>
+         <tg>
+            <t pos="a">orpo</t>
             <stem>orvo-</stem>
             <stem>orppo-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">frisk</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">frisk</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>raikas</stem>
             <stem>raikhaa-</stem>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>tervet</stem>
             <stem>tervhee-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">frosen</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">frosen</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>kylmetty</stem>
             <stem>kylmety-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">full</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">full</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>täysi</stem>
             <stem>täyđe-</stem>
             <stem>täyt-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">følsom</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">følsom</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>kranttu</stem>
             <stem>krantu-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">gal</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">gal</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>väärä</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">gammel</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">gammel</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>vanhaa</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">grenseløs</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">grenseløs</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>rajaton</stem>
             <stem>rajattoma-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">grov</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">grov</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>krouvi</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">grønn</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">grønn</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>vihrinen</stem>
             <stem>vihrise-</stem>
             <stem>vihris-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">halv</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">halv</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>puoli</stem>
             <stem>puole-</stem>
             <stem>puol-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">halvstor</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">halvstor</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>puolikokonen</stem>
             <stem>puolikokose-</stem>
             <stem>puolikokos-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">hel</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">hel</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>ehhee</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">hjelpeløs</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">hjelpeløs</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>avuton</stem>
             <stem>avuttoma-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">hard</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">hard</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>kova</stem>
             <stem>kovva-</stem>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>tiukka</stem>
             <stem>tiuka-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">høy</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">høy</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>korkkee</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">jevn</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">jevn</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>tasanen</stem>
             <stem>tasase-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>tasas-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">kald</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>tasas-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">kald</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>kylmä</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">kjær</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">kjær</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>rakas</stem>
             <stem>rakhaa-</stem>
-         </trgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+         <tg>
+            <t pos="a"/>
             <stem>armas</stem>
             <stem>armhaa-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">klar</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">klar</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>selvä</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">klok</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">klok</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>viisas</stem>
             <stem>viishaa-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">kristen</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">kristen</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>kristitty</stem>
             <stem>kristity-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">kvass</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">kvass</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>terävä</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">lang</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">lang</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>pitke</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">lav</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">lav</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>matala</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">lunken</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">lunken</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>haalee</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">lys</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">lys</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>valkkee</stem>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="a">kirkas</trans>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">kirkas</t>
             <stem>kirkhaa-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">lyserød</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">lyserød</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>vaaleepunanen</stem>
             <stem>vaaleepunase-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>vaaleepunas-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">løs</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>vaaleepunas-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">løs</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>löysi</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">mager</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">mager</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>laiha</stem>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>lama</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>lamma-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">mangedobbel</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>lamma-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">mangedobbel</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>monikertanen</stem>
             <stem>monikertase-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>monikertas-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">mangelfull</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>monikertas-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">mangelfull</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>puutheelinen</stem>
             <stem>puutheelise-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>puutheelis-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">merkbar</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>puutheelis-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">merkbar</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>tunttuuva</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">mild</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">mild</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>lauha</stem>
-         </trgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+         <tg>
+            <t pos="a"/>
             <stem>laukkee</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">moden</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">moden</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>kypsy</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">morken</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">morken</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>laho</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>lahho-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">mør</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>lahho-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">mør</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>murree</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">negativ</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">negativ</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>nekatiivinen</stem>
             <stem>nekatiivise-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>nekatiivis-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">normal</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>nekatiivis-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">normal</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>normaali</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">nådeløs</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">nådeløs</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>armoton</stem>
             <stem>armotoma-</stem>
-         </trgr>
-      </mgr>
-      <syngr>
+         </tg>
+      </mg>
+      <syng>
          <syn>Armaton kaunis</syn>
-      </syngr>
-   </entry>
-   <entry>
-      <lemma decl="a1">offisiell</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+      </syng>
+   </e>
+   <e>
+      <l decl="a1">offisiell</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>viralinen</stem>
             <stem>viralise-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>viralis-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">ond</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>viralis-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">ond</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>paha</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>pahha-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">positiv</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>pahha-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">positiv</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>positiivinen</stem>
             <stem>positiivise-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>positiivis-</extr>
-            </exgr>
-         </trgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>positiivis-</xt>
+            </xg>
+         </tg>
+         <tg>
+            <t pos="a"/>
             <stem>pusitiivinen</stem>
             <stem>pusitiivise-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>pusitiivis-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">primitiv</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>pusitiivis-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">primitiv</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>primitiivi</stem>
-         </trgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+         <tg>
+            <t pos="a"/>
             <stem>primitiivinen</stem>
             <stem>primitiivise-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>primitiivis-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">radikal</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>primitiivis-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">radikal</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>ratikaali</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">rar</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">rar</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>viekas</stem>
             <stem>viekhaa-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">rein</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">rein</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>puhđas</stem>
             <stem>puhthaa-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">religiøs</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">religiøs</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>uskonnolinen</stem>
             <stem>uskonnolise-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>uskonnolis-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">rik</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>uskonnolis-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">rik</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>rikas</stem>
             <stem>rikhaa-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">rund</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">rund</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>ymmyräinen</stem>
             <stem>ymmyräise-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>ymmyräis-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">rå</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">raaka</trans>
+               <xt>ymmyräis-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">rå</l>
+      <mg>
+         <tg>
+            <t pos="a">raaka</t>
             <stem>raaja-</stem>
             <stem>raakka-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">råtten</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">råtten</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>mätä</stem>
-         </trgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+         <tg>
+            <t pos="a"/>
             <stem>mäđänny</stem>
             <stem>mäđähnee-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">rød</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">rød</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>punanen</stem>
             <stem>punase-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>punas-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">sann</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>punas-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">sann</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>tosi</stem>
             <stem>tođe-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>tot-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">seig</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>tot-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">seig</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>sitkee</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">sentral</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">sentral</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>sentraali</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">sikker</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">sikker</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>vissi</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">skeiv</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">skeiv</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>viinto</stem>
             <stem>viinno-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>viinto-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">skitten</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>viinto-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">skitten</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>ryöttä</stem>
             <stem>ryötä-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">slank</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">slank</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>hoikka</stem>
             <stem>hoika-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">slapp</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">slapp</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>siila</stem>
-         </trgr>
-      </mgr>
-      <syngr>
+         </tg>
+      </mg>
+      <syng>
          <syn>Se oli siila kala</syn>
-      </syngr>
-   </entry>
-   <entry>
-      <lemma decl="a1">slik</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">semmonen</trans>
+      </syng>
+   </e>
+   <e>
+      <l decl="a1">slik</l>
+      <mg>
+         <tg>
+            <t pos="a">semmonen</t>
             <stem>semmose-</stem>
-         </trgr>
-         <trgr>
-            <trans pos="a">senlainen</trans>
+         </tg>
+         <tg>
+            <t pos="a">senlainen</t>
             <stem>senlaise-</stem>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="adv">niin</trans>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="x">näin</trans>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="a">tämmänen</trans>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">niin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">näin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">tämmänen</t>
             <stem>tämmäse-</stem>
             <stem>tämmäs-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">sløv</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">sløv</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>tylsä</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">smal</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">smal</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>kaitanen</stem>
             <stem>kaitase-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>kaitas-</extr>
-            </exgr>
-         </trgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>kaitas-</xt>
+            </xg>
+         </tg>
+         <tg>
+            <t pos="a"/>
             <stem>soukka</stem>
             <stem>souka-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">snill</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">snill</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>siivo</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">sosial</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">sosial</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>sosiaalinen</stem>
             <stem>sosiaalise-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>sosiaalis-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">spesiell</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>sosiaalis-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">spesiell</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>erikoinen</stem>
             <stem>erikoise-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>erikois-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">stor</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>erikois-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">stor</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>suuri</stem>
             <stem>suure-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>suur-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">stum</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>suur-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">stum</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>mykkä</stem>
             <stem>mykä-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">stygg</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">stygg</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>hirvee</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">svak</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">svak</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>heikko</stem>
             <stem>heiko-</stem>
-         </trgr>
-         <trgr>
-            <trans pos="a">löyhä</trans>
-         </trgr>
-         <trgr>
-            <trans pos="a">kehno</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">syk</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+         <tg>
+            <t pos="a">löyhä</t>
+         </tg>
+         <tg>
+            <t pos="a">kehno</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">syk</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>kleini</stem>
-         </trgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+         <tg>
+            <t pos="a"/>
             <stem>sairas</stem>
             <stem>sairhaa-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">tankeløs</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">tuulihattu</trans>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">tankeløs</l>
+      <mg>
+         <tg>
+            <t pos="a">tuulihattu</t>
             <stem>tuulihatu-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">tapper</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">urhoolinen</trans>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">tapper</l>
+      <mg>
+         <tg>
+            <t pos="a">urhoolinen</t>
             <stem>urhoolise-</stem>
             <stem>urhoolis-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">taus</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">vaiti</trans>
-            <exgr>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">taus</l>
+      <mg>
+         <tg>
+            <t pos="a">vaiti</t>
+            <xg>
                <ex/>
-               <extr>ole vaiti</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">tillitsfull</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">luottavainen</trans>
+               <xt>ole vaiti</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">tillitsfull</l>
+      <mg>
+         <tg>
+            <t pos="a">luottavainen</t>
             <stem>luottavaise-</stem>
             <stem>luottavais-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">tom</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">tyhvä</trans>
-         </trgr>
-      </mgr>
-      <syngr>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">tom</l>
+      <mg>
+         <tg>
+            <t pos="a">tyhvä</t>
+         </tg>
+      </mg>
+      <syng>
          <syn>tyhjä"</syn>
-      </syngr>
-   </entry>
-   <entry>
-      <lemma decl="a1">trang</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+      </syng>
+   </e>
+   <e>
+      <l decl="a1">trang</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>ahđas</stem>
             <stem>ahthaa-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">troløs</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">troløs</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>uskoton</stem>
             <stem>uskottoma-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">trygg</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">trygg</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>turvalinen</stem>
             <stem>turvalise-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>turvalis-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">tung</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>turvalis-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">tung</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>raskas</stem>
             <stem>raskhaa-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">tykk</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">tykk</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>paksu</stem>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>vahva</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">tynn</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">ohut</trans>
-         </trgr>
-         <trgr>
-            <trans pos="a">ohukainen</trans>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">tynn</l>
+      <mg>
+         <tg>
+            <t pos="a">ohut</t>
+         </tg>
+         <tg>
+            <t pos="a">ohukainen</t>
             <stem>ohukainen</stem>
             <stem>ohukaise-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>ohukais-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">tørr</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>ohukais-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">tørr</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>kuiva</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">ujevn</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">ujevn</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>harkkunen</stem>
             <stem>harkkuse-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>harkus-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">ung</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>harkus-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">ung</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>nuori</stem>
             <stem>nuore-</stem>
-            <exgr>
+            <xg>
                <ex/>
-               <extr>nuor-</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">usikker</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+               <xt>nuor-</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">usikker</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>epävarma</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">var</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">räämet</trans>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">var</l>
+      <mg>
+         <tg>
+            <t pos="a">räämet</t>
             <stem>räämhee-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">varm</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">lämmin</trans>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">varm</l>
+      <mg>
+         <tg>
+            <t pos="a">lämmin</t>
             <stem>lämmin</stem>
             <stem>lämpimä-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">verdiløs</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">verdiløs</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>arvoton</stem>
             <stem>arvottoma-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">vid</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">vid</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>laaja</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">voldsom</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">voldsom</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>raju</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">våt</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">våt</l>
+      <mg>
+         <tg>
+            <t pos="a"/>
             <stem>märkä</stem>
             <stem>märä-</stem>
             <stem>märkkä-</stem>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">årviss</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">vuosithaan</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">blå</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">sininen</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">fjern</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">kaukainen</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">streng</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">ankara</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">søt</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">makkee</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a1">mørk</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="x">alasti</trans>
-         </trgr>
-      </mgr>
-   </entry>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">årviss</l>
+      <mg>
+         <tg>
+            <t pos="a">vuosithaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">blå</l>
+      <mg>
+         <tg>
+            <t pos="a">sininen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">fjern</l>
+      <mg>
+         <tg>
+            <t pos="a">kaukainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">streng</l>
+      <mg>
+         <tg>
+            <t pos="a">ankara</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">søt</l>
+      <mg>
+         <tg>
+            <t pos="a">makkee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">mørk</l>
+      <mg>
+         <tg>
+            <t pos="x">alasti</t>
+         </tg>
+      </mg>
+   </e>
 </r>

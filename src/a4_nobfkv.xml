@@ -31,44 +31,44 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
 
-   <entry>
-      <lemma decl="a4">åpen</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="a">auki</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a4">beruset</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="x">humalossa</trans>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="x">päissä</trans>
-         </trgr>
-      </mgr>
-      <syngr>
+   <e>
+      <l decl="a4">åpen</l>
+      <mg>
+         <tg>
+            <t pos="a">auki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a4">beruset</l>
+      <mg>
+         <tg>
+            <t pos="x">humalossa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">päissä</t>
+         </tg>
+      </mg>
+      <syng>
          <syn>humalossa"</syn>
-      </syngr>
-   </entry>
-   <entry>
-      <lemma decl="a4">forbannet</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="x">pirusti</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="a4">vannskadet</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="x">veđenpillaama</trans>
-         </trgr>
-      </mgr>
-   </entry>
+      </syng>
+   </e>
+   <e>
+      <l decl="a4">forbannet</l>
+      <mg>
+         <tg>
+            <t pos="x">pirusti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a4">vannskadet</l>
+      <mg>
+         <tg>
+            <t pos="x">veđenpillaama</t>
+         </tg>
+      </mg>
+   </e>
 </r>

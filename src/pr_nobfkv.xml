@@ -31,75 +31,75 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
 
-   <entry>
-      <lemma decl="pr">bak</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="pr">takana</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="pr">gjennom</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="po">kautta</trans>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="po">läpi</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="pr">hos</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="po">tykköö</trans>
-            <exgr>
+   <e>
+      <l decl="pr">bak</l>
+      <mg>
+         <tg>
+            <t pos="pr">takana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">gjennom</l>
+      <mg>
+         <tg>
+            <t pos="po">kautta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="po">läpi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">hos</l>
+      <mg>
+         <tg>
+            <t pos="po">tykköö</t>
+            <xg>
                <ex>hun er hos meg</ex>
-               <extr>hän oon minun tykköö</extr>
-            </exgr>
-         </trgr>
-         <trgr>
-            <trans pos="x">tykönä</trans>
-            <exgr>
+               <xt>hän oon minun tykköö</xt>
+            </xg>
+         </tg>
+         <tg>
+            <t pos="x">tykönä</t>
+            <xg>
                <ex>hun er hos meg</ex>
-               <extr>Hän oon minun tykkönä</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-      <syngr>
+               <xt>Hän oon minun tykkönä</xt>
+            </xg>
+         </tg>
+      </mg>
+      <syng>
          <syn>tykönä"</syn>
-      </syngr>
-   </entry>
-   <entry>
-      <lemma decl="pr">med</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="po">kans(a)</trans>
-            <exgr>
+      </syng>
+   </e>
+   <e>
+      <l decl="pr">med</l>
+      <mg>
+         <tg>
+            <t pos="po">kans(a)</t>
+            <xg>
                <ex>Hun kom med gutten</ex>
-               <extr>Hän tuli pojan kansa</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-      <mgr>
-         <trgr>
-            <trans pos="po">myötä</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma decl="pr">mot</lemma>
-      <mgr>
-         <trgr>
-            <trans pos="po">vasten</trans>
-         </trgr>
-         <trgr>
-            <trans pos="po">vasthaan</trans>
-         </trgr>
-      </mgr>
-   </entry>
+               <xt>Hän tuli pojan kansa</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="po">myötä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">mot</l>
+      <mg>
+         <tg>
+            <t pos="po">vasten</t>
+         </tg>
+         <tg>
+            <t pos="po">vasthaan</t>
+         </tg>
+      </mg>
+   </e>
 </r>
