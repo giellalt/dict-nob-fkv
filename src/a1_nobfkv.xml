@@ -274,7 +274,15 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a1">full</l>
+      <l decl="a1">full___xxx</l>
+      <mg>
+         <tg>
+            <t pos="x">täynä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a1">full___xxx</l>
       <mg>
          <tg>
             <t pos="a"/>
@@ -1381,6 +1389,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">alasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+     <l decl="a1">løs</l>
+     <mg>
+       <tg>
+	 <t pos="a">löyhä</t>
+       </tg>
+     </mg>
+   </e>
+   <e>
+      <l decl="a1">nervøs</l>
+      <mg>
+         <tg>
+            <t pos="x">hermostunu</t>
+            <stem>hermostunhee-</stem>
          </tg>
       </mg>
    </e>
