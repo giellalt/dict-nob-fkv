@@ -75,26 +75,10 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="adv">blandet</l>
-      <mg>
-         <tg>
-            <t pos="adv">sekasin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="x">blant</l>
       <mg>
          <tg>
             <t pos="x">kesken</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="v">bli spent</l>
-      <mg>
-         <tg>
-            <t pos="v">jännittyyt</t>
          </tg>
       </mg>
    </e>
@@ -144,14 +128,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a2">ferdig</l>
-      <mg>
-         <tg>
-            <t pos="a">kypsy</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="x">fiks</l>
       <mg>
          <tg>
@@ -197,26 +173,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a">forfriskende</l>
-      <mg>
-         <tg>
-            <t pos="a">virkistyttäävä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="v">forfriske</l>
-      <mg>
-         <tg>
-            <t pos="v">reppainttuut</t>
-            <xg>
-               <x>man blir forfrisket på reise</x>
-               <xt>Reisussa reppainttuu</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="x">fra</l>
       <mg>
          <tg>
@@ -228,22 +184,6 @@ For the full license text, see the link above.</lic>
       </syng>
    </e>
    <e>
-      <l decl="adv">fram</l>
-      <mg>
-         <tg>
-            <t pos="adv">perile</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">framme</l>
-      <mg>
-         <tg>
-            <t pos="adv">perilä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="x">framover</l>
       <mg>
          <tg>
@@ -252,35 +192,10 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a">from</l>
-      <mg>
-         <tg>
-            <t pos="a">hurskas</t>
-            <stem>hurskhaa-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a1">full</l>
-      <mg>
-         <tg>
-            <t pos="x">täynä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="x">før</l>
       <mg>
          <tg>
             <t pos="x">ennen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">galt</l>
-      <mg>
-         <tg>
-            <t pos="adv">väärin</t>
          </tg>
       </mg>
    </e>
@@ -346,89 +261,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">kotosin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">hvem</l>
-      <mg>
-         <tg>
-            <t pos="x">kuka</t>
-            <stem>kene-</stem>
-            <stem>ke-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">hver</l>
-      <mg>
-         <tg>
-            <t pos="pron">joka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">hvilken</l>
-      <mg>
-         <tg>
-            <t pos="pron">mikä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">hvor</l>
-      <mg>
-         <tg>
-            <t pos="pron">missä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">hvordan</l>
-      <mg>
-         <tg>
-            <t pos="pron">kunka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="pron">millainen</t>
-            <stem>millaise-</stem>
-            <stem>millais-</stem>
-         </tg>
-         <tg>
-            <t pos="pron">minkälainen</t>
-            <stem>minkälaise-</stem>
-            <stem>minkälais-</stem>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="pron">millälailla</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">hvorfor</l>
-      <mg>
-         <tg>
-            <t pos="pron">miksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">hvorfra</l>
-      <mg>
-         <tg>
-            <t pos="pron">mistä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">hvorhen</l>
-      <mg>
-         <tg>
-            <t pos="pron">minne</t>
          </tg>
       </mg>
    </e>
@@ -513,22 +345,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="npl">klarvær</l>
-      <mg>
-         <tg>
-            <t pos="x">sees</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="npl">klær</l>
-      <mg>
-         <tg>
-            <t pos="npl">vaatheet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="x">kroket</l>
       <mg>
          <tg>
@@ -544,30 +360,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">pitkin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">langsomt</l>
-      <mg>
-         <tg>
-            <t pos="adv">hithaasti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">per glass</l>
-      <mg>
-         <tg>
-            <t pos="adv">lasittain</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">lett</l>
-      <mg>
-         <tg>
-            <t pos="adv">kevveesti</t>
          </tg>
       </mg>
    </e>
@@ -600,40 +392,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="adv">løst</l>
-      <mg>
-         <tg>
-            <t pos="adv">irti</t>
-         </tg>
-      </mg>
-   </e>
-    <e>
-      <l decl="a1">løs</l>
-      <mg>
-         <tg>
-            <t pos="a">löyhä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">mange</l>
-      <mg>
-         <tg>
-            <t pos="pron">moni</t>
-            <stem>mone-</stem>
-            <stem>mon-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">medstrøms</l>
-      <mg>
-         <tg>
-            <t pos="adv">myötävirthaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="x">mellom</l>
       <mg>
          <tg>
@@ -658,14 +416,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="adv">midtvinters</l>
-      <mg>
-         <tg>
-            <t pos="adv">keskitalvela</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="x">mindre</l>
       <mg>
          <tg>
@@ -673,22 +423,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg>
             <t pos="x">vähemän</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">motstrøms</l>
-      <mg>
-         <tg>
-            <t pos="adv">vastavirthaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">muligens</l>
-      <mg>
-         <tg>
-            <t pos="adv">mahđolisesti</t>
          </tg>
       </mg>
    </e>
@@ -733,56 +467,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a1">nervøs</l>
-      <mg>
-         <tg>
-            <t pos="x">hermostunu</t>
-            <stem>hermostunhee-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">nesten</l>
-      <mg>
-         <tg>
-            <t pos="x">kohta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">noen</l>
-      <mg>
-         <tg>
-            <t pos="pron">muutama</t>
-         </tg>
-         <tg>
-            <t pos="pron">joku</t>
-         </tg>
-         <tg>
-            <t pos="pron">moni</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">nok</l>
-      <mg>
-         <tg>
-            <t pos="adv">nokko</t>
-         </tg>
-         <tg>
-            <t pos="adv">tarpheeksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="n">nordlys</l>
-      <mg>
-         <tg>
-            <t pos="npl">taivhaan valkkeet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="x">norsk</l>
       <mg>
          <tg>
@@ -801,30 +485,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg>
             <t pos="x">liki</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">nøyaktig</l>
-      <mg>
-         <tg>
-            <t pos="adv">tarkhaasti</t>
-         </tg>
-      </mg>
-   </e>
-    <e>
-      <l decl="adv">nøyaktig</l>
-      <mg>
-         <tg>
-            <t pos="adv">tarkhaasti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">nøyaktig</l>
-      <mg>
-         <tg>
-            <t pos="a">tarkka</t>
          </tg>
       </mg>
    </e>
@@ -880,14 +540,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="adv">rart</l>
-      <mg>
-         <tg>
-            <t pos="adv">kamalasti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="x">råd</l>
       <mg>
          <tg>
@@ -909,14 +561,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">selv</l>
-      <mg>
-         <tg>
-            <t pos="pron">itte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="x">sengklær –ne</l>
       <mg>
          <tg>
@@ -926,38 +570,6 @@ For the full license text, see the link above.</lic>
       <syng>
          <syn>sänkyvaatheet"</syn>
       </syng>
-   </e>
-   <e>
-      <l decl="adv">sjelden</l>
-      <mg>
-         <tg>
-            <t pos="adv">harvoin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">som</l>
-      <mg>
-         <tg>
-            <t pos="pron">joka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="v">spille kort</l>
-      <mg>
-         <tg>
-            <t pos="v">pelata korttii</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">spøkefullt</l>
-      <mg>
-         <tg>
-            <t pos="adv">leikilisesti</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <l decl="x">sterkt</l>
@@ -988,19 +600,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">saakeli</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">så</l>
-      <mg>
-         <tg>
-            <t pos="x">sitte</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="adv">niin</t>
          </tg>
       </mg>
    </e>
@@ -1046,14 +645,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="n">mätikkö</t>
             <stem>mätikö-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">ubegrenset</l>
-      <mg>
-         <tg>
-            <t pos="adv">rajattomasti</t>
          </tg>
       </mg>
    </e>
@@ -1115,23 +706,6 @@ For the full license text, see the link above.</lic>
                <x/>
                <xt>Kello oon viis vaila seittemen</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">varmt</l>
-      <mg>
-         <tg>
-            <t pos="adv">lämpimästi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a">verdifull</l>
-      <mg>
-         <tg>
-            <t pos="a">arvokas</t>
-            <stem>arvokhaa-</stem>
          </tg>
       </mg>
    </e>
