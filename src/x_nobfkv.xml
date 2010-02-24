@@ -91,7 +91,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">bli spent</l>
+      <l decl="v">bli spent</l>
       <mg>
          <tg>
             <t pos="v">jännittyyt</t>
@@ -144,7 +144,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">ferdig</l>
+      <l decl="a2">ferdig</l>
       <mg>
          <tg>
             <t pos="a">kypsy</t>
@@ -197,20 +197,20 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">forfriskende</l>
+      <l decl="a">forfriskende</l>
       <mg>
          <tg>
-            <t pos="x">virkistyttäävä</t>
+            <t pos="a">virkistyttäävä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">forfriskne</l>
+      <l decl="v">forfriske</l>
       <mg>
          <tg>
-            <t pos="x">reppainttuut</t>
+            <t pos="v">reppainttuut</t>
             <xg>
-               <x>man blir forfriskna på reise</x>
+               <x>man blir forfrisket på reise</x>
                <xt>Reisussa reppainttuu</xt>
             </xg>
          </tg>
@@ -228,18 +228,18 @@ For the full license text, see the link above.</lic>
       </syng>
    </e>
    <e>
-      <l decl="x">fram</l>
+      <l decl="adv">fram</l>
       <mg>
          <tg>
-            <t pos="x">perile</t>
+            <t pos="adv">perile</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">framme</l>
+      <l decl="adv">framme</l>
       <mg>
          <tg>
-            <t pos="x">perilä</t>
+            <t pos="adv">perilä</t>
          </tg>
       </mg>
    </e>
@@ -252,16 +252,16 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">from</l>
+      <l decl="a">from</l>
       <mg>
          <tg>
-            <t pos="x">hurskas</t>
+            <t pos="a">hurskas</t>
             <stem>hurskhaa-</stem>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">full</l>
+      <l decl="a1">full</l>
       <mg>
          <tg>
             <t pos="x">täynä</t>
@@ -277,10 +277,10 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">galt</l>
+      <l decl="adv">galt</l>
       <mg>
          <tg>
-            <t pos="x">väärin</t>
+            <t pos="adv">väärin</t>
          </tg>
       </mg>
    </e>
@@ -350,7 +350,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">hvem</l>
+      <l decl="pron">hvem</l>
       <mg>
          <tg>
             <t pos="x">kuka</t>
@@ -360,18 +360,18 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">hver</l>
+      <l decl="pron">hver</l>
       <mg>
          <tg>
-            <t pos="x">joka</t>
+            <t pos="pron">joka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">hvilken</l>
+      <l decl="pron">hvilken</l>
       <mg>
          <tg>
-            <t pos="x">mones</t>
+            <t pos="pron">mikä</t>
          </tg>
       </mg>
    </e>
@@ -608,15 +608,10 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">mange</l>
+      <l decl="pron">mange</l>
       <mg>
          <tg>
-            <t pos="x">monta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="a">moni</t>
+            <t pos="pron">moni</t>
             <stem>mone-</stem>
             <stem>mon-</stem>
          </tg>
@@ -916,18 +911,18 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">som</l>
+      <l decl="pron">som</l>
       <mg>
          <tg>
-            <t pos="x">joka</t>
+            <t pos="pron">joka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">spille kort</l>
+      <l decl="v">spille kort</l>
       <mg>
          <tg>
-            <t pos="x">pelata korttii</t>
+            <t pos="v">pelata korttii</t>
          </tg>
       </mg>
    </e>
@@ -1016,7 +1011,7 @@ For the full license text, see the link above.</lic>
       <l decl="x">trykkende</l>
       <mg>
          <tg>
-            <t pos="x">painava</t>
+            <t pos="a">painava</t>
          </tg>
       </mg>
    </e>
@@ -1107,10 +1102,10 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">verdifull</l>
+      <l decl="a">verdifull</l>
       <mg>
          <tg>
-            <t pos="x">arvokas</t>
+            <t pos="a">arvokas</t>
             <stem>arvokhaa-</stem>
          </tg>
       </mg>
