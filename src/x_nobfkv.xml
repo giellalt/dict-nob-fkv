@@ -136,14 +136,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">for-</l>
-      <mg>
-         <tg>
-            <t pos="x">etu-</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="pr">foran</l>
       <mg>
          <tg>
@@ -216,10 +208,10 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">hilsninger</l>
+      <l decl="m">hilsen</l>
       <mg>
          <tg>
-            <t pos="x">tervheiset</t>
+            <t pos="n">tervheiset</t>
          </tg>
       </mg>
    </e>
@@ -343,81 +335,77 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">loddrett</l>
+      <l decl="a">loddrett</l>
       <mg>
          <tg>
-            <t pos="x">pystössä</t>
-            <xg>
-               <x/>
-               <xt>Poika istui korvat pystössä</xt>
-            </xg>
+            <t pos="a">pystsuora</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">lukket</l>
+      <l decl="a">lukket</l>
       <mg>
          <tg>
-            <t pos="x">umpunensa</t>
+            <t pos="a">umpunensa</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">mellom</l>
+      <l decl="pr">mellom</l>
       <mg>
          <tg>
-            <t pos="x">välilä</t>
+            <t pos="po">välilä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">men</l>
+      <l decl="cs">men</l>
       <mg>
          <tg>
-            <t pos="x">mutta</t>
+            <t pos="cs">mutta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">mest</l>
+      <l decl="a">mest</l>
       <mg>
          <tg>
-            <t pos="x">enniitten</t>
+            <t pos="a">enniitten</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">mindre</l>
+      <l decl="a">mindre</l>
       <mg>
          <tg>
-            <t pos="x">vähemin</t>
+            <t pos="a">vähemin</t>
          </tg>
          <tg>
-            <t pos="x">vähemän</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="x">nede</l>
-      <mg>
-         <tg>
-            <t pos="x">alhaala</t>
+            <t pos="a">vähemän</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">nedenfra</l>
+      <l decl="adv">nede</l>
       <mg>
          <tg>
-            <t pos="x">alhaalta</t>
+            <t pos="adv">alhaala</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">nedover</l>
+      <l decl="adv">nedenfra</l>
       <mg>
          <tg>
-            <t pos="x">alaspäin</t>
+            <t pos="adv">alhaalta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">nedover</l>
+      <mg>
+         <tg>
+            <t pos="adv">alaspäin</t>
          </tg>
       </mg>
    </e>
@@ -430,77 +418,75 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">negativ</l>
+      <l decl="a1">negativ</l>
       <mg>
          <tg>
-            <t pos="x">nekatiivi</t>
+            <t pos="a">nekatiivi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">norsk</l>
+      <l decl="a2">norsk</l>
       <mg>
          <tg>
-            <t pos="x">norja</t>
-         </tg>
-      </mg>
-      <syng>
-         <syn>ruiđa"</syn>
-      </syng>
-   </e>
-   <e>
-      <l decl="x">nær</l>
-      <mg>
-         <tg>
-            <t pos="x">likelä</t>
-         </tg>
-         <tg>
-            <t pos="x">liki</t>
+            <t pos="a">norjalainen</t>
+            <t pos="a">ruiđalainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">omkring</l>
+      <l decl="adv">nær</l>
       <mg>
          <tg>
-            <t pos="x">ympäri</t>
+            <t pos="adv">likelä</t>
+         </tg>
+         <tg>
+            <t pos="adv">liki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">opp</l>
+      <l decl="pr">omkring</l>
       <mg>
          <tg>
-            <t pos="x">ylös</t>
+            <t pos="pr">ympäri</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">oppe</l>
+      <l decl="adv">opp</l>
       <mg>
          <tg>
-            <t pos="x">ylhäälä</t>
+            <t pos="adv">ylös</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">oppover</l>
+      <l decl="adv">oppe</l>
       <mg>
          <tg>
-            <t pos="x">ylöspäin</t>
+            <t pos="adv">ylhäälä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">over</l>
+      <l decl="adv">oppover</l>
       <mg>
          <tg>
-            <t pos="x">yli</t>
+            <t pos="adv">ylöspäin</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">på</l>
+      <l decl="pr">over</l>
+      <mg>
+         <tg>
+            <t pos="po">yli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">på</l>
       <mg>
          <tg>
             <t pos="x">pääle</t>
@@ -511,99 +497,86 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">råd</l>
+      <l decl="n">råd</l>
       <mg>
          <tg>
-            <t pos="x">vara</t>
+            <t pos="n">vara</t>
             <stem>varra-</stem>
             <xg>
-               <x/>
+               <x>Jeg har god råd</x>
                <xt>Mulla oon vara</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">sammenlagt</l>
+      <l decl="adv">sammenlagt</l>
       <mg>
          <tg>
-            <t pos="x">yhtheensä</t>
+            <t pos="adv">yhtheensä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">sengklær –ne</l>
+      <l decl="npl">sengklær</l>
       <mg>
          <tg>
-            <t pos="x">makkaukset</t>
+            <t pos="npl">makkaukset</t>
          </tg>
-      </mg>
-      <syng>
-         <syn>sänkyvaatheet"</syn>
-      </syng>
-   </e>
-   <e>
-      <l decl="x">sterkt</l>
-      <mg>
          <tg>
-            <t pos="x">kovin</t>
+            <t pos="npl">sänkyvaatheet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">stille</l>
+      <l decl="adv">stille</l>
       <mg>
          <tg>
-            <t pos="x">vaisto</t>
+            <t pos="adv">vaisto</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">svarten!</l>
+      <l decl="i">svarte</l>
       <mg>
          <tg>
-            <t pos="x">perhana!</t>
+            <t pos="i">perhana</t>
          </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="x">svarten</l>
-      <mg>
          <tg>
             <t pos="x">saakeli</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">til</l>
+      <l decl="pr">til</l>
       <mg>
          <tg>
-            <t pos="x">tykö</t>
+            <t pos="pr">tykö</t>
             <xg>
-               <x>Hän tuli minun tykö</x>
-               <xt>Han kom til meg"</xt>
+               <x>Han kom til meg"</x>
+               <xt>Hän tuli minun tykö</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">tilsammen</l>
+      <l decl="adv">tilsammen</l>
       <mg>
          <tg>
-            <t pos="x">yhtheen</t>
+            <t pos="adv">yhtheen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">tilsist</l>
+      <l decl="adv">tilsist</l>
       <mg>
          <tg>
-            <t pos="x">viimen</t>
+            <t pos="adv">viimen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">trykkende</l>
+      <l decl="a3">trykkende</l>
       <mg>
          <tg>
             <t pos="a">painava</t>
@@ -611,105 +584,89 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="x">tuete</l>
+      <l decl="pr">under</l>
       <mg>
          <tg>
-            <t pos="n">mätikkö</t>
-            <stem>mätikö-</stem>
+            <t pos="po">alla</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">under</l>
+      <l decl="i">unnskyld</l>
       <mg>
          <tg>
-            <t pos="x">alla</t>
+            <t pos="i">antheeksi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">unnskyld</l>
+      <l decl="a2">unødvendig</l>
       <mg>
          <tg>
-            <t pos="x">antheeksi</t>
+            <t pos="a">turha</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">unødvendig</l>
+      <l decl="adv">ut</l>
       <mg>
          <tg>
-            <t pos="x">turha</t>
+            <t pos="adv">ulos</t>
+         </tg>
+         <tg>
+            <t pos="adv">ulvos</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">ut</l>
+      <l decl="adv">ute</l>
       <mg>
          <tg>
-            <t pos="x">ulos</t>
+            <t pos="adv">ulkkoo</t>
          </tg>
          <tg>
-            <t pos="x">ulvos</t>
+            <t pos="adv">ulkona</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">ute</l>
+      <l decl="pr">uten</l>
       <mg>
          <tg>
-            <t pos="x">ulkkoo</t>
-         </tg>
-         <tg>
-            <t pos="x">ulkona</t>
-         </tg>
-      </mg>
-      <syng>
-         <syn>ulkkoo"</syn>
-      </syng>
-   </e>
-   <e>
-      <l decl="x">uten</l>
-      <mg>
-         <tg>
-            <t pos="x">vaila</t>
-            <xg>
-               <x/>
-               <xt>Kello oon viis vaila seittemen</xt>
-            </xg>
+            <t pos="pr">vaila</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">verre</l>
+      <l decl="adv">verre</l>
       <mg>
          <tg>
-            <t pos="x">pahempi</t>
+            <t pos="adv">pahempi</t>
             <stem>pahemmin-</stem>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">verst</l>
+      <l decl="adv">verst</l>
       <mg>
          <tg>
-            <t pos="x">pahhin</t>
+            <t pos="adv">pahhin</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">ytre</l>
+      <l decl="adv">ytre</l>
       <mg>
          <tg>
-            <t pos="x">ulko</t>
+            <t pos="adv">ulko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="x">øverst</l>
+      <l decl="adv">øverst</l>
       <mg>
          <tg>
-            <t pos="x">ylin</t>
+            <t pos="adv">ylin</t>
          </tg>
       </mg>
    </e>
