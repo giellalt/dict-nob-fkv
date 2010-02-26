@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<?xml-stylesheet type="text/xsl" href="../script/nobfkv.xsl"?>
 <!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD nobfkv//SE" "../script/nobfkv.dtd">
+  PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <r>
-  <lics>
-    <lic xml:lang="en">
+   <lics>
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -13,12 +12,10 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-     <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -30,7 +27,6 @@ For the full license text, see the link above.</lic>
      important, use Firefox.)
      </sourcenote>
    </lics>
-
    <e>
       <l decl="pr">bak</l>
       <mg>
@@ -99,6 +95,161 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg>
             <t pos="po">vasthaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">av</l>
+      <mg>
+         <tg>
+            <t pos="x">-sta</t>
+            <xg>
+               <x>Planken er laga av tre</x>
+               <xt>Lauta on tehty puusta</xt>
+            </xg>
+         </tg>
+         <tg>
+            <t pos="adv">poikki</t>
+            <xg>
+               <x>Planken gikk av</x>
+               <xt>Lauta meni poikki</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">blant</l>
+      <mg>
+         <tg>
+            <t pos="po">kesken</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">enten</l>
+      <mg>
+         <tg>
+            <t pos="pr">joko</t>
+            <xg>
+               <x>enten - eller</x>
+               <xt>joko - tahi</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">foran</l>
+      <mg>
+         <tg>
+            <t pos="po">eđelä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="po">eđessä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">forbi</l>
+      <mg>
+         <tg>
+            <t pos="x">sivvu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">før</l>
+      <mg>
+         <tg>
+            <t pos="pr">ennen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">hitenfor</l>
+      <mg>
+         <tg>
+            <t pos="pr">täkemppää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">inntil</l>
+      <mg>
+         <tg>
+            <t pos="po">asti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">langs</l>
+      <mg>
+         <tg>
+            <t pos="po">pitkin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">mellom</l>
+      <mg>
+         <tg>
+            <t pos="po">välilä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">omkring</l>
+      <mg>
+         <tg>
+            <t pos="pr">ympäri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">over</l>
+      <mg>
+         <tg>
+            <t pos="po">yli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">på</l>
+      <mg>
+         <tg>
+            <t pos="x">pääle</t>
+         </tg>
+         <tg>
+            <t pos="x">päälä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">til</l>
+      <mg>
+         <tg>
+            <t pos="pr">tykö</t>
+            <xg>
+               <x>Han kom til meg"</x>
+               <xt>Hän tuli minun tykö</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">under</l>
+      <mg>
+         <tg>
+            <t pos="po">alla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">uten</l>
+      <mg>
+         <tg>
+            <t pos="pr">vaila</t>
          </tg>
       </mg>
    </e>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<?xml-stylesheet type="text/xsl" href="../script/nobfkv.xsl"?>
 <!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD nobfkv//SE" "../script/nobfkv.dtd">
+  PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <r>
-  <lics>
-    <lic xml:lang="en">
+   <lics>
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -13,12 +12,10 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-     <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -30,7 +27,6 @@ For the full license text, see the link above.</lic>
      important, use Firefox.)
      </sourcenote>
    </lics>
-
    <e>
       <l decl="adv">akkurat</l>
       <mg>
@@ -875,6 +871,233 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">varovaisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">best</l>
+      <mg>
+         <tg>
+            <t pos="adv">parhaiten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">forfra</l>
+      <mg>
+         <tg>
+            <t pos="adv">eđestä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">framover</l>
+      <mg>
+         <tg>
+            <t pos="x">etheen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">godt</l>
+      <mg>
+         <tg>
+            <t pos="adv">hyvin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">iblant</l>
+      <mg>
+         <tg>
+            <t pos="adv">välhiin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">imellom</l>
+      <mg>
+         <tg>
+            <t pos="adv">välissä</t>
+            <xg>
+               <x>(oss) to imellom</x>
+               <xt>kahđen kesken</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">ingenlunde</l>
+      <mg>
+         <tg>
+            <t pos="adv">sunkhaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">jamnsides</l>
+      <mg>
+         <tg>
+            <t pos="adv">rinnakkain</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">jo</l>
+      <mg>
+         <tg>
+            <t pos="adv">joo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="adv">-han</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">nede</l>
+      <mg>
+         <tg>
+            <t pos="adv">alhaala</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">nedenfra</l>
+      <mg>
+         <tg>
+            <t pos="adv">alhaalta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">nedover</l>
+      <mg>
+         <tg>
+            <t pos="adv">alaspäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">nær</l>
+      <mg>
+         <tg>
+            <t pos="adv">likelä</t>
+         </tg>
+         <tg>
+            <t pos="adv">liki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">opp</l>
+      <mg>
+         <tg>
+            <t pos="adv">ylös</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">oppe</l>
+      <mg>
+         <tg>
+            <t pos="adv">ylhäälä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">oppover</l>
+      <mg>
+         <tg>
+            <t pos="adv">ylöspäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">sammenlagt</l>
+      <mg>
+         <tg>
+            <t pos="adv">yhtheensä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">stille</l>
+      <mg>
+         <tg>
+            <t pos="adv">vaisto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">tilsammen</l>
+      <mg>
+         <tg>
+            <t pos="adv">yhtheen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">tilsist</l>
+      <mg>
+         <tg>
+            <t pos="adv">viimen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">ut</l>
+      <mg>
+         <tg>
+            <t pos="adv">ulos</t>
+         </tg>
+         <tg>
+            <t pos="adv">ulvos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">ute</l>
+      <mg>
+         <tg>
+            <t pos="adv">ulkkoo</t>
+         </tg>
+         <tg>
+            <t pos="adv">ulkona</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">verre</l>
+      <mg>
+         <tg>
+            <t pos="adv">pahempi</t>
+            <stem>pahemmin-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">verst</l>
+      <mg>
+         <tg>
+            <t pos="adv">pahhin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">ytre</l>
+      <mg>
+         <tg>
+            <t pos="adv">ulko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="adv">øverst</l>
+      <mg>
+         <tg>
+            <t pos="adv">ylin</t>
          </tg>
       </mg>
    </e>

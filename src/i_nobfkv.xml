@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<?xml-stylesheet type="text/xsl" href="../script/nobfkv.xsl"?>
 <!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD nobfkv//SE" "../script/nobfkv.dtd">
+  PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <r>
-  <lics>
-    <lic xml:lang="en">
+   <lics>
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -13,12 +12,10 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-     <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -30,12 +27,57 @@ For the full license text, see the link above.</lic>
      important, use Firefox.)
      </sourcenote>
    </lics>
-
    <e>
       <l decl="i">oi-oi</l>
       <mg>
          <tg>
             <t pos="i">voi-voi!</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="i">adjø</l>
+      <mg>
+         <tg>
+            <t pos="i">hyvästi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="i">goddag</l>
+      <mg>
+         <tg>
+            <t pos="i">päivää</t>
+         </tg>
+      </mg>
+      <syng>
+         <syn>hyvää päivää"</syn>
+      </syng>
+   </e>
+   <e>
+      <l decl="i">ja</l>
+      <mg>
+         <tg>
+            <t pos="i">kyllä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="i">svarte</l>
+      <mg>
+         <tg>
+            <t pos="i">perhana</t>
+         </tg>
+         <tg>
+            <t pos="x">saakeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="i">unnskyld</l>
+      <mg>
+         <tg>
+            <t pos="i">antheeksi</t>
          </tg>
       </mg>
    </e>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE rootdict PUBLIC "-//XMLmind//DTD nobfkv//FI"
-"../script/nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <r>
-  <lics>
-    <lic xml:lang="en">
+   <lics>
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -12,12 +12,10 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-     <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -29,7 +27,6 @@ For the full license text, see the link above.</lic>
      important, use Firefox.)
      </sourcenote>
    </lics>
-
    <e>
       <l decl="n1">barnehjem</l>
       <mg>
@@ -321,6 +318,20 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="n">eđeletys</t>
             <stem>eđeletykse-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="n1">hjem</l>
+      <mg>
+         <tg>
+            <t pos="n">koti</t>
+            <stem>kođi-</stem>
+            <stem>kotti-</stem>
+            <xg>
+               <x>jeg går hjem</x>
+               <xt>Mie menen kothiin</xt>
+            </xg>
          </tg>
       </mg>
    </e>
