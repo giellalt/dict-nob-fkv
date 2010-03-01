@@ -31,7 +31,7 @@ For the full license text, see the link above.</lic>
       <l decl="a1">aktuell</l>
       <mg>
          <tg>
-            <t>aktuelli</t>
+            <t> pos="a">aktuelli</t>
          </tg>
       </mg>
    </e>
@@ -39,7 +39,7 @@ For the full license text, see the link above.</lic>
       <l decl="a1">alminnelig</l>
       <mg>
          <tg>
-            <t>tavalinen?</t>
+            <t> pos="a">tavalinen</t>
          </tg>
       </mg>
    </e>
@@ -228,7 +228,7 @@ For the full license text, see the link above.</lic>
             <stem>hieno</stem>
          </tg>
          <tg>
-            <t pos="x">fiini</t>
+            <t pos="a">fiini</t>
          </tg>
       </mg>
    </e>
@@ -851,7 +851,7 @@ For the full license text, see the link above.</lic>
       <l decl="a1">råtten</l>
       <mg>
          <tg>
-            <t pos="a"/>
+            <t pos="a">mätä</t>
             <stem>mätä</stem>
          </tg>
          <tg>
