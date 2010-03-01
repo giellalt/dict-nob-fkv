@@ -7,7 +7,8 @@ Kvensk omsetjing
 Stammeklasse
 Stamme+
 -->
-<!ELEMENT r (lics, e+) >
+<!ELEMENT r (lics, e+, xhtml:script) >
+<!ATTLIST r xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml" >
 
 
 <!-- the header -->
@@ -56,8 +57,10 @@ Koden x er plasshaldar når det ikkje er kode der.
 <!ELEMENT syng (syn+)>
 <!ELEMENT syn (#PCDATA)>
 
+<!ELEMENT refg (ref+)>
+
 <!ELEMENT comm (#PCDATA)>
 
-
-
-
+<!ELEMENT xhtml:script EMPTY >
+<!ATTLIST xhtml:script type CDATA #FIXED "text/javascript" >
+<!ATTLIST xhtml:script src  CDATA #IMPLIED >
