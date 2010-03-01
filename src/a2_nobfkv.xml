@@ -954,7 +954,7 @@ For the full license text, see the link above.</lic>
       <l decl="a2">bunnløs</l>
       <mg>
          <tg>
-            <t pos="x">pohjaton</t>
+            <t pos="a">pohjaton</t>
             <stem>pohjattoma-</stem>
          </tg>
       </mg>
@@ -971,15 +971,15 @@ For the full license text, see the link above.</lic>
       <l decl="a2">engelsk</l>
       <mg>
          <tg>
-            <t pos="x">engelska</t>
+            <t pos="a">englantilainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="a2">enkelt</l>
+      <l decl="adv">enkelt</l>
       <mg>
          <tg>
-            <t pos="x">helposti</t>
+            <t pos="adv">helposti</t>
          </tg>
       </mg>
    </e>
@@ -987,7 +987,7 @@ For the full license text, see the link above.</lic>
       <l decl="a2">faglig</l>
       <mg>
          <tg>
-            <t pos="x">faakilinen</t>
+            <t pos="a">faakilinen</t>
             <stem>faakilise-</stem>
             <stem>faakilis-</stem>
          </tg>
@@ -997,7 +997,7 @@ For the full license text, see the link above.</lic>
       <l decl="a2">ferdig</l>
       <mg>
          <tg>
-            <t pos="x">valmis</t>
+            <t pos="a">valmis</t>
             <stem>valmhii-</stem>
             <xg>
                <x>Gjør den nå ferdig!</x>
@@ -1034,7 +1034,7 @@ For the full license text, see the link above.</lic>
       <l decl="a2">forståelig</l>
       <mg>
          <tg>
-            <t pos="x">ymmärrettäävä</t>
+            <t pos="xa">ymmärrettäävä</t>
          </tg>
       </mg>
    </e>
@@ -1042,7 +1042,7 @@ For the full license text, see the link above.</lic>
       <l decl="a2">grundig</l>
       <mg>
          <tg>
-            <t pos="x">nuuka</t>
+            <t pos="a">nuuka</t>
             <stem>nuua-</stem>
             <stem>nuukka-</stem>
          </tg>
@@ -1105,7 +1105,7 @@ For the full license text, see the link above.</lic>
       <l decl="a2">urørt</l>
       <mg>
          <tg>
-            <t pos="x">liikuttamatta</t>
+            <t pos="a">liikuttamatta</t>
          </tg>
       </mg>
    </e>
