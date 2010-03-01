@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
 <!DOCTYPE r
   PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<r>
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
    <lics>
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -100,4 +100,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+  <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js" />
 </r>
