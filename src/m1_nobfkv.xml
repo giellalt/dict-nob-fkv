@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml">
    <lics>
       <lic xml:lang="en">
@@ -487,6 +486,17 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="m1">ullvott</l>
+      <mg>
+         <tg>
+            <t pos="x">villavanthuut</t>
+         </tg>
+      </mg>
+      <syng>
+         <syn>vantut"</syn>
+      </syng>
+   </e>
+   <e>
       <l decl="m1">underjording</l>
       <mg>
          <tg>
@@ -546,16 +556,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <l decl="m1">ullvott</l>
-      <mg>
-         <tg>
-            <t pos="x">villavanthuut</t>
-         </tg>
-      </mg>
-      <syng>
-         <syn>vantut"</syn>
-      </syng>
-   </e>
-  <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js" />
+   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

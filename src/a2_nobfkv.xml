@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml">
    <lics>
       <lic xml:lang="en">
@@ -41,6 +40,14 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="a">kaikkivaltias</t>
             <stem>kaikkivaltihaa-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a2">alvorlig</l>
+      <mg>
+         <tg>
+            <t pos="a">totinen</t>
          </tg>
       </mg>
    </e>
@@ -93,6 +100,14 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="a2">bestemt</l>
+      <mg>
+         <tg>
+            <t pos="x">tođesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="a2">billig</l>
       <mg>
          <tg>
@@ -119,6 +134,23 @@ For the full license text, see the link above.</lic>
             <t pos="a">kiimanen</t>
             <stem>kiimase-</stem>
             <stem>kiimas-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a2">bunnløs</l>
+      <mg>
+         <tg>
+            <t pos="a">pohjaton</t>
+            <stem>pohjattoma-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a2">bøyd</l>
+      <mg>
+         <tg>
+            <t pos="a">käyrä</t>
          </tg>
       </mg>
    </e>
@@ -185,6 +217,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="a2">egentlig</l>
+      <mg>
+         <tg>
+            <t pos="x">oikkeesthaansa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a2">engelsk</l>
+      <mg>
+         <tg>
+            <t pos="a">englantilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="a2">enig</l>
       <mg>
          <tg>
@@ -195,12 +243,30 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="adv">enkelt</l>
+      <mg>
+         <tg>
+            <t pos="adv">helposti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="a2">evig</l>
       <mg>
          <tg>
             <t pos="a">ikunen</t>
             <stem>ikuse-</stem>
             <stem>ikus-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a2">faglig</l>
+      <mg>
+         <tg>
+            <t pos="a">faakilinen</t>
+            <stem>faakilise-</stem>
+            <stem>faakilis-</stem>
          </tg>
       </mg>
    </e>
@@ -219,6 +285,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">köyhä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a2">ferdig</l>
+      <mg>
+         <tg>
+            <t pos="a">valmis</t>
+            <stem>valmhii-</stem>
+            <xg>
+               <x>Gjør den nå ferdig!</x>
+               <xt>Tehe nyt sen valmhiiksi!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">kypsy</t>
          </tg>
       </mg>
    </e>
@@ -270,12 +354,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="a2">fornøyd</l>
+      <mg>
+         <tg>
+            <t pos="adv">tytyväisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="a2">forsiktig</l>
       <mg>
          <tg>
             <t pos="a">varovainen</t>
             <stem>varovaise-</stem>
             <stem>varovais-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a2">forskjellig</l>
+      <mg>
+         <tg>
+            <t pos="a">erilainen</t>
+         </tg>
+         <tg>
+            <t pos="a">eri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a2">forståelig</l>
+      <mg>
+         <tg>
+            <t pos="xa">ymmärrettäävä</t>
          </tg>
       </mg>
    </e>
@@ -346,6 +457,16 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="a">visu</t>
             <stem>vissu-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a2">grundig</l>
+      <mg>
+         <tg>
+            <t pos="a">nuuka</t>
+            <stem>nuua-</stem>
+            <stem>nuukka-</stem>
          </tg>
       </mg>
    </e>
@@ -539,12 +660,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="a2">norsk</l>
+      <mg>
+         <tg>
+            <t pos="a">norjalainen</t>
+            <t pos="a">ruiđalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="a2">nødvendig</l>
       <mg>
          <tg>
             <t pos="a">tarpheelinen</t>
             <stem>tarpheelise-</stem>
             <stem>tarpheelis-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a2">nøyaktig</l>
+      <mg>
+         <tg>
+            <t pos="a">tarkka</t>
          </tg>
       </mg>
    </e>
@@ -629,6 +767,17 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="a2">selvfølgelig</l>
+      <mg>
+         <tg>
+            <t pos="x">tietysti</t>
+         </tg>
+      </mg>
+      <syng>
+         <syn>tietenki</syn>
+      </syng>
+   </e>
+   <e>
       <l decl="a2">selvgjort</l>
       <mg>
          <tg>
@@ -649,6 +798,14 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="a2">skikkelig</l>
+      <mg>
+         <tg>
+            <t pos="x">kunnon</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="a2">smidig</l>
       <mg>
          <tg>
@@ -661,6 +818,22 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">kommee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a2">stolt</l>
+      <mg>
+         <tg>
+            <t pos="a">ylppee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a2">svart</l>
+      <mg>
+         <tg>
+            <t pos="a">musta</t>
          </tg>
       </mg>
    </e>
@@ -681,6 +854,24 @@ For the full license text, see the link above.</lic>
             <t pos="a">murheelinen</t>
             <stem>murheelise-</stem>
             <stem>murheelis-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a2">tett</l>
+      <mg>
+         <tg>
+            <t pos="x">taahjaan</t>
+         </tg>
+         <tg>
+            <t pos="a">taaja</t>
+         </tg>
+         <tg>
+            <t pos="a">tihhee</t>
+         </tg>
+         <tg>
+            <t pos="a">tivis</t>
+            <stem>tivhii-</stem>
          </tg>
       </mg>
    </e>
@@ -825,6 +1016,14 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="a2">urørt</l>
+      <mg>
+         <tg>
+            <t pos="a">liikuttamatta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="a2">uskikkelig</l>
       <mg>
          <tg>
@@ -887,6 +1086,14 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="a2">veldig</l>
+      <mg>
+         <tg>
+            <t pos="x">kauheen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="a2">vennlig</l>
       <mg>
          <tg>
@@ -934,213 +1141,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <l decl="a2">alvorlig</l>
-      <mg>
-         <tg>
-            <t pos="a">totinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">bestemt</l>
-      <mg>
-         <tg>
-            <t pos="x">tođesti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">bunnløs</l>
-      <mg>
-         <tg>
-            <t pos="a">pohjaton</t>
-            <stem>pohjattoma-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">egentlig</l>
-      <mg>
-         <tg>
-            <t pos="x">oikkeesthaansa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">engelsk</l>
-      <mg>
-         <tg>
-            <t pos="a">englantilainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="adv">enkelt</l>
-      <mg>
-         <tg>
-            <t pos="adv">helposti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">faglig</l>
-      <mg>
-         <tg>
-            <t pos="a">faakilinen</t>
-            <stem>faakilise-</stem>
-            <stem>faakilis-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">ferdig</l>
-      <mg>
-         <tg>
-            <t pos="a">valmis</t>
-            <stem>valmhii-</stem>
-            <xg>
-               <x>Gjør den nå ferdig!</x>
-               <xt>Tehe nyt sen valmhiiksi!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="a">kypsy</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">fornøyd</l>
-      <mg>
-         <tg>
-            <t pos="adv">tytyväisesti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">forskjellig</l>
-      <mg>
-         <tg>
-            <t pos="a">erilainen</t>
-         </tg>
-         <tg>
-            <t pos="a">eri</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">forståelig</l>
-      <mg>
-         <tg>
-            <t pos="xa">ymmärrettäävä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">grundig</l>
-      <mg>
-         <tg>
-            <t pos="a">nuuka</t>
-            <stem>nuua-</stem>
-            <stem>nuukka-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">stolt</l>
-      <mg>
-         <tg>
-            <t pos="a">ylppee</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">tett</l>
-      <mg>
-         <tg>
-            <t pos="x">taahjaan</t>
-         </tg>
-         <tg>
-            <t pos="a">taaja</t>
-         </tg>
-         <tg>
-            <t pos="a">tihhee</t>
-         </tg>
-         <tg>
-            <t pos="a">tivis</t>
-            <stem>tivhii-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">selvfølgelig</l>
-      <mg>
-         <tg>
-            <t pos="x">tietysti</t>
-         </tg>
-      </mg>
-      <syng>
-         <syn>tietenki</syn>
-      </syng>
-   </e>
-   <e>
-      <l decl="a2">skikkelig</l>
-      <mg>
-         <tg>
-            <t pos="x">kunnon</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">svart</l>
-      <mg>
-         <tg>
-            <t pos="a">musta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">urørt</l>
-      <mg>
-         <tg>
-            <t pos="a">liikuttamatta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">veldig</l>
-      <mg>
-         <tg>
-            <t pos="x">kauheen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">nøyaktig</l>
-      <mg>
-         <tg>
-            <t pos="a">tarkka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">bøyd</l>
-      <mg>
-         <tg>
-            <t pos="a">käyrä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a2">norsk</l>
-      <mg>
-         <tg>
-            <t pos="a">norjalainen</t>
-            <t pos="a">ruiđalainen</t>
-         </tg>
-      </mg>
-   </e>
-  <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js" />
+   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

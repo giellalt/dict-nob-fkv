@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml">
    <lics>
       <lic xml:lang="en">
@@ -3157,6 +3156,14 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="m">hilsen</l>
+      <mg>
+         <tg>
+            <t pos="n">tervheiset</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="m">himmel</l>
       <mg>
          <tg>
@@ -4453,14 +4460,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m">krøllhale</l>
-      <mg>
-         <tg>
-            <t pos="n">sapara</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="m">kost</l>
       <mg>
          <tg>
@@ -4562,6 +4561,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">kihara</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="m">krøllhale</l>
+      <mg>
+         <tg>
+            <t pos="n">sapara</t>
          </tg>
       </mg>
    </e>
@@ -10244,13 +10251,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <l decl="m">hilsen</l>
-      <mg>
-         <tg>
-            <t pos="n">tervheiset</t>
-         </tg>
-      </mg>
-   </e>
-  <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js" />
+   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

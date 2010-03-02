@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml">
    <lics>
       <lic xml:lang="en">
@@ -276,16 +275,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a">første</l>
-      <mg>
-         <tg>
-            <t pos="a">ensimäinen</t>
-            <stem>ensimäise-</stem>
-            <stem>ensimäis-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="a">diger</l>
       <mg>
          <tg>
@@ -468,6 +457,14 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="a">forfriskende</l>
+      <mg>
+         <tg>
+            <t pos="a">virkistyttäävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="a">forhenværende</l>
       <mg>
          <tg>
@@ -515,6 +512,15 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="a">from</l>
+      <mg>
+         <tg>
+            <t pos="a">hurskas</t>
+            <stem>hurskhaa-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="a">fullstendig</l>
       <mg>
          <tg>
@@ -536,6 +542,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">harva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a">første</l>
+      <mg>
+         <tg>
+            <t pos="a">ensimäinen</t>
+            <stem>ensimäise-</stem>
+            <stem>ensimäis-</stem>
          </tg>
       </mg>
    </e>
@@ -664,6 +680,14 @@ For the full license text, see the link above.</lic>
             <t pos="a">sisänen</t>
             <stem>sisäse-</stem>
             <stem>sisäs-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a">ingen</l>
+      <mg>
+         <tg>
+            <t pos="x">ei yhthään</t>
          </tg>
       </mg>
    </e>
@@ -963,12 +987,31 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="a">mest</l>
+      <mg>
+         <tg>
+            <t pos="a">enniitten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="a">midterste</l>
       <mg>
          <tg>
             <t pos="a">keskimäinen</t>
             <stem>keskimäise-</stem>
             <stem>keskimäis-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="a">mindre</l>
+      <mg>
+         <tg>
+            <t pos="a">vähemin</t>
+         </tg>
+         <tg>
+            <t pos="a">vähemän</t>
          </tg>
       </mg>
    </e>
@@ -1641,6 +1684,15 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="a">verdifull</l>
+      <mg>
+         <tg>
+            <t pos="a">arvokas</t>
+            <stem>arvokhaa-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="a">vid</l>
       <mg>
          <tg>
@@ -1693,58 +1745,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <l decl="a">ingen</l>
-      <mg>
-         <tg>
-            <t pos="x">ei yhthään</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a">forfriskende</l>
-      <mg>
-         <tg>
-            <t pos="a">virkistyttäävä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a">from</l>
-      <mg>
-         <tg>
-            <t pos="a">hurskas</t>
-            <stem>hurskhaa-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a">verdifull</l>
-      <mg>
-         <tg>
-            <t pos="a">arvokas</t>
-            <stem>arvokhaa-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a">mest</l>
-      <mg>
-         <tg>
-            <t pos="a">enniitten</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="a">mindre</l>
-      <mg>
-         <tg>
-            <t pos="a">vähemin</t>
-         </tg>
-         <tg>
-            <t pos="a">vähemän</t>
-         </tg>
-      </mg>
-   </e>
-  <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js" />
+   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

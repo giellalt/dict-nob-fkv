@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml">
    <lics>
       <lic xml:lang="en">
@@ -27,14 +26,6 @@ For the full license text, see the link above.</lic>
      important, use Firefox.)
      </sourcenote>
    </lics>
-   <e>
-      <l decl="v">krympe</l>
-      <mg>
-         <tg>
-            <t pos="x">mennä kokhoon</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <l decl="v">adlyde</l>
       <mg>
@@ -516,18 +507,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="v">tjore</l>
-      <mg>
-         <tg>
-            <t pos="v">kaaristaat</t>
-            <xg>
-               <x>Skal vi tjore høylasset?</x>
-               <xt>Kaaristamako heinäkuorman?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="v">binde</l>
       <mg>
          <tg>
@@ -577,6 +556,30 @@ For the full license text, see the link above.</lic>
             <t pos="v">häikästä</t>
             <stem>häikäse-</stem>
             <stem>häikäs-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="v">bli</l>
+      <mg>
+         <tg>
+            <t pos="v">tulla</t>
+            <xg>
+               <x>Hun ble lege.</x>
+               <xt>Hänesta tuli lääkäri</xt>
+            </xg>
+            <xg>
+               <x>Hun ble sint.</x>
+               <xt>Hän vihastui.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="v">bli spent</l>
+      <mg>
+         <tg>
+            <t pos="v">jännittyyt</t>
          </tg>
       </mg>
    </e>
@@ -1074,6 +1077,14 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="v">drøvtygge</l>
+      <mg>
+         <tg>
+            <t pos="v">märehtiit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="v">drøye</l>
       <mg>
          <tg>
@@ -1557,16 +1568,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="v">jorde</l>
-      <mg>
-         <tg>
-            <t pos="v">maattuut</t>
-            <stem>maađu-</stem>
-            <stem>maatu-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="v">forby</l>
       <mg>
          <tg>
@@ -1595,6 +1596,18 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">ehđottaat</t>
             <stem>ehđota-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="v">forfriske</l>
+      <mg>
+         <tg>
+            <t pos="v">reppainttuut</t>
+            <xg>
+               <x>man blir forfrisket på reise</x>
+               <xt>Reisussa reppainttuu</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2169,15 +2182,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="v">grøfte</l>
-      <mg>
-         <tg>
-            <t pos="v">ojittaat</t>
-            <stem>ojita-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="v">grave</l>
       <mg>
          <tg>
@@ -2260,6 +2264,15 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="v">grøfte</l>
+      <mg>
+         <tg>
+            <t pos="v">ojittaat</t>
+            <stem>ojita-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="v">gulne</l>
       <mg>
          <tg>
@@ -2317,6 +2330,18 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">käyđä</t>
             <stem>käve-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="v">ha</l>
+      <mg>
+         <tg>
+            <t pos="v">omistaa</t>
+            <xg>
+               <x>Han har ei bok</x>
+               <xt>Hänella oon kirja</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2673,6 +2698,16 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">rauđottaat</t>
             <stem>rauđota-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="v">jorde</l>
+      <mg>
+         <tg>
+            <t pos="v">maattuut</t>
+            <stem>maađu-</stem>
+            <stem>maatu-</stem>
          </tg>
       </mg>
    </e>
@@ -3147,6 +3182,14 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="v">krympe</l>
+      <mg>
+         <tg>
+            <t pos="x">mennä kokhoon</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="v">krype</l>
       <mg>
          <tg>
@@ -3157,22 +3200,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="v">krølle håret</l>
-      <mg>
-         <tg>
-            <t pos="v">kiharoiđa</t>
-            <stem>kiharoitte-</stem>
-            <stem>kiharoitte-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="v">krølle</l>
       <mg>
          <tg>
             <t pos="v">rypistä</t>
             <stem>rypise-</stem>
             <stem>rypis-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="v">krølle håret</l>
+      <mg>
+         <tg>
+            <t pos="v">kiharoiđa</t>
+            <stem>kiharoitte-</stem>
+            <stem>kiharoitte-</stem>
          </tg>
       </mg>
    </e>
@@ -5043,20 +5086,20 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="v">skvulpe (til)</l>
-      <mg>
-         <tg>
-            <t pos="v">läiskyttäät</t>
-            <stem>läiskytä-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="v">skvulpe</l>
       <mg>
          <tg>
             <t pos="v">läiskättäät</t>
             <stem>läiskätä-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="v">skvulpe (til)</l>
+      <mg>
+         <tg>
+            <t pos="v">läiskyttäät</t>
+            <stem>läiskytä-</stem>
          </tg>
       </mg>
    </e>
@@ -5495,6 +5538,14 @@ For the full license text, see the link above.</lic>
             <t pos="v">pelata</t>
             <stem>pellaa-</stem>
             <stem>pelan-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="v">spille kort</l>
+      <mg>
+         <tg>
+            <t pos="v">pelata korttii</t>
          </tg>
       </mg>
    </e>
@@ -6220,6 +6271,18 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="v">tjore</l>
+      <mg>
+         <tg>
+            <t pos="v">kaaristaat</t>
+            <xg>
+               <x>Skal vi tjore høylasset?</x>
+               <xt>Kaaristamako heinäkuorman?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="v">tjære</l>
       <mg>
          <tg>
@@ -6426,14 +6489,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="v">drøvtygge</l>
-      <mg>
-         <tg>
-            <t pos="v">märehtiit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="v">tømme</l>
       <mg>
          <tg>
@@ -6488,6 +6543,14 @@ For the full license text, see the link above.</lic>
             <t pos="v">suođa</t>
             <stem>suo-</stem>
             <stem>suon-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="v">unnskylde</l>
+      <mg>
+         <tg>
+            <t pos="x">suođa antheeksi</t>
          </tg>
       </mg>
    </e>
@@ -6693,16 +6756,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="v">vise baken</l>
-      <mg>
-         <tg>
-            <t pos="v">pyllystellä</t>
-            <stem>pyllystele-</stem>
-            <stem>pyllystel-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="v">vise</l>
       <mg>
          <tg>
@@ -6715,6 +6768,16 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="v">näyttäät</t>
             <stem>näytä-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="v">vise baken</l>
+      <mg>
+         <tg>
+            <t pos="v">pyllystellä</t>
+            <stem>pyllystele-</stem>
+            <stem>pyllystel-</stem>
          </tg>
       </mg>
    </e>
@@ -6781,34 +6844,6 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="v">ha</l>
-      <mg>
-         <tg>
-            <t pos="v">omistaa</t>
-            <xg>
-               <x>Han har ei bok</x>
-               <xt>Hänella oon kirja</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="v">bli</l>
-      <mg>
-         <tg>
-            <t pos="v">tulla</t>
-            <xg>
-               <x>Hun ble lege.</x>
-               <xt>Hänesta tuli lääkäri</xt>
-            </xg>
-            <xg>
-               <x>Hun ble sint.</x>
-               <xt>Hän vihastui.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="v">væske</l>
       <mg>
          <tg>
@@ -6856,41 +6891,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <l decl="v">unnskylde</l>
-      <mg>
-         <tg>
-            <t pos="x">suođa antheeksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="v">bli spent</l>
-      <mg>
-         <tg>
-            <t pos="v">jännittyyt</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="v">forfriske</l>
-      <mg>
-         <tg>
-            <t pos="v">reppainttuut</t>
-            <xg>
-               <x>man blir forfrisket på reise</x>
-               <xt>Reisussa reppainttuu</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="v">spille kort</l>
-      <mg>
-         <tg>
-            <t pos="v">pelata korttii</t>
-         </tg>
-      </mg>
-   </e>
-  <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js" />
+   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

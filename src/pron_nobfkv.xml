@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml">
    <lics>
       <lic xml:lang="en">
@@ -28,6 +27,32 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
+      <l decl="pron">alle</l>
+      <mg>
+         <tg>
+            <t pos="pron">kaikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pron">annen</l>
+      <mg>
+         <tg>
+            <t pos="x">eri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pron">begge</l>
+      <mg>
+         <tg>
+            <t pos="pron">molemat</t>
+            <stem>molemii-</stem>
+            <stem>molemii-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="pron">de</l>
       <mg>
          <tg>
@@ -48,10 +73,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="pron">denne</l>
+      <mg>
+         <tg>
+            <t pos="pron">tämä</t>
+            <stem>tä-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="pron">dere</l>
       <mg>
          <tg>
             <t pos="pron">tet:tei</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pron">du</l>
+      <mg>
+         <tg>
+            <t pos="pron">sie</t>
+            <stem>sinu-</stem>
+            <stem>sinnu-</stem>
          </tg>
       </mg>
    </e>
@@ -81,99 +125,6 @@ For the full license text, see the link above.</lic>
       <syng>
          <syn>mikä"</syn>
       </syng>
-   </e>
-   <e>
-      <l decl="pron">jeg</l>
-      <mg>
-         <tg>
-            <t pos="x">mie</t>
-            <stem>minu-</stem>
-            <stem>minnu-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">alle</l>
-      <mg>
-         <tg>
-            <t pos="pron">kaikki</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">begge</l>
-      <mg>
-         <tg>
-            <t pos="pron">molemat</t>
-            <stem>molemii-</stem>
-            <stem>molemii-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">denne</l>
-      <mg>
-         <tg>
-            <t pos="pron">tämä</t>
-            <stem>tä-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">annen</l>
-      <mg>
-         <tg>
-            <t pos="x">eri</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">du</l>
-      <mg>
-         <tg>
-            <t pos="pron">sie</t>
-            <stem>sinu-</stem>
-            <stem>sinnu-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">ingen</l>
-      <mg>
-         <tg>
-            <t pos="x">ei kukhaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">ingenting</l>
-      <mg>
-         <tg>
-            <t pos="x">ei mithään</t>
-            <xg>
-               <x>det gjør ingenting</x>
-               <xt>ei se mithään</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">min</l>
-      <mg>
-         <tg>
-            <t pos="pron">minun</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pron">vi</l>
-      <mg>
-         <tg>
-            <t pos="pron">met</t>
-            <stem>mei-</stem>
-            <stem>mei-</stem>
-         </tg>
-      </mg>
    </e>
    <e>
       <l decl="pron">hvem</l>
@@ -259,12 +210,50 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="pron">ingen</l>
+      <mg>
+         <tg>
+            <t pos="x">ei kukhaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pron">ingenting</l>
+      <mg>
+         <tg>
+            <t pos="x">ei mithään</t>
+            <xg>
+               <x>det gjør ingenting</x>
+               <xt>ei se mithään</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pron">jeg</l>
+      <mg>
+         <tg>
+            <t pos="x">mie</t>
+            <stem>minu-</stem>
+            <stem>minnu-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="pron">mange</l>
       <mg>
          <tg>
             <t pos="pron">moni</t>
             <stem>mone-</stem>
             <stem>mon-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pron">min</l>
+      <mg>
+         <tg>
+            <t pos="pron">minun</t>
          </tg>
       </mg>
    </e>
@@ -298,5 +287,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js" />
+   <e>
+      <l decl="pron">vi</l>
+      <mg>
+         <tg>
+            <t pos="pron">met</t>
+            <stem>mei-</stem>
+            <stem>mei-</stem>
+         </tg>
+      </mg>
+   </e>
+   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml">
    <lics>
       <lic xml:lang="en">
@@ -1691,6 +1690,15 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="n">hunndyr</l>
+      <mg>
+         <tg>
+            <t pos="x">runo</t>
+            <stem>runno-</stem>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="n">hus</l>
       <mg>
          <tg>
@@ -2892,6 +2900,14 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="n">nordlys</l>
+      <mg>
+         <tg>
+            <t pos="npl">taivhaan valkkeet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="n">null</l>
       <mg>
          <tg>
@@ -3363,6 +3379,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">roska</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="n">råd___xxx___check-meaning-groups</l>
+      <mg>
+         <tg>
+            <t pos="n">vara</t>
+            <stem>varra-</stem>
+            <xg>
+               <x>Jeg har god råd</x>
+               <xt>Mulla oon vara</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">neuvo</t>
          </tg>
       </mg>
    </e>
@@ -4848,40 +4882,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <l decl="n">hunndyr</l>
-      <mg>
-         <tg>
-            <t pos="x">runo</t>
-            <stem>runno-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="n">nordlys</l>
-      <mg>
-         <tg>
-            <t pos="npl">taivhaan valkkeet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="n">råd___xxx___check-meaning-groups</l>
-      <mg>
-         <tg>
-            <t pos="n">vara</t>
-            <stem>varra-</stem>
-            <xg>
-               <x>Jeg har god råd</x>
-               <xt>Mulla oon vara</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="n">neuvo</t>
-         </tg>
-      </mg>
-   </e>
-  <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js" />
+   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

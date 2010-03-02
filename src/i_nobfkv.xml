@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml">
    <lics>
       <lic xml:lang="en">
@@ -27,14 +26,6 @@ For the full license text, see the link above.</lic>
      important, use Firefox.)
      </sourcenote>
    </lics>
-   <e>
-      <l decl="i">oi-oi</l>
-      <mg>
-         <tg>
-            <t pos="i">voi-voi!</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <l decl="i">adjø</l>
       <mg>
@@ -63,6 +54,14 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="i">oi-oi</l>
+      <mg>
+         <tg>
+            <t pos="i">voi-voi!</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="i">svarte</l>
       <mg>
          <tg>
@@ -81,5 +80,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js" />
+   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

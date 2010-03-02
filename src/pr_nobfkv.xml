@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml">
    <lics>
       <lic xml:lang="en">
@@ -28,77 +27,6 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l decl="pr">bak</l>
-      <mg>
-         <tg>
-            <t pos="pr">takana</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pr">gjennom</l>
-      <mg>
-         <tg>
-            <t pos="po">kautta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="po">läpi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pr">hos</l>
-      <mg>
-         <tg>
-            <t pos="po">tykköö</t>
-            <xg>
-               <x>hun er hos meg</x>
-               <xt>hän oon minun tykköö</xt>
-            </xg>
-         </tg>
-         <tg>
-            <t pos="x">tykönä</t>
-            <xg>
-               <x>hun er hos meg</x>
-               <xt>Hän oon minun tykkönä</xt>
-            </xg>
-         </tg>
-      </mg>
-      <syng>
-         <syn>tykönä"</syn>
-      </syng>
-   </e>
-   <e>
-      <l decl="pr">med</l>
-      <mg>
-         <tg>
-            <t pos="po">kans(a)</t>
-            <xg>
-               <x>Hun kom med gutten</x>
-               <xt>Hän tuli pojan kansa</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="po">myötä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l decl="pr">mot</l>
-      <mg>
-         <tg>
-            <t pos="po">vasten</t>
-         </tg>
-         <tg>
-            <t pos="po">vasthaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
       <l decl="pr">av</l>
       <mg>
          <tg>
@@ -114,6 +42,14 @@ For the full license text, see the link above.</lic>
                <x>Planken gikk av</x>
                <xt>Lauta meni poikki</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">bak</l>
+      <mg>
+         <tg>
+            <t pos="pr">takana</t>
          </tg>
       </mg>
    </e>
@@ -167,12 +103,47 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="pr">gjennom</l>
+      <mg>
+         <tg>
+            <t pos="po">kautta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="po">läpi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="pr">hitenfor</l>
       <mg>
          <tg>
             <t pos="pr">täkemppää</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <l decl="pr">hos</l>
+      <mg>
+         <tg>
+            <t pos="po">tykköö</t>
+            <xg>
+               <x>hun er hos meg</x>
+               <xt>hän oon minun tykköö</xt>
+            </xg>
+         </tg>
+         <tg>
+            <t pos="x">tykönä</t>
+            <xg>
+               <x>hun er hos meg</x>
+               <xt>Hän oon minun tykkönä</xt>
+            </xg>
+         </tg>
+      </mg>
+      <syng>
+         <syn>tykönä"</syn>
+      </syng>
    </e>
    <e>
       <l decl="pr">inntil</l>
@@ -191,10 +162,38 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <l decl="pr">med</l>
+      <mg>
+         <tg>
+            <t pos="po">kans(a)</t>
+            <xg>
+               <x>Hun kom med gutten</x>
+               <xt>Hän tuli pojan kansa</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="po">myötä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <l decl="pr">mellom</l>
       <mg>
          <tg>
             <t pos="po">välilä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l decl="pr">mot</l>
+      <mg>
+         <tg>
+            <t pos="po">vasten</t>
+         </tg>
+         <tg>
+            <t pos="po">vasthaan</t>
          </tg>
       </mg>
    </e>
@@ -253,5 +252,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js" />
+   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>
