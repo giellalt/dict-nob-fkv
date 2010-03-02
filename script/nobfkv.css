@@ -1,91 +1,41 @@
 @import "../../scripts/gt_dictionary.css";
 
-e {
-    display: block;
-    collapsible: yes;
-    not-collapsible-head: 1;
-    background-color: #eeeeee;
-}
-
-l {
-	font-weight: bold;
-	color: blue;
-}
-
 l:after {
     display: inline;
-    content: " " attr(decl) ', ' ;
+    content: ' ' attr(decl) ' ' ;
     font-style: italic;
-    font-size: smaller;
-}
-
-e > mg:before {
-	display: inline;
-    content: counter(n, decimal) ". ";
-    font-weight: bold;
-}
-
-mg {
-    display: block;
-    collapsible: yes;
-    border: 1 solid gray;
-    margin-bottom: 1.33ex;
-    background-color: #ffffff;
-}
-
-tg + tg:before {
-    content: "; ";
-}
-
-t + t:before {
-    content: ", ";
+    font-size: small;
+    vertical-align: super;
+    color: gray;
 }
 
 t[decl]:after {
-    display: inline;
     content: attr(decl);
-    font-style: italic;
-    color: gray;
-    vertical-align: super;
-}
 
 stem {
 	font-style: italic;
 }
 
-stem:before {
+stem + stem:before {
+    content: ", ";
+}
+
+t + stem:before {
     content: "(";
     font-style: normal;
     font-size:small;
 }
 
-stem:after {
+stem:last-child:after {
     content: ")";
     font-style: normal;
     font-size:small;
 }
 
-stem:before {
-    content: " stamme: ";
+stem + xg:before {
+    content: ") ";
     font-style: normal;
     font-size:small;
-}
-
-stem:after {
-    content: '-  ';
-}
-
-
-xg {
-    display: block;
-}
-
-xg x {
-    font-style: italic;
-}
-
-xg xt:before {
-    content: " ";
 }
 
 syng  {
@@ -99,7 +49,6 @@ tg syng syn {
 syn:before {
     content: " Synonym: ";
 }
-
 
 comm {
     display: block;
