@@ -6,7 +6,10 @@ xsltproc fkvnob.xsl fkvnob.xml > ../bin/fkvnob.html
 .html
 -->
 
-<xsl:output method="html"/>
+<xsl:output
+     method="html"
+     encoding="UTF-8"
+     />
 
 <xsl:template match="r">
 <html>
