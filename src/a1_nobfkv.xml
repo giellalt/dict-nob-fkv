@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI"
+"../script/nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
-   <lics>
+<r>
+   <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -14,7 +15,6 @@ For the full license text, see the link above.</lic>
       <ref>Work by Terje Aronsen at Kainun institutti, Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
       <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
@@ -108,15 +108,9 @@ For the full license text, see the link above.</lic>
             <t pos="a">laaja</t>
          </tg>
          <tg>
-            <re/>
             <t pos="a">levvee</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
          </tg>
       </mg>
-      <comm/>
    </e>
    <e>
       <l decl="a1">brå</l>
@@ -1058,7 +1052,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="a">vaiti</t>
             <xg>
-               <x/>
+               <x>vær stille</x>
                <xt>ole vaiti</xt>
             </xg>
          </tg>
@@ -1082,7 +1076,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <syng>
-         <syn>tyhjä"</syn>
+         <syn>tyhjä</syn>
       </syng>
    </e>
    <e>
@@ -1143,12 +1137,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg>
             <t pos="a">ohukainen</t>
-            <stem>ohukainen</stem>
             <stem>ohukaise-</stem>
-            <xg>
-               <x/>
-               <xt>ohukais-</xt>
-            </xg>
+            <stem>ohukais-</stem>
          </tg>
       </mg>
    </e>
@@ -1250,5 +1240,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
+                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
 </r>
