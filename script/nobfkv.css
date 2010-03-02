@@ -11,6 +11,7 @@ l:after {
 
 t[decl]:after {
     content: attr(decl);
+}
 
 stem {
 	font-style: italic;
