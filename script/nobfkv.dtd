@@ -39,7 +39,7 @@ Koden x er plasshaldar når det ikkje er kode der.
 -->
 
 <!ELEMENT mg (tg+)>
-<!ELEMENT tg (re?, t+, stem*, xg*)>
+<!ELEMENT tg (re?, (t, stem*)+, xg*)>
 
 <!ELEMENT re (#PCDATA) >
 <!ELEMENT t (#PCDATA) >
