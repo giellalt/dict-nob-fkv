@@ -34,6 +34,11 @@ stem + xg:before {
     font-style: normal;
     font-size:small;
 }
+stem + t:before {
+    content: "), ";
+    font-style: normal;
+    font-size:small;
+}
 
 syng  {
     display: block;
