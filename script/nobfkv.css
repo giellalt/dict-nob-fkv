@@ -1,16 +1,12 @@
+@charset "utf-8";
 @import "../../scripts/gt_dictionary.css";
 
 l:after {
-    display: inline;
-    content: ' ' attr(decl) ' ' ;
-    font-style: italic;
-    font-size: small;
-    vertical-align: super;
-    color: gray;
+    content: ' ' attr(decl);
 }
 
 t[decl]:after {
-    content: attr(decl);
+    content: ' ' attr(decl);
 }
 
 stem {
@@ -22,7 +18,7 @@ stem + stem:before {
 }
 
 t + stem:before {
-    content: "(";
+    content: " (";
     font-style: normal;
     font-size:small;
 }
@@ -43,17 +39,18 @@ syng  {
     display: block;
 }
 
-tg syng syn {
+syng syn {
     font-style: italic;
+    display: inline;
 }
 
 syn:before {
-    content: " Synonym: ";
+    content: " Syn.▸ ";
+    font-style: normal;
 }
 
 comm {
     display: block;
-    collapsible: yes;
     font-style: italic;
     font-size:small;
 }
