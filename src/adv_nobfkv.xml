@@ -46,7 +46,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="adv">alldeles</l>
+      <l decl="adv">aldeles</l>
       <mg>
          <tg>
             <t pos="adv">peräti</t>
@@ -96,8 +96,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">vaan</t>
-            <t pos="x">vain</t>
+            <t pos="adv">vaan</t>
+            <t pos="adv">vain</t>
          </tg>
       </mg>
    </e>
@@ -130,7 +130,7 @@ For the full license text, see the link above.</lic>
       <l decl="adv">borte</l>
       <mg>
          <tg>
-            <t pos="x">poissa</t>
+            <t pos="adv">poissa</t>
          </tg>
       </mg>
    </e>
@@ -146,7 +146,7 @@ For the full license text, see the link above.</lic>
       <l decl="adv">delvis</l>
       <mg>
          <tg>
-            <t pos="x">osittan</t>
+            <t pos="adv">osittan</t>
          </tg>
       </mg>
    </e>
@@ -180,7 +180,7 @@ For the full license text, see the link above.</lic>
       <l decl="adv">derfra</l>
       <mg>
          <tg>
-            <t pos="x">siitä</t>
+            <t pos="adv">siitä</t>
          </tg>
       </mg>
    </e>
@@ -217,8 +217,12 @@ For the full license text, see the link above.</lic>
       <l decl="adv">engang</l>
       <mg>
          <tg>
-            <t pos="x">kerran</t>
+            <t pos="adv">kerran</t>
          </tg>
+         <xg>
+            <x>olipa kerran</x>
+            <xt>det var en gang</xt>
+            </xg>
       </mg>
    </e>
    <e>
@@ -280,7 +284,7 @@ For the full license text, see the link above.</lic>
       <l decl="adv">forsiktig</l>
       <mg>
          <tg>
-            <t pos="x">varovaisesti</t>
+            <t pos="adv">varovaisesti</t>
          </tg>
       </mg>
    </e>
@@ -301,7 +305,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="adv">framme</l>
+      <l decl="adv">fram</l>
       <mg>
          <tg>
             <t pos="adv">perilä</t>
@@ -333,19 +337,19 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="x">ensiksi</t>
-            <t pos="x">ensin</t>
-            <t pos="x">ensisti</t>
+            <t pos="adv">ensiksi</t>
+            <t pos="adv">ensin</t>
+            <t pos="adv">ensisti</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="x">vasta</t>
+            <t pos="adv">vasta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="adv">første</l>
+      <l decl="adv">først</l>
       <mg>
          <tg>
             <t pos="adv">ensi</t>
@@ -388,7 +392,7 @@ For the full license text, see the link above.</lic>
       <l decl="adv">halvveis</l>
       <mg>
          <tg>
-            <t pos="adv">puoliväli</t>
+            <t pos="adv">puolivälissä</t>
             <stem>puolivälli-</stem>
          </tg>
       </mg>
@@ -405,7 +409,7 @@ For the full license text, see the link above.</lic>
       <l decl="adv">heldigvis</l>
       <mg>
          <tg>
-            <t pos="x">onneksi</t>
+            <t pos="adv">onneksi</t>
          </tg>
       </mg>
    </e>
@@ -426,7 +430,7 @@ For the full license text, see the link above.</lic>
       <l decl="adv">hit</l>
       <mg>
          <tg>
-            <t pos="x">tänne</t>
+            <t pos="adv">tänne</t>
          </tg>
       </mg>
    </e>
@@ -434,7 +438,7 @@ For the full license text, see the link above.</lic>
       <l decl="adv">hjemme</l>
       <mg>
          <tg>
-            <t pos="x">kotona</t>
+            <t pos="adv">kotona</t>
          </tg>
       </mg>
    </e>
