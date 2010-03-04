@@ -17,6 +17,10 @@ stem + stem:before {
     content: ", ";
 }
 
+stem + stem {
+    margin-left: -.35em;
+}
+
 t + stem:before {
     content: " (";
     font-style: normal;
