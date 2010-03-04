@@ -678,12 +678,15 @@ For the full license text, see the link above.</lic>
       <l decl="adv">mye</l>
       <mg>
          <tg>
-            <t pos="x">kovasti</t>
+            <t pos="adv">kovasti</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <l decl="a3">mye</l>
       <mg>
          <tg>
-            <t pos="x">paljon</t>
+            <t pos="a">paljon</t>
          </tg>
       </mg>
    </e>
@@ -745,7 +748,7 @@ For the full license text, see the link above.</lic>
       <l decl="adv">nesten</l>
       <mg>
          <tg>
-            <t pos="x">kohta</t>
+            <t pos="adv">kohta</t>
          </tg>
       </mg>
    </e>
@@ -875,11 +878,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">tietekki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="x">tietenki</t>
+            <t pos="adv">tietenki</t>
+            <t pos="adv">tietysti</t>
          </tg>
       </mg>
    </e>
