@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI"
+"../script/nobfkv.dtd">
 <?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<r>
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -386,7 +387,7 @@ For the full license text, see the link above.</lic>
       <l decl="a2">forståelig</l>
       <mg>
          <tg>
-            <t pos="xa">ymmärrettäävä</t>
+            <t pos="a">ymmärrettäävä</t>
          </tg>
       </mg>
    </e>
@@ -1141,5 +1142,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
 </r>
