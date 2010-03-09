@@ -2,11 +2,11 @@
 @import "../../scripts/gt_dictionary.css";
 
 l:after {
-    content: ' ' attr(decl);
+    content: attr(decl);
 }
 
 t[decl]:after {
-    content: ' ' attr(decl);
+    content: attr(decl);
 }
 
 stem {
@@ -45,7 +45,7 @@ stem + t:before {
 }
 
 syng  {
-    display: block;
+    display: inline;
 }
 
 syng syn {
