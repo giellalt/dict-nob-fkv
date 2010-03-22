@@ -27,7 +27,7 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l decl="pron">alle</l>
+      <l pos="pron">alle</l>
       <mg>
          <tg>
             <t pos="pron">kaikki</t>
@@ -35,7 +35,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">annen</l>
+      <l pos="pron">annen</l>
       <mg>
          <tg>
             <t pos="x">eri</t>
@@ -43,7 +43,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">begge</l>
+      <l pos="pron">begge</l>
       <mg>
          <tg>
             <t pos="pron">molemat</t>
@@ -53,7 +53,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">de</l>
+      <l pos="pron">de</l>
       <mg>
          <tg>
             <t pos="pron">net</t>
@@ -63,7 +63,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">den</l>
+      <l pos="pron">den</l>
       <mg>
          <tg>
             <t pos="pron">se</t>
@@ -73,7 +73,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">denne</l>
+      <l pos="pron">denne</l>
       <mg>
          <tg>
             <t pos="pron">tämä</t>
@@ -82,7 +82,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">dere</l>
+      <l pos="pron">dere</l>
       <mg>
          <tg>
             <t pos="pron">tet:tei</t>
@@ -90,7 +90,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">du</l>
+      <l pos="pron">du</l>
       <mg>
          <tg>
             <t pos="pron">sie</t>
@@ -100,7 +100,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">han</l>
+      <l pos="pron">han</l>
       <mg>
          <tg>
             <t pos="x">hän</t>
@@ -109,7 +109,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">hva</l>
+      <l pos="pron">hva</l>
       <mg>
          <tg>
             <t pos="pron">mikä</t>
@@ -127,7 +127,7 @@ For the full license text, see the link above.</lic>
       </syng>
    </e>
    <e>
-      <l decl="pron">hvem</l>
+      <l pos="pron">hvem</l>
       <mg>
          <tg>
             <t pos="x">kuka</t>
@@ -137,7 +137,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">hver</l>
+      <l pos="pron">hver</l>
       <mg>
          <tg>
             <t pos="pron">joka</t>
@@ -145,7 +145,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">hvilken</l>
+      <l pos="pron">hvilken</l>
       <mg>
          <tg>
             <t pos="pron">mikä</t>
@@ -153,7 +153,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">hvor</l>
+      <l pos="pron">hvor</l>
       <mg>
          <tg>
             <t pos="pron">missä</t>
@@ -161,7 +161,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">hvordan</l>
+      <l pos="pron">hvordan</l>
       <mg>
          <tg>
             <t pos="pron">kunka</t>
@@ -186,7 +186,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">hvorfor</l>
+      <l pos="pron">hvorfor</l>
       <mg>
          <tg>
             <t pos="pron">miksi</t>
@@ -194,7 +194,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">hvorfra</l>
+      <l pos="pron">hvorfra</l>
       <mg>
          <tg>
             <t pos="pron">mistä</t>
@@ -202,7 +202,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">hvorhen</l>
+      <l pos="pron">hvorhen</l>
       <mg>
          <tg>
             <t pos="pron">minne</t>
@@ -210,7 +210,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">ingen</l>
+      <l pos="pron">ingen</l>
       <mg>
          <tg>
             <t pos="x">ei kukhaan</t>
@@ -218,7 +218,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">ingenting</l>
+      <l pos="pron">ingenting</l>
       <mg>
          <tg>
             <t pos="x">ei mithään</t>
@@ -230,7 +230,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">jeg</l>
+      <l pos="pron">jeg</l>
       <mg>
          <tg>
             <t pos="x">mie</t>
@@ -240,7 +240,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">mange</l>
+      <l pos="pron">mange</l>
       <mg>
          <tg>
             <t pos="pron">moni</t>
@@ -250,7 +250,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">min</l>
+      <l pos="pron">min</l>
       <mg>
          <tg>
             <t pos="pron">minun</t>
@@ -258,7 +258,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">noen</l>
+      <l pos="pron">noen</l>
       <mg>
          <tg>
             <t pos="pron">muutama</t>
@@ -272,7 +272,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">selv</l>
+      <l pos="pron">selv</l>
       <mg>
          <tg>
             <t pos="pron">itte</t>
@@ -280,7 +280,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">som</l>
+      <l pos="pron">som</l>
       <mg>
          <tg>
             <t pos="pron">joka</t>
@@ -288,7 +288,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="pron">vi</l>
+      <l pos="pron">vi</l>
       <mg>
          <tg>
             <t pos="pron">met</t>

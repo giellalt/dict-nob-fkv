@@ -27,7 +27,7 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l decl="num" type="ord">ellevte</l>
+      <l pos="num" type="ord">ellevte</l>
       <mg>
          <tg>
             <t pos="num">yhđestoista</t>
@@ -35,7 +35,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">en</l>
+      <l pos="num">en</l>
       <mg>
          <tg>
             <t pos="num">yksi</t>
@@ -45,7 +45,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">fem</l>
+      <l pos="num">fem</l>
       <mg>
          <tg>
             <t pos="num">viisi</t>
@@ -56,7 +56,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">femten</l>
+      <l pos="num">femten</l>
       <mg>
          <tg>
             <t pos="num">viisitoista</t>
@@ -65,7 +65,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">femti</l>
+      <l pos="num">femti</l>
       <mg>
          <tg>
             <t pos="num">viiskymmentä</t>
@@ -75,7 +75,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">fire</l>
+      <l pos="num">fire</l>
       <mg>
          <tg>
             <t pos="num">nelje</t>
@@ -83,7 +83,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num" type="ord">fjerde</l>
+      <l pos="num" type="ord">fjerde</l>
       <mg>
          <tg>
             <t pos="num">neljes</t>
@@ -93,7 +93,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">hundre</l>
+      <l pos="num">hundre</l>
       <mg>
          <tg>
             <t pos="num">sata</t>
@@ -103,7 +103,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">ni</l>
+      <l pos="num">ni</l>
       <mg>
          <tg>
             <t pos="num">yhđeksen</t>
@@ -111,7 +111,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">seks</l>
+      <l pos="num">seks</l>
       <mg>
          <tg>
             <t pos="num">kuus</t>
@@ -126,7 +126,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">sekshundre</l>
+      <l pos="num">sekshundre</l>
       <mg>
          <tg>
             <t pos="num">kuusisattaa</t>
@@ -134,7 +134,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">seksten</l>
+      <l pos="num">seksten</l>
       <mg>
          <tg>
             <t pos="num">kuusitoista</t>
@@ -142,7 +142,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">seksti</l>
+      <l pos="num">seksti</l>
       <mg>
          <tg>
             <t pos="num">kuusikymmentä</t>
@@ -150,7 +150,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">sekstusen</l>
+      <l pos="num">sekstusen</l>
       <mg>
          <tg>
             <t pos="num">kuusituhatta</t>
@@ -158,7 +158,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num" type="ord">sjette</l>
+      <l pos="num" type="ord">sjette</l>
       <mg>
          <tg>
             <t pos="num">kuuđes</t>
@@ -168,7 +168,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">sju</l>
+      <l pos="num">sju</l>
       <mg>
          <tg>
             <t pos="num">seittemen</t>
@@ -177,7 +177,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">ti</l>
+      <l pos="num">ti</l>
       <mg>
          <tg>
             <t pos="num">kymmenen</t>
@@ -185,7 +185,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num" type="ord">tiende</l>
+      <l pos="num" type="ord">tiende</l>
       <mg>
          <tg>
             <t pos="num">kymmenes</t>
@@ -195,7 +195,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">tjue</l>
+      <l pos="num">tjue</l>
       <mg>
          <tg>
             <t pos="num">kakskymmentä</t>
@@ -204,7 +204,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">to</l>
+      <l pos="num">to</l>
       <mg>
          <tg>
             <t pos="num">kaksi</t>
@@ -214,7 +214,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">tolv</l>
+      <l pos="num">tolv</l>
       <mg>
          <tg>
             <t pos="num">kakstoista</t>
@@ -222,7 +222,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">totusen</l>
+      <l pos="num">totusen</l>
       <mg>
          <tg>
             <t pos="num">kakstuhatta</t>
@@ -230,7 +230,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">tre</l>
+      <l pos="num">tre</l>
       <mg>
          <tg>
             <t pos="num">kolme</t>
@@ -238,7 +238,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">trehundre</l>
+      <l pos="num">trehundre</l>
       <mg>
          <tg>
             <t pos="num">kolmesattaa</t>
@@ -246,7 +246,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">tretti</l>
+      <l pos="num">tretti</l>
       <mg>
          <tg>
             <t pos="num">kolmekymmentä</t>
@@ -254,7 +254,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">åtte</l>
+      <l pos="num">åtte</l>
       <mg>
          <tg>
             <t pos="num">kahđeksen</t>
@@ -263,7 +263,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">åttehundre</l>
+      <l pos="num">åttehundre</l>
       <mg>
          <tg>
             <t pos="num">kahđeksensattaa</t>
@@ -272,7 +272,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="num">åtti</l>
+      <l pos="num">åtti</l>
       <mg>
          <tg>
             <t pos="num">kahđeksenkymmentä</t>

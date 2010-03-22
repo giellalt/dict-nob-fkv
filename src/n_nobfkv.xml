@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
+
+<!DOCTYPE r SYSTEM "../script/nobfkv.dtd">
+
+<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?><?xml-stylesheet type="text/css" href="../script/nobfkv.css"?><?xml-stylesheet type="text/xsl" href="../script/nobfkv.xsl"?>
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -27,7 +29,7 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l decl="n">agn</l>
+      <l pos="n">agn</l>
       <mg>
          <tg>
             <t pos="n">syöttä</t>
@@ -40,7 +42,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">alter</l>
+      <l pos="n">alter</l>
       <mg>
          <tg>
             <t pos="n">alttari</t>
@@ -48,7 +50,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">angrep</l>
+      <l pos="n">angrep</l>
       <mg>
          <tg>
             <t pos="n">hyökkäys</t>
@@ -57,7 +59,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">anker</l>
+      <l pos="n">anker</l>
       <mg>
          <tg>
             <t pos="n">ankkuri</t>
@@ -68,7 +70,7 @@ For the full license text, see the link above.</lic>
       </syng>
    </e>
    <e>
-      <l decl="n">ansikt</l>
+      <l pos="n">ansikt</l>
       <mg>
          <tg>
             <t pos="n">kasvot</t>
@@ -81,7 +83,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">ansvar</l>
+      <l pos="n">ansvar</l>
       <mg>
          <tg>
             <t pos="n">velvolisuus</t>
@@ -91,7 +93,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">antall</l>
+      <l pos="n">antall</l>
       <mg>
          <tg>
             <t pos="n">lukumäärä</t>
@@ -99,7 +101,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">arbeid</l>
+      <l pos="n">arbeid</l>
       <mg>
          <tg>
             <t pos="n">työ</t>
@@ -110,7 +112,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">arbeide</l>
+      <l pos="n">arbeide</l>
       <mg>
          <tg>
             <t pos="n">työnteko</t>
@@ -120,7 +122,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">ark</l>
+      <l pos="n">ark</l>
       <mg>
          <tg>
             <t pos="n">arkki</t>
@@ -129,7 +131,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">armbåndsur</l>
+      <l pos="n">armbåndsur</l>
       <mg>
          <tg>
             <t pos="n">käsikello</t>
@@ -137,7 +139,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">avslag</l>
+      <l pos="n">avslag</l>
       <mg>
          <tg>
             <t pos="n">kielto</t>
@@ -147,7 +149,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bad</l>
+      <l pos="n">bad</l>
       <mg>
          <tg>
             <t pos="n">sauna</t>
@@ -155,7 +157,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bakbein</l>
+      <l pos="n">bakbein</l>
       <mg>
          <tg>
             <t pos="n">takajalka</t>
@@ -165,7 +167,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bannord</l>
+      <l pos="n">bannord</l>
       <mg>
          <tg>
             <t pos="n">kiroussana</t>
@@ -174,7 +176,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">barn</l>
+      <l pos="n">barn</l>
       <mg>
          <tg>
             <t pos="n">lapsi</t>
@@ -184,7 +186,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">barnebarn</l>
+      <l pos="n">barnebarn</l>
       <mg>
          <tg>
             <t pos="n">lapsenlapsi</t>
@@ -194,7 +196,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">barneleie</l>
+      <l pos="n">barneleie</l>
       <mg>
          <tg>
             <t pos="n">lapsenvuođet</t>
@@ -203,7 +205,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">batteri</l>
+      <l pos="n">batteri</l>
       <mg>
          <tg>
             <t pos="n">patteri</t>
@@ -211,7 +213,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">beger</l>
+      <l pos="n">beger</l>
       <mg>
          <tg>
             <t pos="n">pikari</t>
@@ -219,7 +221,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">behov</l>
+      <l pos="n">behov</l>
       <mg>
          <tg>
             <t pos="n">tarvet</t>
@@ -228,7 +230,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bein</l>
+      <l pos="n">bein</l>
       <mg>
          <tg>
             <t pos="n">luu</t>
@@ -236,7 +238,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">beite</l>
+      <l pos="n">beite</l>
       <mg>
          <tg>
             <t pos="n">laiđun</t>
@@ -245,7 +247,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bek</l>
+      <l pos="n">bek</l>
       <mg>
          <tg>
             <t pos="n">piki</t>
@@ -254,7 +256,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">beksel</l>
+      <l pos="n">beksel</l>
       <mg>
          <tg>
             <t pos="n">kuolain</t>
@@ -263,7 +265,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">belte</l>
+      <l pos="n">belte</l>
       <mg>
          <tg>
             <t pos="n">vyö</t>
@@ -271,7 +273,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">berg</l>
+      <l pos="n">berg</l>
       <mg>
          <tg>
             <t pos="n">pahta</t>
@@ -280,7 +282,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bilde</l>
+      <l pos="n">bilde</l>
       <mg>
          <tg>
             <t pos="n">kuva</t>
@@ -289,7 +291,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bislag</l>
+      <l pos="n">bislag</l>
       <mg>
          <tg>
             <t pos="n">pislaaki</t>
@@ -299,7 +301,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bjørkeris</l>
+      <l pos="n">bjørkeris</l>
       <mg>
          <tg>
             <t pos="n">varpu</t>
@@ -309,7 +311,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bjørnehi</l>
+      <l pos="n">bjørnehi</l>
       <mg>
          <tg>
             <t pos="n">karhhuunpesä</t>
@@ -318,7 +320,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">blad</l>
+      <l pos="n">blad</l>
       <mg>
          <tg>
             <t pos="n">lehti</t>
@@ -333,7 +335,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">blekk</l>
+      <l pos="n">blekk</l>
       <mg>
          <tg>
             <t pos="n">pläkki</t>
@@ -342,7 +344,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">blekkhus</l>
+      <l pos="n">blekkhus</l>
       <mg>
          <tg>
             <t pos="n">pläkkiklasi</t>
@@ -351,7 +353,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">blod</l>
+      <l pos="n">blod</l>
       <mg>
          <tg>
             <t pos="n">veri</t>
@@ -361,7 +363,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">blodtrykk</l>
+      <l pos="n">blodtrykk</l>
       <mg>
          <tg>
             <t pos="n">verenpaino</t>
@@ -369,7 +371,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">blunk</l>
+      <l pos="n">blunk</l>
       <mg>
          <tg>
             <t pos="n">räphäys</t>
@@ -378,7 +380,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">boblebad</l>
+      <l pos="n">boblebad</l>
       <mg>
          <tg>
             <t pos="n">kiehusauna</t>
@@ -387,7 +389,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bolster</l>
+      <l pos="n">bolster</l>
       <mg>
          <tg>
             <t pos="n">palja</t>
@@ -397,7 +399,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bor</l>
+      <l pos="n">bor</l>
       <mg>
          <tg>
             <t pos="n">pori</t>
@@ -406,7 +408,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bord</l>
+      <l pos="n">bord</l>
       <mg>
          <tg>
             <t pos="n">pöytä</t>
@@ -416,7 +418,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bordbein</l>
+      <l pos="n">bordbein</l>
       <mg>
          <tg>
             <t pos="n">pöyđänjalka</t>
@@ -426,7 +428,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bosted</l>
+      <l pos="n">bosted</l>
       <mg>
          <tg>
             <t pos="n">asumapaikka</t>
@@ -435,7 +437,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">brev</l>
+      <l pos="n">brev</l>
       <mg>
          <tg>
             <t pos="n">preevi</t>
@@ -443,7 +445,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bruhode</l>
+      <l pos="n">bruhode</l>
       <mg>
          <tg>
             <t pos="n">sillankorva</t>
@@ -451,7 +453,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bruk</l>
+      <l pos="n">bruk</l>
       <mg>
          <tg>
             <t pos="n">pruuki</t>
@@ -461,7 +463,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bry</l>
+      <l pos="n">bry</l>
       <mg>
          <tg>
             <t pos="n">vaiva</t>
@@ -469,7 +471,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bryllup</l>
+      <l pos="n">bryllup</l>
       <mg>
          <tg>
             <t pos="n">häät</t>
@@ -479,7 +481,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bryst</l>
+      <l pos="n">bryst</l>
       <mg>
          <tg>
             <t pos="n">nänni</t>
@@ -501,7 +503,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">brådyp</l>
+      <l pos="n">brådyp</l>
       <mg>
          <tg>
             <t pos="n">pänkärä</t>
@@ -509,7 +511,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">brød</l>
+      <l pos="n">brød</l>
       <mg>
          <tg>
             <t pos="n">leipä</t>
@@ -519,7 +521,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">brøl</l>
+      <l pos="n">brøl</l>
       <mg>
          <tg>
             <t pos="n">karju</t>
@@ -527,7 +529,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">budskap</l>
+      <l pos="n">budskap</l>
       <mg>
          <tg>
             <t pos="n">sanoma</t>
@@ -535,7 +537,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bukkeskjell</l>
+      <l pos="n">bukkeskjell</l>
       <mg>
          <tg>
             <t pos="n">pukin raakku</t>
@@ -546,7 +548,7 @@ For the full license text, see the link above.</lic>
       </syng>
    </e>
    <e>
-      <l decl="n">bulder</l>
+      <l pos="n">bulder</l>
       <mg>
          <tg>
             <t pos="n">jyrinä</t>
@@ -554,7 +556,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bur</l>
+      <l pos="n">bur</l>
       <mg>
          <tg>
             <t pos="n">häkki</t>
@@ -563,7 +565,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bygg</l>
+      <l pos="n">bygg</l>
       <mg>
          <tg>
             <t pos="n">ohra</t>
@@ -571,7 +573,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bytte</l>
+      <l pos="n">bytte</l>
       <mg>
          <tg>
             <t pos="n">vaihetus</t>
@@ -580,7 +582,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">bånd</l>
+      <l pos="n">bånd</l>
       <mg>
          <tg>
             <t pos="n">nauha</t>
@@ -591,7 +593,7 @@ For the full license text, see the link above.</lic>
       </syng>
    </e>
    <e>
-      <l decl="n">dagslys</l>
+      <l pos="n">dagslys</l>
       <mg>
          <tg>
             <t pos="n">päivännäkö</t>
@@ -599,7 +601,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">dekk</l>
+      <l pos="n">dekk</l>
       <mg>
          <tg>
             <t pos="n">täkki</t>
@@ -608,7 +610,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">dekke</l>
+      <l pos="n">dekke</l>
       <mg>
          <tg>
             <t pos="n">peitet</t>
@@ -621,7 +623,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">departement</l>
+      <l pos="n">departement</l>
       <mg>
          <tg>
             <t pos="n">teparttimentti</t>
@@ -630,7 +632,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">diplom</l>
+      <l pos="n">diplom</l>
       <mg>
          <tg>
             <t pos="n">tipluumi</t>
@@ -638,7 +640,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">dokument</l>
+      <l pos="n">dokument</l>
       <mg>
          <tg>
             <t pos="n">tokymentti</t>
@@ -647,7 +649,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">drikkeglass</l>
+      <l pos="n">drikkeglass</l>
       <mg>
          <tg>
             <t pos="n">juomaklasi</t>
@@ -656,7 +658,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">dun</l>
+      <l pos="n">dun</l>
       <mg>
          <tg>
             <t pos="n">höyhen</t>
@@ -665,7 +667,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">dusin</l>
+      <l pos="n">dusin</l>
       <mg>
          <tg>
             <t pos="n">tusina</t>
@@ -673,7 +675,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">dyp</l>
+      <l pos="n">dyp</l>
       <mg>
          <tg>
             <t pos="n">syvvyys</t>
@@ -683,7 +685,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">dåpsbarn</l>
+      <l pos="n">dåpsbarn</l>
       <mg>
          <tg>
             <t pos="n">ristilapsi</t>
@@ -693,7 +695,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">dødsbudskap</l>
+      <l pos="n">dødsbudskap</l>
       <mg>
          <tg>
             <t pos="n">kuolemansanoma</t>
@@ -701,7 +703,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">døgn</l>
+      <l pos="n">døgn</l>
       <mg>
          <tg>
             <t pos="n">vuorokausi</t>
@@ -714,7 +716,7 @@ For the full license text, see the link above.</lic>
       </syng>
    </e>
    <e>
-      <l decl="n">egg</l>
+      <l pos="n">egg</l>
       <mg>
          <tg>
             <t pos="n">muna</t>
@@ -723,7 +725,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">eie</l>
+      <l pos="n">eie</l>
       <mg>
          <tg>
             <t pos="n">omistus</t>
@@ -732,7 +734,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">ekko</l>
+      <l pos="n">ekko</l>
       <mg>
          <tg>
             <t pos="n">kaiku</t>
@@ -742,7 +744,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">ekorn</l>
+      <l pos="n">ekorn</l>
       <mg>
          <tg>
             <t pos="n">orava</t>
@@ -750,7 +752,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">ektepar</l>
+      <l pos="n">ektepar</l>
       <mg>
          <tg>
             <t pos="n">aviopari</t>
@@ -759,7 +761,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">ekteskap</l>
+      <l pos="n">ekteskap</l>
       <mg>
          <tg>
             <t pos="n">avioliitto</t>
@@ -768,7 +770,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">elvedele</l>
+      <l pos="n">elvedele</l>
       <mg>
          <tg>
             <t pos="n">jovenhaara</t>
@@ -776,7 +778,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">elvevann</l>
+      <l pos="n">elvevann</l>
       <mg>
          <tg>
             <t pos="n">jokivesi</t>
@@ -786,7 +788,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">eple</l>
+      <l pos="n">eple</l>
       <mg>
          <tg>
             <t pos="n">äpyli</t>
@@ -794,7 +796,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">erme</l>
+      <l pos="n">erme</l>
       <mg>
          <tg>
             <t pos="n">hija</t>
@@ -803,7 +805,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fag</l>
+      <l pos="n">fag</l>
       <mg>
          <tg>
             <t pos="n">faaki</t>
@@ -812,7 +814,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fang</l>
+      <l pos="n">fang</l>
       <mg>
          <tg>
             <t pos="n">syli</t>
@@ -821,7 +823,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fat</l>
+      <l pos="n">fat</l>
       <mg>
          <tg>
             <t pos="n">fati</t>
@@ -831,7 +833,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fedreland</l>
+      <l pos="n">fedreland</l>
       <mg>
          <tg>
             <t pos="n">isänmaa</t>
@@ -839,7 +841,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fellesskap</l>
+      <l pos="n">fellesskap</l>
       <mg>
          <tg>
             <t pos="n">yhtheys</t>
@@ -849,7 +851,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">feste</l>
+      <l pos="n">feste</l>
       <mg>
          <tg>
             <t pos="n">kiinitys</t>
@@ -858,7 +860,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fett</l>
+      <l pos="n">fett</l>
       <mg>
          <tg>
             <t pos="n">kuu</t>
@@ -874,7 +876,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fingerbøl</l>
+      <l pos="n">fingerbøl</l>
       <mg>
          <tg>
             <t pos="n">fingerpori</t>
@@ -890,7 +892,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fiske</l>
+      <l pos="n">fiske</l>
       <mg>
          <tg>
             <t pos="n">kalanpyytö</t>
@@ -911,7 +913,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fiskebein</l>
+      <l pos="n">fiskebein</l>
       <mg>
          <tg>
             <t pos="n">ruoto</t>
@@ -921,7 +923,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fiskeskinn</l>
+      <l pos="n">fiskeskinn</l>
       <mg>
          <tg>
             <t pos="n">suomu</t>
@@ -929,7 +931,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fiskeskjell</l>
+      <l pos="n">fiskeskjell</l>
       <mg>
          <tg>
             <t pos="n">suomus</t>
@@ -938,7 +940,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fiskevandringssted</l>
+      <l pos="n">fiskevandringssted</l>
       <mg>
          <tg>
             <t pos="n">kalannousupaikka</t>
@@ -947,7 +949,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fjell</l>
+      <l pos="n">fjell</l>
       <mg>
          <tg>
             <t pos="n">tunturi</t>
@@ -960,7 +962,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fjøs</l>
+      <l pos="n">fjøs</l>
       <mg>
          <tg>
             <t pos="n">navetta</t>
@@ -969,7 +971,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">flagg</l>
+      <l pos="n">flagg</l>
       <mg>
          <tg>
             <t pos="n">flaku</t>
@@ -979,7 +981,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">flak</l>
+      <l pos="n">flak</l>
       <mg>
          <tg>
             <t pos="n">paltto</t>
@@ -988,7 +990,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">flass</l>
+      <l pos="n">flass</l>
       <mg>
          <tg>
             <t pos="n">köhnä</t>
@@ -996,7 +998,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fokk</l>
+      <l pos="n">fokk</l>
       <mg>
          <tg>
             <t pos="n">tuisku</t>
@@ -1004,7 +1006,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">folk</l>
+      <l pos="n">folk</l>
       <mg>
          <tg>
             <t pos="n">kansa</t>
@@ -1020,7 +1022,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">forbund</l>
+      <l pos="n">forbund</l>
       <mg>
          <tg>
             <t pos="n">liitto</t>
@@ -1029,7 +1031,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">forhold</l>
+      <l pos="n">forhold</l>
       <mg>
          <tg>
             <t pos="n">suhtet</t>
@@ -1043,7 +1045,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">forkle</l>
+      <l pos="n">forkle</l>
       <mg>
          <tg>
             <t pos="n">vyöliina</t>
@@ -1051,7 +1053,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">forlystelsessted</l>
+      <l pos="n">forlystelsessted</l>
       <mg>
          <tg>
             <t pos="n">huvituskenttä</t>
@@ -1060,7 +1062,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fornavn</l>
+      <l pos="n">fornavn</l>
       <mg>
          <tg>
             <t pos="n">etunimi</t>
@@ -1070,7 +1072,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">forsete</l>
+      <l pos="n">forsete</l>
       <mg>
          <tg>
             <t pos="n">etupenkki</t>
@@ -1079,7 +1081,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">forslag</l>
+      <l pos="n">forslag</l>
       <mg>
          <tg>
             <t pos="n">ehđotus</t>
@@ -1088,7 +1090,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fosterbarn</l>
+      <l pos="n">fosterbarn</l>
       <mg>
          <tg>
             <t pos="n">ruokkolapsi</t>
@@ -1098,7 +1100,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">friskvernsenter</l>
+      <l pos="n">friskvernsenter</l>
       <mg>
          <tg>
             <t pos="n">tervheyssuojelusentteri</t>
@@ -1106,7 +1108,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">frø</l>
+      <l pos="n">frø</l>
       <mg>
          <tg>
             <t pos="n">siemen</t>
@@ -1115,7 +1117,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fuglereir</l>
+      <l pos="n">fuglereir</l>
       <mg>
          <tg>
             <t pos="n">linnunpesä</t>
@@ -1124,7 +1126,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fylke</l>
+      <l pos="n">fylke</l>
       <mg>
          <tg>
             <t pos="n">fylkki</t>
@@ -1133,7 +1135,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fôr</l>
+      <l pos="n">fôr</l>
       <mg>
          <tg>
             <t pos="n">rehu</t>
@@ -1142,7 +1144,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">fødeland</l>
+      <l pos="n">fødeland</l>
       <mg>
          <tg>
             <t pos="n">syntymämaa</t>
@@ -1150,7 +1152,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">føll</l>
+      <l pos="n">føll</l>
       <mg>
          <tg>
             <t pos="n">varsa</t>
@@ -1158,7 +1160,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">føre</l>
+      <l pos="n">føre</l>
       <mg>
          <tg>
             <t pos="n">keli</t>
@@ -1167,7 +1169,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">garn</l>
+      <l pos="n">garn</l>
       <mg>
          <tg>
             <t pos="n">lanka</t>
@@ -1183,7 +1185,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">garnfiske</l>
+      <l pos="n">garnfiske</l>
       <mg>
          <tg>
             <t pos="n">kulutus</t>
@@ -1192,7 +1194,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gebiss</l>
+      <l pos="n">gebiss</l>
       <mg>
          <tg>
             <t pos="n">ostohamphaat</t>
@@ -1200,7 +1202,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gebyr</l>
+      <l pos="n">gebyr</l>
       <mg>
          <tg>
             <t pos="n">lisämakso</t>
@@ -1208,7 +1210,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gjemmested</l>
+      <l pos="n">gjemmested</l>
       <mg>
          <tg>
             <t pos="n">piilo</t>
@@ -1216,7 +1218,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gjennomsnitt</l>
+      <l pos="n">gjennomsnitt</l>
       <mg>
          <tg>
             <t pos="n">keskimäärä</t>
@@ -1224,7 +1226,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gjerde</l>
+      <l pos="n">gjerde</l>
       <mg>
          <tg>
             <t pos="n">aita</t>
@@ -1234,7 +1236,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gjesp</l>
+      <l pos="n">gjesp</l>
       <mg>
          <tg>
             <t pos="n">haukka</t>
@@ -1243,7 +1245,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gjestebud</l>
+      <l pos="n">gjestebud</l>
       <mg>
          <tg>
             <t pos="n">piđot</t>
@@ -1253,7 +1255,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gjestgiveri</l>
+      <l pos="n">gjestgiveri</l>
       <mg>
          <tg>
             <t pos="n">kestikievari</t>
@@ -1261,7 +1263,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">glass</l>
+      <l pos="n">glass</l>
       <mg>
          <tg>
             <t pos="n">klasi</t>
@@ -1270,7 +1272,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">godteri</l>
+      <l pos="n">godteri</l>
       <mg>
          <tg>
             <t pos="n">makkee</t>
@@ -1278,7 +1280,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">grep</l>
+      <l pos="n">grep</l>
       <mg>
          <tg>
             <t pos="n">otet</t>
@@ -1287,7 +1289,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gress</l>
+      <l pos="n">gress</l>
       <mg>
          <tg>
             <t pos="n">nurmi</t>
@@ -1306,7 +1308,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">grev</l>
+      <l pos="n">grev</l>
       <mg>
          <tg>
             <t pos="n">kuokka</t>
@@ -1315,7 +1317,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">grovarbeid</l>
+      <l pos="n">grovarbeid</l>
       <mg>
          <tg>
             <t pos="n">krouvityö</t>
@@ -1323,7 +1325,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">grovbrød</l>
+      <l pos="n">grovbrød</l>
       <mg>
          <tg>
             <t pos="n">krouvileipä</t>
@@ -1333,7 +1335,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">grovmel</l>
+      <l pos="n">grovmel</l>
       <mg>
          <tg>
             <t pos="n">krouvijauho</t>
@@ -1341,7 +1343,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">grovsalt</l>
+      <l pos="n">grovsalt</l>
       <mg>
          <tg>
             <t pos="n">krouvisuola</t>
@@ -1349,7 +1351,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">grugg</l>
+      <l pos="n">grugg</l>
       <mg>
          <tg>
             <t pos="n">sumppu</t>
@@ -1358,7 +1360,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gruggvann</l>
+      <l pos="n">gruggvann</l>
       <mg>
          <tg>
             <t pos="n">sumppuvesi</t>
@@ -1368,7 +1370,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">grustak</l>
+      <l pos="n">grustak</l>
       <mg>
          <tg>
             <t pos="n">kryysitaaki</t>
@@ -1377,7 +1379,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gry</l>
+      <l pos="n">gry</l>
       <mg>
          <tg>
             <t pos="n">koitto</t>
@@ -1386,7 +1388,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gryn</l>
+      <l pos="n">gryn</l>
       <mg>
          <tg>
             <t pos="n">kryyni</t>
@@ -1394,7 +1396,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gull</l>
+      <l pos="n">gull</l>
       <mg>
          <tg>
             <t pos="n">kulta</t>
@@ -1404,7 +1406,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">gulv</l>
+      <l pos="n">gulv</l>
       <mg>
          <tg>
             <t pos="n">laattii</t>
@@ -1412,7 +1414,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hagl</l>
+      <l pos="n">hagl</l>
       <mg>
          <tg>
             <t pos="n">hauli</t>
@@ -1420,7 +1422,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">haglegevær</l>
+      <l pos="n">haglegevær</l>
       <mg>
          <tg>
             <t pos="n">haulikko</t>
@@ -1429,7 +1431,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hakk</l>
+      <l pos="n">hakk</l>
       <mg>
          <tg>
             <t pos="n">lovi</t>
@@ -1439,7 +1441,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">handarbeid</l>
+      <l pos="n">handarbeid</l>
       <mg>
          <tg>
             <t pos="n">käsityö</t>
@@ -1447,7 +1449,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">handtak</l>
+      <l pos="n">handtak</l>
       <mg>
          <tg>
             <t pos="n">sanka</t>
@@ -1457,7 +1459,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">harespor</l>
+      <l pos="n">harespor</l>
       <mg>
          <tg>
             <t pos="n">rannii</t>
@@ -1465,7 +1467,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hat</l>
+      <l pos="n">hat</l>
       <mg>
          <tg>
             <t pos="n">viha</t>
@@ -1474,7 +1476,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hav</l>
+      <l pos="n">hav</l>
       <mg>
          <tg>
             <t pos="n">aapa</t>
@@ -1491,7 +1493,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">havregryn</l>
+      <l pos="n">havregryn</l>
       <mg>
          <tg>
             <t pos="n">kaurakryyni</t>
@@ -1499,7 +1501,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hektar</l>
+      <l pos="n">hektar</l>
       <mg>
          <tg>
             <t pos="n">hehtari</t>
@@ -1507,7 +1509,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">helvete</l>
+      <l pos="n">helvete</l>
       <mg>
          <tg>
             <t pos="n">helvetti</t>
@@ -1516,7 +1518,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hengelås</l>
+      <l pos="n">hengelås</l>
       <mg>
          <tg>
             <t pos="n">munalukku</t>
@@ -1525,7 +1527,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">herrefolk</l>
+      <l pos="n">herrefolk</l>
       <mg>
          <tg>
             <t pos="n">herrasväki</t>
@@ -1535,7 +1537,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hestedekken</l>
+      <l pos="n">hestedekken</l>
       <mg>
          <tg>
             <t pos="n">loimi</t>
@@ -1545,7 +1547,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hesteskjell</l>
+      <l pos="n">hesteskjell</l>
       <mg>
          <tg>
             <t pos="n">hevosen raakku</t>
@@ -1556,7 +1558,7 @@ For the full license text, see the link above.</lic>
       </syng>
    </e>
    <e>
-      <l decl="n">hi</l>
+      <l pos="n">hi</l>
       <mg>
          <tg>
             <t pos="n">pesä</t>
@@ -1565,7 +1567,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hjemarbeid</l>
+      <l pos="n">hjemarbeid</l>
       <mg>
          <tg>
             <t pos="n">kotityö</t>
@@ -1573,7 +1575,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hjemland</l>
+      <l pos="n">hjemland</l>
       <mg>
          <tg>
             <t pos="n">kotimaa</t>
@@ -1581,7 +1583,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hjerte</l>
+      <l pos="n">hjerte</l>
       <mg>
          <tg>
             <t pos="n">syđän</t>
@@ -1590,7 +1592,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hjul</l>
+      <l pos="n">hjul</l>
       <mg>
          <tg>
             <t pos="n">ratas</t>
@@ -1599,7 +1601,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hjørne</l>
+      <l pos="n">hjørne</l>
       <mg>
          <tg>
             <t pos="n">loukko</t>
@@ -1612,7 +1614,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hode</l>
+      <l pos="n">hode</l>
       <mg>
          <tg>
             <t pos="n">pää</t>
@@ -1620,7 +1622,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hoftebein</l>
+      <l pos="n">hoftebein</l>
       <mg>
          <tg>
             <t pos="n">ronkkaluu</t>
@@ -1628,7 +1630,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">holkeføre</l>
+      <l pos="n">holkeføre</l>
       <mg>
          <tg>
             <t pos="n">kaljamaa</t>
@@ -1636,7 +1638,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hopp</l>
+      <l pos="n">hopp</l>
       <mg>
          <tg>
             <t pos="n">hyppy</t>
@@ -1645,7 +1647,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hoppetau</l>
+      <l pos="n">hoppetau</l>
       <mg>
          <tg>
             <t pos="n">hyppytouvi</t>
@@ -1653,7 +1655,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">horn</l>
+      <l pos="n">horn</l>
       <mg>
          <tg>
             <t pos="n">sarvi</t>
@@ -1670,7 +1672,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hull</l>
+      <l pos="n">hull</l>
       <mg>
          <tg>
             <t pos="n">reikä</t>
@@ -1680,7 +1682,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">humør</l>
+      <l pos="n">humør</l>
       <mg>
          <tg>
             <t pos="n">mieli</t>
@@ -1690,7 +1692,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hunndyr</l>
+      <l pos="n">hunndyr</l>
       <mg>
          <tg>
             <t pos="x">runo</t>
@@ -1699,7 +1701,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hus</l>
+      <l pos="n">hus</l>
       <mg>
          <tg>
             <t pos="n">huonet</t>
@@ -1716,7 +1718,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">husdyr</l>
+      <l pos="n">husdyr</l>
       <mg>
          <tg>
             <t pos="n">kotielläin</t>
@@ -1725,7 +1727,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">husgeråd</l>
+      <l pos="n">husgeråd</l>
       <mg>
          <tg>
             <t pos="n">huonheenkalu</t>
@@ -1734,7 +1736,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hvetebrød</l>
+      <l pos="n">hvetebrød</l>
       <mg>
          <tg>
             <t pos="n">nisuleipä</t>
@@ -1744,7 +1746,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hvetemel</l>
+      <l pos="n">hvetemel</l>
       <mg>
          <tg>
             <t pos="n">nisujauho</t>
@@ -1752,7 +1754,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">håp</l>
+      <l pos="n">håp</l>
       <mg>
          <tg>
             <t pos="n">toivo</t>
@@ -1760,7 +1762,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hår</l>
+      <l pos="n">hår</l>
       <mg>
          <tg>
             <t pos="n">hyksi</t>
@@ -1774,7 +1776,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">hønseegg</l>
+      <l pos="n">hønseegg</l>
       <mg>
          <tg>
             <t pos="n">kananmuna</t>
@@ -1783,7 +1785,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">høy</l>
+      <l pos="n">høy</l>
       <mg>
          <tg>
             <t pos="n">ruoho</t>
@@ -1794,7 +1796,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">høyarbeid</l>
+      <l pos="n">høyarbeid</l>
       <mg>
          <tg>
             <t pos="n">heinänteko</t>
@@ -1807,7 +1809,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">høylass</l>
+      <l pos="n">høylass</l>
       <mg>
          <tg>
             <t pos="n">heinäkuorma</t>
@@ -1815,7 +1817,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">høystrå</l>
+      <l pos="n">høystrå</l>
       <mg>
          <tg>
             <t pos="n">pilli</t>
@@ -1823,7 +1825,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">ildsted</l>
+      <l pos="n">ildsted</l>
       <mg>
          <tg>
             <t pos="n">arina</t>
@@ -1831,7 +1833,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">isflak</l>
+      <l pos="n">isflak</l>
       <mg>
          <tg>
             <t pos="n">jääpaltto</t>
@@ -1840,7 +1842,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">jern</l>
+      <l pos="n">jern</l>
       <mg>
          <tg>
             <t pos="n">rauta</t>
@@ -1850,7 +1852,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">jernspett</l>
+      <l pos="n">jernspett</l>
       <mg>
          <tg>
             <t pos="n">rautakanki</t>
@@ -1860,7 +1862,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">jernstativ</l>
+      <l pos="n">jernstativ</l>
       <mg>
          <tg>
             <t pos="n">rautapelli</t>
@@ -1868,7 +1870,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">juletre</l>
+      <l pos="n">juletre</l>
       <mg>
          <tg>
             <t pos="n">joulupuu</t>
@@ -1879,7 +1881,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">jur</l>
+      <l pos="n">jur</l>
       <mg>
          <tg>
             <t pos="n">tuumi</t>
@@ -1889,7 +1891,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kadaver</l>
+      <l pos="n">kadaver</l>
       <mg>
          <tg>
             <t pos="n">raato</t>
@@ -1899,7 +1901,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kamera</l>
+      <l pos="n">kamera</l>
       <mg>
          <tg>
             <t pos="n">kaamera</t>
@@ -1907,7 +1909,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kammers</l>
+      <l pos="n">kammers</l>
       <mg>
          <tg>
             <t pos="n">kamari</t>
@@ -1915,7 +1917,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kapell</l>
+      <l pos="n">kapell</l>
       <mg>
          <tg>
             <t pos="n">kapelli</t>
@@ -1923,7 +1925,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kar</l>
+      <l pos="n">kar</l>
       <mg>
          <tg>
             <t pos="n">astii</t>
@@ -1934,7 +1936,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kart</l>
+      <l pos="n">kart</l>
       <mg>
          <tg>
             <t pos="n">kartta</t>
@@ -1943,7 +1945,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kast</l>
+      <l pos="n">kast</l>
       <mg>
          <tg>
             <t pos="n">heitto</t>
@@ -1952,7 +1954,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kilo</l>
+      <l pos="n">kilo</l>
       <mg>
          <tg>
             <t pos="n">kilo</t>
@@ -1961,7 +1963,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kinn</l>
+      <l pos="n">kinn</l>
       <mg>
          <tg>
             <t pos="n">muoto</t>
@@ -1976,7 +1978,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kirkefolk</l>
+      <l pos="n">kirkefolk</l>
       <mg>
          <tg>
             <t pos="n">kirkkoväki</t>
@@ -1986,7 +1988,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kirkested</l>
+      <l pos="n">kirkested</l>
       <mg>
          <tg>
             <t pos="n">kirkonkylä</t>
@@ -1995,7 +1997,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kjennemerke</l>
+      <l pos="n">kjennemerke</l>
       <mg>
          <tg>
             <t pos="n">tunnusmerkki</t>
@@ -2004,7 +2006,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kjevebein</l>
+      <l pos="n">kjevebein</l>
       <mg>
          <tg>
             <t pos="n">leukaluu</t>
@@ -2012,7 +2014,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kjøkken</l>
+      <l pos="n">kjøkken</l>
       <mg>
          <tg>
             <t pos="n">köökki</t>
@@ -2021,7 +2023,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kjøp</l>
+      <l pos="n">kjøp</l>
       <mg>
          <tg>
             <t pos="n">osto</t>
@@ -2029,7 +2031,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kjøtt</l>
+      <l pos="n">kjøtt</l>
       <mg>
          <tg>
             <t pos="n">liha</t>
@@ -2038,7 +2040,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kjøttbein</l>
+      <l pos="n">kjøttbein</l>
       <mg>
          <tg>
             <t pos="n">kontti</t>
@@ -2047,7 +2049,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kjøttstykke</l>
+      <l pos="n">kjøttstykke</l>
       <mg>
          <tg>
             <t pos="n">muru</t>
@@ -2056,7 +2058,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kladdeføre</l>
+      <l pos="n">kladdeføre</l>
       <mg>
          <tg>
             <t pos="n">nätäkeli</t>
@@ -2065,7 +2067,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">klede</l>
+      <l pos="n">klede</l>
       <mg>
          <tg>
             <t pos="n">verka</t>
@@ -2075,7 +2077,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">klesplagg</l>
+      <l pos="n">klesplagg</l>
       <mg>
          <tg>
             <t pos="n">vaatet</t>
@@ -2084,7 +2086,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kne</l>
+      <l pos="n">kne</l>
       <mg>
          <tg>
             <t pos="n">polvi</t>
@@ -2094,7 +2096,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">knep</l>
+      <l pos="n">knep</l>
       <mg>
          <tg>
             <t pos="n">konsti</t>
@@ -2102,7 +2104,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">knippe</l>
+      <l pos="n">knippe</l>
       <mg>
          <tg>
             <t pos="n">kimppu</t>
@@ -2115,7 +2117,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kobber</l>
+      <l pos="n">kobber</l>
       <mg>
          <tg>
             <t pos="n">kupari</t>
@@ -2123,7 +2125,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kokekar</l>
+      <l pos="n">kokekar</l>
       <mg>
          <tg>
             <t pos="n">keittoastii</t>
@@ -2131,7 +2133,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">komma</l>
+      <l pos="n">komma</l>
       <mg>
          <tg>
             <t pos="n">komma</t>
@@ -2139,7 +2141,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kompani</l>
+      <l pos="n">kompani</l>
       <mg>
          <tg>
             <t pos="n">komppani</t>
@@ -2147,7 +2149,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kompromiss</l>
+      <l pos="n">kompromiss</l>
       <mg>
          <tg>
             <t pos="n">kompromissi</t>
@@ -2155,7 +2157,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kondom</l>
+      <l pos="n">kondom</l>
       <mg>
          <tg>
             <t pos="n">kortonki</t>
@@ -2165,7 +2167,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kontinent</l>
+      <l pos="n">kontinent</l>
       <mg>
          <tg>
             <t pos="n">mannermaa</t>
@@ -2173,7 +2175,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kontor</l>
+      <l pos="n">kontor</l>
       <mg>
          <tg>
             <t pos="n">kontturi</t>
@@ -2181,7 +2183,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kopper</l>
+      <l pos="n">kopper</l>
       <mg>
          <tg>
             <t pos="n">vaski</t>
@@ -2189,7 +2191,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">koppskap</l>
+      <l pos="n">koppskap</l>
       <mg>
          <tg>
             <t pos="n">astiikaappi</t>
@@ -2198,7 +2200,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kor</l>
+      <l pos="n">kor</l>
       <mg>
          <tg>
             <t pos="n">kuoro</t>
@@ -2206,7 +2208,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">korn</l>
+      <l pos="n">korn</l>
       <mg>
          <tg>
             <t pos="n">jyvä</t>
@@ -2215,7 +2217,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kors</l>
+      <l pos="n">kors</l>
       <mg>
          <tg>
             <t pos="n">risti</t>
@@ -2223,7 +2225,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kort</l>
+      <l pos="n">kort</l>
       <mg>
          <tg>
             <t pos="n">kortti</t>
@@ -2232,7 +2234,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kortspill</l>
+      <l pos="n">kortspill</l>
       <mg>
          <tg>
             <t pos="n">korttipakka</t>
@@ -2241,7 +2243,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">krydder</l>
+      <l pos="n">krydder</l>
       <mg>
          <tg>
             <t pos="n">höystet</t>
@@ -2253,7 +2255,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kråkereir</l>
+      <l pos="n">kråkereir</l>
       <mg>
          <tg>
             <t pos="n">variksenpesä</t>
@@ -2262,7 +2264,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kull</l>
+      <l pos="n">kull</l>
       <mg>
          <tg>
             <t pos="n">hiili</t>
@@ -2277,7 +2279,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kuskinn</l>
+      <l pos="n">kuskinn</l>
       <mg>
          <tg>
             <t pos="n">lehmännahka</t>
@@ -2286,7 +2288,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kuskjell</l>
+      <l pos="n">kuskjell</l>
       <mg>
          <tg>
             <t pos="n">lehmän raakku</t>
@@ -2297,7 +2299,7 @@ For the full license text, see the link above.</lic>
       </syng>
    </e>
    <e>
-      <l decl="n">kvarter</l>
+      <l pos="n">kvarter</l>
       <mg>
          <tg>
             <t pos="n">vartti</t>
@@ -2306,7 +2308,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">kyss</l>
+      <l pos="n">kyss</l>
       <mg>
          <tg>
             <t pos="n">summa</t>
@@ -2314,7 +2316,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lag</l>
+      <l pos="n">lag</l>
       <mg>
          <tg>
             <t pos="n">laaki</t>
@@ -2324,7 +2326,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lager</l>
+      <l pos="n">lager</l>
       <mg>
          <tg>
             <t pos="n">laakeri</t>
@@ -2332,7 +2334,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">laken</l>
+      <l pos="n">laken</l>
       <mg>
          <tg>
             <t pos="n">lakana</t>
@@ -2340,7 +2342,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">laksefiske</l>
+      <l pos="n">laksefiske</l>
       <mg>
          <tg>
             <t pos="n">lohenpyytö</t>
@@ -2350,7 +2352,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lass</l>
+      <l pos="n">lass</l>
       <mg>
          <tg>
             <t pos="n">kuorma</t>
@@ -2358,7 +2360,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lauvtre</l>
+      <l pos="n">lauvtre</l>
       <mg>
          <tg>
             <t pos="n">lehtipuu</t>
@@ -2366,7 +2368,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lav</l>
+      <l pos="n">lav</l>
       <mg>
          <tg>
             <t pos="n">jäkälä</t>
@@ -2374,7 +2376,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lavvann</l>
+      <l pos="n">lavvann</l>
       <mg>
          <tg>
             <t pos="n">matalavesi</t>
@@ -2384,7 +2386,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">le</l>
+      <l pos="n">le</l>
       <mg>
          <tg>
             <t pos="n">suoja</t>
@@ -2392,7 +2394,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">ledd</l>
+      <l pos="n">ledd</l>
       <mg>
          <tg>
             <t pos="n">jäsen</t>
@@ -2401,7 +2403,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">ledegjerde</l>
+      <l pos="n">ledegjerde</l>
       <mg>
          <tg>
             <t pos="n">kuja</t>
@@ -2410,7 +2412,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">leie</l>
+      <l pos="n">leie</l>
       <mg>
          <tg>
             <t pos="n">vuođet</t>
@@ -2419,7 +2421,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">leirområde</l>
+      <l pos="n">leirområde</l>
       <mg>
          <tg>
             <t pos="n">savikko</t>
@@ -2428,7 +2430,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lemen</l>
+      <l pos="n">lemen</l>
       <mg>
          <tg>
             <t pos="n">sopuli</t>
@@ -2436,7 +2438,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lim</l>
+      <l pos="n">lim</l>
       <mg>
          <tg>
             <t pos="n">liima</t>
@@ -2444,7 +2446,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lin</l>
+      <l pos="n">lin</l>
       <mg>
          <tg>
             <t pos="n">liina</t>
@@ -2452,7 +2454,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lintøy</l>
+      <l pos="n">lintøy</l>
       <mg>
          <tg>
             <t pos="n">liinavaatet</t>
@@ -2461,7 +2463,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">liv</l>
+      <l pos="n">liv</l>
       <mg>
          <tg>
             <t pos="n">elämä</t>
@@ -2481,7 +2483,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">ljåskaft</l>
+      <l pos="n">ljåskaft</l>
       <mg>
          <tg>
             <t pos="n">vikaatheenvarsi</t>
@@ -2491,7 +2493,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lokk</l>
+      <l pos="n">lokk</l>
       <mg>
          <tg>
             <t pos="n">kansi</t>
@@ -2501,7 +2503,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lommetørkle</l>
+      <l pos="n">lommetørkle</l>
       <mg>
          <tg>
             <t pos="n">nenäliina</t>
@@ -2513,7 +2515,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">loppemarked</l>
+      <l pos="n">loppemarked</l>
       <mg>
          <tg>
             <t pos="n">kirpputori</t>
@@ -2522,7 +2524,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">luftdrag</l>
+      <l pos="n">luftdrag</l>
       <mg>
          <tg>
             <t pos="n">viima</t>
@@ -2530,7 +2532,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">luktegress</l>
+      <l pos="n">luktegress</l>
       <mg>
          <tg>
             <t pos="n">haisuheinä</t>
@@ -2538,7 +2540,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lys</l>
+      <l pos="n">lys</l>
       <mg>
          <tg>
             <t pos="n">valo</t>
@@ -2547,7 +2549,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lån</l>
+      <l pos="n">lån</l>
       <mg>
          <tg>
             <t pos="n">laina</t>
@@ -2555,7 +2557,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lånord</l>
+      <l pos="n">lånord</l>
       <mg>
          <tg>
             <t pos="n">lainasana</t>
@@ -2564,7 +2566,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">lås</l>
+      <l pos="n">lås</l>
       <mg>
          <tg>
             <t pos="n">lukku</t>
@@ -2573,7 +2575,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">løft</l>
+      <l pos="n">løft</l>
       <mg>
          <tg>
             <t pos="n">nosto</t>
@@ -2581,7 +2583,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">løp</l>
+      <l pos="n">løp</l>
       <mg>
          <tg>
             <t pos="n">juoksu</t>
@@ -2589,7 +2591,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">manntall</l>
+      <l pos="n">manntall</l>
       <mg>
          <tg>
             <t pos="n">manttaali</t>
@@ -2597,7 +2599,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">marked</l>
+      <l pos="n">marked</l>
       <mg>
          <tg>
             <t pos="n">markkina</t>
@@ -2605,7 +2607,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">materiale</l>
+      <l pos="n">materiale</l>
       <mg>
          <tg>
             <t pos="n">materiaali</t>
@@ -2613,7 +2615,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">medisin</l>
+      <l pos="n">medisin</l>
       <mg>
          <tg>
             <t pos="n">metesiini</t>
@@ -2621,7 +2623,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">meieri</l>
+      <l pos="n">meieri</l>
       <mg>
          <tg>
             <t pos="n">meijeri</t>
@@ -2629,7 +2631,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">mel</l>
+      <l pos="n">mel</l>
       <mg>
          <tg>
             <t pos="n">jauho</t>
@@ -2637,7 +2639,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">menneske</l>
+      <l pos="n">menneske</l>
       <mg>
          <tg>
             <t pos="n">ihminen</t>
@@ -2647,7 +2649,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">merke</l>
+      <l pos="n">merke</l>
       <mg>
          <tg>
             <t pos="n">merkki</t>
@@ -2656,7 +2658,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">mesterskap</l>
+      <l pos="n">mesterskap</l>
       <mg>
          <tg>
             <t pos="n">mestaruus</t>
@@ -2666,7 +2668,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">metall</l>
+      <l pos="n">metall</l>
       <mg>
          <tg>
             <t pos="n">metalli</t>
@@ -2674,7 +2676,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">metermål</l>
+      <l pos="n">metermål</l>
       <mg>
          <tg>
             <t pos="n">meetterinmitta</t>
@@ -2683,7 +2685,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">midtsted</l>
+      <l pos="n">midtsted</l>
       <mg>
          <tg>
             <t pos="n">keskipaikka</t>
@@ -2692,7 +2694,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">mildvær</l>
+      <l pos="n">mildvær</l>
       <mg>
          <tg>
             <t pos="n">lauha</t>
@@ -2700,7 +2702,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">militær</l>
+      <l pos="n">militær</l>
       <mg>
          <tg>
             <t pos="n">militääri</t>
@@ -2708,7 +2710,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">miljø</l>
+      <l pos="n">miljø</l>
       <mg>
          <tg>
             <t pos="n">miljöö</t>
@@ -2716,7 +2718,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">minutt</l>
+      <l pos="n">minutt</l>
       <mg>
          <tg>
             <t pos="n">minuutti</t>
@@ -2725,7 +2727,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">mord</l>
+      <l pos="n">mord</l>
       <mg>
          <tg>
             <t pos="n">murha</t>
@@ -2733,7 +2735,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">morsmål</l>
+      <l pos="n">morsmål</l>
       <mg>
          <tg>
             <t pos="n">syntymäkieli</t>
@@ -2743,7 +2745,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">mot</l>
+      <l pos="n">mot</l>
       <mg>
          <tg>
             <t pos="n">rohkeus</t>
@@ -2757,7 +2759,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">mottak</l>
+      <l pos="n">mottak</l>
       <mg>
          <tg>
             <t pos="n">vasthaanotto</t>
@@ -2765,7 +2767,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">mugg</l>
+      <l pos="n">mugg</l>
       <mg>
          <tg>
             <t pos="n">homet</t>
@@ -2774,7 +2776,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">munnspill</l>
+      <l pos="n">munnspill</l>
       <mg>
          <tg>
             <t pos="n">suupeli</t>
@@ -2782,7 +2784,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">museøre</l>
+      <l pos="n">museøre</l>
       <mg>
          <tg>
             <t pos="n">hiirenkorva</t>
@@ -2790,7 +2792,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">måneskinn</l>
+      <l pos="n">måneskinn</l>
       <mg>
          <tg>
             <t pos="n">kuuđain</t>
@@ -2799,7 +2801,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">møbel</l>
+      <l pos="n">møbel</l>
       <mg>
          <tg>
             <t pos="n">mööpeli</t>
@@ -2807,7 +2809,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">møkkhull</l>
+      <l pos="n">møkkhull</l>
       <mg>
          <tg>
             <t pos="n">ikkuna</t>
@@ -2815,7 +2817,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">mørk</l>
+      <l pos="n">mørk</l>
       <mg>
          <tg>
             <t pos="n">pimmee</t>
@@ -2824,7 +2826,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">mørke</l>
+      <l pos="n">mørke</l>
       <mg>
          <tg>
             <t pos="n">pimmeys</t>
@@ -2834,7 +2836,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">møte</l>
+      <l pos="n">møte</l>
       <mg>
          <tg>
             <t pos="n">möötti</t>
@@ -2843,7 +2845,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">nattested</l>
+      <l pos="n">nattested</l>
       <mg>
          <tg>
             <t pos="n">yösija</t>
@@ -2852,7 +2854,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">navn</l>
+      <l pos="n">navn</l>
       <mg>
          <tg>
             <t pos="n">nimi</t>
@@ -2862,7 +2864,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">nes</l>
+      <l pos="n">nes</l>
       <mg>
          <tg>
             <t pos="n">niemi</t>
@@ -2872,7 +2874,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">nesebor</l>
+      <l pos="n">nesebor</l>
       <mg>
          <tg>
             <t pos="n">sierain</t>
@@ -2881,7 +2883,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">nevertak</l>
+      <l pos="n">nevertak</l>
       <mg>
          <tg>
             <t pos="n">tuohikatto</t>
@@ -2890,7 +2892,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">niøye</l>
+      <l pos="n">niøye</l>
       <mg>
          <tg>
             <t pos="n">nahkiainen</t>
@@ -2900,7 +2902,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">nordlys</l>
+      <l pos="n">nordlys</l>
       <mg>
          <tg>
             <t pos="npl">taivhaan valkkeet</t>
@@ -2908,7 +2910,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">null</l>
+      <l pos="n">null</l>
       <mg>
          <tg>
             <t pos="n">nolla</t>
@@ -2919,7 +2921,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">nummer</l>
+      <l pos="n">nummer</l>
       <mg>
          <tg>
             <t pos="n">numero</t>
@@ -2927,7 +2929,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">nylon</l>
+      <l pos="n">nylon</l>
       <mg>
          <tg>
             <t pos="n">nyylonni</t>
@@ -2935,7 +2937,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">nyår</l>
+      <l pos="n">nyår</l>
       <mg>
          <tg>
             <t pos="n">uusivuosi</t>
@@ -2945,7 +2947,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">nåløye</l>
+      <l pos="n">nåløye</l>
       <mg>
          <tg>
             <t pos="n">neulansilmä</t>
@@ -2953,7 +2955,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">nødrop</l>
+      <l pos="n">nødrop</l>
       <mg>
          <tg>
             <t pos="n">hätähuuto</t>
@@ -2963,7 +2965,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">onde</l>
+      <l pos="n">onde</l>
       <mg>
          <tg>
             <t pos="n">paha</t>
@@ -2972,7 +2974,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">oppholdsvær</l>
+      <l pos="n">oppholdsvær</l>
       <mg>
          <tg>
             <t pos="n">pouta</t>
@@ -2981,7 +2983,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">oppkast</l>
+      <l pos="n">oppkast</l>
       <mg>
          <tg>
             <t pos="n">oksenus</t>
@@ -2990,7 +2992,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">oppkok</l>
+      <l pos="n">oppkok</l>
       <mg>
          <tg>
             <t pos="n">keitto</t>
@@ -2999,7 +3001,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">oppkrav</l>
+      <l pos="n">oppkrav</l>
       <mg>
          <tg>
             <t pos="n">maksovaatimus</t>
@@ -3008,7 +3010,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">oppvekstsenter</l>
+      <l pos="n">oppvekstsenter</l>
       <mg>
          <tg>
             <t pos="n">kassuutussentteri</t>
@@ -3019,7 +3021,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">ord</l>
+      <l pos="n">ord</l>
       <mg>
          <tg>
             <t pos="n">sana</t>
@@ -3028,7 +3030,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">orgel</l>
+      <l pos="n">orgel</l>
       <mg>
          <tg>
             <t pos="n">urku</t>
@@ -3038,7 +3040,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">orkester</l>
+      <l pos="n">orkester</l>
       <mg>
          <tg>
             <t pos="n">orkesteri</t>
@@ -3046,7 +3048,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">overheng</l>
+      <l pos="n">overheng</l>
       <mg>
          <tg>
             <t pos="n">kumo</t>
@@ -3055,7 +3057,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">panser</l>
+      <l pos="n">panser</l>
       <mg>
          <tg>
             <t pos="n">panssari</t>
@@ -3063,7 +3065,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">papir</l>
+      <l pos="n">papir</l>
       <mg>
          <tg>
             <t pos="n">paperi</t>
@@ -3071,7 +3073,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">par</l>
+      <l pos="n">par</l>
       <mg>
          <tg>
             <t pos="n">pari</t>
@@ -3084,7 +3086,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">paradis</l>
+      <l pos="n">paradis</l>
       <mg>
          <tg>
             <t pos="n">paratiisi</t>
@@ -3092,7 +3094,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">pass</l>
+      <l pos="n">pass</l>
       <mg>
          <tg>
             <t pos="n">passi</t>
@@ -3100,7 +3102,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">pepper</l>
+      <l pos="n">pepper</l>
       <mg>
          <tg>
             <t pos="n">pippuri</t>
@@ -3108,7 +3110,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">personale</l>
+      <l pos="n">personale</l>
       <mg>
          <tg>
             <t pos="n">persunaali</t>
@@ -3116,7 +3118,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">piano</l>
+      <l pos="n">piano</l>
       <mg>
          <tg>
             <t pos="n">pianuu</t>
@@ -3124,7 +3126,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">piss</l>
+      <l pos="n">piss</l>
       <mg>
          <tg>
             <t pos="n">pissa</t>
@@ -3132,7 +3134,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">politi</l>
+      <l pos="n">politi</l>
       <mg>
          <tg>
             <t pos="n">pulettija</t>
@@ -3140,7 +3142,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">porselen</l>
+      <l pos="n">porselen</l>
       <mg>
          <tg>
             <t pos="n">kruusi</t>
@@ -3148,7 +3150,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">postbud</l>
+      <l pos="n">postbud</l>
       <mg>
          <tg>
             <t pos="n">postinkanttaaja</t>
@@ -3156,7 +3158,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">postkontor</l>
+      <l pos="n">postkontor</l>
       <mg>
          <tg>
             <t pos="n">postikontturi</t>
@@ -3164,7 +3166,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">postkort</l>
+      <l pos="n">postkort</l>
       <mg>
          <tg>
             <t pos="n">postikortti</t>
@@ -3173,7 +3175,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">potetgrev</l>
+      <l pos="n">potetgrev</l>
       <mg>
          <tg>
             <t pos="n">putaattikuokka</t>
@@ -3182,7 +3184,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">potetopptak</l>
+      <l pos="n">potetopptak</l>
       <mg>
          <tg>
             <t pos="n">putaatinotto</t>
@@ -3191,7 +3193,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">potetskrell</l>
+      <l pos="n">potetskrell</l>
       <mg>
          <tg>
             <t pos="n">putaatinkuori</t>
@@ -3201,7 +3203,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">press</l>
+      <l pos="n">press</l>
       <mg>
          <tg>
             <t pos="n">painostus</t>
@@ -3210,7 +3212,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">prinsipp</l>
+      <l pos="n">prinsipp</l>
       <mg>
          <tg>
             <t pos="n">prinsippi</t>
@@ -3219,7 +3221,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">protein</l>
+      <l pos="n">protein</l>
       <mg>
          <tg>
             <t pos="n">pruteiini</t>
@@ -3227,7 +3229,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">pulver</l>
+      <l pos="n">pulver</l>
       <mg>
          <tg>
             <t pos="n">pulveri</t>
@@ -3235,7 +3237,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">rap</l>
+      <l pos="n">rap</l>
       <mg>
          <tg>
             <t pos="n">röhtely</t>
@@ -3243,7 +3245,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">ras</l>
+      <l pos="n">ras</l>
       <mg>
          <tg>
             <t pos="n">vierimä</t>
@@ -3251,7 +3253,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">reingjerde</l>
+      <l pos="n">reingjerde</l>
       <mg>
          <tg>
             <t pos="n">poroaita</t>
@@ -3261,7 +3263,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">reinkjøtt</l>
+      <l pos="n">reinkjøtt</l>
       <mg>
          <tg>
             <t pos="n">poronliha</t>
@@ -3270,7 +3272,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">reinskinn</l>
+      <l pos="n">reinskinn</l>
       <mg>
          <tg>
             <t pos="n">poronnahka</t>
@@ -3279,7 +3281,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">reiseminne</l>
+      <l pos="n">reiseminne</l>
       <mg>
          <tg>
             <t pos="n">matkamuisto</t>
@@ -3287,7 +3289,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">rep</l>
+      <l pos="n">rep</l>
       <mg>
          <tg>
             <t pos="n">köysi</t>
@@ -3297,7 +3299,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">resultat</l>
+      <l pos="n">resultat</l>
       <mg>
          <tg>
             <t pos="n">tulos</t>
@@ -3306,7 +3308,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">reveskinn</l>
+      <l pos="n">reveskinn</l>
       <mg>
          <tg>
             <t pos="n">ketunnahka</t>
@@ -3315,7 +3317,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">rike</l>
+      <l pos="n">rike</l>
       <mg>
          <tg>
             <t pos="n">valtakunta</t>
@@ -3328,7 +3330,7 @@ For the full license text, see the link above.</lic>
       </syng>
    </e>
    <e>
-      <l decl="n">ris</l>
+      <l pos="n">ris</l>
       <mg>
          <tg>
             <t pos="n">vitta</t>
@@ -3337,7 +3339,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">rop</l>
+      <l pos="n">rop</l>
       <mg>
          <tg>
             <t pos="n">huuto</t>
@@ -3347,7 +3349,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">rovdyr</l>
+      <l pos="n">rovdyr</l>
       <mg>
          <tg>
             <t pos="n">peto</t>
@@ -3357,7 +3359,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">rugbrød</l>
+      <l pos="n">rugbrød</l>
       <mg>
          <tg>
             <t pos="n">ruisleipä</t>
@@ -3367,7 +3369,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">rugmel</l>
+      <l pos="n">rugmel</l>
       <mg>
          <tg>
             <t pos="n">ruisjauho</t>
@@ -3375,7 +3377,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">rusk</l>
+      <l pos="n">rusk</l>
       <mg>
          <tg>
             <t pos="n">roska</t>
@@ -3383,7 +3385,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">råd___xxx___check-meaning-groups</l>
+      <l pos="n">råd___xxx___check-meaning-groups</l>
       <mg>
          <tg>
             <t pos="n">vara</t>
@@ -3401,7 +3403,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">råttentre</l>
+      <l pos="n">råttentre</l>
       <mg>
          <tg>
             <t pos="n">lahopuu</t>
@@ -3409,7 +3411,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">rævhull</l>
+      <l pos="n">rævhull</l>
       <mg>
          <tg>
             <t pos="n">persetreikä</t>
@@ -3419,7 +3421,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">røykhull</l>
+      <l pos="n">røykhull</l>
       <mg>
          <tg>
             <t pos="n">savvureikä</t>
@@ -3429,7 +3431,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">salt</l>
+      <l pos="n">salt</l>
       <mg>
          <tg>
             <t pos="n">suola</t>
@@ -3437,7 +3439,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">samarbeid</l>
+      <l pos="n">samarbeid</l>
       <mg>
          <tg>
             <t pos="n">yhtheistyö</t>
@@ -3445,7 +3447,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sandlass</l>
+      <l pos="n">sandlass</l>
       <mg>
          <tg>
             <t pos="n">hietakuorma</t>
@@ -3453,7 +3455,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sandpapir</l>
+      <l pos="n">sandpapir</l>
       <mg>
          <tg>
             <t pos="n">santapaperi</t>
@@ -3461,7 +3463,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sauehode</l>
+      <l pos="n">sauehode</l>
       <mg>
          <tg>
             <t pos="n">lamphaanpää</t>
@@ -3469,7 +3471,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">saueskinn</l>
+      <l pos="n">saueskinn</l>
       <mg>
          <tg>
             <t pos="n">lamphaannahka</t>
@@ -3478,7 +3480,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">saueskjell</l>
+      <l pos="n">saueskjell</l>
       <mg>
          <tg>
             <t pos="n">lamphaan raakku</t>
@@ -3489,7 +3491,7 @@ For the full license text, see the link above.</lic>
       </syng>
    </e>
    <e>
-      <l decl="n">seil</l>
+      <l pos="n">seil</l>
       <mg>
          <tg>
             <t pos="n">purjet</t>
@@ -3501,7 +3503,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sekund</l>
+      <l pos="n">sekund</l>
       <mg>
          <tg>
             <t pos="n">sekynti</t>
@@ -3511,7 +3513,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">seminar</l>
+      <l pos="n">seminar</l>
       <mg>
          <tg>
             <t pos="n">seminaari</t>
@@ -3519,7 +3521,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sengeteppe</l>
+      <l pos="n">sengeteppe</l>
       <mg>
          <tg>
             <t pos="n">sängynpeitto</t>
@@ -3528,7 +3530,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sennagress</l>
+      <l pos="n">sennagress</l>
       <mg>
          <tg>
             <t pos="n">kenkäheinä</t>
@@ -3536,7 +3538,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sidebein</l>
+      <l pos="n">sidebein</l>
       <mg>
          <tg>
             <t pos="n">kylkiluu</t>
@@ -3544,7 +3546,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sikte</l>
+      <l pos="n">sikte</l>
       <mg>
          <tg>
             <t pos="n">sihti</t>
@@ -3553,7 +3555,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sjøfiske</l>
+      <l pos="n">sjøfiske</l>
       <mg>
          <tg>
             <t pos="n">merikalastus</t>
@@ -3562,7 +3564,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sjøvann</l>
+      <l pos="n">sjøvann</l>
       <mg>
          <tg>
             <t pos="n">merivesi</t>
@@ -3572,7 +3574,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skaft</l>
+      <l pos="n">skaft</l>
       <mg>
          <tg>
             <t pos="n">varsi</t>
@@ -3582,7 +3584,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skall</l>
+      <l pos="n">skall</l>
       <mg>
          <tg>
             <t pos="n">kuori</t>
@@ -3592,7 +3594,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skap</l>
+      <l pos="n">skap</l>
       <mg>
          <tg>
             <t pos="n">kaappi</t>
@@ -3601,7 +3603,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skiføre</l>
+      <l pos="n">skiføre</l>
       <mg>
          <tg>
             <t pos="n">hihtokeli</t>
@@ -3610,7 +3612,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skiløp</l>
+      <l pos="n">skiløp</l>
       <mg>
          <tg>
             <t pos="n">hihto</t>
@@ -3619,7 +3621,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skinn</l>
+      <l pos="n">skinn</l>
       <mg>
          <tg>
             <t pos="n">loistet</t>
@@ -3642,7 +3644,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skip</l>
+      <l pos="n">skip</l>
       <mg>
          <tg>
             <t pos="n">laiva</t>
@@ -3650,7 +3652,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skjell</l>
+      <l pos="n">skjell</l>
       <mg>
          <tg>
             <t pos="n">raakku</t>
@@ -3659,7 +3661,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skjellsord</l>
+      <l pos="n">skjellsord</l>
       <mg>
          <tg>
             <t pos="n">haukkumasana</t>
@@ -3668,7 +3670,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skjold</l>
+      <l pos="n">skjold</l>
       <mg>
          <tg>
             <t pos="n">kilpi</t>
@@ -3678,7 +3680,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skjortetøy</l>
+      <l pos="n">skjortetøy</l>
       <mg>
          <tg>
             <t pos="n">paitavaatet</t>
@@ -3687,7 +3689,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skjørt</l>
+      <l pos="n">skjørt</l>
       <mg>
          <tg>
             <t pos="n">hamet</t>
@@ -3696,7 +3698,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skogholt</l>
+      <l pos="n">skogholt</l>
       <mg>
          <tg>
             <t pos="n">mettikkö</t>
@@ -3705,7 +3707,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skolearbeid</l>
+      <l pos="n">skolearbeid</l>
       <mg>
          <tg>
             <t pos="n">kouluhomma</t>
@@ -3713,7 +3715,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skolebarn</l>
+      <l pos="n">skolebarn</l>
       <mg>
          <tg>
             <t pos="n">koululapsi</t>
@@ -3723,7 +3725,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skremsel</l>
+      <l pos="n">skremsel</l>
       <mg>
          <tg>
             <t pos="n">pöläket</t>
@@ -3732,7 +3734,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skrev</l>
+      <l pos="n">skrev</l>
       <mg>
          <tg>
             <t pos="n">haarukka</t>
@@ -3745,7 +3747,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skudd</l>
+      <l pos="n">skudd</l>
       <mg>
          <tg>
             <t pos="n">laukhaus</t>
@@ -3754,7 +3756,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skulderblad</l>
+      <l pos="n">skulderblad</l>
       <mg>
          <tg>
             <t pos="n">lapaluu</t>
@@ -3762,7 +3764,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skum</l>
+      <l pos="n">skum</l>
       <mg>
          <tg>
             <t pos="n">vahto</t>
@@ -3771,7 +3773,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">skåkfeste</l>
+      <l pos="n">skåkfeste</l>
       <mg>
          <tg>
             <t pos="n">savirikko</t>
@@ -3780,7 +3782,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">slag</l>
+      <l pos="n">slag</l>
       <mg>
          <tg>
             <t pos="n">isku</t>
@@ -3798,7 +3800,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">slam</l>
+      <l pos="n">slam</l>
       <mg>
          <tg>
             <t pos="n">muta</t>
@@ -3808,7 +3810,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">slips</l>
+      <l pos="n">slips</l>
       <mg>
          <tg>
             <t pos="n">slipsi</t>
@@ -3816,7 +3818,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">slott</l>
+      <l pos="n">slott</l>
       <mg>
          <tg>
             <t pos="n">linna</t>
@@ -3824,7 +3826,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sludd</l>
+      <l pos="n">sludd</l>
       <mg>
          <tg>
             <t pos="n">slatta</t>
@@ -3833,7 +3835,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sluttord</l>
+      <l pos="n">sluttord</l>
       <mg>
          <tg>
             <t pos="n">loppusana</t>
@@ -3842,7 +3844,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">smør</l>
+      <l pos="n">smør</l>
       <mg>
          <tg>
             <t pos="n">voi</t>
@@ -3850,7 +3852,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">smørbrød</l>
+      <l pos="n">smørbrød</l>
       <mg>
          <tg>
             <t pos="n">voileipä</t>
@@ -3860,7 +3862,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">smørpapir</l>
+      <l pos="n">smørpapir</l>
       <mg>
          <tg>
             <t pos="n">voipaperi</t>
@@ -3868,7 +3870,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">smørøye</l>
+      <l pos="n">smørøye</l>
       <mg>
          <tg>
             <t pos="n">voisilmä</t>
@@ -3876,7 +3878,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">snøfnugg</l>
+      <l pos="n">snøfnugg</l>
       <mg>
          <tg>
             <t pos="n">lumisilmä</t>
@@ -3884,7 +3886,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">snøfokk</l>
+      <l pos="n">snøfokk</l>
       <mg>
          <tg>
             <t pos="n">lumituisku</t>
@@ -3892,7 +3894,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">snøkov</l>
+      <l pos="n">snøkov</l>
       <mg>
          <tg>
             <t pos="n">lumituhru</t>
@@ -3900,7 +3902,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">snøre</l>
+      <l pos="n">snøre</l>
       <mg>
          <tg>
             <t pos="n">rihma</t>
@@ -3908,7 +3910,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">snørr</l>
+      <l pos="n">snørr</l>
       <mg>
          <tg>
             <t pos="n">räkä</t>
@@ -3918,7 +3920,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">snøvær</l>
+      <l pos="n">snøvær</l>
       <mg>
          <tg>
             <t pos="n">lumikko</t>
@@ -3936,7 +3938,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">solrik</l>
+      <l pos="n">solrik</l>
       <mg>
          <tg>
             <t pos="n">aurinkonen</t>
@@ -3946,7 +3948,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sommerfjøs</l>
+      <l pos="n">sommerfjøs</l>
       <mg>
          <tg>
             <t pos="n">kesänavetta</t>
@@ -3955,7 +3957,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sot</l>
+      <l pos="n">sot</l>
       <mg>
          <tg>
             <t pos="n">noki</t>
@@ -3965,7 +3967,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">spark</l>
+      <l pos="n">spark</l>
       <mg>
          <tg>
             <t pos="n">potku</t>
@@ -3973,7 +3975,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">speil</l>
+      <l pos="n">speil</l>
       <mg>
          <tg>
             <t pos="n">peili</t>
@@ -3981,7 +3983,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">spett</l>
+      <l pos="n">spett</l>
       <mg>
          <tg>
             <t pos="n">kanki</t>
@@ -3996,7 +3998,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">spikerhode</l>
+      <l pos="n">spikerhode</l>
       <mg>
          <tg>
             <t pos="n">piikarinkanta</t>
@@ -4006,7 +4008,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">spill</l>
+      <l pos="n">spill</l>
       <mg>
          <tg>
             <t pos="n">peli</t>
@@ -4014,7 +4016,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">spillkort</l>
+      <l pos="n">spillkort</l>
       <mg>
          <tg>
             <t pos="n">pelikortti</t>
@@ -4023,7 +4025,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">spjell</l>
+      <l pos="n">spjell</l>
       <mg>
          <tg>
             <t pos="n">pelli</t>
@@ -4031,7 +4033,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">spor</l>
+      <l pos="n">spor</l>
       <mg>
          <tg>
             <t pos="n">jälki</t>
@@ -4041,7 +4043,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">språk</l>
+      <l pos="n">språk</l>
       <mg>
          <tg>
             <t pos="n">kieli</t>
@@ -4051,7 +4053,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">spørsmål</l>
+      <l pos="n">spørsmål</l>
       <mg>
          <tg>
             <t pos="n">kyset</t>
@@ -4064,7 +4066,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">stabbur</l>
+      <l pos="n">stabbur</l>
       <mg>
          <tg>
             <t pos="n">aitta</t>
@@ -4073,7 +4075,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">stearinlys</l>
+      <l pos="n">stearinlys</l>
       <mg>
          <tg>
             <t pos="n">kynttilä</t>
@@ -4081,7 +4083,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">stedsnavn</l>
+      <l pos="n">stedsnavn</l>
       <mg>
          <tg>
             <t pos="n">paikannimi</t>
@@ -4091,7 +4093,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">stikk</l>
+      <l pos="n">stikk</l>
       <mg>
          <tg>
             <t pos="n">pisto</t>
@@ -4103,7 +4105,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">stipend</l>
+      <l pos="n">stipend</l>
       <mg>
          <tg>
             <t pos="n">stipenti</t>
@@ -4113,7 +4115,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">storfe</l>
+      <l pos="n">storfe</l>
       <mg>
          <tg>
             <t pos="n">nauta</t>
@@ -4123,7 +4125,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">storfekjøtt</l>
+      <l pos="n">storfekjøtt</l>
       <mg>
          <tg>
             <t pos="n">nauđanliha</t>
@@ -4132,7 +4134,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">strandfiske</l>
+      <l pos="n">strandfiske</l>
       <mg>
          <tg>
             <t pos="n">rantakalastus</t>
@@ -4141,7 +4143,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">strykjern</l>
+      <l pos="n">strykjern</l>
       <mg>
          <tg>
             <t pos="n">stryykirauta</t>
@@ -4151,7 +4153,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">stykke</l>
+      <l pos="n">stykke</l>
       <mg>
          <tg>
             <t pos="n">kappalet</t>
@@ -4160,7 +4162,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">styrtregn</l>
+      <l pos="n">styrtregn</l>
       <mg>
          <tg>
             <t pos="n">kaatosađet</t>
@@ -4169,7 +4171,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">stål</l>
+      <l pos="n">stål</l>
       <mg>
          <tg>
             <t pos="n">teräs</t>
@@ -4178,7 +4180,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">støv</l>
+      <l pos="n">støv</l>
       <mg>
          <tg>
             <t pos="n">pöly</t>
@@ -4187,7 +4189,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">støvelskaft</l>
+      <l pos="n">støvelskaft</l>
       <mg>
          <tg>
             <t pos="n">saaphaanvarsi</t>
@@ -4197,7 +4199,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sukk</l>
+      <l pos="n">sukk</l>
       <mg>
          <tg>
             <t pos="n">huokkaus</t>
@@ -4206,7 +4208,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sukker</l>
+      <l pos="n">sukker</l>
       <mg>
          <tg>
             <t pos="n">sokkeri</t>
@@ -4214,7 +4216,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sulfat</l>
+      <l pos="n">sulfat</l>
       <mg>
          <tg>
             <t pos="n">sylfaatti</t>
@@ -4223,7 +4225,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sulfit</l>
+      <l pos="n">sulfit</l>
       <mg>
          <tg>
             <t pos="n">sylfiiti</t>
@@ -4233,7 +4235,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sund</l>
+      <l pos="n">sund</l>
       <mg>
          <tg>
             <t pos="n">nuora</t>
@@ -4246,7 +4248,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">svar</l>
+      <l pos="n">svar</l>
       <mg>
          <tg>
             <t pos="n">vastaus</t>
@@ -4255,7 +4257,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">svelg</l>
+      <l pos="n">svelg</l>
       <mg>
          <tg>
             <t pos="n">nielu</t>
@@ -4263,7 +4265,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">svømmebasseng</l>
+      <l pos="n">svømmebasseng</l>
       <mg>
          <tg>
             <t pos="n">uimasuvanto</t>
@@ -4273,7 +4275,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sykehus</l>
+      <l pos="n">sykehus</l>
       <mg>
          <tg>
             <t pos="n">sikhuusi</t>
@@ -4281,7 +4283,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">symptom</l>
+      <l pos="n">symptom</l>
       <mg>
          <tg>
             <t pos="n">symptuumi</t>
@@ -4289,7 +4291,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">syn</l>
+      <l pos="n">syn</l>
       <mg>
          <tg>
             <t pos="n">näkö</t>
@@ -4299,7 +4301,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">system</l>
+      <l pos="n">system</l>
       <mg>
          <tg>
             <t pos="n">systeemi</t>
@@ -4307,7 +4309,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sår</l>
+      <l pos="n">sår</l>
       <mg>
          <tg>
             <t pos="n">haava</t>
@@ -4315,7 +4317,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">sølv</l>
+      <l pos="n">sølv</l>
       <mg>
          <tg>
             <t pos="n">hoppee</t>
@@ -4323,7 +4325,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tak</l>
+      <l pos="n">tak</l>
       <mg>
          <tg>
             <t pos="n">katto</t>
@@ -4338,7 +4340,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">takskjegg</l>
+      <l pos="n">takskjegg</l>
       <mg>
          <tg>
             <t pos="n">rästäs</t>
@@ -4347,7 +4349,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tall</l>
+      <l pos="n">tall</l>
       <mg>
          <tg>
             <t pos="n">luku</t>
@@ -4357,7 +4359,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tallord</l>
+      <l pos="n">tallord</l>
       <mg>
          <tg>
             <t pos="n">lukusana</t>
@@ -4365,7 +4367,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tap</l>
+      <l pos="n">tap</l>
       <mg>
          <tg>
             <t pos="n">menetys</t>
@@ -4378,7 +4380,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tapphull</l>
+      <l pos="n">tapphull</l>
       <mg>
          <tg>
             <t pos="n">tapinreikä</t>
@@ -4388,7 +4390,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tau</l>
+      <l pos="n">tau</l>
       <mg>
          <tg>
             <t pos="n">touvi</t>
@@ -4396,7 +4398,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">teater</l>
+      <l pos="n">teater</l>
       <mg>
          <tg>
             <t pos="n">teatteri</t>
@@ -4404,7 +4406,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">telt</l>
+      <l pos="n">telt</l>
       <mg>
          <tg>
             <t pos="n">teltta</t>
@@ -4413,7 +4415,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">terreng</l>
+      <l pos="n">terreng</l>
       <mg>
          <tg>
             <t pos="n">maasto</t>
@@ -4421,7 +4423,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">testament</l>
+      <l pos="n">testament</l>
       <mg>
          <tg>
             <t pos="n">testamentti</t>
@@ -4430,7 +4432,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tillegg</l>
+      <l pos="n">tillegg</l>
       <mg>
          <tg>
             <t pos="n">lissäys</t>
@@ -4439,7 +4441,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tinn</l>
+      <l pos="n">tinn</l>
       <mg>
          <tg>
             <t pos="n">tina</t>
@@ -4448,7 +4450,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tiår</l>
+      <l pos="n">tiår</l>
       <mg>
          <tg>
             <t pos="n">vuosikymmen</t>
@@ -4457,7 +4459,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tog</l>
+      <l pos="n">tog</l>
       <mg>
          <tg>
             <t pos="n">tooki</t>
@@ -4467,7 +4469,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tordenvær</l>
+      <l pos="n">tordenvær</l>
       <mg>
          <tg>
             <t pos="n">ukkosilma</t>
@@ -4478,7 +4480,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">trav</l>
+      <l pos="n">trav</l>
       <mg>
          <tg>
             <t pos="n">nulkka</t>
@@ -4487,7 +4489,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tre</l>
+      <l pos="n">tre</l>
       <mg>
          <tg>
             <t pos="n">puu</t>
@@ -4495,7 +4497,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">trinn</l>
+      <l pos="n">trinn</l>
       <mg>
          <tg>
             <t pos="n">askelet</t>
@@ -4504,7 +4506,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tusenbein</l>
+      <l pos="n">tusenbein</l>
       <mg>
          <tg>
             <t pos="n">pyrnys</t>
@@ -4513,7 +4515,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tårn</l>
+      <l pos="n">tårn</l>
       <mg>
          <tg>
             <t pos="n">toorni</t>
@@ -4521,7 +4523,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tømmer</l>
+      <l pos="n">tømmer</l>
       <mg>
          <tg>
             <t pos="n">hirsi</t>
@@ -4537,7 +4539,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tørkle</l>
+      <l pos="n">tørkle</l>
       <mg>
          <tg>
             <t pos="n">huivi</t>
@@ -4546,7 +4548,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">tørrkjøtt</l>
+      <l pos="n">tørrkjøtt</l>
       <mg>
          <tg>
             <t pos="n">kuivaliha</t>
@@ -4555,7 +4557,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">ugagn</l>
+      <l pos="n">ugagn</l>
       <mg>
          <tg>
             <t pos="n">pahanteko</t>
@@ -4565,7 +4567,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">underskjørt</l>
+      <l pos="n">underskjørt</l>
       <mg>
          <tg>
             <t pos="n">alushamet</t>
@@ -4574,7 +4576,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">universitet</l>
+      <l pos="n">universitet</l>
       <mg>
          <tg>
             <t pos="n">yniversiteetti</t>
@@ -4583,7 +4585,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">utearbeid</l>
+      <l pos="n">utearbeid</l>
       <mg>
          <tg>
             <t pos="n">ulkotyö</t>
@@ -4591,7 +4593,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">utedo</l>
+      <l pos="n">utedo</l>
       <mg>
          <tg>
             <t pos="n">hyysikkä</t>
@@ -4600,7 +4602,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">uthus</l>
+      <l pos="n">uthus</l>
       <mg>
          <tg>
             <t pos="n">ulkohuonet</t>
@@ -4609,7 +4611,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">utland</l>
+      <l pos="n">utland</l>
       <mg>
          <tg>
             <t pos="n">ulkomaa</t>
@@ -4617,7 +4619,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">utstyr</l>
+      <l pos="n">utstyr</l>
       <mg>
          <tg>
             <t pos="n">vehkheet</t>
@@ -4625,7 +4627,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">uvesen</l>
+      <l pos="n">uvesen</l>
       <mg>
          <tg>
             <t pos="n">meteli</t>
@@ -4633,7 +4635,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">vadmel</l>
+      <l pos="n">vadmel</l>
       <mg>
          <tg>
             <t pos="n">kangas</t>
@@ -4642,7 +4644,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">valg</l>
+      <l pos="n">valg</l>
       <mg>
          <tg>
             <t pos="n">vaali</t>
@@ -4650,7 +4652,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">vann</l>
+      <l pos="n">vann</l>
       <mg>
          <tg>
             <t pos="n">vesi</t>
@@ -4660,7 +4662,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">varmtvannsbasseng</l>
+      <l pos="n">varmtvannsbasseng</l>
       <mg>
          <tg>
             <t pos="n">lämminvesisuvanto</t>
@@ -4669,7 +4671,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">veddemål</l>
+      <l pos="n">veddemål</l>
       <mg>
          <tg>
             <t pos="n">veđonlyöminen</t>
@@ -4679,7 +4681,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">veiarbeid</l>
+      <l pos="n">veiarbeid</l>
       <mg>
          <tg>
             <t pos="n">tietyö</t>
@@ -4687,7 +4689,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">veikryss</l>
+      <l pos="n">veikryss</l>
       <mg>
          <tg>
             <t pos="n">tienhaara</t>
@@ -4695,7 +4697,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">vennskap</l>
+      <l pos="n">vennskap</l>
       <mg>
          <tg>
             <t pos="n">ystävyys</t>
@@ -4705,7 +4707,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">vers</l>
+      <l pos="n">vers</l>
       <mg>
          <tg>
             <t pos="n">värsy</t>
@@ -4713,7 +4715,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">villdyr</l>
+      <l pos="n">villdyr</l>
       <mg>
          <tg>
             <t pos="n">elävä</t>
@@ -4721,7 +4723,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">vinmonopol</l>
+      <l pos="n">vinmonopol</l>
       <mg>
          <tg>
             <t pos="n">viinamonopooli</t>
@@ -4729,7 +4731,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">virus</l>
+      <l pos="n">virus</l>
       <mg>
          <tg>
             <t pos="n">viirys</t>
@@ -4738,7 +4740,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">visum</l>
+      <l pos="n">visum</l>
       <mg>
          <tg>
             <t pos="n">viisymmi</t>
@@ -4746,7 +4748,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">vær</l>
+      <l pos="n">vær</l>
       <mg>
          <tg>
             <t pos="n">sää</t>
@@ -4754,7 +4756,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">yngstebarn</l>
+      <l pos="n">yngstebarn</l>
       <mg>
          <tg>
             <t pos="n">vaakkara</t>
@@ -4762,7 +4764,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">åk</l>
+      <l pos="n">åk</l>
       <mg>
          <tg>
             <t pos="n">korento</t>
@@ -4783,7 +4785,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">år</l>
+      <l pos="n">år</l>
       <mg>
          <tg>
             <t pos="n">vuosi</t>
@@ -4793,7 +4795,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">århundre</l>
+      <l pos="n">århundre</l>
       <mg>
          <tg>
             <t pos="n">vuosisata</t>
@@ -4803,7 +4805,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">årstall</l>
+      <l pos="n">årstall</l>
       <mg>
          <tg>
             <t pos="n">vuosiluku</t>
@@ -4813,7 +4815,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">økseskaft</l>
+      <l pos="n">økseskaft</l>
       <mg>
          <tg>
             <t pos="n">kirvheenvarsi</t>
@@ -4823,7 +4825,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">øl</l>
+      <l pos="n">øl</l>
       <mg>
          <tg>
             <t pos="n">ööli</t>
@@ -4831,7 +4833,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">øre</l>
+      <l pos="n">øre</l>
       <mg>
          <tg>
             <t pos="n">korva</t>
@@ -4839,7 +4841,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">øresting</l>
+      <l pos="n">øresting</l>
       <mg>
          <tg>
             <t pos="n">korvapistos</t>
@@ -4848,7 +4850,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">øye</l>
+      <l pos="n">øye</l>
       <mg>
          <tg>
             <t pos="n">silmä</t>
@@ -4856,7 +4858,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">øyeblikk</l>
+      <l pos="n">øyeblikk</l>
       <mg>
          <tg>
             <t pos="n">silmänräphäys</t>
@@ -4865,7 +4867,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">øyebryn</l>
+      <l pos="n">øyebryn</l>
       <mg>
          <tg>
             <t pos="n">kulmakarva</t>
@@ -4873,7 +4875,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="n">øyelokk</l>
+      <l pos="n">øyelokk</l>
       <mg>
          <tg>
             <t pos="n">luomi</t>
