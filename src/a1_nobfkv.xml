@@ -624,20 +624,15 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="a1">negativ___xxx___correct-me</l>
-      <mg>
-         <tg>
-            <t pos="a">nekatiivi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l pos="a1">negativ___xxx___correct-me</l>
+      <l pos="a1">negativ</l>
       <mg>
          <tg>
             <t pos="a">nekatiivinen</t>
             <stem>nekatiivise-</stem>
             <stem>nekatiivis-</stem>
+	 </tg>
+         <tg>
+            <t pos="a">nekatiivi</t>
          </tg>
       </mg>
    </e>
