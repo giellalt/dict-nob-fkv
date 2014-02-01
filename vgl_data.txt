@@ -1,0 +1,125 @@
+inc>g '<trans ' nobfkv.xml |c
+    4272
+inc>g '<trans ' nobfkv.xml |g -v '<trans pos' |c
+     277
+inc>g '<lemma d' nobfkv.xml |c
+    3663
+inc>g '<lemma ' nobfkv.xml |c
+    3663
+inc>g '<stem' nobfkv.xml |c
+    4003
+inc>g '<stem>' nobfkv.xml |c
+    4003
+
+
+nobfkv>g -h '<e ' _check/*|t
+  84    <e mgc="1" sync="1">
+   2    <e mgc="2" sync="1">
+  <e mgc="2" sync="1">
+      <lg>
+         <l decl="a4" pos="A">beruset</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">humalossa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">päissä</t>
+         </tg>
+      </mg>
+      <syng>
+         <syn>humalossa</syn>
+      </syng>
+   </e>
+
+   <e mgc="2" sync="1">
+      <lg>
+         <l pos="Pron">hva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pron">mikä</t>
+            <stem>mi-</stem>
+            <stem>mi-</stem>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="x">mitä</t>
+         </tg>
+      </mg>
+      <syng>
+         <syn>mikä</syn>
+      </syng>
+   </e>
+
+
+   1    <e mgc="3" sync="2">
+   <e mgc="3" sync="2">
+      <lg>
+         <l pos="m">leke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">aset</t>
+            <stem>ashee-</stem>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">asetella</t>
+            <stem>asettele-</stem>
+            <stem>asetel-</stem>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">leikkiit</t>
+            <stem>leiki-</stem>
+         </tg>
+      </mg>
+      <syng>
+         <syn>tierata</syn>
+      </syng>
+      <syng>
+         <syn>värkätä</syn>
+      </syng>
+   </e>
+
+   1    <e mgc="3" sync="1">
+
+   <e mgc="3" sync="1">
+      <lg>
+         <l pos="V">kaste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">heittäät</t>
+            <stem>heitä-</stem>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">vatkata</t>
+            <stem>vatkaa-</stem>
+            <stem>vatkan-</stem>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">viskata</t>
+            <stem>viskaa-</stem>
+            <stem>viskan-</stem>
+         </tg>
+         <tg>
+            <t pos="V">viskoot</t>
+         </tg>
+      </mg>
+      <syng>
+         <syn>paiskata</syn>
+      </syng>
+   </e>
+
+
