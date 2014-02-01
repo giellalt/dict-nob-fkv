@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI ../script/nobfkv.dtd" "r">
+<r xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xml:lang="nob">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -26,22 +30,22 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l decl="a3" pos="A">andre</l>
+      <lg>
+         <l decl="a3" pos="A">andre</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">kakkonen</t>
-            <stem>kakkose-</stem>
-            <stem>kakkos-</stem>
+            <t pos="A" stems="kakkose-;kakkos-;">kakkonen</t>
          </tg>
          <tg>
-            <t pos="A">toinen</t>
-            <stem>toise-</stem>
-            <stem>tois-</stem>
+            <t pos="A" stems="toise-;tois-;">toinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="a3" pos="A">annerledes</l>
+      <lg>
+         <l decl="a3" pos="A">annerledes</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">erilainen</t>
@@ -49,7 +53,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a3" pos="A">bra</l>
+      <lg>
+         <l decl="a3" pos="A">bra</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">hyvä</t>
@@ -57,7 +63,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a3" pos="A">djevelsk</l>
+      <lg>
+         <l decl="a3" pos="A">djevelsk</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">riethaasti</t>
@@ -65,14 +73,14 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="A">pirulinen</t>
-            <stem>pirulise-</stem>
-            <stem>pirulis-</stem>
+            <t pos="A" stems="pirulise-;pirulis-;">pirulinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="a3" pos="A">dovna</l>
+      <lg>
+         <l decl="a3" pos="A">dovna</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">puutuksissa</t>
@@ -80,7 +88,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a3" pos="A">eneste</l>
+      <lg>
+         <l decl="a3" pos="A">eneste</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">ainua</t>
@@ -88,7 +98,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a3" pos="A">hjemmehørende</l>
+      <lg>
+         <l decl="a3" pos="A">hjemmehørende</l>
+      </lg>
       <mg>
          <tg>
             <t pos="n">kotosin</t>
@@ -96,7 +108,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a3" pos="A">mye</l>
+      <lg>
+         <l decl="a3" pos="A">mye</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">tumma</t>
@@ -109,7 +123,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a3" pos="A">nøye</l>
+      <lg>
+         <l decl="a3" pos="A">nøye</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">tarkon</t>
@@ -118,8 +134,7 @@ For the full license text, see the link above.</lic>
             <t pos="x">vasiten</t>
          </tg>
          <tg>
-            <t pos="A">tarkka</t>
-            <stem>tarka-</stem>
+            <t pos="A" stems="tarka-;">tarkka</t>
          </tg>
          <tg>
             <t pos="adv">tarkasti</t>
@@ -127,12 +142,13 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a3" pos="A">trykkende</l>
+      <lg>
+         <l decl="a3" pos="A">trykkende</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">painava</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

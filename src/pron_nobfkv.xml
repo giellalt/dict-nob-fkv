@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI ../script/nobfkv.dtd" "r">
+<r xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xml:lang="nob">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -26,7 +30,9 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l pos="Pron">alle</l>
+      <lg>
+         <l pos="Pron">alle</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pron">kaikki</t>
@@ -34,7 +40,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">annen</l>
+      <lg>
+         <l pos="Pron">annen</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">eri</t>
@@ -42,46 +50,49 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">begge</l>
+      <lg>
+         <l pos="Pron">begge</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Pron">molemat</t>
-            <stem>molemii-</stem>
-            <stem>molemii-</stem>
+            <t pos="Pron" stems="molemii-;molemii-;">molemat</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Pron">de</l>
+      <lg>
+         <l pos="Pron">de</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Pron">net</t>
-            <stem>nii-</stem>
-            <stem>nii-</stem>
+            <t pos="Pron" stems="nii-;nii-;">net</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Pron">den</l>
+      <lg>
+         <l pos="Pron">den</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Pron">se</t>
-            <stem>se-</stem>
-            <stem>si-</stem>
+            <t pos="Pron" stems="se-;si-;">se</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Pron">denne</l>
+      <lg>
+         <l pos="Pron">denne</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Pron">tämä</t>
-            <stem>tä-</stem>
+            <t pos="Pron" stems="tä-;">tämä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Pron">dere</l>
+      <lg>
+         <l pos="Pron">dere</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pron">tet</t>
@@ -89,36 +100,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">du</l>
+      <lg>
+         <l pos="Pron">du</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Pron">sie</t>
-            <stem>sinu-</stem>
-            <stem>sinnu-</stem>
+            <t pos="Pron" stems="sinu-;sinnu-;">sie</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Pron">han</l>
+      <lg>
+         <l pos="Pron">han</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="x">hän</t>
-            <stem>häne-</stem>
+            <t pos="x" stems="häne-;">hän</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Pron">hvem</l>
+      <lg>
+         <l pos="Pron">hvem</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="x">kuka</t>
-            <stem>kene-</stem>
-            <stem>ke-</stem>
+            <t pos="x" stems="kene-;ke-;">kuka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Pron">hver</l>
+      <lg>
+         <l pos="Pron">hver</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pron">joka</t>
@@ -126,7 +140,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">hvilken</l>
+      <lg>
+         <l pos="Pron">hvilken</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pron">mikä</t>
@@ -134,7 +150,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">hvor</l>
+      <lg>
+         <l pos="Pron">hvor</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pron">missä</t>
@@ -142,7 +160,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">hvordan</l>
+      <lg>
+         <l pos="Pron">hvordan</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pron">kunka</t>
@@ -150,14 +170,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="Pron">millainen</t>
-            <stem>millaise-</stem>
-            <stem>millais-</stem>
+            <t pos="Pron" stems="millaise-;millais-;">millainen</t>
          </tg>
          <tg>
-            <t pos="Pron">minkälainen</t>
-            <stem>minkälaise-</stem>
-            <stem>minkälais-</stem>
+            <t pos="Pron" stems="minkälaise-;minkälais-;">minkälainen</t>
          </tg>
       </mg>
       <mg>
@@ -167,7 +183,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">hvorfor</l>
+      <lg>
+         <l pos="Pron">hvorfor</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pron">miksi</t>
@@ -175,7 +193,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">hvorfra</l>
+      <lg>
+         <l pos="Pron">hvorfra</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pron">mistä</t>
@@ -183,7 +203,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">hvorhen</l>
+      <lg>
+         <l pos="Pron">hvorhen</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pron">minne</t>
@@ -191,7 +213,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">ingen</l>
+      <lg>
+         <l pos="Pron">ingen</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">ei kukhaan</t>
@@ -199,7 +223,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">ingenting</l>
+      <lg>
+         <l pos="Pron">ingenting</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">ei mithään</t>
@@ -211,27 +237,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">jeg</l>
+      <lg>
+         <l pos="Pron">jeg</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="x">mie</t>
-            <stem>minu-</stem>
-            <stem>minnu-</stem>
+            <t pos="x" stems="minu-;minnu-;">mie</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Pron">mange</l>
+      <lg>
+         <l pos="Pron">mange</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Pron">moni</t>
-            <stem>mone-</stem>
-            <stem>mon-</stem>
+            <t pos="Pron" stems="mone-;mon-;">moni</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Pron">min</l>
+      <lg>
+         <l pos="Pron">min</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pron">minun</t>
@@ -239,7 +267,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">noen</l>
+      <lg>
+         <l pos="Pron">noen</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pron">muutama</t>
@@ -253,7 +283,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">selv</l>
+      <lg>
+         <l pos="Pron">selv</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pron">itte</t>
@@ -261,7 +293,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">som</l>
+      <lg>
+         <l pos="Pron">som</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pron">joka</t>
@@ -269,14 +303,13 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pron">vi</l>
+      <lg>
+         <l pos="Pron">vi</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Pron">met</t>
-            <stem>mei-</stem>
-            <stem>mei-</stem>
+            <t pos="Pron" stems="mei-;mei-;">met</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

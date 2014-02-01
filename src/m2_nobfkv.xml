@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI ../script/nobfkv.dtd" "r">
+<r xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xml:lang="nob">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -26,7 +30,9 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l decl="m2" pos="N">arbeider</l>
+      <lg>
+         <l decl="m2" pos="N">arbeider</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">tekkiijä</t>
@@ -34,7 +40,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">arbeidsgiver</l>
+      <lg>
+         <l decl="m2" pos="N">arbeidsgiver</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">työnanttaaja</t>
@@ -42,7 +50,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">baker</l>
+      <lg>
+         <l decl="m2" pos="N">baker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">paakari</t>
@@ -50,17 +60,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">bergenser</l>
+      <lg>
+         <l decl="m2" pos="N">bergenser</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">perunalainen</t>
-            <stem>perunalaise-</stem>
-            <stem>perunalais-</stem>
+            <t pos="N" stems="perunalaise-;perunalais-;">perunalainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">betaler</l>
+      <lg>
+         <l decl="m2" pos="N">betaler</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">maksaaja</t>
@@ -68,7 +80,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">bismer</l>
+      <lg>
+         <l decl="m2" pos="N">bismer</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">pismari</t>
@@ -76,7 +90,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">borger</l>
+      <lg>
+         <l decl="m2" pos="N">borger</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">porvari</t>
@@ -84,7 +100,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">deltaker</l>
+      <lg>
+         <l decl="m2" pos="N">deltaker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">osanottaaja</t>
@@ -92,7 +110,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">dommer</l>
+      <lg>
+         <l decl="m2" pos="N">dommer</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">tuomari</t>
@@ -100,16 +120,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">dranker</l>
+      <lg>
+         <l decl="m2" pos="N">dranker</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">juoppo</t>
-            <stem>juopo-</stem>
+            <t pos="N" stems="juopo-;">juoppo</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">drøvtygger</l>
+      <lg>
+         <l decl="m2" pos="N">drøvtygger</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">märehtijä</t>
@@ -117,7 +140,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">eier</l>
+      <lg>
+         <l decl="m2" pos="N">eier</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">omistaja</t>
@@ -125,7 +150,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">einer</l>
+      <lg>
+         <l decl="m2" pos="N">einer</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kataja</t>
@@ -133,66 +160,69 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">ettersommer</l>
+      <lg>
+         <l decl="m2" pos="N">ettersommer</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">loppukesä</t>
-            <stem>loppukessä-</stem>
+            <t pos="N" stems="loppukessä-;">loppukesä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">europeer</l>
+      <lg>
+         <l decl="m2" pos="N">europeer</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">eurooppalainen</t>
-            <stem>europpalaise-</stem>
-            <stem>europpalais-</stem>
+            <t pos="N" stems="europpalaise-;europpalais-;">eurooppalainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">femmer</l>
+      <lg>
+         <l decl="m2" pos="N">femmer</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">viitonen</t>
-            <stem>viitose-</stem>
-            <stem>viitos-</stem>
+            <t pos="N" stems="viitose-;viitos-;">viitonen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">fetter</l>
+      <lg>
+         <l decl="m2" pos="N">fetter</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">nepu</t>
-            <stem>nepu-</stem>
-            <stem>neppu-</stem>
+            <t pos="N" stems="nepu-;neppu-;">nepu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">finlender</l>
+      <lg>
+         <l decl="m2" pos="N">finlender</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">suomalainen</t>
-            <stem>suomalaise-</stem>
-            <stem>suomalais-</stem>
+            <t pos="N" stems="suomalaise-;suomalais-;">suomalainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">firer</l>
+      <lg>
+         <l decl="m2" pos="N">firer</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">nelonen</t>
-            <stem>nelose-</stem>
-            <stem>nelos-</stem>
+            <t pos="N" stems="nelose-;nelos-;">nelonen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">fisker</l>
+      <lg>
+         <l decl="m2" pos="N">fisker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kalastaja</t>
@@ -200,7 +230,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">flyger</l>
+      <lg>
+         <l decl="m2" pos="N">flyger</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lenttääjä</t>
@@ -208,7 +240,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">forsker</l>
+      <lg>
+         <l decl="m2" pos="N">forsker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">tutkiija</t>
@@ -216,25 +250,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">forsommer</l>
+      <lg>
+         <l decl="m2" pos="N">forsommer</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kevätkesä</t>
-            <stem>kevätkessä-</stem>
+            <t pos="N" stems="kevätkessä-;">kevätkesä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">fosterdatter</l>
+      <lg>
+         <l decl="m2" pos="N">fosterdatter</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ruokkotytär</t>
-            <stem>ruokkotyttäre-</stem>
+            <t pos="N" stems="ruokkotyttäre-;">ruokkotytär</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">frelser</l>
+      <lg>
+         <l decl="m2" pos="N">frelser</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">vapahtaja</t>
@@ -242,7 +280,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">fører</l>
+      <lg>
+         <l decl="m2" pos="N">fører</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ajjaja</t>
@@ -250,7 +290,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">genser</l>
+      <lg>
+         <l decl="m2" pos="N">genser</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kensseri</t>
@@ -258,7 +300,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">giver</l>
+      <lg>
+         <l decl="m2" pos="N">giver</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">anttaaja</t>
@@ -266,16 +310,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">gjeter</l>
+      <lg>
+         <l decl="m2" pos="N">gjeter</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">paimen</t>
-            <stem>paimene-</stem>
+            <t pos="N" stems="paimene-;">paimen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">hammer</l>
+      <lg>
+         <l decl="m2" pos="N">hammer</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">vasara</t>
@@ -283,7 +330,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">handlanger</l>
+      <lg>
+         <l decl="m2" pos="N">handlanger</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hantlangari</t>
@@ -291,7 +340,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">heder</l>
+      <lg>
+         <l decl="m2" pos="N">heder</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kunnia</t>
@@ -299,7 +350,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">helbreder</l>
+      <lg>
+         <l decl="m2" pos="N">helbreder</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">puoskari</t>
@@ -307,7 +360,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">henter</l>
+      <lg>
+         <l decl="m2" pos="N">henter</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">nouttaaja</t>
@@ -315,7 +370,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">hjelper</l>
+      <lg>
+         <l decl="m2" pos="N">hjelper</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">auttaaja</t>
@@ -323,16 +380,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">hjerter</l>
+      <lg>
+         <l decl="m2" pos="N">hjerter</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hertta</t>
-            <stem>herta-</stem>
+            <t pos="N" stems="herta-;">hertta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">jeger</l>
+      <lg>
+         <l decl="m2" pos="N">jeger</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">jääkäri</t>
@@ -340,17 +400,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">kareler</l>
+      <lg>
+         <l decl="m2" pos="N">kareler</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">karjalainen</t>
-            <stem>karjalaise-</stem>
-            <stem>karjalais-</stem>
+            <t pos="N" stems="karjalaise-;karjalais-;">karjalainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">keiser</l>
+      <lg>
+         <l decl="m2" pos="N">keiser</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">keisari</t>
@@ -358,7 +420,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">kjeller</l>
+      <lg>
+         <l decl="m2" pos="N">kjeller</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kellari</t>
@@ -366,7 +430,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">kjøper</l>
+      <lg>
+         <l decl="m2" pos="N">kjøper</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ostaaja</t>
@@ -374,7 +440,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">klokker</l>
+      <lg>
+         <l decl="m2" pos="N">klokker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lukkari</t>
@@ -382,7 +450,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">latter</l>
+      <lg>
+         <l decl="m2" pos="N">latter</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">nauru</t>
@@ -390,7 +460,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">leser</l>
+      <lg>
+         <l decl="m2" pos="N">leser</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lukkiija</t>
@@ -398,7 +470,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">liter</l>
+      <lg>
+         <l decl="m2" pos="N">liter</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">litteri</t>
@@ -406,7 +480,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">låner</l>
+      <lg>
+         <l decl="m2" pos="N">låner</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lainaaja</t>
@@ -414,29 +490,32 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">lærer</l>
+      <lg>
+         <l decl="m2" pos="N">lærer</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">opettaja</t>
          </tg>
          <tg>
-            <t pos="N">koulumies</t>
-            <stem>koulumiehe-</stem>
+            <t pos="N" stems="koulumiehe-;">koulumies</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">læstadianer</l>
+      <lg>
+         <l decl="m2" pos="N">læstadianer</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lestaatilainen</t>
-            <stem>lestaatilaise-</stem>
-            <stem>lestaatilais-</stem>
+            <t pos="N" stems="lestaatilaise-;lestaatilais-;">lestaatilainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">maler</l>
+      <lg>
+         <l decl="m2" pos="N">maler</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">maalari</t>
@@ -444,17 +523,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">medhjelper</l>
+      <lg>
+         <l decl="m2" pos="N">medhjelper</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">apulainen</t>
-            <stem>apulaise-</stem>
-            <stem>apulais-</stem>
+            <t pos="N" stems="apulaise-;apulais-;">apulainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">melker</l>
+      <lg>
+         <l decl="m2" pos="N">melker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lypsääjä</t>
@@ -462,7 +543,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">mester</l>
+      <lg>
+         <l decl="m2" pos="N">mester</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">mestari</t>
@@ -470,7 +553,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">minister</l>
+      <lg>
+         <l decl="m2" pos="N">minister</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ministeri</t>
@@ -478,7 +563,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">morder</l>
+      <lg>
+         <l decl="m2" pos="N">morder</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">murhaaja</t>
@@ -486,7 +573,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">mottaker</l>
+      <lg>
+         <l decl="m2" pos="N">mottaker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">saaja</t>
@@ -497,7 +586,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">murer</l>
+      <lg>
+         <l decl="m2" pos="N">murer</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">muurari</t>
@@ -505,7 +596,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">mutter</l>
+      <lg>
+         <l decl="m2" pos="N">mutter</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">mutteri</t>
@@ -513,7 +606,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">måler</l>
+      <lg>
+         <l decl="m2" pos="N">måler</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">mittari</t>
@@ -521,7 +616,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">ordfører</l>
+      <lg>
+         <l decl="m2" pos="N">ordfører</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">sananjohtaaja</t>
@@ -529,16 +626,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">oter</l>
+      <lg>
+         <l decl="m2" pos="N">oter</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">saukko</t>
-            <stem>sauko-</stem>
+            <t pos="N" stems="sauko-;">saukko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">oversetter</l>
+      <lg>
+         <l decl="m2" pos="N">oversetter</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">käänttääjä</t>
@@ -546,7 +646,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">pleier</l>
+      <lg>
+         <l decl="m2" pos="N">pleier</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hoittaaja</t>
@@ -554,7 +656,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">politiker</l>
+      <lg>
+         <l decl="m2" pos="N">politiker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">pulitiikkari</t>
@@ -562,34 +666,35 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">reingjeter</l>
+      <lg>
+         <l decl="m2" pos="N">reingjeter</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">poromies</t>
-            <stem>poromiehe-</stem>
+            <t pos="N" stems="poromiehe-;">poromies</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">russer</l>
+      <lg>
+         <l decl="m2" pos="N">russer</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ryssä</t>
          </tg>
          <tg>
-            <t pos="N">ryssäläinen</t>
-            <stem>ryssäläise-</stem>
-            <stem>ryssäläis-</stem>
+            <t pos="N" stems="ryssäläise-;ryssäläis-;">ryssäläinen</t>
          </tg>
          <tg>
-            <t pos="N">venäläinen</t>
-            <stem>venäläise-</stem>
-            <stem>venäläis-</stem>
+            <t pos="N" stems="venäläise-;venäläis-;">venäläinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">selger</l>
+      <lg>
+         <l decl="m2" pos="N">selger</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">myyjä</t>
@@ -597,17 +702,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">sigøyner</l>
+      <lg>
+         <l decl="m2" pos="N">sigøyner</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">mustalainen</t>
-            <stem>mustalaise-</stem>
-            <stem>mustalais-</stem>
+            <t pos="N" stems="mustalaise-;mustalais-;">mustalainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">skaper</l>
+      <lg>
+         <l decl="m2" pos="N">skaper</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">luoja</t>
@@ -615,19 +722,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">skiløper</l>
+      <lg>
+         <l decl="m2" pos="N">skiløper</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hihtaaja</t>
          </tg>
          <tg>
-            <t pos="N">hihtomies</t>
-            <stem>hihtomiehe-</stem>
+            <t pos="N" stems="hihtomiehe-;">hihtomies</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">skomaker</l>
+      <lg>
+         <l decl="m2" pos="N">skomaker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">suutari</t>
@@ -635,7 +745,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">skredder</l>
+      <lg>
+         <l decl="m2" pos="N">skredder</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kraatari</t>
@@ -646,7 +758,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">skriver</l>
+      <lg>
+         <l decl="m2" pos="N">skriver</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kirjottaja</t>
@@ -654,7 +768,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">skuter</l>
+      <lg>
+         <l decl="m2" pos="N">skuter</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">skuutteri</t>
@@ -662,7 +778,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">skytter</l>
+      <lg>
+         <l decl="m2" pos="N">skytter</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">amppuuja</t>
@@ -670,21 +788,20 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">skøyer</l>
+      <lg>
+         <l decl="m2" pos="N">skøyer</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kälmi</t>
-         </tg>
-         <tg>
             <t pos="N">skälmi</t>
          </tg>
       </mg>
-      <syng>
-         <syn>kälmi</syn>
-      </syng>
    </e>
    <e>
-      <l decl="m2" pos="N">snekker</l>
+      <lg>
+         <l decl="m2" pos="N">snekker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">nikkari</t>
@@ -695,7 +812,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">spiller</l>
+      <lg>
+         <l decl="m2" pos="N">spiller</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">pellaaja</t>
@@ -703,17 +822,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">statsborger</l>
+      <lg>
+         <l decl="m2" pos="N">statsborger</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kansalainen</t>
-            <stem>kansalaise-</stem>
-            <stem>kansalais-</stem>
+            <t pos="N" stems="kansalaise-;kansalais-;">kansalainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">statsminister</l>
+      <lg>
+         <l decl="m2" pos="N">statsminister</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">staatsministeri</t>
@@ -721,7 +842,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">strikker</l>
+      <lg>
+         <l decl="m2" pos="N">strikker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kuttooja</t>
@@ -729,17 +852,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">synder</l>
+      <lg>
+         <l decl="m2" pos="N">synder</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">syntinen</t>
-            <stem>syntise-</stem>
-            <stem>syntis-</stem>
+            <t pos="N" stems="syntise-;syntis-;">syntinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">søker</l>
+      <lg>
+         <l decl="m2" pos="N">søker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hakkiija</t>
@@ -747,7 +872,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">taler</l>
+      <lg>
+         <l decl="m2" pos="N">taler</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">puhhuuja</t>
@@ -755,16 +882,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">tannpirker</l>
+      <lg>
+         <l decl="m2" pos="N">tannpirker</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hammastikku</t>
-            <stem>hammatiku-</stem>
+            <t pos="N" stems="hammatiku-;">hammastikku</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">tilhører</l>
+      <lg>
+         <l decl="m2" pos="N">tilhører</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kuulija</t>
@@ -775,7 +905,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">tjener</l>
+      <lg>
+         <l decl="m2" pos="N">tjener</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">palveelija</t>
@@ -783,32 +915,32 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">tysker</l>
+      <lg>
+         <l decl="m2" pos="N">tysker</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">saksalainen</t>
-            <stem>saksalaise-</stem>
-            <stem>saksalais-</stem>
+            <t pos="N" stems="saksalaise-;saksalais-;">saksalainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">ungarer</l>
+      <lg>
+         <l decl="m2" pos="N">ungarer</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">unkaarnilainen</t>
-            <stem>unkaarnilaise-</stem>
-            <stem>unkaarnilais-</stem>
+            <t pos="N" stems="unkaarnilaise-;unkaarnilais-;">unkaarnilainen</t>
          </tg>
          <tg>
-            <t pos="N">unkarilainen</t>
-            <stem>unkarilaise-</stem>
-            <stem>unkarilais-</stem>
+            <t pos="N" stems="unkarilaise-;unkarilais-;">unkarilainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">utgiver</l>
+      <lg>
+         <l decl="m2" pos="N">utgiver</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ilmottaaja</t>
@@ -816,7 +948,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">vandrer</l>
+      <lg>
+         <l decl="m2" pos="N">vandrer</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kulkkiija</t>
@@ -827,7 +961,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">vinner</l>
+      <lg>
+         <l decl="m2" pos="N">vinner</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">voittaaja</t>
@@ -835,14 +971,13 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m2" pos="N">øyenstikker</l>
+      <lg>
+         <l decl="m2" pos="N">øyenstikker</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pitkesenkorento</t>
-            <stem>pitkesenkorenno-</stem>
-            <stem>pitkesenkorentto-</stem>
+            <t pos="N" stems="pitkesenkorenno-;pitkesenkorentto-;">pitkesenkorento</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

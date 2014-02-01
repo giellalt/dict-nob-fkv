@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI ../script/nobfkv.dtd" "r">
+<r xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xml:lang="nob">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -26,27 +30,29 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l decl="m3" pos="N">afrikaner</l>
+      <lg>
+         <l decl="m3" pos="N">afrikaner</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">aafrikkalainen</t>
-            <stem>aafrikkalaise-</stem>
-            <stem>aafrikkalais-</stem>
+            <t pos="N" stems="aafrikkalaise-;aafrikkalais-;">aafrikkalainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m3" pos="N">amerikaner</l>
+      <lg>
+         <l decl="m3" pos="N">amerikaner</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">amerikkalainen</t>
-            <stem>amerikkalaise-</stem>
-            <stem>amerikkalais-</stem>
+            <t pos="N" stems="amerikkalaise-;amerikkalais-;">amerikkalainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="m3" pos="N">gram</l>
+      <lg>
+         <l decl="m3" pos="N">gram</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">krammi</t>
@@ -54,13 +60,13 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="m3" pos="N">tier</l>
+      <lg>
+         <l decl="m3" pos="N">tier</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kymppi</t>
-            <stem>kympi-</stem>
+            <t pos="N" stems="kympi-;">kymppi</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

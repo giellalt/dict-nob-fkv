@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI ../script/nobfkv.dtd" "r">
+<r xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xml:lang="nob">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -26,17 +30,19 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l gen="Fem" pos="N">aftenstjerne</l>
+      <lg>
+         <l gen="Fem" pos="N">aftenstjerne</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">iltatähti</t>
-            <stem>iltatähđe-</stem>
-            <stem>iltatähte-</stem>
+            <t pos="N" stems="iltatähđe-;iltatähte-;">iltatähti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">aldersgrense</l>
+      <lg>
+         <l gen="Fem" pos="N">aldersgrense</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ikäraja</t>
@@ -44,16 +50,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">anledning</l>
+      <lg>
+         <l gen="Fem" pos="N">anledning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tila</t>
-            <stem>tilla-</stem>
+            <t pos="N" stems="tilla-;">tila</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">avdeling</l>
+      <lg>
+         <l gen="Fem" pos="N">avdeling</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">osasto</t>
@@ -61,78 +70,82 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">avføring</l>
+      <lg>
+         <l gen="Fem" pos="N">avføring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kura</t>
-            <stem>kurra-</stem>
+            <t pos="N" stems="kurra-;">kura</t>
          </tg>
          <tg>
-            <t pos="N">ulostus</t>
-            <stem>ulostukse-</stem>
+            <t pos="N" stems="ulostukse-;">ulostus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">avgangstid</l>
+      <lg>
+         <l gen="Fem" pos="N">avgangstid</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lähtemäaika</t>
-            <stem>lähtemäaia-</stem>
-            <stem>lähtemäaikka-</stem>
+            <t pos="N" stems="lähtemäaia-;lähtemäaikka-;">lähtemäaika</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">avis</l>
+      <lg>
+         <l gen="Fem" pos="N">avis</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">aviisi</t>
-            <stem>aviissi-</stem>
+            <t pos="N" stems="aviissi-;">aviisi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">badedrakt</l>
+      <lg>
+         <l gen="Fem" pos="N">badedrakt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">uimapuku</t>
-            <stem>uimapuvu-</stem>
-            <stem>uimapukku-</stem>
+            <t pos="N" stems="uimapuvu-;uimapukku-;">uimapuku</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bakevje</l>
+      <lg>
+         <l gen="Fem" pos="N">bakevje</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kostet</t>
-            <stem>kosthee-</stem>
+            <t pos="N" stems="kosthee-;">kostet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">baking</l>
+      <lg>
+         <l gen="Fem" pos="N">baking</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">leipominen</t>
-            <stem>leipomise-</stem>
-            <stem>leipomis-</stem>
+            <t pos="N" stems="leipomise-;leipomis-;">leipominen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bambusstang</l>
+      <lg>
+         <l gen="Fem" pos="N">bambusstang</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rytitanko</t>
-            <stem>rytitango-</stem>
-            <stem>rytitankko-</stem>
+            <t pos="N" stems="rytitango-;rytitankko-;">rytitanko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">befaling</l>
+      <lg>
+         <l gen="Fem" pos="N">befaling</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">käsky</t>
@@ -140,22 +153,24 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="N">komennus</t>
-            <stem>komennukse-</stem>
+            <t pos="N" stems="komennukse-;">komennus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">begrensning</l>
+      <lg>
+         <l gen="Fem" pos="N">begrensning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rajotus</t>
-            <stem>rajotukse-</stem>
+            <t pos="N" stems="rajotukse-;">rajotus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bekolje</l>
+      <lg>
+         <l gen="Fem" pos="N">bekolje</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">pikiöljy</t>
@@ -163,62 +178,69 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bekostning</l>
+      <lg>
+         <l gen="Fem" pos="N">bekostning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kustannus</t>
-            <stem>kustannukse-</stem>
+            <t pos="N" stems="kustannukse-;">kustannus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">belønning</l>
+      <lg>
+         <l gen="Fem" pos="N">belønning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">palkinto</t>
-            <stem>palkinno-</stem>
-            <stem>palkintto-</stem>
+            <t pos="N" stems="palkinno-;palkintto-;">palkinto</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">benevning</l>
+      <lg>
+         <l gen="Fem" pos="N">benevning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">nimitys</t>
-            <stem>nimitykse-</stem>
+            <t pos="N" stems="nimitykse-;">nimitys</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">berøring</l>
+      <lg>
+         <l gen="Fem" pos="N">berøring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kosketus</t>
-            <stem>kosketukse-</stem>
+            <t pos="N" stems="kosketukse-;">kosketus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">beskatning</l>
+      <lg>
+         <l gen="Fem" pos="N">beskatning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">verotus</t>
-            <stem>verotukse-</stem>
+            <t pos="N" stems="verotukse-;">verotus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">beslutning</l>
+      <lg>
+         <l gen="Fem" pos="N">beslutning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">päätös</t>
-            <stem>päätökse-</stem>
+            <t pos="N" stems="päätökse-;">päätös</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bestemor</l>
+      <lg>
+         <l gen="Fem" pos="N">bestemor</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ämmi</t>
@@ -226,24 +248,24 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="N">isoäiti</t>
-            <stem>isoäiti-</stem>
-            <stem>isoäitti-</stem>
+            <t pos="N" stems="isoäiti-;isoäitti-;">isoäiti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bestilling</l>
+      <lg>
+         <l gen="Fem" pos="N">bestilling</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tillaus</t>
-            <stem>tillaukse-</stem>
-            <stem>tillaut-</stem>
+            <t pos="N" stems="tillaukse-;tillaut-;">tillaus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bestillingsliste</l>
+      <lg>
+         <l gen="Fem" pos="N">bestillingsliste</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">tillauslista</t>
@@ -251,7 +273,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">betaling</l>
+      <lg>
+         <l gen="Fem" pos="N">betaling</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">makso</t>
@@ -259,7 +283,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">betjening</l>
+      <lg>
+         <l gen="Fem" pos="N">betjening</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">palvelu</t>
@@ -267,40 +293,44 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">betydning</l>
+      <lg>
+         <l gen="Fem" pos="N">betydning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">merkitys</t>
-            <stem>merkitykse-</stem>
+            <t pos="N" stems="merkitykse-;">merkitys</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">tarkotus</t>
-            <stem>tarkotukse-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l gen="Fem" pos="N">bielv</l>
-      <mg>
-         <tg>
-            <t pos="N">puđas</t>
-            <stem>puthaa-</stem>
+            <t pos="N" stems="tarkotukse-;">tarkotus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bille</l>
+      <lg>
+         <l gen="Fem" pos="N">bielv</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kiiski</t>
-            <stem>kiiske-</stem>
+            <t pos="N" stems="puthaa-;">puđas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">binge</l>
+      <lg>
+         <l gen="Fem" pos="N">bille</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" stems="kiiske-;">kiiski</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l gen="Fem" pos="N">binge</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">laari</t>
@@ -312,21 +342,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bjelle</l>
+      <lg>
+         <l gen="Fem" pos="N">bjelle</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tiukku</t>
-            <stem>tiuku-</stem>
+            <t pos="N" stems="tiuku-;">tiukku</t>
          </tg>
          <tg>
-            <t pos="N">tiuku</t>
-            <stem>tiuvu-</stem>
-            <stem>tiukku-</stem>
+            <t pos="N" stems="tiuvu-;tiukku-;">tiuku</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bjørk</l>
+      <lg>
+         <l gen="Fem" pos="N">bjørk</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">koivu</t>
@@ -334,19 +365,18 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">blanding</l>
+      <lg>
+         <l gen="Fem" pos="N">blanding</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">moska</t>
          </tg>
          <tg>
-            <t pos="N">seka</t>
-            <stem>sea-</stem>
-            <stem>sekka-</stem>
+            <t pos="N" stems="sea-;sekka-;">seka</t>
          </tg>
          <tg>
-            <t pos="N">sekotus</t>
-            <stem>sekotukse-</stem>
+            <t pos="N" stems="sekotukse-;">sekotus</t>
          </tg>
       </mg>
       <mg>
@@ -356,7 +386,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">blemme</l>
+      <lg>
+         <l gen="Fem" pos="N">blemme</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">vesikello</t>
@@ -364,65 +396,69 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">blodstemming</l>
+      <lg>
+         <l gen="Fem" pos="N">blodstemming</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">verentoppaaminen</t>
-            <stem>verentoppamise-</stem>
-            <stem>verentoppamis-</stem>
+            <t pos="N" stems="verentoppamise-;verentoppamis-;">verentoppaaminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">blodåre</l>
+      <lg>
+         <l gen="Fem" pos="N">blodåre</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">verisuoni</t>
-            <stem>verisuone-</stem>
-            <stem>verisuon-</stem>
+            <t pos="N" stems="verisuone-;verisuon-;">verisuoni</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">blåbær</l>
+      <lg>
+         <l gen="Fem" pos="N">blåbær</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">mustikka</t>
-            <stem>mustika-</stem>
+            <t pos="N" stems="mustika-;">mustikka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">blåknute</l>
+      <lg>
+         <l gen="Fem" pos="N">blåknute</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">umpusolmi</t>
-            <stem>umpusolme-</stem>
-            <stem>umpusolme-</stem>
+            <t pos="N" stems="umpusolme-;umpusolme-;">umpusolmi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bløthet</l>
+      <lg>
+         <l gen="Fem" pos="N">bløthet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pehmeys</t>
-            <stem>pehmeykse-</stem>
+            <t pos="N" stems="pehmeykse-;">pehmeys</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bløtlegging</l>
+      <lg>
+         <l gen="Fem" pos="N">bløtlegging</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">liko</t>
-            <stem>lio-</stem>
-            <stem>likko-</stem>
+            <t pos="N" stems="lio-;likko-;">liko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bok</l>
+      <lg>
+         <l gen="Fem" pos="N">bok</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kirja</t>
@@ -430,7 +466,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bombe</l>
+      <lg>
+         <l gen="Fem" pos="N">bombe</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">pommi</t>
@@ -439,23 +477,20 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bombing</l>
+      <lg>
+         <l gen="Fem" pos="N">bombing</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pommitus</t>
-            <stem>pommmitukse-</stem>
-         </tg>
-         <tg>
-            <t pos="N">pummitus</t>
-            <stem>pummitukse-</stem>
+            <t pos="N" stems="pommmitukse-;">pommitus</t>
+            <t pos="N" stems="pummitukse-;">pummitus</t>
          </tg>
       </mg>
-      <syng>
-         <syn>pommitus</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">bomull</l>
+      <lg>
+         <l gen="Fem" pos="N">bomull</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">pumpuli</t>
@@ -463,16 +498,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">brakke</l>
+      <lg>
+         <l gen="Fem" pos="N">brakke</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">prakka</t>
-            <stem>praka-</stem>
+            <t pos="N" stems="praka-;">prakka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">brems</l>
+      <lg>
+         <l gen="Fem" pos="N">brems</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">prämssi</t>
@@ -480,82 +518,85 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">brennesle</l>
+      <lg>
+         <l gen="Fem" pos="N">brennesle</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">polttiainen</t>
-            <stem>polttiaise-</stem>
-            <stem>polttiais-</stem>
+            <t pos="N" stems="polttiaise-;polttiais-;">polttiainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bru</l>
+      <lg>
+         <l gen="Fem" pos="N">bru</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">silta</t>
-            <stem>silla-</stem>
-            <stem>siltta-</stem>
+            <t pos="N" stems="silla-;siltta-;">silta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">brunsttid</l>
+      <lg>
+         <l gen="Fem" pos="N">brunsttid</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kiimaaika</t>
-            <stem>kiimaaia-</stem>
-            <stem>kiimaaikka-</stem>
+            <t pos="N" stems="kiimaaia-;kiimaaikka-;">kiimaaika</t>
          </tg>
          <tg>
-            <t pos="N">rykimäaika</t>
-            <stem>rykimäaia-</stem>
-            <stem>rykimäaikka-</stem>
+            <t pos="N" stems="rykimäaia-;rykimäaikka-;">rykimäaika</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">brystvorte</l>
+      <lg>
+         <l gen="Fem" pos="N">brystvorte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">nisä</t>
-            <stem>nissä-</stem>
+            <t pos="N" stems="nissä-;">nisä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bukt</l>
+      <lg>
+         <l gen="Fem" pos="N">bukt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">koppa</t>
-            <stem>kopa-</stem>
+            <t pos="N" stems="kopa-;">koppa</t>
          </tg>
          <tg>
-            <t pos="N">mukka</t>
-            <stem>muka-</stem>
+            <t pos="N" stems="muka-;">mukka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bygd</l>
+      <lg>
+         <l gen="Fem" pos="N">bygd</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kylä</t>
-            <stem>kyllä-</stem>
+            <t pos="N" stems="kyllä-;">kylä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bygning</l>
+      <lg>
+         <l gen="Fem" pos="N">bygning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rakennus</t>
-            <stem>rakennukse-</stem>
+            <t pos="N" stems="rakennukse-;">rakennus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bårdstue</l>
+      <lg>
+         <l gen="Fem" pos="N">bårdstue</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">porstuu</t>
@@ -563,7 +604,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bær</l>
+      <lg>
+         <l gen="Fem" pos="N">bær</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">marja</t>
@@ -571,7 +614,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bærmark</l>
+      <lg>
+         <l gen="Fem" pos="N">bærmark</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">marjamaa</t>
@@ -579,20 +624,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bør</l>
+      <lg>
+         <l gen="Fem" pos="N">bør</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kurppa</t>
-            <stem>kurpa-</stem>
+            <t pos="N" stems="kurpa-;">kurppa</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">børse</l>
+      <lg>
+         <l gen="Fem" pos="N">børse</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">luođikko</t>
-            <stem>luođiko-</stem>
+            <t pos="N" stems="luođiko-;">luođikko</t>
          </tg>
          <tg>
             <t pos="N">pyssy</t>
@@ -600,11 +647,12 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">bøtte</l>
+      <lg>
+         <l gen="Fem" pos="N">bøtte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pytty</t>
-            <stem>pyty-</stem>
+            <t pos="N" stems="pyty-;">pytty</t>
          </tg>
          <tg>
             <t pos="N">ämpäri</t>
@@ -612,88 +660,85 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">dame</l>
+      <lg>
+         <l gen="Fem" pos="N">dame</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">vaimoihminen</t>
-            <stem>vaimoihmise-</stem>
-            <stem>vaimoihmis-</stem>
+            <t pos="N" stems="vaimoihmise-;vaimoihmis-;">vaimoihminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">deling</l>
+      <lg>
+         <l gen="Fem" pos="N">deling</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">jakkaus</t>
-            <stem>jakkaukse-</stem>
+            <t pos="N" stems="jakkaukse-;">jakkaus</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">jako</t>
-            <stem>jao-</stem>
-            <stem>jakko-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l gen="Fem" pos="N">dombjelle</l>
-      <mg>
-         <tg>
-            <t pos="N">kulkunen</t>
-            <stem>kulkuse-</stem>
-            <stem>kulkus-</stem>
+            <t pos="N" stems="jao-;jakko-;">jako</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">dreining</l>
+      <lg>
+         <l gen="Fem" pos="N">dombjelle</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kierto</t>
-            <stem>kierro-</stem>
-            <stem>kiertto-</stem>
+            <t pos="N" stems="kulkuse-;kulkus-;">kulkunen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">dråpe</l>
+      <lg>
+         <l gen="Fem" pos="N">dreining</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">noppa</t>
-            <stem>nopa-</stem>
+            <t pos="N" stems="kierro-;kiertto-;">kierto</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">due</l>
+      <lg>
+         <l gen="Fem" pos="N">dråpe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kyhkynen</t>
-            <stem>kyhkyse-</stem>
-            <stem>kyhkys-</stem>
+            <t pos="N" stems="nopa-;">noppa</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">dukke</l>
+      <lg>
+         <l gen="Fem" pos="N">due</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tokka</t>
-            <stem>toka-</stem>
-         </tg>
-         <tg>
-            <t pos="N">äppö</t>
-            <stem>äpö-</stem>
+            <t pos="N" stems="kyhkyse-;kyhkys-;">kyhkynen</t>
          </tg>
       </mg>
-      <syng>
-         <syn>tokka</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">dyne</l>
+      <lg>
+         <l gen="Fem" pos="N">dukke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" stems="toka-;">tokka</t>
+            <t pos="N" stems="äpö-;">äppö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l gen="Fem" pos="N">dyne</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">tyyni</t>
@@ -701,35 +746,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">dyremor</l>
+      <lg>
+         <l gen="Fem" pos="N">dyremor</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">emä</t>
-            <stem>emmä-</stem>
+            <t pos="N" stems="emmä-;">emä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">dyrking</l>
+      <lg>
+         <l gen="Fem" pos="N">dyrking</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">palvelus</t>
-            <stem>palvelukse-</stem>
+            <t pos="N" stems="palvelukse-;">palvelus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">dør</l>
+      <lg>
+         <l gen="Fem" pos="N">dør</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ovi</t>
-            <stem>ove-</stem>
-            <stem>ovve-</stem>
+            <t pos="N" stems="ove-;ovve-;">ovi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">dørklokke</l>
+      <lg>
+         <l gen="Fem" pos="N">dørklokke</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ovikello</t>
@@ -737,30 +786,32 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">døråpning</l>
+      <lg>
+         <l gen="Fem" pos="N">døråpning</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ovensuu</t>
          </tg>
          <tg>
-            <t pos="N">ovireikä</t>
-            <stem>ovireiä-</stem>
-            <stem>ovireikkä-</stem>
+            <t pos="N" stems="ovireiä-;ovireikkä-;">ovireikä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">elv</l>
+      <lg>
+         <l gen="Fem" pos="N">elv</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">joki</t>
-            <stem>jove-</stem>
-            <stem>jokke-</stem>
+            <t pos="N" stems="jove-;jokke-;">joki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">elvemunning</l>
+      <lg>
+         <l gen="Fem" pos="N">elvemunning</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">jovensuu</t>
@@ -768,63 +819,67 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">elvevakt</l>
+      <lg>
+         <l gen="Fem" pos="N">elvevakt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">jokivahti</t>
-            <stem>jokivahđi-</stem>
+            <t pos="N" stems="jokivahđi-;">jokivahti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">endring</l>
+      <lg>
+         <l gen="Fem" pos="N">endring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">muutos</t>
-            <stem>muutokse-</stem>
+            <t pos="N" stems="muutokse-;">muutos</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">eng</l>
+      <lg>
+         <l gen="Fem" pos="N">eng</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kenttä</t>
-            <stem>kentä-</stem>
+            <t pos="N" stems="kentä-;">kenttä</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">niitty</t>
-            <stem>niity-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l gen="Fem" pos="N">enke</l>
-      <mg>
-         <tg>
-            <t pos="N">leski</t>
-            <stem>leske-</stem>
-            <stem>leske-</stem>
+            <t pos="N" stems="niity-;">niitty</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">erfaring</l>
+      <lg>
+         <l gen="Fem" pos="N">enke</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kokemus</t>
-            <stem>kokemukse-</stem>
+            <t pos="N" stems="leske-;leske-;">leski</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ertesuppe</l>
+      <lg>
+         <l gen="Fem" pos="N">erfaring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hernetkeitto</t>
-            <stem>hernetkeito-</stem>
+            <t pos="N" stems="kokemukse-;">kokemus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l gen="Fem" pos="N">ertesuppe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" stems="hernetkeito-;">hernetkeitto</t>
          </tg>
          <tg>
             <t pos="N">hernetvelli</t>
@@ -832,43 +887,45 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">evakueringstid</l>
+      <lg>
+         <l gen="Fem" pos="N">evakueringstid</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">evakyeeramisaika</t>
-            <stem>evakyeeramisaia-</stem>
-            <stem>evakyeeramisaikka-</stem>
+            <t pos="N" stems="evakyeeramisaia-;evakyeeramisaikka-;">evakyeeramisaika</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">farging</l>
+      <lg>
+         <l gen="Fem" pos="N">farging</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">painet</t>
-            <stem>painhee-</stem>
+            <t pos="N" stems="painhee-;">painet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fart</l>
+      <lg>
+         <l gen="Fem" pos="N">fart</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">noppeus</t>
-            <stem>noppeukse-</stem>
+            <t pos="N" stems="noppeukse-;">noppeus</t>
          </tg>
          <tg>
-            <t pos="N">rukatus</t>
-            <stem>rukatukse-</stem>
+            <t pos="N" stems="rukatukse-;">rukatus</t>
          </tg>
          <tg>
-            <t pos="N">vauhti</t>
-            <stem>vauhđi-</stem>
+            <t pos="N" stems="vauhđi-;">vauhti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">feiring</l>
+      <lg>
+         <l gen="Fem" pos="N">feiring</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">menot</t>
@@ -876,14 +933,15 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">felle</l>
+      <lg>
+         <l gen="Fem" pos="N">felle</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">killeri</t>
          </tg>
          <tg>
-            <t pos="N">loukku</t>
-            <stem>louku-</stem>
+            <t pos="N" stems="louku-;">loukku</t>
             <xg>
                <x>Treet har felt blader</x>
                <xt>Puu oon varvottunu</xt>
@@ -892,17 +950,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">felling</l>
+      <lg>
+         <l gen="Fem" pos="N">felling</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kaato</t>
-            <stem>kaađo-</stem>
-            <stem>kaatto-</stem>
+            <t pos="N" stems="kaađo-;kaatto-;">kaato</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fil</l>
+      <lg>
+         <l gen="Fem" pos="N">fil</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">fiila</t>
@@ -910,7 +970,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">filmelk</l>
+      <lg>
+         <l gen="Fem" pos="N">filmelk</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">päälyspiimä</t>
@@ -918,60 +980,63 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">firfirsle</l>
+      <lg>
+         <l gen="Fem" pos="N">firfirsle</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">liisko</t>
-         </tg>
-         <tg>
             <t pos="N">lisko</t>
          </tg>
       </mg>
-      <syng>
-         <syn>liisko</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">fiskeand</l>
+      <lg>
+         <l gen="Fem" pos="N">fiskeand</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">koskelo</t>
+            <syng>
+               <syn>suorsa</syn>
+            </syng>
          </tg>
       </mg>
-      <syng>
-         <syn>suorsa</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">fiskeflue</l>
+      <lg>
+         <l gen="Fem" pos="N">fiskeflue</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">höyhenonki</t>
-            <stem>höyhenonge-</stem>
-            <stem>höyhenonkke-</stem>
+            <t pos="N" stems="höyhenonge-;höyhenonkke-;">höyhenonki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fiskekake</l>
+      <lg>
+         <l gen="Fem" pos="N">fiskekake</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kalakakko</t>
-            <stem>kalakako-</stem>
+            <t pos="N" stems="kalakako-;">kalakakko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fiskekokning</l>
+      <lg>
+         <l gen="Fem" pos="N">fiskekokning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kalakeitto</t>
-            <stem>kalakeito-</stem>
+            <t pos="N" stems="kalakeito-;">kalakeitto</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fiskesuppe</l>
+      <lg>
+         <l gen="Fem" pos="N">fiskesuppe</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kalavelli</t>
@@ -979,19 +1044,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fitte</l>
+      <lg>
+         <l gen="Fem" pos="N">fitte</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">pillu</t>
          </tg>
          <tg>
-            <t pos="N">vittu</t>
-            <stem>vitu-</stem>
+            <t pos="N" stems="vitu-;">vittu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fjær</l>
+      <lg>
+         <l gen="Fem" pos="N">fjær</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">fiera</t>
@@ -1004,25 +1072,27 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="N">joutti</t>
-            <stem>joutte-</stem>
-            <stem>joutte-</stem>
+            <t pos="N" stems="joutte-;joutte-;">joutti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fjære</l>
+      <lg>
+         <l gen="Fem" pos="N">fjære</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">fierva</t>
+            <syng>
+               <syn>laskuvesi</syn>
+            </syng>
          </tg>
       </mg>
-      <syng>
-         <syn>laskuvesi</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">fjærharv</l>
+      <lg>
+         <l gen="Fem" pos="N">fjærharv</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">jouttikarhii</t>
@@ -1030,110 +1100,106 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fjøl</l>
+      <lg>
+         <l gen="Fem" pos="N">fjøl</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lauta</t>
-            <stem>lauđa-</stem>
-            <stem>lautta-</stem>
+            <t pos="N" stems="lauđa-;lautta-;">lauta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">flaske</l>
+      <lg>
+         <l gen="Fem" pos="N">flaske</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">flasku</t>
-         </tg>
-         <tg>
             <t pos="N">poteeli</t>
          </tg>
       </mg>
-      <syng>
-         <syn>flasku</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">flette</l>
+      <lg>
+         <l gen="Fem" pos="N">flette</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">palmikko</t>
-            <stem>palmiko-</stem>
+            <t pos="N" stems="palmiko-;">palmikko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">flo</l>
+      <lg>
+         <l gen="Fem" pos="N">flo</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">nousuvesi</t>
-            <stem>nousuveđe-</stem>
-            <stem>nousuvet-</stem>
-         </tg>
-         <tg>
+            <t pos="N" stems="nousuveđe-;nousuvet-;">nousuvesi</t>
             <t pos="N">ulli</t>
          </tg>
       </mg>
-      <syng>
-         <syn>nousuvesi</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">flue</l>
+      <lg>
+         <l gen="Fem" pos="N">flue</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kärpänen</t>
-            <stem>kärpäse-</stem>
-            <stem>kärpäs-</stem>
+            <t pos="N" stems="kärpäse-;kärpäs-;">kärpänen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">flyndre</l>
+      <lg>
+         <l gen="Fem" pos="N">flyndre</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">santikka</t>
-            <stem>santika-</stem>
+            <t pos="N" stems="santika-;">santikka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">flytning</l>
+      <lg>
+         <l gen="Fem" pos="N">flytning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">siirto</t>
-            <stem>siirro-</stem>
-            <stem>siirtto-</stem>
+            <t pos="N" stems="siirro-;siirtto-;">siirto</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">flytting</l>
+      <lg>
+         <l gen="Fem" pos="N">flytting</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">muutto</t>
-            <stem>muuto-</stem>
+            <t pos="N" stems="muuto-;">muutto</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">siirtyminen</t>
-            <stem>siirtymise-</stem>
-            <stem>siirtymis-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l gen="Fem" pos="N">fløting</l>
-      <mg>
-         <tg>
-            <t pos="N">uitto</t>
-            <stem>uito-</stem>
+            <t pos="N" stems="siirtymise-;siirtymis-;">siirtyminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fløyte</l>
+      <lg>
+         <l gen="Fem" pos="N">fløting</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" stems="uito-;">uitto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l gen="Fem" pos="N">fløyte</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">pillipiipari</t>
@@ -1141,26 +1207,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">forandring</l>
+      <lg>
+         <l gen="Fem" pos="N">forandring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">muuttuminen</t>
-            <stem>muuttumise-</stem>
-            <stem>muuttumis-</stem>
+            <t pos="N" stems="muuttumise-;muuttumis-;">muuttuminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">forbinding</l>
+      <lg>
+         <l gen="Fem" pos="N">forbinding</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tukko</t>
-            <stem>tuko-</stem>
+            <t pos="N" stems="tuko-;">tukko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">forening</l>
+      <lg>
+         <l gen="Fem" pos="N">forening</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">seura</t>
@@ -1168,34 +1237,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">forgiftning</l>
+      <lg>
+         <l gen="Fem" pos="N">forgiftning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">myrkytys</t>
-            <stem>myrkytykse-</stem>
+            <t pos="N" stems="myrkytykse-;">myrkytys</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">forhåpning</l>
+      <lg>
+         <l gen="Fem" pos="N">forhåpning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">toivet</t>
-            <stem>toivhee-</stem>
+            <t pos="N" stems="toivhee-;">toivet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">forklaring</l>
+      <lg>
+         <l gen="Fem" pos="N">forklaring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">selitys</t>
-            <stem>selitykse-</stem>
+            <t pos="N" stems="selitykse-;">selitys</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fornorsking</l>
+      <lg>
+         <l gen="Fem" pos="N">fornorsking</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">norjalaistaminen</t>
@@ -1206,49 +1280,45 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fornorskning</l>
+      <lg>
+         <l gen="Fem" pos="N">fornorskning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ruiđalaistaminen</t>
-            <stem>ruiđalaistamise-</stem>
-            <stem>ruiđalaistamis-</stem>
+            <t pos="N" stems="ruiđalaistamise-;ruiđalaistamis-;">ruiđalaistaminen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">ruiđalaistuminen</t>
-            <stem>ruiđalaistumise-</stem>
-            <stem>ruiđalaistumis-</stem>
+            <t pos="N" stems="ruiđalaistumise-;ruiđalaistumis-;">ruiđalaistuminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">forsamling</l>
+      <lg>
+         <l gen="Fem" pos="N">forsamling</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kokkous</t>
-            <stem>kokkoukse-</stem>
-         </tg>
-         <tg>
-            <t pos="N">kokous</t>
-            <stem>kokoukse-</stem>
-         </tg>
-      </mg>
-      <syng>
-         <syn>kokkous</syn>
-      </syng>
-   </e>
-   <e>
-      <l gen="Fem" pos="N">fortann</l>
-      <mg>
-         <tg>
-            <t pos="N">etuhammas</t>
-            <stem>etuhamphaa-</stem>
+            <t pos="N" stems="kokkoukse-;">kokkous</t>
+            <t pos="N" stems="kokoukse-;">kokous</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fotsåle</l>
+      <lg>
+         <l gen="Fem" pos="N">fortann</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" stems="etuhamphaa-;">etuhammas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l gen="Fem" pos="N">fotsåle</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">jalkapohja</t>
@@ -1256,30 +1326,32 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">frakt</l>
+      <lg>
+         <l gen="Fem" pos="N">frakt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">frahti</t>
-            <stem>frahđi-</stem>
+            <t pos="N" stems="frahđi-;">frahti</t>
          </tg>
          <tg>
-            <t pos="N">kuljetus</t>
-            <stem>kuljetukse-</stem>
+            <t pos="N" stems="kuljetukse-;">kuljetus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">frihet</l>
+      <lg>
+         <l gen="Fem" pos="N">frihet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">vaphaus</t>
-            <stem>vaphauđe-</stem>
-            <stem>vaphaut-</stem>
+            <t pos="N" stems="vaphauđe-;vaphaut-;">vaphaus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">friskluft</l>
+      <lg>
+         <l gen="Fem" pos="N">friskluft</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ulkoilma</t>
@@ -1287,7 +1359,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">frue</l>
+      <lg>
+         <l gen="Fem" pos="N">frue</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">vaimo</t>
@@ -1295,17 +1369,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">frøken</l>
+      <lg>
+         <l gen="Fem" pos="N">frøken</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">neiti</t>
-            <stem>neiti-</stem>
-            <stem>neitti-</stem>
+            <t pos="N" stems="neiti-;neitti-;">neiti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">fuglekasse</l>
+      <lg>
+         <l gen="Fem" pos="N">fuglekasse</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">linnunkassa</t>
@@ -1313,18 +1389,17 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">furu</l>
+      <lg>
+         <l gen="Fem" pos="N">furu</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">honka</t>
-            <stem>honga-</stem>
-            <stem>honkka-</stem>
+            <t pos="N" stems="honga-;honkka-;">honka</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">karhaakka</t>
-            <stem>karhaaka-</stem>
+            <t pos="N" stems="karhaaka-;">karhaakka</t>
          </tg>
       </mg>
       <mg>
@@ -1335,36 +1410,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gammeljomfru</l>
+      <lg>
+         <l gen="Fem" pos="N">gammeljomfru</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">vanhaa piika</t>
-            <stem>vanhaan piia-</stem>
-            <stem>vanhaata piikka-</stem>
+            <t pos="N" stems="vanhaan piia-;vanhaata piikka-;">vanhaa piika</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">garnnøste</l>
+      <lg>
+         <l gen="Fem" pos="N">garnnøste</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lankakerä</t>
-            <stem>lankakerrä-</stem>
+            <t pos="N" stems="lankakerrä-;">lankakerä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gate</l>
+      <lg>
+         <l gen="Fem" pos="N">gate</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">katu</t>
-            <stem>kađu-</stem>
-            <stem>kattu-</stem>
+            <t pos="N" stems="kađu-;kattu-;">katu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gaupe</l>
+      <lg>
+         <l gen="Fem" pos="N">gaupe</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ilveskissa</t>
@@ -1372,7 +1450,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">geit</l>
+      <lg>
+         <l gen="Fem" pos="N">geit</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">keituri</t>
@@ -1380,45 +1460,49 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gift</l>
+      <lg>
+         <l gen="Fem" pos="N">gift</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">myrkky</t>
-            <stem>myrky-</stem>
+            <t pos="N" stems="myrky-;">myrkky</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gjeld</l>
+      <lg>
+         <l gen="Fem" pos="N">gjeld</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">velka</t>
-            <stem>vela-</stem>
-            <stem>velkka-</stem>
+            <t pos="N" stems="vela-;velkka-;">velka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gjerning</l>
+      <lg>
+         <l gen="Fem" pos="N">gjerning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">teko</t>
-            <stem>teo-</stem>
-            <stem>tekko-</stem>
+            <t pos="N" stems="teo-;tekko-;">teko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gjerrighet</l>
+      <lg>
+         <l gen="Fem" pos="N">gjerrighet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ahneus</t>
-            <stem>ahneukse-</stem>
+            <t pos="N" stems="ahneukse-;">ahneus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gjødsellukt</l>
+      <lg>
+         <l gen="Fem" pos="N">gjødsellukt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">loorihaiju</t>
@@ -1426,61 +1510,65 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gjørme</l>
+      <lg>
+         <l gen="Fem" pos="N">gjørme</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rapa</t>
-            <stem>rappa-</stem>
+            <t pos="N" stems="rappa-;">rapa</t>
          </tg>
          <tg>
-            <t pos="N">rapakko</t>
-            <stem>rapako-</stem>
+            <t pos="N" stems="rapako-;">rapakko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gjørmemyr</l>
+      <lg>
+         <l gen="Fem" pos="N">gjørmemyr</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rapajänkkä</t>
-            <stem>rapajänkä-</stem>
+            <t pos="N" stems="rapajänkä-;">rapajänkkä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">glo</l>
+      <lg>
+         <l gen="Fem" pos="N">glo</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ahjo</t>
          </tg>
          <tg>
-            <t pos="N">hiilos</t>
-            <stem>hiilokse-</stem>
+            <t pos="N" stems="hiilokse-;">hiilos</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gran</l>
+      <lg>
+         <l gen="Fem" pos="N">gran</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kuusi</t>
-            <stem>kuuse-</stem>
-            <stem>kuusse-</stem>
+            <t pos="N" stems="kuuse-;kuusse-;">kuusi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">grav</l>
+      <lg>
+         <l gen="Fem" pos="N">grav</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hauta</t>
-            <stem>hauđa-</stem>
-            <stem>hautta-</stem>
+            <t pos="N" stems="hauđa-;hautta-;">hauta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">grein</l>
+      <lg>
+         <l gen="Fem" pos="N">grein</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">haara</t>
@@ -1493,48 +1581,50 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">grense</l>
+      <lg>
+         <l gen="Fem" pos="N">grense</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">raja</t>
-            <stem>rajja-</stem>
+            <t pos="N" stems="rajja-;">raja</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">grind</l>
+      <lg>
+         <l gen="Fem" pos="N">grind</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">verrääjä</t>
-         </tg>
-         <tg>
             <t pos="N">vörrääjä</t>
          </tg>
       </mg>
-      <syng>
-         <syn>verrääjä</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">grop</l>
+      <lg>
+         <l gen="Fem" pos="N">grop</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kuoppa</t>
-            <stem>kuopa-</stem>
+            <t pos="N" stems="kuopa-;">kuoppa</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gruppe</l>
+      <lg>
+         <l gen="Fem" pos="N">gruppe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">joukko</t>
-            <stem>jouko-</stem>
+            <t pos="N" stems="jouko-;">joukko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">grynsuppe</l>
+      <lg>
+         <l gen="Fem" pos="N">grynsuppe</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kryynivelli</t>
@@ -1542,55 +1632,59 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gryte</l>
+      <lg>
+         <l gen="Fem" pos="N">gryte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pata</t>
-            <stem>pađa-</stem>
-            <stem>patta-</stem>
+            <t pos="N" stems="pađa-;patta-;">pata</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">grøft</l>
+      <lg>
+         <l gen="Fem" pos="N">grøft</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kravi</t>
-            <stem>kravvi-</stem>
+            <t pos="N" stems="kravvi-;">kravi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">gås</l>
+      <lg>
+         <l gen="Fem" pos="N">gås</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hanhii</t>
-            <stem>hanhii-</stem>
+            <t pos="N" stems="hanhii-;">hanhii</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hake</l>
+      <lg>
+         <l gen="Fem" pos="N">hake</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">leuka</t>
-            <stem>leua-</stem>
-            <stem>leukka-</stem>
+            <t pos="N" stems="leua-;leukka-;">leuka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hand</l>
+      <lg>
+         <l gen="Fem" pos="N">hand</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">käsi</t>
-            <stem>käđe-</stem>
-            <stem>kät-</stem>
+            <t pos="N" stems="käđe-;kät-;">käsi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">harv</l>
+      <lg>
+         <l gen="Fem" pos="N">harv</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">karhii</t>
@@ -1598,7 +1692,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">havn</l>
+      <lg>
+         <l gen="Fem" pos="N">havn</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hamina</t>
@@ -1606,65 +1702,69 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">havstrand</l>
+      <lg>
+         <l gen="Fem" pos="N">havstrand</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">merenranta</t>
-            <stem>merenranna-</stem>
-            <stem>merenrantta-</stem>
+            <t pos="N" stems="merenranna-;merenrantta-;">merenranta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">havsøy</l>
+      <lg>
+         <l gen="Fem" pos="N">havsøy</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">merensaari</t>
-            <stem>merensaare-</stem>
-            <stem>merensaar-</stem>
+            <t pos="N" stems="merensaare-;merensaar-;">merensaari</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">heine</l>
+      <lg>
+         <l gen="Fem" pos="N">heine</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hijomakivi</t>
-            <stem>hijomakive-</stem>
-            <stem>hijomakivve-</stem>
+            <t pos="N" stems="hijomakive-;hijomakivve-;">hijomakivi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hekte</l>
+      <lg>
+         <l gen="Fem" pos="N">hekte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hakanen</t>
-            <stem>hakase-</stem>
-            <stem>hakas-</stem>
+            <t pos="N" stems="hakase-;hakas-;">hakanen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">helg</l>
+      <lg>
+         <l gen="Fem" pos="N">helg</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pyhä</t>
-            <stem>pyhhä-</stem>
+            <t pos="N" stems="pyhhä-;">pyhä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">helhet</l>
+      <lg>
+         <l gen="Fem" pos="N">helhet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kokonhaisuus</t>
-            <stem>kokonhaisuuđe-</stem>
+            <t pos="N" stems="kokonhaisuuđe-;">kokonhaisuus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">helle</l>
+      <lg>
+         <l gen="Fem" pos="N">helle</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hella</t>
@@ -1672,17 +1772,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">helse</l>
+      <lg>
+         <l gen="Fem" pos="N">helse</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tervheys</t>
-            <stem>tervheyđe-</stem>
-            <stem>tervheyt-</stem>
+            <t pos="N" stems="tervheyđe-;tervheyt-;">tervheys</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hengebjørk</l>
+      <lg>
+         <l gen="Fem" pos="N">hengebjørk</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">rauđaskoivu</t>
@@ -1690,38 +1792,42 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hengemyr</l>
+      <lg>
+         <l gen="Fem" pos="N">hengemyr</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="x">levä</t>
-            <stem>levvä-</stem>
+            <t pos="x" stems="levvä-;">levä</t>
          </tg>
          <tg>
-            <t pos="N">leväjänkkä</t>
-            <stem>leväjänkä-</stem>
+            <t pos="N" stems="leväjänkä-;">leväjänkkä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hensikt</l>
+      <lg>
+         <l gen="Fem" pos="N">hensikt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">aikomus</t>
-            <stem>aikomukse-</stem>
+            <t pos="N" stems="aikomukse-;">aikomus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hesje</l>
+      <lg>
+         <l gen="Fem" pos="N">hesje</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">haasi</t>
-            <stem>haassi-</stem>
+            <t pos="N" stems="haassi-;">haasi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hestekraft</l>
+      <lg>
+         <l gen="Fem" pos="N">hestekraft</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hevosvoima</t>
@@ -1729,16 +1835,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hindring</l>
+      <lg>
+         <l gen="Fem" pos="N">hindring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">estet</t>
-            <stem>esthee-</stem>
+            <t pos="N" stems="esthee-;">estet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">historie</l>
+      <lg>
+         <l gen="Fem" pos="N">historie</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">histuuria</t>
@@ -1746,44 +1855,45 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hodepine</l>
+      <lg>
+         <l gen="Fem" pos="N">hodepine</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pääkipu</t>
-            <stem>pääkivu-</stem>
-            <stem>pääkippu-</stem>
+            <t pos="N" stems="pääkivu-;pääkippu-;">pääkipu</t>
          </tg>
          <tg>
-            <t pos="N">päänsärky</t>
-            <stem>päänsärvy-</stem>
-            <stem>päänsärkky-</stem>
+            <t pos="N" stems="päänsärvy-;päänsärkky-;">päänsärky</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hodepute</l>
+      <lg>
+         <l gen="Fem" pos="N">hodepute</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">päänalanen</t>
-            <stem>päänalase-</stem>
-            <stem>päänalas-</stem>
+            <t pos="N" stems="päänalase-;päänalas-;">päänalanen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hofte</l>
+      <lg>
+         <l gen="Fem" pos="N">hofte</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">jorva</t>
          </tg>
          <tg>
-            <t pos="N">ronkka</t>
-            <stem>ronka-</stem>
+            <t pos="N" stems="ronka-;">ronkka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hore</l>
+      <lg>
+         <l gen="Fem" pos="N">hore</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">huora</t>
@@ -1791,17 +1901,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hosting</l>
+      <lg>
+         <l gen="Fem" pos="N">hosting</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rykiminen</t>
-            <stem>rykimise-</stem>
-            <stem>rykimis-</stem>
+            <t pos="N" stems="rykimise-;rykimis-;">rykiminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hovedsak</l>
+      <lg>
+         <l gen="Fem" pos="N">hovedsak</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">pääassii</t>
@@ -1809,36 +1921,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">humle</l>
+      <lg>
+         <l gen="Fem" pos="N">humle</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">mettiinen</t>
-            <stem>mettiise-</stem>
-            <stem>mettiise-</stem>
+            <t pos="N" stems="mettiise-;mettiise-;">mettiinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hurtigrute</l>
+      <lg>
+         <l gen="Fem" pos="N">hurtigrute</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hurttiiruutta</t>
-            <stem>hurttiiruuta-</stem>
+            <t pos="N" stems="hurttiiruuta-;">hurttiiruutta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">husmor</l>
+      <lg>
+         <l gen="Fem" pos="N">husmor</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">emäntä</t>
-            <stem>emännä-</stem>
-            <stem>emänttä-</stem>
+            <t pos="N" stems="emännä-;emänttä-;">emäntä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hustru</l>
+      <lg>
+         <l gen="Fem" pos="N">hustru</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ämmä</t>
@@ -1846,17 +1961,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hvile</l>
+      <lg>
+         <l gen="Fem" pos="N">hvile</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lepo</t>
-            <stem>levo-</stem>
-            <stem>leppo-</stem>
+            <t pos="N" stems="levo-;leppo-;">lepo</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hylle</l>
+      <lg>
+         <l gen="Fem" pos="N">hylle</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hylly</t>
@@ -1864,38 +1981,42 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hypping</l>
+      <lg>
+         <l gen="Fem" pos="N">hypping</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">multtaaminen</t>
-            <stem>multtaamise-</stem>
-            <stem>multtaamis-</stem>
+            <t pos="N" stems="multtaamise-;multtaamis-;">multtaaminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">hytte</l>
+      <lg>
+         <l gen="Fem" pos="N">hytte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">maja</t>
-            <stem>majja-</stem>
+            <t pos="N" stems="majja-;">maja</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">håndflate</l>
+      <lg>
+         <l gen="Fem" pos="N">håndflate</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kämmen</t>
-            <stem>kämmene-</stem>
+            <t pos="N" stems="kämmene-;">kämmen</t>
+            <syng>
+               <syn>pio</syn>
+            </syng>
          </tg>
       </mg>
-      <syng>
-         <syn>pio</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">håndkjerre</l>
+      <lg>
+         <l gen="Fem" pos="N">håndkjerre</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">käsikärröt</t>
@@ -1903,44 +2024,49 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">høne</l>
+      <lg>
+         <l gen="Fem" pos="N">høne</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kana</t>
-            <stem>kanna-</stem>
+            <t pos="N" stems="kanna-;">kana</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">høyde</l>
+      <lg>
+         <l gen="Fem" pos="N">høyde</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">korkkeus</t>
-            <stem>korkkeuđe-</stem>
+            <t pos="N" stems="korkkeuđe-;">korkkeus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">høyløe</l>
+      <lg>
+         <l gen="Fem" pos="N">høyløe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">heinälato</t>
-            <stem>heinälađo-</stem>
-            <stem>heinälatto-</stem>
+            <t pos="N" stems="heinälađo-;heinälatto-;">heinälato</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">høymark</l>
+      <lg>
+         <l gen="Fem" pos="N">høymark</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">heinäkenttä</t>
-            <stem>høyeng –a-</stem>
+            <t pos="N" stems="høyeng –a-;">heinäkenttä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">høymol</l>
+      <lg>
+         <l gen="Fem" pos="N">høymol</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">saviheinä</t>
@@ -1951,94 +2077,97 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">høyonn</l>
+      <lg>
+         <l gen="Fem" pos="N">høyonn</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">heinäaika</t>
-            <stem>heinäaia-</stem>
-            <stem>heinäaikka-</stem>
+            <t pos="N" stems="heinäaia-;heinäaikka-;">heinäaika</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">innpakning</l>
+      <lg>
+         <l gen="Fem" pos="N">innpakning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pakkaaminen</t>
-            <stem>pakkaamise-</stem>
-            <stem>pakkamis-</stem>
+            <t pos="N" stems="pakkaamise-;pakkamis-;">pakkaaminen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">pakkaus</t>
-            <stem>pakkaukse-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l gen="Fem" pos="N">innside</l>
-      <mg>
-         <tg>
-            <t pos="N">sisäpuoli</t>
-            <stem>sisäpuole-</stem>
-            <stem>sisäpuol-</stem>
+            <t pos="N" stems="pakkaukse-;">pakkaus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">isdemning</l>
+      <lg>
+         <l gen="Fem" pos="N">innside</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">jääpato</t>
-            <stem>jääpađo-</stem>
-            <stem>jääpatto-</stem>
+            <t pos="N" stems="sisäpuole-;sisäpuol-;">sisäpuoli</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">jakke</l>
+      <lg>
+         <l gen="Fem" pos="N">isdemning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">takki</t>
-            <stem>taki-</stem>
+            <t pos="N" stems="jääpađo-;jääpatto-;">jääpato</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">jakt</l>
+      <lg>
+         <l gen="Fem" pos="N">jakke</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">jahti</t>
-            <stem>jahđi-</stem>
+            <t pos="N" stems="taki-;">takki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">jente</l>
+      <lg>
+         <l gen="Fem" pos="N">jakt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tytär</t>
-            <stem>tyttäre-</stem>
-         </tg>
-         <tg>
-            <t pos="N">tyđär</t>
-            <stem>tyttäre-</stem>
+            <t pos="N" stems="jahđi-;">jahti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">jerngryte</l>
+      <lg>
+         <l gen="Fem" pos="N">jente</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rautapata</t>
-            <stem>rautapađa-</stem>
-            <stem>rautapatta-</stem>
+            <t pos="N" stems="tyttäre-;">tytär</t>
+         </tg>
+         <tg>
+            <t pos="N" stems="tyttäre-;">tyđär</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">jord</l>
+      <lg>
+         <l gen="Fem" pos="N">jerngryte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" stems="rautapađa-;rautapatta-;">rautapata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l gen="Fem" pos="N">jord</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">maa</t>
@@ -2046,7 +2175,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">jul</l>
+      <lg>
+         <l gen="Fem" pos="N">jul</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">joulu</t>
@@ -2058,46 +2189,49 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">julesalme</l>
+      <lg>
+         <l gen="Fem" pos="N">julesalme</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">jouluvirsi</t>
-            <stem>jouluvirre-</stem>
-            <stem>jouluvirt-</stem>
+            <t pos="N" stems="jouluvirre-;jouluvirt-;">jouluvirsi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">julestjerne</l>
+      <lg>
+         <l gen="Fem" pos="N">julestjerne</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">joulutähti</t>
-            <stem>joulutähđe-</stem>
-            <stem>joulutähte-</stem>
+            <t pos="N" stems="joulutähđe-;joulutähte-;">joulutähti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">juletid</l>
+      <lg>
+         <l gen="Fem" pos="N">juletid</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">jouluaika</t>
-            <stem>jouluaia-</stem>
-            <stem>jouluaikka-</stem>
+            <t pos="N" stems="jouluaia-;jouluaikka-;">jouluaika</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kake</l>
+      <lg>
+         <l gen="Fem" pos="N">kake</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kakko</t>
-            <stem>kako-</stem>
+            <t pos="N" stems="kako-;">kakko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kanne</l>
+      <lg>
+         <l gen="Fem" pos="N">kanne</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kannu</t>
@@ -2105,7 +2239,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kasse</l>
+      <lg>
+         <l gen="Fem" pos="N">kasse</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kassa</t>
@@ -2113,16 +2249,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kastenot</l>
+      <lg>
+         <l gen="Fem" pos="N">kastenot</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">heittoverkko</t>
-            <stem>heittoverko-</stem>
+            <t pos="N" stems="heittoverko-;">heittoverkko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">katt</l>
+      <lg>
+         <l gen="Fem" pos="N">katt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kissa</t>
@@ -2130,11 +2269,12 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kattugle</l>
+      <lg>
+         <l gen="Fem" pos="N">kattugle</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kissapökkö</t>
-            <stem>kissapökö-</stem>
+            <t pos="N" stems="kissapökö-;">kissapökkö</t>
          </tg>
          <tg>
             <t pos="N">pyöräpää</t>
@@ -2142,25 +2282,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kirke</l>
+      <lg>
+         <l gen="Fem" pos="N">kirke</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kirkko</t>
-            <stem>kirko-</stem>
+            <t pos="N" stems="kirko-;">kirkko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kiste</l>
+      <lg>
+         <l gen="Fem" pos="N">kiste</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">arkku</t>
-            <stem>arku-</stem>
+            <t pos="N" stems="arku-;">arkku</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kjerne</l>
+      <lg>
+         <l gen="Fem" pos="N">kjerne</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kirnu</t>
@@ -2168,7 +2312,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kjerre</l>
+      <lg>
+         <l gen="Fem" pos="N">kjerre</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kärröt</t>
@@ -2176,45 +2322,49 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kjerring</l>
+      <lg>
+         <l gen="Fem" pos="N">kjerring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">akka</t>
-            <stem>aka-</stem>
+            <t pos="N" stems="aka-;">akka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kjærlighet</l>
+      <lg>
+         <l gen="Fem" pos="N">kjærlighet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rakhaus</t>
-            <stem>rakhauđe-</stem>
-            <stem>rakhaut-</stem>
+            <t pos="N" stems="rakhauđe-;rakhaut-;">rakhaus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kjøring</l>
+      <lg>
+         <l gen="Fem" pos="N">kjøring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ajo</t>
-            <stem>ajjo-</stem>
+            <t pos="N" stems="ajjo-;">ajo</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kjøttkraft</l>
+      <lg>
+         <l gen="Fem" pos="N">kjøttkraft</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lihaliemi</t>
-            <stem>lihalieme-</stem>
-            <stem>lihalien-</stem>
+            <t pos="N" stems="lihalieme-;lihalien-;">lihaliemi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">klokke</l>
+      <lg>
+         <l gen="Fem" pos="N">klokke</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kello</t>
@@ -2222,28 +2372,26 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">knappenål</l>
+      <lg>
+         <l gen="Fem" pos="N">knappenål</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">knuppineula</t>
-         </tg>
-         <tg>
             <t pos="N">nuppineula</t>
          </tg>
       </mg>
-      <syng>
-         <syn>knuppineula</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">knipetang</l>
+      <lg>
+         <l gen="Fem" pos="N">knipetang</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">tonget</t>
          </tg>
          <tg>
-            <t pos="N">hođin</t>
-            <stem>hohtime-</stem>
+            <t pos="N" stems="hohtime-;">hođin</t>
          </tg>
          <tg>
             <t pos="N">hohtimet</t>
@@ -2251,23 +2399,24 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">koie</l>
+      <lg>
+         <l gen="Fem" pos="N">koie</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kota</t>
-            <stem>kođa-</stem>
-            <stem>kotta-</stem>
+            <t pos="N" stems="kođa-;kotta-;">kota</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">kämppä</t>
-            <stem>kämpä-</stem>
+            <t pos="N" stems="kämpä-;">kämppä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">konfirmasjonsundervisning</l>
+      <lg>
+         <l gen="Fem" pos="N">konfirmasjonsundervisning</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">rippikoulu</t>
@@ -2275,51 +2424,54 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kongle</l>
+      <lg>
+         <l gen="Fem" pos="N">kongle</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">käpy</t>
-            <stem>kävy-</stem>
-            <stem>käppy-</stem>
+            <t pos="N" stems="kävy-;käppy-;">käpy</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kopping</l>
+      <lg>
+         <l gen="Fem" pos="N">kopping</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kuppaaminen</t>
-            <stem>kuppamise-</stem>
-            <stem>kuppaamis-</stem>
+            <t pos="N" stems="kuppamise-;kuppaamis-;">kuppaaminen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">kuppaus</t>
-            <stem>kuppaukse-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l gen="Fem" pos="N">korg</l>
-      <mg>
-         <tg>
-            <t pos="N">kori</t>
-            <stem>korri-</stem>
+            <t pos="N" stems="kuppaukse-;">kuppaus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">krabbe</l>
+      <lg>
+         <l gen="Fem" pos="N">korg</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rieppa</t>
-            <stem>riepa-</stem>
+            <t pos="N" stems="korri-;">kori</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kraft</l>
+      <lg>
+         <l gen="Fem" pos="N">krabbe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" stems="riepa-;">rieppa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l gen="Fem" pos="N">kraft</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">voima</t>
@@ -2327,7 +2479,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kran</l>
+      <lg>
+         <l gen="Fem" pos="N">kran</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hana</t>
@@ -2335,17 +2489,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">krikkand</l>
+      <lg>
+         <l gen="Fem" pos="N">krikkand</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tavi</t>
-            <stem>tavi-</stem>
-            <stem>tavvi-</stem>
+            <t pos="N" stems="tavi-;tavvi-;">tavi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kringle</l>
+      <lg>
+         <l gen="Fem" pos="N">kringle</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">krinkeli</t>
@@ -2353,7 +2509,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">krone</l>
+      <lg>
+         <l gen="Fem" pos="N">krone</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kruunu</t>
@@ -2361,46 +2519,49 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">krybbe</l>
+      <lg>
+         <l gen="Fem" pos="N">krybbe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">soimi</t>
-            <stem>soime-</stem>
-            <stem>soime-</stem>
+            <t pos="N" stems="soime-;soime-;">soimi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kryping</l>
+      <lg>
+         <l gen="Fem" pos="N">kryping</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">konttaaminen</t>
-            <stem>konttaamise-</stem>
-            <stem>konttaamis-</stem>
+            <t pos="N" stems="konttaamise-;konttaamis-;">konttaaminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kråke</l>
+      <lg>
+         <l gen="Fem" pos="N">kråke</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">varis</t>
-            <stem>varikse-</stem>
+            <t pos="N" stems="varikse-;">varis</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kråkebolle</l>
+      <lg>
+         <l gen="Fem" pos="N">kråkebolle</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">variksenpata</t>
-            <stem>variksenpađa-</stem>
-            <stem>variksenpatta-</stem>
+            <t pos="N" stems="variksenpađa-;variksenpatta-;">variksenpata</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">krøkebær</l>
+      <lg>
+         <l gen="Fem" pos="N">krøkebær</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">variksenmarja</t>
@@ -2408,7 +2569,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ku</l>
+      <lg>
+         <l gen="Fem" pos="N">ku</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lehmä</t>
@@ -2416,7 +2579,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kubjelle</l>
+      <lg>
+         <l gen="Fem" pos="N">kubjelle</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lehmänkello</t>
@@ -2424,126 +2589,132 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kulde</l>
+      <lg>
+         <l gen="Fem" pos="N">kulde</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">vilu</t>
-            <stem>villu-</stem>
+            <t pos="N" stems="villu-;">vilu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kule</l>
+      <lg>
+         <l gen="Fem" pos="N">kule</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kyylä</t>
          </tg>
          <tg>
-            <t pos="N">luođi</t>
-            <stem>luođi-</stem>
+            <t pos="N" stems="luođi-;">luođi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kutting</l>
+      <lg>
+         <l gen="Fem" pos="N">kutting</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">leikkaus</t>
-            <stem>leikkaukse-</stem>
+            <t pos="N" stems="leikkaukse-;">leikkaus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kveite</l>
+      <lg>
+         <l gen="Fem" pos="N">kveite</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pallas</t>
-            <stem>palthaa-</stem>
+            <t pos="N" stems="palthaa-;">pallas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kvige</l>
+      <lg>
+         <l gen="Fem" pos="N">kvige</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">nuorukainen</t>
-            <stem>nuorukaise-</stem>
-            <stem>nuorukais-</stem>
+            <t pos="N" stems="nuorukaise-;nuorukais-;">nuorukainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kvinne</l>
+      <lg>
+         <l gen="Fem" pos="N">kvinne</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">nainen</t>
-            <stem>naise-</stem>
-            <stem>nais-</stem>
+            <t pos="N" stems="naise-;nais-;">nainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kvise</l>
+      <lg>
+         <l gen="Fem" pos="N">kvise</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">näppy</t>
-            <stem>näpy-</stem>
+            <t pos="N" stems="näpy-;">näppy</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">kvittering</l>
+      <lg>
+         <l gen="Fem" pos="N">kvittering</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kuitteeraaminen</t>
-            <stem>kuitteeraamise-</stem>
-            <stem>kuitteeramis-</stem>
+            <t pos="N" stems="kuitteeraamise-;kuitteeramis-;">kuitteeraaminen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">kuitti</t>
-            <stem>kuiti-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l gen="Fem" pos="N">ladning</l>
-      <mg>
-         <tg>
-            <t pos="N">laađinki</t>
-            <stem>laađingi-</stem>
-            <stem>laađinkki-</stem>
+            <t pos="N" stems="kuiti-;">kuitti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lampe</l>
+      <lg>
+         <l gen="Fem" pos="N">ladning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lamppu</t>
-            <stem>lampu-</stem>
+            <t pos="N" stems="laađingi-;laađinkki-;">laađinki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ledning</l>
+      <lg>
+         <l gen="Fem" pos="N">lampe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">leetninki</t>
-            <stem>leetningi-</stem>
-            <stem>leetninkki-</stem>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="N">ohjaus</t>
-            <stem>ohjaukse-</stem>
+            <t pos="N" stems="lampu-;">lamppu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lei</l>
+      <lg>
+         <l gen="Fem" pos="N">ledning</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" stems="leetningi-;leetninkki-;">leetninki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="N" stems="ohjaukse-;">ohjaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l gen="Fem" pos="N">lei</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">väylä</t>
@@ -2551,17 +2722,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">leir</l>
+      <lg>
+         <l gen="Fem" pos="N">leir</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">savi</t>
-            <stem>save-</stem>
-            <stem>savve-</stem>
+            <t pos="N" stems="save-;savve-;">savi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lekse</l>
+      <lg>
+         <l gen="Fem" pos="N">lekse</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">läksy</t>
@@ -2569,27 +2742,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lengde</l>
+      <lg>
+         <l gen="Fem" pos="N">lengde</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pittuus</t>
-            <stem>pittuuđe-</stem>
-            <stem>pittuut-</stem>
+            <t pos="N" stems="pittuuđe-;pittuut-;">pittuus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">leppe</l>
+      <lg>
+         <l gen="Fem" pos="N">leppe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">huuli</t>
-            <stem>huule-</stem>
-            <stem>huul-</stem>
+            <t pos="N" stems="huule-;huul-;">huuli</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lesebok</l>
+      <lg>
+         <l gen="Fem" pos="N">lesebok</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lukukirja</t>
@@ -2597,26 +2772,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lesning</l>
+      <lg>
+         <l gen="Fem" pos="N">lesning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lukeminen</t>
-            <stem>lukemise-</stem>
-            <stem>lukemis-</stem>
+            <t pos="N" stems="lukemise-;lukemis-;">lukeminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">li</l>
+      <lg>
+         <l gen="Fem" pos="N">li</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rinnet</t>
-            <stem>rinthee-</stem>
+            <t pos="N" stems="rinthee-;">rinnet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">likevekt</l>
+      <lg>
+         <l gen="Fem" pos="N">likevekt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">tasapaino</t>
@@ -2624,25 +2802,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lillesøster</l>
+      <lg>
+         <l gen="Fem" pos="N">lillesøster</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pikkusisar</t>
-            <stem>pikkusisare-</stem>
+            <t pos="N" stems="pikkusisare-;">pikkusisar</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">linerle</l>
+      <lg>
+         <l gen="Fem" pos="N">linerle</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">västäräkki</t>
-            <stem>västäräki-</stem>
+            <t pos="N" stems="västäräki-;">västäräkki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">linje</l>
+      <lg>
+         <l gen="Fem" pos="N">linje</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">linja</t>
@@ -2650,26 +2832,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">linning</l>
+      <lg>
+         <l gen="Fem" pos="N">linning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">liitinki</t>
-            <stem>liitingi-</stem>
-            <stem>liitinkki-</stem>
+            <t pos="N" stems="liitingi-;liitinkki-;">liitinki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">linse</l>
+      <lg>
+         <l gen="Fem" pos="N">linse</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">linsi</t>
-            <stem>linssi-</stem>
+            <t pos="N" stems="linssi-;">linsi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">liste</l>
+      <lg>
+         <l gen="Fem" pos="N">liste</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lista</t>
@@ -2677,7 +2862,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lomme</l>
+      <lg>
+         <l gen="Fem" pos="N">lomme</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">plakkari</t>
@@ -2685,26 +2872,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">loppe</l>
+      <lg>
+         <l gen="Fem" pos="N">loppe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">sonsari</t>
-            <stem>sonsare-</stem>
-            <stem>sonsare-</stem>
+            <t pos="N" stems="sonsare-;sonsare-;">sonsari</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lue</l>
+      <lg>
+         <l gen="Fem" pos="N">lue</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lakki</t>
-            <stem>laki-</stem>
+            <t pos="N" stems="laki-;">lakki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">luft</l>
+      <lg>
+         <l gen="Fem" pos="N">luft</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ilma</t>
@@ -2712,30 +2902,32 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lukt</l>
+      <lg>
+         <l gen="Fem" pos="N">lukt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">haisu</t>
-            <stem>haissu-</stem>
+            <t pos="N" stems="haissu-;">haisu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lunge</l>
+      <lg>
+         <l gen="Fem" pos="N">lunge</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kepponen</t>
-            <stem>keppose-</stem>
-            <stem>keppos-</stem>
+            <t pos="N" stems="keppose-;keppos-;">kepponen</t>
          </tg>
          <tg>
-            <t pos="N">keukko</t>
-            <stem>keuko-</stem>
+            <t pos="N" stems="keuko-;">keukko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lus</l>
+      <lg>
+         <l gen="Fem" pos="N">lus</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">täi</t>
@@ -2743,21 +2935,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lykke</l>
+      <lg>
+         <l gen="Fem" pos="N">lykke</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lykky</t>
-            <stem>lyky-</stem>
+            <t pos="N" stems="lyky-;">lykky</t>
          </tg>
          <tg>
-            <t pos="N">onni</t>
-            <stem>onne-</stem>
-            <stem>onne-</stem>
+            <t pos="N" stems="onne-;onne-;">onni</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lykkeønskning</l>
+      <lg>
+         <l gen="Fem" pos="N">lykkeønskning</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">onnittelu</t>
@@ -2765,26 +2958,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lykt</l>
+      <lg>
+         <l gen="Fem" pos="N">lykt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lyhty</t>
-            <stem>lyhđy-</stem>
+            <t pos="N" stems="lyhđy-;">lyhty</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lysestake</l>
+      <lg>
+         <l gen="Fem" pos="N">lysestake</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kynttilänjalka</t>
-            <stem>kynttilänjala-</stem>
-            <stem>kynttilänjalkka-</stem>
+            <t pos="N" stems="kynttilänjala-;kynttilänjalkka-;">kynttilänjalka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lyst</l>
+      <lg>
+         <l gen="Fem" pos="N">lyst</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lysti</t>
@@ -2792,16 +2988,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lære</l>
+      <lg>
+         <l gen="Fem" pos="N">lære</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">oppi</t>
-            <stem>opi-</stem>
+            <t pos="N" stems="opi-;">oppi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lærebok</l>
+      <lg>
+         <l gen="Fem" pos="N">lærebok</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">oppikirja</t>
@@ -2809,16 +3008,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lærejente</l>
+      <lg>
+         <l gen="Fem" pos="N">lærejente</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">oppitytär</t>
-            <stem>oppityttäre-</stem>
+            <t pos="N" stems="oppityttäre-;">oppitytär</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lærerinne</l>
+      <lg>
+         <l gen="Fem" pos="N">lærerinne</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">fröökkenä</t>
@@ -2826,17 +3028,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">løe</l>
+      <lg>
+         <l gen="Fem" pos="N">løe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lato</t>
-            <stem>lađo-</stem>
-            <stem>latto-</stem>
+            <t pos="N" stems="lađo-;latto-;">lato</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">løklukt</l>
+      <lg>
+         <l gen="Fem" pos="N">løklukt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">löökkihaiju</t>
@@ -2844,16 +3048,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">lønn</l>
+      <lg>
+         <l gen="Fem" pos="N">lønn</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">palkka</t>
-            <stem>palka-</stem>
+            <t pos="N" stems="palka-;">palkka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">løsning</l>
+      <lg>
+         <l gen="Fem" pos="N">løsning</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ratkaisu</t>
@@ -2861,7 +3068,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">løype</l>
+      <lg>
+         <l gen="Fem" pos="N">løype</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lattuu</t>
@@ -2869,40 +3078,42 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">makkgreip</l>
+      <lg>
+         <l gen="Fem" pos="N">makkgreip</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">matorauta</t>
-            <stem>matorauđa-</stem>
-            <stem>matorautta-</stem>
+            <t pos="N" stems="matorauđa-;matorautta-;">matorauta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">makt</l>
+      <lg>
+         <l gen="Fem" pos="N">makt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">valta</t>
-            <stem>valla-</stem>
-            <stem>valtta-</stem>
+            <t pos="N" stems="valla-;valtta-;">valta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">maling</l>
+      <lg>
+         <l gen="Fem" pos="N">maling</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">maali</t>
          </tg>
          <tg>
-            <t pos="N">maalinki</t>
-            <stem>maalingi-</stem>
-            <stem>maalinkki-</stem>
+            <t pos="N" stems="maalingi-;maalinkki-;">maalinki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">mast</l>
+      <lg>
+         <l gen="Fem" pos="N">mast</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">masto</t>
@@ -2910,79 +3121,85 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">matlyst</l>
+      <lg>
+         <l gen="Fem" pos="N">matlyst</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ruokahalu</t>
-            <stem>ruokahallu-</stem>
+            <t pos="N" stems="ruokahallu-;">ruokahalu</t>
          </tg>
          <tg>
             <t pos="N">ruokalysti</t>
          </tg>
          <tg>
-            <t pos="N">ruvanhalu</t>
-            <stem>ruvanhallu-</stem>
+            <t pos="N" stems="ruvanhallu-;">ruvanhalu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">matte</l>
+      <lg>
+         <l gen="Fem" pos="N">matte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">matta</t>
-            <stem>mata-</stem>
+            <t pos="N" stems="mata-;">matta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">mattefille</l>
+      <lg>
+         <l gen="Fem" pos="N">mattefille</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">mattatraasu</t>
-            <stem>mattatraassu-</stem>
+            <t pos="N" stems="mattatraassu-;">mattatraasu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">mei</l>
+      <lg>
+         <l gen="Fem" pos="N">mei</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">jalas</t>
-            <stem>jalakse-</stem>
+            <t pos="N" stems="jalakse-;">jalas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">meining</l>
+      <lg>
+         <l gen="Fem" pos="N">meining</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">meininki</t>
-            <stem>meiningi-</stem>
-            <stem>meininkki-</stem>
+            <t pos="N" stems="meiningi-;meininkki-;">meininki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">melding</l>
+      <lg>
+         <l gen="Fem" pos="N">melding</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ilmotus</t>
-            <stem>ilmotukse-</stem>
+            <t pos="N" stems="ilmotukse-;">ilmotus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">melk</l>
+      <lg>
+         <l gen="Fem" pos="N">melk</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">maito</t>
-            <stem>maiđo-</stem>
-            <stem>maitto-</stem>
+            <t pos="N" stems="maiđo-;maitto-;">maito</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">melkeringe</l>
+      <lg>
+         <l gen="Fem" pos="N">melkeringe</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">fiili</t>
@@ -2990,7 +3207,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">melkesuppe</l>
+      <lg>
+         <l gen="Fem" pos="N">melkesuppe</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">maitovelli</t>
@@ -2998,16 +3217,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">melketann</l>
+      <lg>
+         <l gen="Fem" pos="N">melketann</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">maitohammas</t>
-            <stem>maitohamphaa-</stem>
+            <t pos="N" stems="maitohamphaa-;">maitohammas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">melking</l>
+      <lg>
+         <l gen="Fem" pos="N">melking</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lypsy</t>
@@ -3015,7 +3237,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">merr</l>
+      <lg>
+         <l gen="Fem" pos="N">merr</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">tamma</t>
@@ -3023,7 +3247,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">midnatt</l>
+      <lg>
+         <l gen="Fem" pos="N">midnatt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">keskiyö</t>
@@ -3031,17 +3257,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">midnattsol</l>
+      <lg>
+         <l gen="Fem" pos="N">midnattsol</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">keskiyönaurinko</t>
-            <stem>keskiyönauringo-</stem>
-            <stem>keskiyönaurinkko-</stem>
+            <t pos="N" stems="keskiyönauringo-;keskiyönaurinkko-;">keskiyönaurinko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">mil</l>
+      <lg>
+         <l gen="Fem" pos="N">mil</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">miila</t>
@@ -3054,7 +3282,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">mine</l>
+      <lg>
+         <l gen="Fem" pos="N">mine</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">miina</t>
@@ -3062,70 +3292,72 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">minskning</l>
+      <lg>
+         <l gen="Fem" pos="N">minskning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">vähentäminen</t>
-            <stem>vähentämise-</stem>
-            <stem>vähentämis-</stem>
+            <t pos="N" stems="vähentämise-;vähentämis-;">vähentäminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">mold</l>
+      <lg>
+         <l gen="Fem" pos="N">mold</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">multa</t>
-            <stem>mulla-</stem>
-            <stem>mult-</stem>
+            <t pos="N" stems="mulla-;mult-;">multa</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">mor</l>
+      <lg>
+         <l gen="Fem" pos="N">mor</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">muori</t>
          </tg>
          <tg>
-            <t pos="N">äiti</t>
-            <stem>äiti-</stem>
-            <stem>äitti-</stem>
+            <t pos="N" stems="äiti-;äitti-;">äiti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">morgenstjerne</l>
+      <lg>
+         <l gen="Fem" pos="N">morgenstjerne</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">koittotähti</t>
-            <stem>koittotähđe-</stem>
-            <stem>koittotähtte-</stem>
+            <t pos="N" stems="koittotähđe-;koittotähtte-;">koittotähti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">mugge</l>
+      <lg>
+         <l gen="Fem" pos="N">mugge</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">muki</t>
-            <stem>muki-</stem>
-            <stem>mukki-</stem>
+            <t pos="N" stems="muki-;mukki-;">muki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">mulighet</l>
+      <lg>
+         <l gen="Fem" pos="N">mulighet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">mahđolisuus</t>
-            <stem>mahđolisuuđe-</stem>
-            <stem>mahđolisuut-</stem>
+            <t pos="N" stems="mahđolisuuđe-;mahđolisuut-;">mahđolisuus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">multe</l>
+      <lg>
+         <l gen="Fem" pos="N">multe</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hilla</t>
@@ -3133,16 +3365,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">multemyr</l>
+      <lg>
+         <l gen="Fem" pos="N">multemyr</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hillajänkkä</t>
-            <stem>hillajänkä-</stem>
+            <t pos="N" stems="hillajänkä-;">hillajänkkä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">multespann</l>
+      <lg>
+         <l gen="Fem" pos="N">multespann</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hillaämpäri</t>
@@ -3150,31 +3385,32 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">munnvik</l>
+      <lg>
+         <l gen="Fem" pos="N">munnvik</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">suupieli</t>
-            <stem>suupiele-</stem>
-            <stem>suupiel-</stem>
+            <t pos="N" stems="suupiele-;suupiel-;">suupieli</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">mus</l>
+      <lg>
+         <l gen="Fem" pos="N">mus</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hiiri</t>
-            <stem>hiire-</stem>
-            <stem>hiir-</stem>
+            <t pos="N" stems="hiire-;hiir-;">hiiri</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">myr</l>
+      <lg>
+         <l gen="Fem" pos="N">myr</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">jänkkä</t>
-            <stem>jänkä-</stem>
+            <t pos="N" stems="jänkä-;">jänkkä</t>
          </tg>
       </mg>
       <mg>
@@ -3184,25 +3420,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">myse</l>
+      <lg>
+         <l gen="Fem" pos="N">myse</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hera</t>
-            <stem>herra-</stem>
+            <t pos="N" stems="herra-;">hera</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">måling</l>
+      <lg>
+         <l gen="Fem" pos="N">måling</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">mittaus</t>
-            <stem>mittaukse-</stem>
+            <t pos="N" stems="mittaukse-;">mittaus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">måse</l>
+      <lg>
+         <l gen="Fem" pos="N">måse</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kajava</t>
@@ -3210,35 +3450,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">møkk</l>
+      <lg>
+         <l gen="Fem" pos="N">møkk</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">sonta</t>
-            <stem>sonna-</stem>
-            <stem>sontta-</stem>
+            <t pos="N" stems="sonna-;sontta-;">sonta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">nabobygd</l>
+      <lg>
+         <l gen="Fem" pos="N">nabobygd</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">krannikylä</t>
-            <stem>krannikyllä-</stem>
+            <t pos="N" stems="krannikyllä-;">krannikylä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">nabojente</l>
+      <lg>
+         <l gen="Fem" pos="N">nabojente</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">krannitytär</t>
-            <stem>krannityttäre-</stem>
+            <t pos="N" stems="krannityttäre-;">krannitytär</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">nagle</l>
+      <lg>
+         <l gen="Fem" pos="N">nagle</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">naula</t>
@@ -3246,7 +3490,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">natt</l>
+      <lg>
+         <l gen="Fem" pos="N">natt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">yö</t>
@@ -3254,73 +3500,77 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">nattskjorte</l>
+      <lg>
+         <l gen="Fem" pos="N">nattskjorte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">yöpaita</t>
-            <stem>yöpaiđa-</stem>
-            <stem>yöpaitta-</stem>
+            <t pos="N" stems="yöpaiđa-;yöpaitta-;">yöpaita</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">nese</l>
+      <lg>
+         <l gen="Fem" pos="N">nese</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">nenä</t>
-            <stem>nennä-</stem>
+            <t pos="N" stems="nennä-;">nenä</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">nokka</t>
-            <stem>noka-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l gen="Fem" pos="N">not</l>
-      <mg>
-         <tg>
-            <t pos="N">nuotta</t>
-            <stem>nuota-</stem>
+            <t pos="N" stems="noka-;">nokka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">note</l>
+      <lg>
+         <l gen="Fem" pos="N">not</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">nuotti</t>
-            <stem>nuoti-</stem>
+            <t pos="N" stems="nuota-;">nuotta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">nyre</l>
+      <lg>
+         <l gen="Fem" pos="N">note</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">munas</t>
-            <stem>munhaa-</stem>
-         </tg>
-         <tg>
-            <t pos="N">munhainen</t>
-            <stem>munhaise-</stem>
-            <stem>munhais-</stem>
+            <t pos="N" stems="nuoti-;">nuotti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">nysing</l>
+      <lg>
+         <l gen="Fem" pos="N">nyre</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">aivastus</t>
-            <stem>aivastukse-</stem>
+            <t pos="N" stems="munhaa-;">munas</t>
+         </tg>
+         <tg>
+            <t pos="N" stems="munhaise-;munhais-;">munhainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">nål</l>
+      <lg>
+         <l gen="Fem" pos="N">nysing</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" stems="aivastukse-;">aivastus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l gen="Fem" pos="N">nål</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">neula</t>
@@ -3333,33 +3583,34 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">nåtid</l>
+      <lg>
+         <l gen="Fem" pos="N">nåtid</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">nykyaika</t>
-            <stem>nykyaia-</stem>
-            <stem>nykyaikka-</stem>
+            <t pos="N" stems="nykyaia-;nykyaikka-;">nykyaika</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">næring</l>
+      <lg>
+         <l gen="Fem" pos="N">næring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">elatus</t>
-            <stem>elatukse-</stem>
+            <t pos="N" stems="elatukse-;">elatus</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">ravinto</t>
-            <stem>ravinno-</stem>
-            <stem>ravintto-</stem>
+            <t pos="N" stems="ravinno-;ravintto-;">ravinto</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">olje</l>
+      <lg>
+         <l gen="Fem" pos="N">olje</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">öljy</t>
@@ -3367,79 +3618,84 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">oppfostring</l>
+      <lg>
+         <l gen="Fem" pos="N">oppfostring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kassuutus</t>
-            <stem>kassuutukse-</stem>
+            <t pos="N" stems="kassuutukse-;">kassuutus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">oppstoppernese</l>
+      <lg>
+         <l gen="Fem" pos="N">oppstoppernese</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kippuranokka</t>
-            <stem>kippuranoka-</stem>
+            <t pos="N" stems="kippuranoka-;">kippuranokka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">oppvarming</l>
+      <lg>
+         <l gen="Fem" pos="N">oppvarming</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lämmitys</t>
-            <stem>lämmitykse-</stem>
+            <t pos="N" stems="lämmitykse-;">lämmitys</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ordning</l>
+      <lg>
+         <l gen="Fem" pos="N">ordning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">oornaaminen</t>
-            <stem>oornaamise-</stem>
-            <stem>oornamis-</stem>
+            <t pos="N" stems="oornaamise-;oornamis-;">oornaaminen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">oorninki</t>
-            <stem>oorningi-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l gen="Fem" pos="N">osp</l>
-      <mg>
-         <tg>
-            <t pos="N">haapa</t>
-            <stem>haava-</stem>
+            <t pos="N" stems="oorningi-;">oorninki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">overleppe</l>
+      <lg>
+         <l gen="Fem" pos="N">osp</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">päälihuuli</t>
-            <stem>päälihuule-</stem>
-            <stem>päälihuul-</stem>
+            <t pos="N" stems="haava-;">haapa</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">overside</l>
+      <lg>
+         <l gen="Fem" pos="N">overleppe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">päälipuoli</t>
-            <stem>päälipuole-</stem>
-            <stem>päälipuol-</stem>
+            <t pos="N" stems="päälihuule-;päälihuul-;">päälihuuli</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">overvekt</l>
+      <lg>
+         <l gen="Fem" pos="N">overside</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" stems="päälipuole-;päälipuol-;">päälipuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l gen="Fem" pos="N">overvekt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">liikapaino</t>
@@ -3447,29 +3703,32 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">pakke</l>
+      <lg>
+         <l gen="Fem" pos="N">pakke</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pakka</t>
-            <stem>paka-</stem>
+            <t pos="N" stems="paka-;">pakka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">pakning</l>
+      <lg>
+         <l gen="Fem" pos="N">pakning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pakninki</t>
-            <stem>pakningi-</stem>
+            <t pos="N" stems="pakningi-;">pakninki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">panne</l>
+      <lg>
+         <l gen="Fem" pos="N">panne</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">otta</t>
-            <stem>otta-</stem>
+            <t pos="N" stems="otta-;">otta</t>
          </tg>
          <tg>
             <t pos="N">pannu</t>
@@ -3477,35 +3736,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">pannekake</l>
+      <lg>
+         <l gen="Fem" pos="N">pannekake</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pannukakko</t>
-            <stem>pannukako-</stem>
+            <t pos="N" stems="pannukako-;">pannukakko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">pepperkake</l>
+      <lg>
+         <l gen="Fem" pos="N">pepperkake</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pippurikakko</t>
-            <stem>pippurikako-</stem>
+            <t pos="N" stems="pippurikako-;">pippurikakko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">perle</l>
+      <lg>
+         <l gen="Fem" pos="N">perle</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">helmi</t>
-            <stem>helme-</stem>
-            <stem>helme-</stem>
+            <t pos="N" stems="helme-;helme-;">helmi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">pine</l>
+      <lg>
+         <l gen="Fem" pos="N">pine</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">piina</t>
@@ -3513,20 +3776,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">pinne</l>
+      <lg>
+         <l gen="Fem" pos="N">pinne</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tikku</t>
-            <stem>tiku-</stem>
+            <t pos="N" stems="tiku-;">tikku</t>
          </tg>
          <tg>
-            <t pos="N">varras</t>
-            <stem>varthaa-</stem>
+            <t pos="N" stems="varthaa-;">varras</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">pinse</l>
+      <lg>
+         <l gen="Fem" pos="N">pinse</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">helluntai</t>
@@ -3534,25 +3799,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">pinseri</l>
+      <lg>
+         <l gen="Fem" pos="N">pinseri</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">heluntaikuostet</t>
-            <stem>helluntaikuosthee-</stem>
+            <t pos="N" stems="helluntaikuosthee-;">heluntaikuostet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">pipe</l>
+      <lg>
+         <l gen="Fem" pos="N">pipe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">piippu</t>
-            <stem>piipu-</stem>
+            <t pos="N" stems="piipu-;">piippu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">pisslukt</l>
+      <lg>
+         <l gen="Fem" pos="N">pisslukt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">pissahaiju</t>
@@ -3560,58 +3829,60 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">postveske</l>
+      <lg>
+         <l gen="Fem" pos="N">postveske</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">postilaukku</t>
-            <stem>postilauku-</stem>
-         </tg>
-         <tg>
+            <t pos="N" stems="postilauku-;">postilaukku</t>
             <t pos="N">postiväsky</t>
          </tg>
       </mg>
-      <syng>
-         <syn>postilaukku</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">potetbinge</l>
+      <lg>
+         <l gen="Fem" pos="N">potetbinge</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">putaattilaari</t>
-            <stem>putaattilaare-</stem>
+            <t pos="N" stems="putaattilaare-;">putaattilaari</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">potetsåing</l>
+      <lg>
+         <l gen="Fem" pos="N">potetsåing</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">putaatinpano</t>
-            <stem>putaatinpanno-</stem>
+            <t pos="N" stems="putaatinpanno-;">putaatinpano</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">potte</l>
+      <lg>
+         <l gen="Fem" pos="N">potte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">potto</t>
-            <stem>poto-</stem>
+            <t pos="N" stems="poto-;">potto</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">prenting</l>
+      <lg>
+         <l gen="Fem" pos="N">prenting</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pränttäys</t>
-            <stem>pränttäykse-</stem>
+            <t pos="N" stems="pränttäykse-;">pränttäys</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">prinsesse</l>
+      <lg>
+         <l gen="Fem" pos="N">prinsesse</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">prinsessa</t>
@@ -3619,7 +3890,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">prisliste</l>
+      <lg>
+         <l gen="Fem" pos="N">prisliste</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hintalista</t>
@@ -3627,50 +3900,55 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">pumpe</l>
+      <lg>
+         <l gen="Fem" pos="N">pumpe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pumppa</t>
-            <stem>pumpa-</stem>
+            <t pos="N" stems="pumpa-;">pumppa</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">pute</l>
+      <lg>
+         <l gen="Fem" pos="N">pute</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">alanen</t>
-            <stem>alase-</stem>
-            <stem>alas-</stem>
-         </tg>
-      </mg>
-      <syng>
-         <syn>päänalanen</syn>
-      </syng>
-   </e>
-   <e>
-      <l gen="Fem" pos="N">påske</l>
-      <mg>
-         <tg>
-            <t pos="N">päässiinen</t>
-            <stem>päässiise-</stem>
-            <stem>päässiis-</stem>
+            <t pos="N" stems="alase-;alas-;">alanen</t>
+            <syng>
+               <syn>päänalanen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">pølse</l>
+      <lg>
+         <l gen="Fem" pos="N">påske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" stems="päässiise-;päässiis-;">päässiinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l gen="Fem" pos="N">pølse</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">makkara</t>
+            <syng>
+               <syn>pölsi</syn>
+            </syng>
          </tg>
       </mg>
-      <syng>
-         <syn>pölsi</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">ramme</l>
+      <lg>
+         <l gen="Fem" pos="N">ramme</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">raami</t>
@@ -3678,34 +3956,34 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">rand</l>
+      <lg>
+         <l gen="Fem" pos="N">rand</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">raita</t>
-            <stem>raiđa-</stem>
-            <stem>raitta-</stem>
+            <t pos="N" stems="raiđa-;raitta-;">raita</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">regning</l>
+      <lg>
+         <l gen="Fem" pos="N">regning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">räkinki</t>
-            <stem>räkingi-</stem>
-            <stem>räkinkki-</stem>
+            <t pos="N" stems="räkingi-;räkinkki-;">räkinki</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">räknääminen</t>
-            <stem>räknäämise-</stem>
-            <stem>räknäämis-</stem>
+            <t pos="N" stems="räknäämise-;räknäämis-;">räknääminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">reim</l>
+      <lg>
+         <l gen="Fem" pos="N">reim</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">remmi</t>
@@ -3713,35 +3991,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">reindrift</l>
+      <lg>
+         <l gen="Fem" pos="N">reindrift</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">poronhoito</t>
-            <stem>poronhoiđo-</stem>
-            <stem>poronhoitto-</stem>
+            <t pos="N" stems="poronhoiđo-;poronhoitto-;">poronhoito</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">reingjøring</l>
+      <lg>
+         <l gen="Fem" pos="N">reingjøring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">puhđistus</t>
-            <stem>puhđistukse-</stem>
+            <t pos="N" stems="puhđistukse-;">puhđistus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">reinhet</l>
+      <lg>
+         <l gen="Fem" pos="N">reinhet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">puhtaus</t>
-            <stem>puhtaukse-</stem>
+            <t pos="N" stems="puhtaukse-;">puhtaus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">reise</l>
+      <lg>
+         <l gen="Fem" pos="N">reise</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kulkureisu</t>
@@ -3752,23 +4034,24 @@ For the full license text, see the link above.</lic>
             <t pos="N">matka</t>
          </tg>
          <tg>
-            <t pos="N">reisu</t>
-            <stem>reissu-</stem>
+            <t pos="N" stems="reissu-;">reisu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">rekesyke</l>
+      <lg>
+         <l gen="Fem" pos="N">rekesyke</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kulkutauti</t>
-            <stem>kulkutauđi-</stem>
-            <stem>kulkutautti-</stem>
+            <t pos="N" stems="kulkutauđi-;kulkutautti-;">kulkutauti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">renne</l>
+      <lg>
+         <l gen="Fem" pos="N">renne</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ränni</t>
@@ -3776,12 +4059,12 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">renning</l>
+      <lg>
+         <l gen="Fem" pos="N">renning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">loimi</t>
-            <stem>loime-</stem>
-            <stem>loime-</stem>
+            <t pos="N" stems="loime-;loime-;">loimi</t>
             <xg>
                <x/>
                <xt>Kankhaan loimi</xt>
@@ -3790,16 +4073,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">rente</l>
+      <lg>
+         <l gen="Fem" pos="N">rente</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">räntty</t>
-            <stem>ränty-</stem>
+            <t pos="N" stems="ränty-;">räntty</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">retning</l>
+      <lg>
+         <l gen="Fem" pos="N">retning</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">keino</t>
@@ -3807,23 +4093,24 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="N">suunta</t>
-            <stem>suunna-</stem>
-            <stem>suuntta-</stem>
+            <t pos="N" stems="suunna-;suuntta-;">suunta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">revejakt</l>
+      <lg>
+         <l gen="Fem" pos="N">revejakt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ketunjahti</t>
-            <stem>ketunjahđi-</stem>
+            <t pos="N" stems="ketunjahđi-;">ketunjahti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">revesaks</l>
+      <lg>
+         <l gen="Fem" pos="N">revesaks</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">ketunrauđat</t>
@@ -3831,45 +4118,49 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">revne</l>
+      <lg>
+         <l gen="Fem" pos="N">revne</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rako</t>
-            <stem>rao-</stem>
-            <stem>rakko-</stem>
+            <t pos="N" stems="rao-;rakko-;">rako</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ridning</l>
+      <lg>
+         <l gen="Fem" pos="N">ridning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rattastaminen</t>
-            <stem>rattastamise-</stem>
-            <stem>rattastamis-</stem>
+            <t pos="N" stems="rattastamise-;rattastamis-;">rattastaminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ringing</l>
+      <lg>
+         <l gen="Fem" pos="N">ringing</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">soitto</t>
-            <stem>soito-</stem>
+            <t pos="N" stems="soito-;">soitto</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">rirkule</l>
+      <lg>
+         <l gen="Fem" pos="N">rirkule</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pahka</t>
-            <stem>paha-</stem>
+            <t pos="N" stems="paha-;">pahka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">riv/e</l>
+      <lg>
+         <l gen="Fem" pos="N">riv/e</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">harava</t>
@@ -3877,12 +4168,12 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">rogn</l>
+      <lg>
+         <l gen="Fem" pos="N">rogn</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">mäti</t>
-            <stem>mäđi-</stem>
-            <stem>mätti-</stem>
+            <t pos="N" stems="mäđi-;mätti-;">mäti</t>
          </tg>
       </mg>
       <mg>
@@ -3892,16 +4183,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">rognbolle</l>
+      <lg>
+         <l gen="Fem" pos="N">rognbolle</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">mätikakko</t>
-            <stem>mätikako-</stem>
+            <t pos="N" stems="mätikako-;">mätikakko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">rolle</l>
+      <lg>
+         <l gen="Fem" pos="N">rolle</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">rolli</t>
@@ -3909,49 +4203,52 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">rot</l>
+      <lg>
+         <l gen="Fem" pos="N">rot</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">juuri</t>
-            <stem>juure-</stem>
+            <t pos="N" stems="juure-;">juuri</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">rumpe</l>
+      <lg>
+         <l gen="Fem" pos="N">rumpe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">perset</t>
-            <stem>pershee-</stem>
+            <t pos="N" stems="pershee-;">perset</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">rype</l>
+      <lg>
+         <l gen="Fem" pos="N">rype</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">riekko</t>
-            <stem>rieko-</stem>
+            <t pos="N" stems="rieko-;">riekko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">råmelk</l>
+      <lg>
+         <l gen="Fem" pos="N">råmelk</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">raakamaito</t>
-            <stem>raakamaiđo-</stem>
-            <stem>raakamaitto-</stem>
+            <t pos="N" stems="raakamaiđo-;raakamaitto-;">raakamaito</t>
          </tg>
          <tg>
-            <t pos="N">uusimaito</t>
-            <stem>uuđenmaiđo-</stem>
-            <stem>uuttamaitt-</stem>
+            <t pos="N" stems="uuđenmaiđo-;uuttamaitt-;">uusimaito</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">røy</l>
+      <lg>
+         <l gen="Fem" pos="N">røy</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">koppelo</t>
@@ -3959,35 +4256,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">røye</l>
+      <lg>
+         <l gen="Fem" pos="N">røye</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rautu</t>
-            <stem>rauđu-</stem>
-            <stem>rauttu-</stem>
+            <t pos="N" stems="rauđu-;rauttu-;">rautu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">røyskatt</l>
+      <lg>
+         <l gen="Fem" pos="N">røyskatt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kärppä</t>
-            <stem>kärpä-</stem>
+            <t pos="N" stems="kärpä-;">kärppä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sag</l>
+      <lg>
+         <l gen="Fem" pos="N">sag</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">saha</t>
-            <stem>sahha-</stem>
+            <t pos="N" stems="sahha-;">saha</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sak</l>
+      <lg>
+         <l gen="Fem" pos="N">sak</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">assii</t>
@@ -3995,7 +4296,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">saks</l>
+      <lg>
+         <l gen="Fem" pos="N">saks</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">sakset</t>
@@ -4003,7 +4306,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">salmebok</l>
+      <lg>
+         <l gen="Fem" pos="N">salmebok</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">virsikirja</t>
@@ -4011,73 +4316,79 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">salve</l>
+      <lg>
+         <l gen="Fem" pos="N">salve</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">voiđet</t>
-            <stem>voithee-</stem>
+            <t pos="N" stems="voithee-;">voiđet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sammenføyning</l>
+      <lg>
+         <l gen="Fem" pos="N">sammenføyning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">liitos</t>
-            <stem>liitokse-</stem>
+            <t pos="N" stems="liitokse-;">liitos</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">samvittighet</l>
+      <lg>
+         <l gen="Fem" pos="N">samvittighet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">omatunto</t>
-            <stem>omatunno-</stem>
-            <stem>omatuntto-</stem>
+            <t pos="N" stems="omatunno-;omatuntto-;">omatunto</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sand</l>
+      <lg>
+         <l gen="Fem" pos="N">sand</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hieta</t>
-            <stem>hieđa-</stem>
-            <stem>hietta-</stem>
+            <t pos="N" stems="hieđa-;hietta-;">hieta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sandgrop</l>
+      <lg>
+         <l gen="Fem" pos="N">sandgrop</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hietakuoppa</t>
-            <stem>hietakuopa-</stem>
+            <t pos="N" stems="hietakuopa-;">hietakuoppa</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sandstrand</l>
+      <lg>
+         <l gen="Fem" pos="N">sandstrand</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hietaranta</t>
-            <stem>hietaranna-</stem>
-            <stem>hietarantta-</stem>
+            <t pos="N" stems="hietaranna-;hietarantta-;">hietaranta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">saueklo</l>
+      <lg>
+         <l gen="Fem" pos="N">saueklo</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">sorkka</t>
-            <stem>sorka-</stem>
+            <t pos="N" stems="sorka-;">sorkka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">selje</l>
+      <lg>
+         <l gen="Fem" pos="N">selje</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">paivu</t>
@@ -4085,26 +4396,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sending</l>
+      <lg>
+         <l gen="Fem" pos="N">sending</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lähđetys</t>
-            <stem>lähđetykse-</stem>
+            <t pos="N" stems="lähđetykse-;">lähđetys</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">seng</l>
+      <lg>
+         <l gen="Fem" pos="N">seng</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">sänky</t>
-            <stem>sängy-</stem>
-            <stem>sänkky-</stem>
+            <t pos="N" stems="sängy-;sänkky-;">sänky</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sevje</l>
+      <lg>
+         <l gen="Fem" pos="N">sevje</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">mahla</t>
@@ -4118,24 +4432,24 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">side</l>
+      <lg>
+         <l gen="Fem" pos="N">side</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kylki</t>
-            <stem>kylje-</stem>
-            <stem>kylkke-</stem>
+            <t pos="N" stems="kylje-;kylkke-;">kylki</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">laita</t>
-            <stem>laiđa-</stem>
-            <stem>laitta-</stem>
+            <t pos="N" stems="laiđa-;laitta-;">laita</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sild</l>
+      <lg>
+         <l gen="Fem" pos="N">sild</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">silli</t>
@@ -4143,7 +4457,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sjøreise</l>
+      <lg>
+         <l gen="Fem" pos="N">sjøreise</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">merimatka</t>
@@ -4151,21 +4467,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sjøstjerne</l>
+      <lg>
+         <l gen="Fem" pos="N">sjøstjerne</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">meritähti</t>
-            <stem>meritähđe-</stem>
-            <stem>meritähte-</stem>
+            <t pos="N" stems="meritähđe-;meritähte-;">meritähti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skalle</l>
+      <lg>
+         <l gen="Fem" pos="N">skalle</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">nutukka</t>
-            <stem>nutuka-</stem>
+            <t pos="N" stems="nutuka-;">nutukka</t>
          </tg>
       </mg>
       <mg>
@@ -4173,13 +4490,14 @@ For the full license text, see the link above.</lic>
             <t pos="N">kallo</t>
          </tg>
          <tg>
-            <t pos="N">kallokka</t>
-            <stem>kalloka-</stem>
+            <t pos="N" stems="kalloka-;">kallokka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skare</l>
+      <lg>
+         <l gen="Fem" pos="N">skare</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">rousko</t>
@@ -4187,90 +4505,99 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skinnfell</l>
+      <lg>
+         <l gen="Fem" pos="N">skinnfell</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">rouko</t>
-            <stem>rouo-</stem>
-            <stem>roukko-</stem>
+            <t pos="N" stems="rouo-;roukko-;">rouko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skinnlue</l>
+      <lg>
+         <l gen="Fem" pos="N">skinnlue</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">karvalakki</t>
-            <stem>karvalaki-</stem>
+            <t pos="N" stems="karvalaki-;">karvalakki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skje</l>
+      <lg>
+         <l gen="Fem" pos="N">skje</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lusikka</t>
-            <stem>lusika-</stem>
+            <t pos="N" stems="lusika-;">lusikka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skjorte</l>
+      <lg>
+         <l gen="Fem" pos="N">skjorte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">paita</t>
-            <stem>paiđa-</stem>
-            <stem>paitta-</stem>
+            <t pos="N" stems="paiđa-;paitta-;">paita</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skjur</l>
+      <lg>
+         <l gen="Fem" pos="N">skjur</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">harakka</t>
-            <stem>haraka-</stem>
+            <t pos="N" stems="haraka-;">harakka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skolejente</l>
+      <lg>
+         <l gen="Fem" pos="N">skolejente</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">koulutytär</t>
-            <stem>koulutyttäre-</stem>
+            <t pos="N" stems="koulutyttäre-;">koulutytär</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skralhet</l>
+      <lg>
+         <l gen="Fem" pos="N">skralhet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">koranus</t>
-            <stem>koranukse-</stem>
+            <t pos="N" stems="koranukse-;">koranus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skraping</l>
+      <lg>
+         <l gen="Fem" pos="N">skraping</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">krapu</t>
-            <stem>kravu-</stem>
+            <t pos="N" stems="kravu-;">krapu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skrivning</l>
+      <lg>
+         <l gen="Fem" pos="N">skrivning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kirjotus</t>
-            <stem>kirjotukse-</stem>
+            <t pos="N" stems="kirjotukse-;">kirjotus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skumring</l>
+      <lg>
+         <l gen="Fem" pos="N">skumring</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hämärä</t>
@@ -4278,44 +4605,49 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skyggelue</l>
+      <lg>
+         <l gen="Fem" pos="N">skyggelue</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">liuskulakki</t>
-            <stem>liuskulaki-</stem>
+            <t pos="N" stems="liuskulaki-;">liuskulakki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skyting</l>
+      <lg>
+         <l gen="Fem" pos="N">skyting</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ampuminen</t>
-            <stem>ampumise-</stem>
-            <stem>ampumis-</stem>
+            <t pos="N" stems="ampumise-;ampumis-;">ampuminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skåk</l>
+      <lg>
+         <l gen="Fem" pos="N">skåk</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">aisa</t>
-            <stem>aissa-</stem>
+            <t pos="N" stems="aissa-;">aisa</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">skøyte</l>
+      <lg>
+         <l gen="Fem" pos="N">skøyte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">luistin</t>
-            <stem>luistime-</stem>
+            <t pos="N" stems="luistime-;">luistin</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sladrekjerring</l>
+      <lg>
+         <l gen="Fem" pos="N">sladrekjerring</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">juoruämmä</t>
@@ -4323,7 +4655,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sledekasse</l>
+      <lg>
+         <l gen="Fem" pos="N">sledekasse</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lautakassa</t>
@@ -4334,19 +4668,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">slegge</l>
+      <lg>
+         <l gen="Fem" pos="N">slegge</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">sleka</t>
-            <stem>slekka-</stem>
+            <t pos="N" stems="slekka-;">sleka</t>
+            <syng>
+               <syn>mookari</syn>
+            </syng>
          </tg>
       </mg>
-      <syng>
-         <syn>mookari</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">sleiv</l>
+      <lg>
+         <l gen="Fem" pos="N">sleiv</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kapusta</t>
@@ -4354,54 +4691,59 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">slekt</l>
+      <lg>
+         <l gen="Fem" pos="N">slekt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">suku</t>
-            <stem>suvu-</stem>
-            <stem>sukku-</stem>
+            <t pos="N" stems="suvu-;sukku-;">suku</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">slipning</l>
+      <lg>
+         <l gen="Fem" pos="N">slipning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">terotus</t>
-            <stem>terotukse-</stem>
+            <t pos="N" stems="terotukse-;">terotus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">slynge</l>
+      <lg>
+         <l gen="Fem" pos="N">slynge</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">linko</t>
-            <stem>lingo-</stem>
-            <stem>linkko-</stem>
+            <t pos="N" stems="lingo-;linkko-;">linko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">smie</l>
+      <lg>
+         <l gen="Fem" pos="N">smie</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">paja</t>
-            <stem>pajja-</stem>
+            <t pos="N" stems="pajja-;">paja</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">snorking</l>
+      <lg>
+         <l gen="Fem" pos="N">snorking</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kuorsaus</t>
-            <stem>kuorsaukse-</stem>
+            <t pos="N" stems="kuorsaukse-;">kuorsaus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">snømåking</l>
+      <lg>
+         <l gen="Fem" pos="N">snømåking</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lumenkaivo</t>
@@ -4409,26 +4751,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">snørrnese</l>
+      <lg>
+         <l gen="Fem" pos="N">snørrnese</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">räkänokka</t>
-            <stem>räkänoka-</stem>
+            <t pos="N" stems="räkänoka-;">räkänokka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sol</l>
+      <lg>
+         <l gen="Fem" pos="N">sol</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">aurinko</t>
-            <stem>auringo-</stem>
-            <stem>aurinkko-</stem>
+            <t pos="N" stems="auringo-;aurinkko-;">aurinko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sommernatt</l>
+      <lg>
+         <l gen="Fem" pos="N">sommernatt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">suviyö</t>
@@ -4439,73 +4784,79 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sortering</l>
+      <lg>
+         <l gen="Fem" pos="N">sortering</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">sorteerinki</t>
-            <stem>sorteeingi-</stem>
-            <stem>sorteerinkki-</stem>
+            <t pos="N" stems="sorteeingi-;sorteerinkki-;">sorteerinki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sparkstøtting</l>
+      <lg>
+         <l gen="Fem" pos="N">sparkstøtting</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">sparkki</t>
-            <stem>sparki-</stem>
+            <t pos="N" stems="sparki-;">sparkki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">spenne</l>
+      <lg>
+         <l gen="Fem" pos="N">spenne</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">solki</t>
-            <stem>solje-</stem>
-            <stem>solkke-</stem>
+            <t pos="N" stems="solje-;solkke-;">solki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">språklære</l>
+      <lg>
+         <l gen="Fem" pos="N">språklære</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kielioppi</t>
-            <stem>kieliopi-</stem>
+            <t pos="N" stems="kieliopi-;">kielioppi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">stabling</l>
+      <lg>
+         <l gen="Fem" pos="N">stabling</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">läijäys</t>
-            <stem>läijäykse-</stem>
+            <t pos="N" stems="läijäykse-;">läijäys</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">stang</l>
+      <lg>
+         <l gen="Fem" pos="N">stang</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tanko</t>
-            <stem>tango-</stem>
-            <stem>tankko-</stem>
+            <t pos="N" stems="tango-;tankko-;">tanko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">stearinlysveike</l>
+      <lg>
+         <l gen="Fem" pos="N">stearinlysveike</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kynttilänveikka</t>
-            <stem>kynttilänveika-</stem>
+            <t pos="N" stems="kynttilänveika-;">kynttilänveikka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">steik</l>
+      <lg>
+         <l gen="Fem" pos="N">steik</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">paisti</t>
@@ -4513,50 +4864,52 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">steinrøys</l>
+      <lg>
+         <l gen="Fem" pos="N">steinrøys</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kivikkö</t>
-            <stem>kivikö-</stem>
+            <t pos="N" stems="kivikö-;">kivikkö</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">steinstrand</l>
+      <lg>
+         <l gen="Fem" pos="N">steinstrand</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">karko</t>
-            <stem>karkko-</stem>
+            <t pos="N" stems="karkko-;">karko</t>
          </tg>
          <tg>
-            <t pos="N">kiviranta</t>
-            <stem>kiviranna-</stem>
-            <stem>kivirantta-</stem>
+            <t pos="N" stems="kiviranna-;kivirantta-;">kiviranta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">stilling</l>
+      <lg>
+         <l gen="Fem" pos="N">stilling</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">virka</t>
-            <stem>vira-</stem>
-            <stem>virkka-</stem>
+            <t pos="N" stems="vira-;virkka-;">virka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">stjerne</l>
+      <lg>
+         <l gen="Fem" pos="N">stjerne</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tähti</t>
-            <stem>tähđe-</stem>
-            <stem>tähte-</stem>
+            <t pos="N" stems="tähđe-;tähte-;">tähti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">stokkand</l>
+      <lg>
+         <l gen="Fem" pos="N">stokkand</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lehmäkoskelo</t>
@@ -4567,26 +4920,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">storesøster</l>
+      <lg>
+         <l gen="Fem" pos="N">storesøster</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">isosisar</t>
-            <stem>isosisare-</stem>
+            <t pos="N" stems="isosisare-;">isosisar</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">strand</l>
+      <lg>
+         <l gen="Fem" pos="N">strand</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ranta</t>
-            <stem>ranna-</stem>
-            <stem>rantta-</stem>
+            <t pos="N" stems="ranna-;rantta-;">ranta</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">strie</l>
+      <lg>
+         <l gen="Fem" pos="N">strie</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">hursti</t>
@@ -4594,17 +4950,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">strikking</l>
+      <lg>
+         <l gen="Fem" pos="N">strikking</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kutominen</t>
-            <stem>kutomise-</stem>
-            <stem>kutomis-</stem>
+            <t pos="N" stems="kutomise-;kutomis-;">kutominen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">strikning</l>
+      <lg>
+         <l gen="Fem" pos="N">strikning</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kuđelma</t>
@@ -4612,18 +4970,17 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">støtte</l>
+      <lg>
+         <l gen="Fem" pos="N">støtte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kuurto</t>
-            <stem>kuurro-</stem>
-            <stem>kuurtto-</stem>
+            <t pos="N" stems="kuurro-;kuurtto-;">kuurto</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">noja</t>
-            <stem>nojja-</stem>
+            <t pos="N" stems="nojja-;">noja</t>
          </tg>
       </mg>
       <mg>
@@ -4633,7 +4990,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">suppe</l>
+      <lg>
+         <l gen="Fem" pos="N">suppe</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">velli</t>
@@ -4641,7 +5000,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">surmelk</l>
+      <lg>
+         <l gen="Fem" pos="N">surmelk</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">piimä</t>
@@ -4649,47 +5010,49 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">susing</l>
+      <lg>
+         <l gen="Fem" pos="N">susing</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pauhaaminen</t>
-            <stem>pauhaamise-</stem>
-            <stem>pauhaamis-</stem>
+            <t pos="N" stems="pauhaamise-;pauhaamis-;">pauhaaminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">svale</l>
+      <lg>
+         <l gen="Fem" pos="N">svale</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">pääskynen</t>
-            <stem>pääskyse-</stem>
-            <stem>pääskys-</stem>
+            <t pos="N" stems="pääskyse-;pääskys-;">pääskynen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">svane</l>
+      <lg>
+         <l gen="Fem" pos="N">svane</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">joukhanen</t>
-            <stem>joukhase-</stem>
-            <stem>joukhas-</stem>
+            <t pos="N" stems="joukhase-;joukhas-;">joukhanen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sve</l>
+      <lg>
+         <l gen="Fem" pos="N">sve</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kaski</t>
-            <stem>kaske-</stem>
-            <stem>kaske-</stem>
+            <t pos="N" stems="kaske-;kaske-;">kaski</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sveiv</l>
+      <lg>
+         <l gen="Fem" pos="N">sveiv</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">veivi</t>
@@ -4697,7 +5060,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">svigerdatter</l>
+      <lg>
+         <l gen="Fem" pos="N">svigerdatter</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">minnii</t>
@@ -4705,11 +5070,12 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">svigermor</l>
+      <lg>
+         <l gen="Fem" pos="N">svigermor</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">anoppi</t>
-            <stem>anopi-</stem>
+            <t pos="N" stems="anopi-;">anoppi</t>
          </tg>
          <tg>
             <t pos="N">anoppimuori</t>
@@ -4717,86 +5083,91 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">syre</l>
+      <lg>
+         <l gen="Fem" pos="N">syre</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">happo</t>
-            <stem>hapo-</stem>
+            <t pos="N" stems="hapo-;">happo</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">såle</l>
+      <lg>
+         <l gen="Fem" pos="N">såle</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">sola</t>
-            <stem>solla-</stem>
+            <t pos="N" stems="solla-;">sola</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">såpe</l>
+      <lg>
+         <l gen="Fem" pos="N">såpe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">soopa</t>
-            <stem>soova-</stem>
-            <stem>sooppa-</stem>
+            <t pos="N" stems="soova-;sooppa-;">soopa</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">sørpe</l>
+      <lg>
+         <l gen="Fem" pos="N">sørpe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">apet</t>
-            <stem>aphee-</stem>
+            <t pos="N" stems="aphee-;">apet</t>
          </tg>
          <tg>
-            <t pos="N">hauđet</t>
-            <stem>hauthee-</stem>
+            <t pos="N" stems="hauthee-;">hauđet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">søster</l>
+      <lg>
+         <l gen="Fem" pos="N">søster</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">sisar</t>
-            <stem>sisare-</stem>
+            <t pos="N" stems="sisare-;">sisar</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">takt</l>
+      <lg>
+         <l gen="Fem" pos="N">takt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tahti</t>
-            <stem>tahđi-</stem>
+            <t pos="N" stems="tahđi-;">tahti</t>
          </tg>
          <tg>
-            <t pos="N">takti</t>
-            <stem>takti-</stem>
+            <t pos="N" stems="takti-;">takti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tang</l>
+      <lg>
+         <l gen="Fem" pos="N">tang</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">teppu</t>
-            <stem>tepu-</stem>
+            <t pos="N" stems="tepu-;">teppu</t>
+            <syng>
+               <syn>staara</syn>
+            </syng>
          </tg>
       </mg>
-      <syng>
-         <syn>staara</syn>
-      </syng>
    </e>
    <e>
-      <l gen="Fem" pos="N">tann</l>
+      <lg>
+         <l gen="Fem" pos="N">tann</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hammas</t>
-            <stem>hampaa-</stem>
+            <t pos="N" stems="hampaa-;">hammas</t>
          </tg>
          <tg>
             <t pos="N">pii</t>
@@ -4804,37 +5175,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tannråte</l>
+      <lg>
+         <l gen="Fem" pos="N">tannråte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hammasmato</t>
-            <stem>hammasmađo-</stem>
-            <stem>hammasmatto-</stem>
+            <t pos="N" stems="hammasmađo-;hammasmatto-;">hammasmato</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tante</l>
+      <lg>
+         <l gen="Fem" pos="N">tante</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">täti</t>
-            <stem>täđi-</stem>
-            <stem>tätti-</stem>
+            <t pos="N" stems="täđi-;tätti-;">täti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tele</l>
+      <lg>
+         <l gen="Fem" pos="N">tele</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kirsi</t>
-            <stem>kirre-</stem>
-            <stem>kirt-</stem>
+            <t pos="N" stems="kirre-;kirt-;">kirsi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">terne</l>
+      <lg>
+         <l gen="Fem" pos="N">terne</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">tirro</t>
@@ -4842,17 +5215,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tid</l>
+      <lg>
+         <l gen="Fem" pos="N">tid</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">aika</t>
-            <stem>aia-</stem>
-            <stem>aikka-</stem>
+            <t pos="N" stems="aia-;aikka-;">aika</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tjære</l>
+      <lg>
+         <l gen="Fem" pos="N">tjære</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">terva</t>
@@ -4860,47 +5235,52 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tobakksrøyking</l>
+      <lg>
+         <l gen="Fem" pos="N">tobakksrøyking</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tupakanpoltto</t>
-            <stem>tupakanpolto-</stem>
+            <t pos="N" stems="tupakanpolto-;">tupakanpoltto</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">topplue</l>
+      <lg>
+         <l gen="Fem" pos="N">topplue</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">knuppilakki</t>
-            <stem>knuppilaki-</stem>
+            <t pos="N" stems="knuppilaki-;">knuppilakki</t>
          </tg>
          <tg>
-            <t pos="N">nuppilakki</t>
-            <stem>nuppilaki-</stem>
+            <t pos="N" stems="nuppilaki-;">nuppilakki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">torv</l>
+      <lg>
+         <l gen="Fem" pos="N">torv</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">turvet</t>
-            <stem>turphee-</stem>
+            <t pos="N" stems="turphee-;">turvet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">trakt</l>
+      <lg>
+         <l gen="Fem" pos="N">trakt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tratti</t>
-            <stem>trati-</stem>
+            <t pos="N" stems="trati-;">tratti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tralle</l>
+      <lg>
+         <l gen="Fem" pos="N">tralle</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">tralla</t>
@@ -4908,72 +5288,79 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">trapp</l>
+      <lg>
+         <l gen="Fem" pos="N">trapp</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">porras</t>
-            <stem>porthaa-</stem>
+            <t pos="N" stems="porthaa-;">porras</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">travelhet</l>
+      <lg>
+         <l gen="Fem" pos="N">travelhet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">hoppu</t>
-            <stem>hopu-</stem>
+            <t pos="N" stems="hopu-;">hoppu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">trelist</l>
+      <lg>
+         <l gen="Fem" pos="N">trelist</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">listet</t>
-            <stem>listhee-</stem>
+            <t pos="N" stems="listhee-;">listet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">trening</l>
+      <lg>
+         <l gen="Fem" pos="N">trening</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">harjotus</t>
-            <stem>harjotukse-</stem>
+            <t pos="N" stems="harjotukse-;">harjotus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tretthet</l>
+      <lg>
+         <l gen="Fem" pos="N">tretthet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">vaivus</t>
-            <stem>vaivukse-</stem>
+            <t pos="N" stems="vaivukse-;">vaivus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">trinse</l>
+      <lg>
+         <l gen="Fem" pos="N">trinse</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">sompa</t>
-            <stem>somma-</stem>
-            <stem>somppa-</stem>
+            <t pos="N" stems="somma-;somppa-;">sompa</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tristhet</l>
+      <lg>
+         <l gen="Fem" pos="N">tristhet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ikävyys</t>
-            <stem>ikävyyđe-</stem>
-            <stem>ikävyyt-</stem>
+            <t pos="N" stems="ikävyyđe-;ikävyyt-;">ikävyys</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">truse</l>
+      <lg>
+         <l gen="Fem" pos="N">truse</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">tryysi</t>
@@ -4981,17 +5368,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">trygghet</l>
+      <lg>
+         <l gen="Fem" pos="N">trygghet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">turvalisuus</t>
-            <stem>turvalisuuđe-</stem>
-            <stem>turvalisuut-</stem>
+            <t pos="N" stems="turvalisuuđe-;turvalisuut-;">turvalisuus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">trådsnelle</l>
+      <lg>
+         <l gen="Fem" pos="N">trådsnelle</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">lankarulla</t>
@@ -4999,7 +5388,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">trøye</l>
+      <lg>
+         <l gen="Fem" pos="N">trøye</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">tröijy</t>
@@ -5007,7 +5398,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tue</l>
+      <lg>
+         <l gen="Fem" pos="N">tue</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">pounu</t>
@@ -5015,7 +5408,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tyttebær</l>
+      <lg>
+         <l gen="Fem" pos="N">tyttebær</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">puola</t>
@@ -5023,25 +5418,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tå</l>
+      <lg>
+         <l gen="Fem" pos="N">tå</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">varvas</t>
-            <stem>varppaa-</stem>
+            <t pos="N" stems="varppaa-;">varvas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tømmerkjøring</l>
+      <lg>
+         <l gen="Fem" pos="N">tømmerkjøring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tukinajo</t>
-            <stem>tukinajjo-</stem>
+            <t pos="N" stems="tukinajjo-;">tukinajo</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">tønne</l>
+      <lg>
+         <l gen="Fem" pos="N">tønne</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">tynnyri</t>
@@ -5049,7 +5448,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ugagnskråke</l>
+      <lg>
+         <l gen="Fem" pos="N">ugagnskråke</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">pahantekkijä</t>
@@ -5057,7 +5458,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ull</l>
+      <lg>
+         <l gen="Fem" pos="N">ull</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">villa</t>
@@ -5065,17 +5468,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ullskjorte</l>
+      <lg>
+         <l gen="Fem" pos="N">ullskjorte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">villapaita</t>
-            <stem>villapaiđa-</stem>
-            <stem>villapaitta-</stem>
+            <t pos="N" stems="villapaiđa-;villapaitta-;">villapaita</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ulltrøye</l>
+      <lg>
+         <l gen="Fem" pos="N">ulltrøye</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">villatröijy</t>
@@ -5083,90 +5488,92 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ulykke</l>
+      <lg>
+         <l gen="Fem" pos="N">ulykke</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">onnettomuus</t>
-            <stem>onnettomuuđe-</stem>
-            <stem>onnettomuut-</stem>
+            <t pos="N" stems="onnettomuuđe-;onnettomuut-;">onnettomuus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">umulighet</l>
+      <lg>
+         <l gen="Fem" pos="N">umulighet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">mahđottomuus</t>
-            <stem>mahđottomuuđe-</stem>
-            <stem>mahđottomuut-</stem>
+            <t pos="N" stems="mahđottomuuđe-;mahđottomuut-;">mahđottomuus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">underleppe</l>
+      <lg>
+         <l gen="Fem" pos="N">underleppe</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">alahuuli</t>
-            <stem>alahuule-</stem>
-            <stem>alahuul-</stem>
+            <t pos="N" stems="alahuule-;alahuul-;">alahuuli</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">underside</l>
+      <lg>
+         <l gen="Fem" pos="N">underside</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">alapuoli</t>
-            <stem>alapuole-</stem>
-            <stem>alapuol-</stem>
+            <t pos="N" stems="alapuole-;alapuol-;">alapuoli</t>
          </tg>
          <tg>
-            <t pos="N">alus</t>
-            <stem>alukse-</stem>
+            <t pos="N" stems="alukse-;">alus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">underskjorte</l>
+      <lg>
+         <l gen="Fem" pos="N">underskjorte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">aluspaita</t>
-            <stem>aluspaiđa-</stem>
-            <stem>aluspaitta-</stem>
+            <t pos="N" stems="aluspaiđa-;aluspaitta-;">aluspaita</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">underskrift</l>
+      <lg>
+         <l gen="Fem" pos="N">underskrift</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">allekirjotus</t>
-            <stem>allekirjotukse-</stem>
-            <stem>allekirjotus-</stem>
+            <t pos="N" stems="allekirjotukse-;allekirjotus-;">allekirjotus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">undervisning</l>
+      <lg>
+         <l gen="Fem" pos="N">undervisning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">opetus</t>
-            <stem>opetukse-</stem>
+            <t pos="N" stems="opetukse-;">opetus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">undomstid</l>
+      <lg>
+         <l gen="Fem" pos="N">undomstid</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">nuoruus</t>
-            <stem>nuoruuđe-</stem>
-            <stem>nuoruut-</stem>
+            <t pos="N" stems="nuoruuđe-;nuoruut-;">nuoruus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ungbjørk</l>
+      <lg>
+         <l gen="Fem" pos="N">ungbjørk</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">vesa</t>
@@ -5174,104 +5581,112 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ungfuru</l>
+      <lg>
+         <l gen="Fem" pos="N">ungfuru</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">mänty</t>
-            <stem>männy-</stem>
-            <stem>mäntty-</stem>
+            <t pos="N" stems="männy-;mäntty-;">mänty</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">utbygd</l>
+      <lg>
+         <l gen="Fem" pos="N">utbygd</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ulkokylä</t>
-            <stem>ulkokyllä-</stem>
+            <t pos="N" stems="ulkokyllä-;">ulkokylä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">utdanning</l>
+      <lg>
+         <l gen="Fem" pos="N">utdanning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">koulutus</t>
-            <stem>koulutukse-</stem>
+            <t pos="N" stems="koulutukse-;">koulutus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">utgift</l>
+      <lg>
+         <l gen="Fem" pos="N">utgift</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kulu</t>
-            <stem>kullu-</stem>
+            <t pos="N" stems="kullu-;">kulu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">utside</l>
+      <lg>
+         <l gen="Fem" pos="N">utside</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ulkopouli</t>
-            <stem>ulkopuole-</stem>
-            <stem>ulkopuol-</stem>
+            <t pos="N" stems="ulkopuole-;ulkopuol-;">ulkopouli</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">vakt</l>
+      <lg>
+         <l gen="Fem" pos="N">vakt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">vahti</t>
-            <stem>vahđi-</stem>
+            <t pos="N" stems="vahđi-;">vahti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">vandring</l>
+      <lg>
+         <l gen="Fem" pos="N">vandring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">taival</t>
-            <stem>taipalhe-</stem>
+            <t pos="N" stems="taipalhe-;">taival</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">vedfyring</l>
+      <lg>
+         <l gen="Fem" pos="N">vedfyring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">puulämmitys</t>
-            <stem>puulämmitykse-</stem>
+            <t pos="N" stems="puulämmitykse-;">puulämmitys</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">vedkjøring</l>
+      <lg>
+         <l gen="Fem" pos="N">vedkjøring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">puunajo</t>
-            <stem>puunajjo-</stem>
+            <t pos="N" stems="puunajjo-;">puunajo</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">vedskie</l>
+      <lg>
+         <l gen="Fem" pos="N">vedskie</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">halko</t>
-            <stem>halvo-</stem>
-            <stem>halkko-</stem>
+            <t pos="N" stems="halvo-;halkko-;">halko</t>
          </tg>
          <tg>
-            <t pos="N">kapalet</t>
-            <stem>kapalhee-</stem>
+            <t pos="N" stems="kapalhee-;">kapalet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">veggklokke</l>
+      <lg>
+         <l gen="Fem" pos="N">veggklokke</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">seinäkello</t>
@@ -5279,44 +5694,49 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">vegglus</l>
+      <lg>
+         <l gen="Fem" pos="N">vegglus</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">luđet</t>
-            <stem>luthee-</stem>
+            <t pos="N" stems="luthee-;">luđet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">veibygging</l>
+      <lg>
+         <l gen="Fem" pos="N">veibygging</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tienteko</t>
-            <stem>tienteo-</stem>
-            <stem>tientekko-</stem>
+            <t pos="N" stems="tienteo-;tientekko-;">tienteko</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">veike</l>
+      <lg>
+         <l gen="Fem" pos="N">veike</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">veikka</t>
-            <stem>veika-</stem>
+            <t pos="N" stems="veika-;">veikka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">vekking</l>
+      <lg>
+         <l gen="Fem" pos="N">vekking</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">herätys</t>
-            <stem>herätykse-</stem>
+            <t pos="N" stems="herätykse-;">herätys</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">vekt</l>
+      <lg>
+         <l gen="Fem" pos="N">vekt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">paino</t>
@@ -5329,38 +5749,37 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ventetid</l>
+      <lg>
+         <l gen="Fem" pos="N">ventetid</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ođottamaaika</t>
-            <stem>ođottamaaia-</stem>
-            <stem>ođottamaaikka-</stem>
+            <t pos="N" stems="ođottamaaia-;ođottamaaikka-;">ođottamaaika</t>
          </tg>
          <tg>
-            <t pos="N">ođottamisaika</t>
-            <stem>ođottamisaia-</stem>
-            <stem>ođottamisaikka-</stem>
+            <t pos="N" stems="ođottamisaia-;ođottamisaikka-;">ođottamisaika</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">venting</l>
+      <lg>
+         <l gen="Fem" pos="N">venting</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ođottaminen</t>
-            <stem>ođottamise-</stem>
-            <stem>ođottamis-</stem>
+            <t pos="N" stems="ođottamise-;ođottamis-;">ođottaminen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">ođotus</t>
-            <stem>ođotukse-</stem>
+            <t pos="N" stems="ođotukse-;">ođotus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">veske</l>
+      <lg>
+         <l gen="Fem" pos="N">veske</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">tasku</t>
@@ -5371,56 +5790,59 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">vik</l>
+      <lg>
+         <l gen="Fem" pos="N">vik</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">lahti</t>
-            <stem>lahđe-</stem>
-            <stem>lahte-</stem>
+            <t pos="N" stems="lahđe-;lahte-;">lahti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ving</l>
+      <lg>
+         <l gen="Fem" pos="N">ving</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">siipi</t>
-            <stem>siive-</stem>
-            <stem>siippe-</stem>
+            <t pos="N" stems="siive-;siippe-;">siipi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">vinterstid</l>
+      <lg>
+         <l gen="Fem" pos="N">vinterstid</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">talvenaika</t>
-            <stem>talvenaia-</stem>
-            <stem>talvenaikka-</stem>
+            <t pos="N" stems="talvenaia-;talvenaikka-;">talvenaika</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">vinterstøing</l>
+      <lg>
+         <l gen="Fem" pos="N">vinterstøing</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">talvikka</t>
-            <stem>talvika-</stem>
+            <t pos="N" stems="talvika-;">talvikka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">virkelighet</l>
+      <lg>
+         <l gen="Fem" pos="N">virkelighet</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tođelisuus</t>
-            <stem>tođelisuuđe-</stem>
-            <stem>tođelisuut-</stem>
+            <t pos="N" stems="tođelisuuđe-;tođelisuut-;">tođelisuus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">vogn</l>
+      <lg>
+         <l gen="Fem" pos="N">vogn</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">vaunu</t>
@@ -5428,38 +5850,42 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">vugge</l>
+      <lg>
+         <l gen="Fem" pos="N">vugge</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kehto</t>
-            <stem>kehđo-</stem>
+            <t pos="N" stems="kehđo-;">kehto</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ytterdør</l>
+      <lg>
+         <l gen="Fem" pos="N">ytterdør</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">ulkoovi</t>
-            <stem>ulkoove-</stem>
-            <stem>ulkoovve-</stem>
+            <t pos="N" stems="ulkoove-;ulkoovve-;">ulkoovi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">åkerbær</l>
+      <lg>
+         <l gen="Fem" pos="N">åkerbær</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">mesimarja</t>
          </tg>
          <tg>
-            <t pos="N">vatukka</t>
-            <stem>vatuka-</stem>
+            <t pos="N" stems="vatuka-;">vatukka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">åpning</l>
+      <lg>
+         <l gen="Fem" pos="N">åpning</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">aukkee</t>
@@ -5467,44 +5893,49 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">årslønn</l>
+      <lg>
+         <l gen="Fem" pos="N">årslønn</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">vuosipalkka</t>
-            <stem>vuosipalka-</stem>
+            <t pos="N" stems="vuosipalka-;">vuosipalkka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">årstid</l>
+      <lg>
+         <l gen="Fem" pos="N">årstid</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">vuođenaika</t>
-            <stem>vuođenaia-</stem>
-            <stem>vuođenaikka-</stem>
+            <t pos="N" stems="vuođenaia-;vuođenaikka-;">vuođenaika</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">øks</l>
+      <lg>
+         <l gen="Fem" pos="N">øks</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">kirves</t>
-            <stem>kirvhee-</stem>
+            <t pos="N" stems="kirvhee-;">kirves</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">ørnenese</l>
+      <lg>
+         <l gen="Fem" pos="N">ørnenese</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">könkänokka</t>
-            <stem>könkänoka-</stem>
+            <t pos="N" stems="könkänoka-;">könkänokka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">øse</l>
+      <lg>
+         <l gen="Fem" pos="N">øse</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">kauha</t>
@@ -5512,12 +5943,13 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l gen="Fem" pos="N">øyevippe</l>
+      <lg>
+         <l gen="Fem" pos="N">øyevippe</l>
+      </lg>
       <mg>
          <tg>
             <t pos="N">silmäkarva</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

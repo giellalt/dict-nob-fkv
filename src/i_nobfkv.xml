@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI ../script/nobfkv.dtd" "r">
+<r xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xml:lang="nob">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -26,7 +30,9 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l pos="Interj">adjø</l>
+      <lg>
+         <l pos="Interj">adjø</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Interj">hyvästi</t>
@@ -34,18 +40,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Interj">goddag</l>
+      <lg>
+         <l pos="Interj">goddag</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Interj">päivää</t>
+            <syng>
+               <syn>hyvää päivää</syn>
+            </syng>
          </tg>
       </mg>
-      <syng>
-         <syn>hyvää päivää</syn>
-      </syng>
    </e>
    <e>
-      <l pos="Interj">ja</l>
+      <lg>
+         <l pos="Interj">ja</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Interj">kyllä</t>
@@ -53,7 +63,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Interj">oi-oi</l>
+      <lg>
+         <l pos="Interj">oi-oi</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Interj">voi-voi</t>
@@ -61,7 +73,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Interj">svarte</l>
+      <lg>
+         <l pos="Interj">svarte</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Interj">perhana</t>
@@ -72,12 +86,13 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Interj">unnskyld</l>
+      <lg>
+         <l pos="Interj">unnskyld</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Interj">antheeksi</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

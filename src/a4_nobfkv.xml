@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI ../script/nobfkv.dtd" "r">
+<r xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xml:lang="nob">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -26,7 +30,9 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l decl="a4" pos="A">forbannet</l>
+      <lg>
+         <l decl="a4" pos="A">forbannet</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">pirusti</t>
@@ -34,7 +40,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a4" pos="A">kroket</l>
+      <lg>
+         <l decl="a4" pos="A">kroket</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">kippura</t>
@@ -42,7 +50,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a4" pos="A">vannskadet</l>
+      <lg>
+         <l decl="a4" pos="A">vannskadet</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">veđenpillaama</t>
@@ -50,12 +60,13 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l decl="a4" pos="A">åpen</l>
+      <lg>
+         <l decl="a4" pos="A">åpen</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">auki</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

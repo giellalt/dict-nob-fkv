@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI ../script/nobfkv.dtd" "r">
+<r xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xml:lang="nob">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -28,17 +30,19 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l pos="A" decl="a1">aktiv</l>
+      <lg>
+         <l pos="A" decl="a1">aktiv</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">aktiivinen</t>
-            <stem>aktiivise-</stem>
-            <stem>aktiivis-</stem>
+            <t pos="A" stems="aktiivise-;aktiivis-;">aktiivinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">aktuell</l>
+      <lg>
+         <l pos="A" decl="a1">aktuell</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">aktuelli</t>
@@ -46,17 +50,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">allmenn</l>
+      <lg>
+         <l pos="A" decl="a1">allmenn</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">ylheinen</t>
-            <stem>ylheisese-</stem>
-            <stem>ylheis-</stem>
+            <t pos="A" stems="ylheisese-;ylheis-;">ylheinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">alminnelig</l>
+      <lg>
+         <l pos="A" decl="a1">alminnelig</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">tavalinen</t>
@@ -64,29 +70,32 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">anilinrød</l>
+      <lg>
+         <l pos="A" decl="a1">anilinrød</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">aniliinipunanen</t>
-            <stem>aniliinipunase-</stem>
-            <stem>aniliinipunas-</stem>
+            <t pos="A" stems="aniliinipunase-;aniliinipunas-;">aniliinipunanen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">arbeidsløs</l>
+      <lg>
+         <l pos="A" decl="a1">arbeidsløs</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">jouten</t>
          </tg>
          <tg>
-            <t pos="A">joutilas</t>
-            <stem>joutilhaa-</stem>
+            <t pos="A" stems="joutilhaa-;">joutilas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">bekmørk</l>
+      <lg>
+         <l pos="A" decl="a1">bekmørk</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">säkkipimmee</t>
@@ -94,7 +103,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">blå</l>
+      <lg>
+         <l pos="A" decl="a1">blå</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">sininen</t>
@@ -102,7 +113,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">bred</l>
+      <lg>
+         <l pos="A" decl="a1">bred</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">laaja</t>
@@ -113,16 +126,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">brå</l>
+      <lg>
+         <l pos="A" decl="a1">brå</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">fakki</t>
-            <stem>faki-</stem>
+            <t pos="A" stems="faki-;">fakki</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">drøy</l>
+      <lg>
+         <l pos="A" decl="a1">drøy</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">rappee</t>
@@ -130,7 +146,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">dum</l>
+      <lg>
+         <l pos="A" decl="a1">dum</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">tyhjä</t>
@@ -138,25 +156,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">dyp</l>
+      <lg>
+         <l pos="A" decl="a1">dyp</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">syvä</t>
-            <stem>syvvä-</stem>
+            <t pos="A" stems="syvvä-;">syvä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">dyr</l>
+      <lg>
+         <l pos="A" decl="a1">dyr</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">tyyris</t>
-            <stem>tyyrhii-</stem>
+            <t pos="A" stems="tyyrhii-;">tyyris</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">ekkel</l>
+      <lg>
+         <l pos="A" decl="a1">ekkel</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">ilkkee</t>
@@ -164,56 +186,59 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">endeløs</l>
+      <lg>
+         <l pos="A" decl="a1">endeløs</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">loputon</t>
-            <stem>loputtoma-</stem>
+            <t pos="A" stems="loputtoma-;">loputon</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">enkel</l>
+      <lg>
+         <l pos="A" decl="a1">enkel</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">yksinkertanen</t>
-            <stem>yksinkertase-</stem>
-            <stem>yksinkertas-</stem>
+            <t pos="A" stems="yksinkertase-;yksinkertas-;">yksinkertanen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="A">helppo</t>
-            <stem>helpo-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l pos="A" decl="a1">fargeløs</l>
-      <mg>
-         <tg>
-            <t pos="A">färitön</t>
-            <stem>färittömä-</stem>
+            <t pos="A" stems="helpo-;">helppo</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">fersk</l>
+      <lg>
+         <l pos="A" decl="a1">fargeløs</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">tuoret</t>
-            <stem>tuorhee-</stem>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="A">veres</t>
-            <stem>verhee-</stem>
+            <t pos="A" stems="färittömä-;">färitön</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">fet</l>
+      <lg>
+         <l pos="A" decl="a1">fersk</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A" stems="tuorhee-;">tuoret</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="A" stems="verhee-;">veres</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A" decl="a1">fet</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">lihava</t>
@@ -221,7 +246,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">fiks</l>
+      <lg>
+         <l pos="A" decl="a1">fiks</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">näpperä</t>
@@ -229,7 +256,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">fin</l>
+      <lg>
+         <l pos="A" decl="a1">fin</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">hieno</t>
@@ -240,7 +269,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">fjern</l>
+      <lg>
+         <l pos="A" decl="a1">fjern</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">kaukainen</t>
@@ -248,60 +279,64 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">foreldreløs</l>
+      <lg>
+         <l pos="A" decl="a1">foreldreløs</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">orpo</t>
-            <stem>orvo-</stem>
-            <stem>orppo-</stem>
+            <t pos="A" stems="orvo-;orppo-;">orpo</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">frisk</l>
+      <lg>
+         <l pos="A" decl="a1">frisk</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">raikas</t>
-            <stem>raikhaa-</stem>
+            <t pos="A" stems="raikhaa-;">raikas</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="A">tervet</t>
-            <stem>tervhee-</stem>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l pos="A" decl="a1">frosen</l>
-      <mg>
-         <tg>
-            <t pos="A">kylmetty</t>
-            <stem>kylmety-</stem>
+            <t pos="A" stems="tervhee-;">tervet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">full</l>
+      <lg>
+         <l pos="A" decl="a1">frosen</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">täysi</t>
-            <stem>täyđe-</stem>
-            <stem>täyt-</stem>
+            <t pos="A" stems="kylmety-;">kylmetty</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">følsom</l>
+      <lg>
+         <l pos="A" decl="a1">full</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">kranttu</t>
-            <stem>krantu-</stem>
+            <t pos="A" stems="täyđe-;täyt-;">täysi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">gal</l>
+      <lg>
+         <l pos="A" decl="a1">følsom</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A" stems="krantu-;">kranttu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A" decl="a1">gal</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">väärä</t>
@@ -309,7 +344,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">gammel</l>
+      <lg>
+         <l pos="A" decl="a1">gammel</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">vanhaa</t>
@@ -317,16 +354,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">grenseløs</l>
+      <lg>
+         <l pos="A" decl="a1">grenseløs</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">rajaton</t>
-            <stem>rajattoma-</stem>
+            <t pos="A" stems="rajattoma-;">rajaton</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">grov</l>
+      <lg>
+         <l pos="A" decl="a1">grov</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">krouvi</t>
@@ -334,52 +374,54 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">grønn</l>
+      <lg>
+         <l pos="A" decl="a1">grønn</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">vihrinen</t>
-            <stem>vihrise-</stem>
-            <stem>vihris-</stem>
+            <t pos="A" stems="vihrise-;vihris-;">vihrinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">halv</l>
+      <lg>
+         <l pos="A" decl="a1">halv</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">puoli</t>
-            <stem>puole-</stem>
-            <stem>puol-</stem>
+            <t pos="A" stems="puole-;puol-;">puoli</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">halvstor</l>
+      <lg>
+         <l pos="A" decl="a1">halvstor</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">puolikokonen</t>
-            <stem>puolikokose-</stem>
-            <stem>puolikokos-</stem>
+            <t pos="A" stems="puolikokose-;puolikokos-;">puolikokonen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">hard</l>
+      <lg>
+         <l pos="A" decl="a1">hard</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">kova</t>
-            <stem>kovva-</stem>
+            <t pos="A" stems="kovva-;">kova</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="A">tiukka</t>
-            <stem>tiuka-</stem>
+            <t pos="A" stems="tiuka-;">tiukka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">hel</l>
+      <lg>
+         <l pos="A" decl="a1">hel</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">ehhee</t>
@@ -387,16 +429,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">hjelpeløs</l>
+      <lg>
+         <l pos="A" decl="a1">hjelpeløs</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">avuton</t>
-            <stem>avuttoma-</stem>
+            <t pos="A" stems="avuttoma-;">avuton</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">høy</l>
+      <lg>
+         <l pos="A" decl="a1">høy</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">korkkee</t>
@@ -404,17 +449,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">jevn</l>
+      <lg>
+         <l pos="A" decl="a1">jevn</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">tasanen</t>
-            <stem>tasase-</stem>
-            <stem>tasas-</stem>
+            <t pos="A" stems="tasase-;tasas-;">tasanen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">kald</l>
+      <lg>
+         <l pos="A" decl="a1">kald</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">kylmä</t>
@@ -422,20 +469,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">kjær</l>
+      <lg>
+         <l pos="A" decl="a1">kjær</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">rakas</t>
-            <stem>rakhaa-</stem>
+            <t pos="A" stems="rakhaa-;">rakas</t>
          </tg>
          <tg>
-            <t pos="A">armas</t>
-            <stem>armhaa-</stem>
+            <t pos="A" stems="armhaa-;">armas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">klar</l>
+      <lg>
+         <l pos="A" decl="a1">klar</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">selvä</t>
@@ -443,8 +492,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="A">klaari</t>
-            <stem>klaari-</stem>
+            <t pos="A" stems="klaari-;">klaari</t>
          </tg>
          <tg>
             <t pos="adv">selvilä</t>
@@ -452,25 +500,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">klok</l>
+      <lg>
+         <l pos="A" decl="a1">klok</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">viisas</t>
-            <stem>viishaa-</stem>
+            <t pos="A" stems="viishaa-;">viisas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">kristen</l>
+      <lg>
+         <l pos="A" decl="a1">kristen</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">kristitty</t>
-            <stem>kristity-</stem>
+            <t pos="A" stems="kristity-;">kristitty</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">kvass</l>
+      <lg>
+         <l pos="A" decl="a1">kvass</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">terävä</t>
@@ -478,7 +530,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">lang</l>
+      <lg>
+         <l pos="A" decl="a1">lang</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">pitke</t>
@@ -486,7 +540,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">lav</l>
+      <lg>
+         <l pos="A" decl="a1">lav</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">matala</t>
@@ -494,7 +550,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">lunken</l>
+      <lg>
+         <l pos="A" decl="a1">lunken</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">haalee</t>
@@ -502,7 +560,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">lys</l>
+      <lg>
+         <l pos="A" decl="a1">lys</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">valkkee</t>
@@ -510,23 +570,24 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="A">kirkas</t>
-            <stem>kirkhaa-</stem>
+            <t pos="A" stems="kirkhaa-;">kirkas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">lyserød</l>
+      <lg>
+         <l pos="A" decl="a1">lyserød</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">vaaleepunanen</t>
-            <stem>vaaleepunase-</stem>
-            <stem>vaaleepunas-</stem>
+            <t pos="A" stems="vaaleepunase-;vaaleepunas-;">vaaleepunanen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">løs</l>
+      <lg>
+         <l pos="A" decl="a1">løs</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">löysi</t>
@@ -537,7 +598,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">mager</l>
+      <lg>
+         <l pos="A" decl="a1">mager</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">laiha</t>
@@ -545,33 +608,34 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="A">lama</t>
-            <stem>lamma-</stem>
+            <t pos="A" stems="lamma-;">lama</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">mangedobbel</l>
+      <lg>
+         <l pos="A" decl="a1">mangedobbel</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">monikertanen</t>
-            <stem>monikertase-</stem>
-            <stem>monikertas-</stem>
+            <t pos="A" stems="monikertase-;monikertas-;">monikertanen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">mangelfull</l>
+      <lg>
+         <l pos="A" decl="a1">mangelfull</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">puutheelinen</t>
-            <stem>puutheelise-</stem>
-            <stem>puutheelis-</stem>
+            <t pos="A" stems="puutheelise-;puutheelis-;">puutheelinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">merkbar</l>
+      <lg>
+         <l pos="A" decl="a1">merkbar</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">tunttuuva</t>
@@ -579,7 +643,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">mild</l>
+      <lg>
+         <l pos="A" decl="a1">mild</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">lauha</t>
@@ -590,7 +656,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">moden</l>
+      <lg>
+         <l pos="A" decl="a1">moden</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">kypsy</t>
@@ -598,16 +666,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">morken</l>
+      <lg>
+         <l pos="A" decl="a1">morken</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">laho</t>
-            <stem>lahho-</stem>
+            <t pos="A" stems="lahho-;">laho</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">mør</l>
+      <lg>
+         <l pos="A" decl="a1">mør</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">murree</t>
@@ -615,7 +686,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">mørk</l>
+      <lg>
+         <l pos="A" decl="a1">mørk</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">pimmee</t>
@@ -623,29 +696,32 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">negativ</l>
+      <lg>
+         <l pos="A" decl="a1">negativ</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">nekatiivinen</t>
-            <stem>nekatiivise-</stem>
-            <stem>nekatiivis-</stem>
-	 </tg>
+            <t pos="A" stems="nekatiivise-;nekatiivis-;">nekatiivinen</t>
+         </tg>
          <tg>
             <t pos="A">nekatiivi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">nervøs</l>
+      <lg>
+         <l pos="A" decl="a1">nervøs</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">hermostunu</t>
-            <stem>hermostunhee-</stem>
+            <t pos="A" stems="hermostunhee-;">hermostunu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">normal</l>
+      <lg>
+         <l pos="A" decl="a1">normal</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">normaali</t>
@@ -653,66 +729,68 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">nådeløs</l>
+      <lg>
+         <l pos="A" decl="a1">nådeløs</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">armoton</t>
-            <stem>armotoma-</stem>
-         </tg>
-      </mg>
-      <syng>
-         <syn>Armaton kaunis</syn>
-      </syng>
-   </e>
-   <e>
-      <l pos="A" decl="a1">offisiell</l>
-      <mg>
-         <tg>
-            <t pos="A">viralinen</t>
-            <stem>viralise-</stem>
-            <stem>viralis-</stem>
+            <t pos="A" stems="armotoma-;">armoton</t>
+            <syng>
+               <syn>Armaton kaunis</syn>
+            </syng>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">ond</l>
+      <lg>
+         <l pos="A" decl="a1">offisiell</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">paha</t>
-            <stem>pahha-</stem>
+            <t pos="A" stems="viralise-;viralis-;">viralinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">positiv</l>
+      <lg>
+         <l pos="A" decl="a1">ond</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">positiivinen</t>
-            <stem>positiivise-</stem>
-            <stem>positiivis-</stem>
-         </tg>
-         <tg>
-            <t pos="A">pusitiivinen</t>
-            <stem>pusitiivise-</stem>
-            <stem>pusitiivis-</stem>
+            <t pos="A" stems="pahha-;">paha</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">primitiv</l>
+      <lg>
+         <l pos="A" decl="a1">positiv</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A" stems="positiivise-;positiivis-;">positiivinen</t>
+         </tg>
+         <tg>
+            <t pos="A" stems="pusitiivise-;pusitiivis-;">pusitiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A" decl="a1">primitiv</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">primitiivi</t>
          </tg>
          <tg>
-            <t pos="A">primitiivinen</t>
-            <stem>primitiivise-</stem>
-            <stem>primitiivis-</stem>
+            <t pos="A" stems="primitiivise-;primitiivis-;">primitiivinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">radikal</l>
+      <lg>
+         <l pos="A" decl="a1">radikal</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">ratikaali</t>
@@ -720,97 +798,102 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">rar</l>
+      <lg>
+         <l pos="A" decl="a1">rar</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">viekas</t>
-            <stem>viekhaa-</stem>
+            <t pos="A" stems="viekhaa-;">viekas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">rein</l>
+      <lg>
+         <l pos="A" decl="a1">rein</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">puhđas</t>
-            <stem>puhthaa-</stem>
+            <t pos="A" stems="puhthaa-;">puhđas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">religiøs</l>
+      <lg>
+         <l pos="A" decl="a1">religiøs</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">uskonnolinen</t>
-            <stem>uskonnolise-</stem>
-            <stem>uskonnolis-</stem>
+            <t pos="A" stems="uskonnolise-;uskonnolis-;">uskonnolinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">rik</l>
+      <lg>
+         <l pos="A" decl="a1">rik</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">rikas</t>
-            <stem>rikhaa-</stem>
+            <t pos="A" stems="rikhaa-;">rikas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">rund</l>
+      <lg>
+         <l pos="A" decl="a1">rund</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">ymmyräinen</t>
-            <stem>ymmyräise-</stem>
-            <stem>ymmyräis-</stem>
+            <t pos="A" stems="ymmyräise-;ymmyräis-;">ymmyräinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">rå</l>
+      <lg>
+         <l pos="A" decl="a1">rå</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">raaka</t>
-            <stem>raaja-</stem>
-            <stem>raakka-</stem>
+            <t pos="A" stems="raaja-;raakka-;">raaka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">råtten</l>
+      <lg>
+         <l pos="A" decl="a1">råtten</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">mätä</t>
-            <stem>mätä-</stem>
+            <t pos="A" stems="mätä-;">mätä</t>
          </tg>
          <tg>
-            <t pos="A">mäđänny</t>
-            <stem>mäđähnee-</stem>
+            <t pos="A" stems="mäđähnee-;">mäđänny</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">rød</l>
+      <lg>
+         <l pos="A" decl="a1">rød</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">punanen</t>
-            <stem>punase-</stem>
-            <stem>punas-</stem>
+            <t pos="A" stems="punase-;punas-;">punanen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">sann</l>
+      <lg>
+         <l pos="A" decl="a1">sann</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">tosi</t>
-            <stem>tođe-</stem>
-            <stem>tot-</stem>
+            <t pos="A" stems="tođe-;tot-;">tosi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">seig</l>
+      <lg>
+         <l pos="A" decl="a1">seig</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">sitkee</t>
@@ -818,7 +901,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">sentral</l>
+      <lg>
+         <l pos="A" decl="a1">sentral</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">sentraali</t>
@@ -826,7 +911,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">sikker</l>
+      <lg>
+         <l pos="A" decl="a1">sikker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">vissi</t>
@@ -834,54 +921,58 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">skeiv</l>
+      <lg>
+         <l pos="A" decl="a1">skeiv</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">viinto</t>
-            <stem>viinno-</stem>
-            <stem>viinto-</stem>
+            <t pos="A" stems="viinno-;viinto-;">viinto</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">skitten</l>
+      <lg>
+         <l pos="A" decl="a1">skitten</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">ryöttä</t>
-            <stem>ryötä-</stem>
+            <t pos="A" stems="ryötä-;">ryöttä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">slank</l>
+      <lg>
+         <l pos="A" decl="a1">slank</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">hoikka</t>
-            <stem>hoika-</stem>
+            <t pos="A" stems="hoika-;">hoikka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">slapp</l>
+      <lg>
+         <l pos="A" decl="a1">slapp</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">siila</t>
+            <syng>
+               <syn>Se oli siila kala</syn>
+            </syng>
          </tg>
       </mg>
-      <syng>
-         <syn>Se oli siila kala</syn>
-      </syng>
    </e>
    <e>
-      <l pos="adv">slik</l>
+      <lg>
+         <l pos="adv">slik</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">semmonen</t>
-            <stem>semmose-</stem>
+            <t pos="A" stems="semmose-;">semmonen</t>
          </tg>
          <tg>
-            <t pos="A">senlainen</t>
-            <stem>senlaise-</stem>
+            <t pos="A" stems="senlaise-;">senlainen</t>
          </tg>
       </mg>
       <mg>
@@ -896,14 +987,14 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="A">tämmänen</t>
-            <stem>tämmäse-</stem>
-            <stem>tämmäs-</stem>
+            <t pos="A" stems="tämmäse-;tämmäs-;">tämmänen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">sløv</l>
+      <lg>
+         <l pos="A" decl="a1">sløv</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">tylsä</t>
@@ -911,21 +1002,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">smal</l>
+      <lg>
+         <l pos="A" decl="a1">smal</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">kaitanen</t>
-            <stem>kaitase-</stem>
-            <stem>kaitas-</stem>
+            <t pos="A" stems="kaitase-;kaitas-;">kaitanen</t>
          </tg>
          <tg>
-            <t pos="A">soukka</t>
-            <stem>souka-</stem>
+            <t pos="A" stems="souka-;">soukka</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">snill</l>
+      <lg>
+         <l pos="A" decl="a1">snill</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">siivo</t>
@@ -933,37 +1025,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">sosial</l>
+      <lg>
+         <l pos="A" decl="a1">sosial</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">sosiaalinen</t>
-            <stem>sosiaalise-</stem>
-            <stem>sosiaalis-</stem>
+            <t pos="A" stems="sosiaalise-;sosiaalis-;">sosiaalinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">spesiell</l>
+      <lg>
+         <l pos="A" decl="a1">spesiell</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">erikoinen</t>
-            <stem>erikoise-</stem>
-            <stem>erikois-</stem>
+            <t pos="A" stems="erikoise-;erikois-;">erikoinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">stor</l>
+      <lg>
+         <l pos="A" decl="a1">stor</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">suuri</t>
-            <stem>suure-</stem>
-            <stem>suur-</stem>
+            <t pos="A" stems="suure-;suur-;">suuri</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">streng</l>
+      <lg>
+         <l pos="A" decl="a1">streng</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">ankara</t>
@@ -971,16 +1065,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">stum</l>
+      <lg>
+         <l pos="A" decl="a1">stum</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">mykkä</t>
-            <stem>mykä-</stem>
+            <t pos="A" stems="mykä-;">mykkä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">stygg</l>
+      <lg>
+         <l pos="A" decl="a1">stygg</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">hirvee</t>
@@ -988,11 +1085,12 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">svak</l>
+      <lg>
+         <l pos="A" decl="a1">svak</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">heikko</t>
-            <stem>heiko-</stem>
+            <t pos="A" stems="heiko-;">heikko</t>
          </tg>
          <tg>
             <t pos="A">löyhä</t>
@@ -1003,19 +1101,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">syk</l>
+      <lg>
+         <l pos="A" decl="a1">syk</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">kleini</t>
          </tg>
          <tg>
-            <t pos="A">sairas</t>
-            <stem>sairhaa-</stem>
+            <t pos="A" stems="sairhaa-;">sairas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">søt</l>
+      <lg>
+         <l pos="A" decl="a1">søt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">makkee</t>
@@ -1023,26 +1124,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">tankeløs</l>
+      <lg>
+         <l pos="A" decl="a1">tankeløs</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">tuulihattu</t>
-            <stem>tuulihatu-</stem>
+            <t pos="A" stems="tuulihatu-;">tuulihattu</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">tapper</l>
+      <lg>
+         <l pos="A" decl="a1">tapper</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">urhoolinen</t>
-            <stem>urhoolise-</stem>
-            <stem>urhoolis-</stem>
+            <t pos="A" stems="urhoolise-;urhoolis-;">urhoolinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">taus</l>
+      <lg>
+         <l pos="A" decl="a1">taus</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">vaiti</t>
@@ -1054,65 +1158,72 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">tillitsfull</l>
+      <lg>
+         <l pos="A" decl="a1">tillitsfull</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">luottavainen</t>
-            <stem>luottavaise-</stem>
-            <stem>luottavais-</stem>
+            <t pos="A" stems="luottavaise-;luottavais-;">luottavainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">tom</l>
+      <lg>
+         <l pos="A" decl="a1">tom</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">tyhvä</t>
+            <syng>
+               <syn>tyhjä</syn>
+            </syng>
          </tg>
       </mg>
-      <syng>
-         <syn>tyhjä</syn>
-      </syng>
    </e>
    <e>
-      <l pos="A" decl="a1">trang</l>
+      <lg>
+         <l pos="A" decl="a1">trang</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">ahđas</t>
-            <stem>ahthaa-</stem>
+            <t pos="A" stems="ahthaa-;">ahđas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">troløs</l>
+      <lg>
+         <l pos="A" decl="a1">troløs</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">uskoton</t>
-            <stem>uskottoma-</stem>
+            <t pos="A" stems="uskottoma-;">uskoton</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">trygg</l>
+      <lg>
+         <l pos="A" decl="a1">trygg</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">turvalinen</t>
-            <stem>turvalise-</stem>
-            <stem>turvalis-</stem>
+            <t pos="A" stems="turvalise-;turvalis-;">turvalinen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">tung</l>
+      <lg>
+         <l pos="A" decl="a1">tung</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">raskas</t>
-            <stem>raskhaa-</stem>
+            <t pos="A" stems="raskhaa-;">raskas</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">tykk</l>
+      <lg>
+         <l pos="A" decl="a1">tykk</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">paksu</t>
@@ -1125,20 +1236,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">tynn</l>
+      <lg>
+         <l pos="A" decl="a1">tynn</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">ohut</t>
          </tg>
          <tg>
-            <t pos="A">ohukainen</t>
-            <stem>ohukaise-</stem>
-            <stem>ohukais-</stem>
+            <t pos="A" stems="ohukaise-;ohukais-;">ohukainen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">tørr</l>
+      <lg>
+         <l pos="A" decl="a1">tørr</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">kuiva</t>
@@ -1146,27 +1259,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">ujevn</l>
+      <lg>
+         <l pos="A" decl="a1">ujevn</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">harkkunen</t>
-            <stem>harkkuse-</stem>
-            <stem>harkus-</stem>
+            <t pos="A" stems="harkkuse-;harkus-;">harkkunen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">ung</l>
+      <lg>
+         <l pos="A" decl="a1">ung</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">nuori</t>
-            <stem>nuore-</stem>
-            <stem>nuor-</stem>
+            <t pos="A" stems="nuore-;nuor-;">nuori</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">usikker</l>
+      <lg>
+         <l pos="A" decl="a1">usikker</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">epävarma</t>
@@ -1174,35 +1289,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">var</l>
+      <lg>
+         <l pos="A" decl="a1">var</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">räämet</t>
-            <stem>räämhee-</stem>
+            <t pos="A" stems="räämhee-;">räämet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">varm</l>
+      <lg>
+         <l pos="A" decl="a1">varm</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">lämmin</t>
-            <stem>lämmin-</stem>
-            <stem>lämpimä-</stem>
+            <t pos="A" stems="lämmin-;lämpimä-;">lämmin</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">verdiløs</l>
+      <lg>
+         <l pos="A" decl="a1">verdiløs</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">arvoton</t>
-            <stem>arvottoma-</stem>
+            <t pos="A" stems="arvottoma-;">arvoton</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">vid</l>
+      <lg>
+         <l pos="A" decl="a1">vid</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">laaja</t>
@@ -1210,7 +1329,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">voldsom</l>
+      <lg>
+         <l pos="A" decl="a1">voldsom</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">raju</t>
@@ -1218,22 +1339,23 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">våt</l>
+      <lg>
+         <l pos="A" decl="a1">våt</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="A">märkä</t>
-            <stem>märä-</stem>
-            <stem>märkkä-</stem>
+            <t pos="A" stems="märä-;märkkä-;">märkä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="A" decl="a1">årviss</l>
+      <lg>
+         <l pos="A" decl="a1">årviss</l>
+      </lg>
       <mg>
          <tg>
             <t pos="A">vuosithaan</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>

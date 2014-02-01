@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI ../script/nobfkv.dtd" "r">
+<r xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xml:lang="nob">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -26,79 +30,83 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l decl="pl" pos="N">finklær</l>
+      <lg>
+         <l decl="pl" pos="N">finklær</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="npl">pyhävaatet</t>
-            <stem>pyhävathee-</stem>
+            <t pos="npl" stems="pyhävathee-;">pyhävaatet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="pl" pos="N">foreldre</l>
+      <lg>
+         <l decl="pl" pos="N">foreldre</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="npl">vanhimet</t>
-            <stem>vanhimii-</stem>
-            <stem>vanhimii-</stem>
+            <t pos="npl" stems="vanhimii-;vanhimii-;">vanhimet</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="pl" pos="N">kopper</l>
+      <lg>
+         <l decl="pl" pos="N">kopper</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="npl">rupitauti</t>
-            <stem>rupitauđi-</stem>
-            <stem>rupitautti-</stem>
+            <t pos="npl" stems="rupitauđi-;rupitautti-;">rupitauti</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="pl" pos="N">markedsdager</l>
+      <lg>
+         <l decl="pl" pos="N">markedsdager</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="npl">markkinat</t>
-            <stem>markkinoitte-</stem>
-            <stem>markkinoi-</stem>
+            <t pos="npl" stems="markkinoitte-;markkinoi-;">markkinat</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="pl" pos="N">penger</l>
+      <lg>
+         <l decl="pl" pos="N">penger</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="npl">raha</t>
-            <stem>rahha-</stem>
+            <t pos="npl" stems="rahha-;">raha</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="pl" pos="N">skaller</l>
+      <lg>
+         <l decl="pl" pos="N">skaller</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="npl">kallokat</t>
-            <stem>kallokaitte-</stem>
-            <stem>kallokai-</stem>
+            <t pos="npl" stems="kallokaitte-;kallokai-;">kallokat</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="pl" pos="N">småpenger</l>
+      <lg>
+         <l decl="pl" pos="N">småpenger</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="npl">pikkuraha</t>
-            <stem>pikkurahha-</stem>
+            <t pos="npl" stems="pikkurahha-;">pikkuraha</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="pl" pos="N">testikler</l>
+      <lg>
+         <l decl="pl" pos="N">testikler</l>
+      </lg>
       <mg>
          <tg>
             <t pos="npl">kullit</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

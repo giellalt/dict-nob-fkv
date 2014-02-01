@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI ../script/nobfkv.dtd" "r">
+<r xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xml:lang="nob">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -26,7 +30,9 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l pos="Adv">akkurat</l>
+      <lg>
+         <l pos="Adv">akkurat</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">justhiin</t>
@@ -37,7 +43,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">alene</l>
+      <lg>
+         <l pos="Adv">alene</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">yksin</t>
@@ -45,21 +53,20 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">aldeles</l>
+      <lg>
+         <l pos="Adv">aldeles</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">peräti</t>
-         </tg>
-         <tg>
             <t pos="Adv">pöräti</t>
          </tg>
       </mg>
-      <syng>
-         <syn>pöräti</syn>
-      </syng>
    </e>
    <e>
-      <l pos="Adv">allerede</l>
+      <lg>
+         <l pos="Adv">allerede</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">jo</t>
@@ -67,7 +74,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">allment</l>
+      <lg>
+         <l pos="Adv">allment</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">ylheisesti</t>
@@ -75,7 +84,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">altfor</l>
+      <lg>
+         <l pos="Adv">altfor</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">liijan</t>
@@ -83,7 +94,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">bare</l>
+      <lg>
+         <l pos="Adv">bare</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">tyhä</t>
@@ -101,7 +114,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">best</l>
+      <lg>
+         <l pos="Adv">best</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">parhaiten</t>
@@ -109,7 +124,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">blandet</l>
+      <lg>
+         <l pos="Adv">blandet</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">sekasin</t>
@@ -117,7 +134,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">bort</l>
+      <lg>
+         <l pos="Adv">bort</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">poijes</t>
@@ -126,7 +145,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">borte</l>
+      <lg>
+         <l pos="Adv">borte</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">poissa</t>
@@ -134,7 +155,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">cirka</l>
+      <lg>
+         <l pos="Adv">cirka</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">suunnile</t>
@@ -142,7 +165,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">delvis</l>
+      <lg>
+         <l pos="Adv">delvis</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">osittan</t>
@@ -150,7 +175,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">der</l>
+      <lg>
+         <l pos="Adv">der</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">sielä</t>
@@ -168,7 +195,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">derfor</l>
+      <lg>
+         <l pos="Adv">derfor</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">siksi</t>
@@ -176,7 +205,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">derfra</l>
+      <lg>
+         <l pos="Adv">derfra</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">siitä</t>
@@ -184,7 +215,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">dit</l>
+      <lg>
+         <l pos="Adv">dit</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">siiheen</t>
@@ -197,7 +230,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">dårlig</l>
+      <lg>
+         <l pos="Adv">dårlig</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">pahoin</t>
@@ -205,7 +240,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">ellers</l>
+      <lg>
+         <l pos="Adv">ellers</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">muuten</t>
@@ -213,7 +250,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">engang</l>
+      <lg>
+         <l pos="Adv">engang</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">kerran</t>
@@ -225,7 +264,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">ennå</l>
+      <lg>
+         <l pos="Adv">ennå</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">vielä</t>
@@ -238,7 +279,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">fast</l>
+      <lg>
+         <l pos="Adv">fast</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">kiini</t>
@@ -251,7 +294,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">feil</l>
+      <lg>
+         <l pos="Adv">feil</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">väärin</t>
@@ -259,7 +304,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">forferdelig</l>
+      <lg>
+         <l pos="Adv">forferdelig</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">kauheesti</t>
@@ -272,7 +319,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">forfra</l>
+      <lg>
+         <l pos="Adv">forfra</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">eđestä</t>
@@ -280,7 +329,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">forsiktig</l>
+      <lg>
+         <l pos="Adv">forsiktig</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">varovaisesti</t>
@@ -288,7 +339,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">fort</l>
+      <lg>
+         <l pos="Adv">fort</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">noppeesti</t>
@@ -296,7 +349,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">fram</l>
+      <lg>
+         <l pos="Adv">fram</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">perile</t>
@@ -309,7 +364,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">framover</l>
+      <lg>
+         <l pos="Adv">framover</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">etheen</t>
@@ -317,7 +374,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">fremdeles</l>
+      <lg>
+         <l pos="Adv">fremdeles</l>
+      </lg>
       <mg>
          <tg>
             <t>yhä</t>
@@ -325,7 +384,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">først</l>
+      <lg>
+         <l pos="Adv">først</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">alusta</t>
@@ -346,7 +407,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">galt</l>
+      <lg>
+         <l pos="Adv">galt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">väärin</t>
@@ -354,7 +417,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">ganske</l>
+      <lg>
+         <l pos="Adv">ganske</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">melkkeen</t>
@@ -362,7 +427,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">godt</l>
+      <lg>
+         <l pos="Adv">godt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">hyvin</t>
@@ -370,7 +437,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">gratis</l>
+      <lg>
+         <l pos="Adv">gratis</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">ilman</t>
@@ -378,16 +447,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">halvveis</l>
+      <lg>
+         <l pos="Adv">halvveis</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Adv">puolivälissä</t>
-            <stem>puolivälli-</stem>
+            <t pos="Adv" stems="puolivälli-;">puolivälissä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Adv">hardt</l>
+      <lg>
+         <l pos="Adv">hardt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">lujasti</t>
@@ -395,7 +467,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">heldigvis</l>
+      <lg>
+         <l pos="Adv">heldigvis</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">onneksi</t>
@@ -403,7 +477,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">her</l>
+      <lg>
+         <l pos="Adv">her</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">tässä</t>
@@ -416,7 +492,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">hit</l>
+      <lg>
+         <l pos="Adv">hit</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">tänne</t>
@@ -424,7 +502,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">hjemme</l>
+      <lg>
+         <l pos="Adv">hjemme</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">kotona</t>
@@ -432,7 +512,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">iblant</l>
+      <lg>
+         <l pos="Adv">iblant</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">välhiin</t>
@@ -440,7 +522,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">igjen</l>
+      <lg>
+         <l pos="Adv">igjen</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">taas</t>
@@ -448,7 +532,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">ille</l>
+      <lg>
+         <l pos="Adv">ille</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">pahasti</t>
@@ -456,7 +542,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">imellom</l>
+      <lg>
+         <l pos="Adv">imellom</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">välissä</t>
@@ -468,7 +556,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">ingenlunde</l>
+      <lg>
+         <l pos="Adv">ingenlunde</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">sunkhaan</t>
@@ -476,7 +566,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">ingensteds</l>
+      <lg>
+         <l pos="Adv">ingensteds</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">ei mishään</t>
@@ -488,7 +580,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">inn</l>
+      <lg>
+         <l pos="Adv">inn</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">sisäle</t>
@@ -496,7 +590,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">inne</l>
+      <lg>
+         <l pos="Adv">inne</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">sisälä</t>
@@ -504,7 +600,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">jamnsides</l>
+      <lg>
+         <l pos="Adv">jamnsides</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">rinnakkain</t>
@@ -512,7 +610,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">jo</l>
+      <lg>
+         <l pos="Adv">jo</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">joo</t>
@@ -525,7 +625,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">kanskje</l>
+      <lg>
+         <l pos="Adv">kanskje</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">piian</t>
@@ -533,7 +635,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">knapt</l>
+      <lg>
+         <l pos="Adv">knapt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">knapisti</t>
@@ -541,7 +645,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">langsomt</l>
+      <lg>
+         <l pos="Adv">langsomt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">hithaasti</t>
@@ -549,7 +655,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">lenge</l>
+      <lg>
+         <l pos="Adv">lenge</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">kauvon</t>
@@ -557,7 +665,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">lett</l>
+      <lg>
+         <l pos="Adv">lett</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">kevveesti</t>
@@ -565,7 +675,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">litt</l>
+      <lg>
+         <l pos="Adv">litt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="a">pikkusen</t>
@@ -581,7 +693,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">løst</l>
+      <lg>
+         <l pos="Adv">løst</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">irti</t>
@@ -589,7 +703,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">medstrøms</l>
+      <lg>
+         <l pos="Adv">medstrøms</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">myötävirthaan</t>
@@ -597,7 +713,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">mer</l>
+      <lg>
+         <l pos="Adv">mer</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">ennää</t>
@@ -605,7 +723,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">merkelig</l>
+      <lg>
+         <l pos="Adv">merkelig</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">kummasti</t>
@@ -613,7 +733,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">midtsommers</l>
+      <lg>
+         <l pos="Adv">midtsommers</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">keskikesälä</t>
@@ -621,7 +743,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">midtveis</l>
+      <lg>
+         <l pos="Adv">midtveis</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">puolivälissä</t>
@@ -629,7 +753,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">midtvinters</l>
+      <lg>
+         <l pos="Adv">midtvinters</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">keskitalvela</t>
@@ -637,7 +763,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">minst</l>
+      <lg>
+         <l pos="Adv">minst</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">vähhiin</t>
@@ -648,7 +776,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">motstrøms</l>
+      <lg>
+         <l pos="Adv">motstrøms</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">vastavirthaan</t>
@@ -656,7 +786,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">muligens</l>
+      <lg>
+         <l pos="Adv">muligens</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">mahđolisesti</t>
@@ -664,7 +796,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">mye</l>
+      <lg>
+         <l pos="Adv">mye</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">kovasti</t>
@@ -672,7 +806,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">nakent</l>
+      <lg>
+         <l pos="Adv">nakent</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">alasti</t>
@@ -680,7 +816,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">naturligvis</l>
+      <lg>
+         <l pos="Adv">naturligvis</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">luontolisesti</t>
@@ -688,11 +826,12 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">ned</l>
+      <lg>
+         <l pos="Adv">ned</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Adv">alas</t>
-            <stem>alhaa-</stem>
+            <t pos="Adv" stems="alhaa-;">alas</t>
          </tg>
       </mg>
       <mg>
@@ -702,7 +841,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">nede</l>
+      <lg>
+         <l pos="Adv">nede</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">alhaala</t>
@@ -710,7 +851,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">nedenfra</l>
+      <lg>
+         <l pos="Adv">nedenfra</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">alhaalta</t>
@@ -718,7 +861,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">nedover</l>
+      <lg>
+         <l pos="Adv">nedover</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">alaspäin</t>
@@ -726,7 +871,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">nesten</l>
+      <lg>
+         <l pos="Adv">nesten</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">kohta</t>
@@ -734,7 +881,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">nok</l>
+      <lg>
+         <l pos="Adv">nok</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">nokko</t>
@@ -745,7 +894,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">nå</l>
+      <lg>
+         <l pos="Adv">nå</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">nyt</t>
@@ -761,7 +912,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">nær</l>
+      <lg>
+         <l pos="Adv">nær</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">likelä</t>
@@ -772,7 +925,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">nøyaktig</l>
+      <lg>
+         <l pos="Adv">nøyaktig</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">tarkhaasti</t>
@@ -780,7 +935,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">ofte</l>
+      <lg>
+         <l pos="Adv">ofte</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">usheen</t>
@@ -791,7 +948,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">oftere</l>
+      <lg>
+         <l pos="Adv">oftere</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">usheemasti</t>
@@ -799,7 +958,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">opp</l>
+      <lg>
+         <l pos="Adv">opp</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">ylös</t>
@@ -807,7 +968,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">oppe</l>
+      <lg>
+         <l pos="Adv">oppe</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">ylhäälä</t>
@@ -815,7 +978,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">oppover</l>
+      <lg>
+         <l pos="Adv">oppover</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">ylöspäin</t>
@@ -823,7 +988,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">per glass</l>
+      <lg>
+         <l pos="Adv">per glass</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">lasittain</t>
@@ -831,7 +998,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">rart</l>
+      <lg>
+         <l pos="Adv">rart</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">kamalasti</t>
@@ -839,7 +1008,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">sammen</l>
+      <lg>
+         <l pos="Adv">sammen</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">yhđessä</t>
@@ -847,7 +1018,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">sammenlagt</l>
+      <lg>
+         <l pos="Adv">sammenlagt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">yhtheensä</t>
@@ -855,7 +1028,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">selvfølgelig</l>
+      <lg>
+         <l pos="Adv">selvfølgelig</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">tietekki</t>
@@ -865,7 +1040,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">sikkert</l>
+      <lg>
+         <l pos="Adv">sikkert</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">sikkaristi</t>
@@ -880,7 +1057,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">sist</l>
+      <lg>
+         <l pos="Adv">sist</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">viimi</t>
@@ -893,7 +1072,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">sjelden</l>
+      <lg>
+         <l pos="Adv">sjelden</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">harvoin</t>
@@ -901,7 +1082,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">snart</l>
+      <lg>
+         <l pos="Adv">snart</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">heti</t>
@@ -909,7 +1092,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">spøkefullt</l>
+      <lg>
+         <l pos="Adv">spøkefullt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">leikilisesti</t>
@@ -917,7 +1102,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">stedvis</l>
+      <lg>
+         <l pos="Adv">stedvis</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">paikottaan</t>
@@ -925,7 +1112,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">stille</l>
+      <lg>
+         <l pos="Adv">stille</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">vaisto</t>
@@ -933,7 +1122,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">straks</l>
+      <lg>
+         <l pos="Adv">straks</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">paikala</t>
@@ -946,7 +1137,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">så</l>
+      <lg>
+         <l pos="Adv">så</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">sitte</t>
@@ -959,7 +1152,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">særdeles</l>
+      <lg>
+         <l pos="Adv">særdeles</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">sangen</t>
@@ -967,7 +1162,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">tilbake</l>
+      <lg>
+         <l pos="Adv">tilbake</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">takasin</t>
@@ -975,7 +1172,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">tilsammen</l>
+      <lg>
+         <l pos="Adv">tilsammen</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">yhtheen</t>
@@ -983,7 +1182,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">tilsist</l>
+      <lg>
+         <l pos="Adv">tilsist</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">viimen</t>
@@ -991,7 +1192,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">turvis</l>
+      <lg>
+         <l pos="Adv">turvis</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">vuorothaan</t>
@@ -999,7 +1202,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">ubegrenset</l>
+      <lg>
+         <l pos="Adv">ubegrenset</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">rajattomasti</t>
@@ -1007,7 +1212,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">ut</l>
+      <lg>
+         <l pos="Adv">ut</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">ulos</t>
@@ -1018,7 +1225,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">ute</l>
+      <lg>
+         <l pos="Adv">ute</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">ulkkoo</t>
@@ -1029,7 +1238,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">utenat</l>
+      <lg>
+         <l pos="Adv">utenat</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">ulkomuistoo</t>
@@ -1037,7 +1248,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">vanligvis</l>
+      <lg>
+         <l pos="Adv">vanligvis</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">tavalisesti</t>
@@ -1045,7 +1258,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">varmt</l>
+      <lg>
+         <l pos="Adv">varmt</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">lämpimästi</t>
@@ -1053,16 +1268,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">verre</l>
+      <lg>
+         <l pos="Adv">verre</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Adv">pahempi</t>
-            <stem>pahemmin-</stem>
+            <t pos="Adv" stems="pahemmin-;">pahempi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Adv">verst</l>
+      <lg>
+         <l pos="Adv">verst</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">pahhin</t>
@@ -1070,7 +1288,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">ytre</l>
+      <lg>
+         <l pos="Adv">ytre</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">ulko</t>
@@ -1078,12 +1298,13 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Adv">øverst</l>
+      <lg>
+         <l pos="Adv">øverst</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Adv">ylin</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

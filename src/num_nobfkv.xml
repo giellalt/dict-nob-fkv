@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI ../script/nobfkv.dtd" "r">
+<r xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xml:lang="nob">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -22,12 +26,13 @@ For the full license text, see the link above.</lic>
      objectionable translations, etc. If you find any errors or want to add more
      words, download the file, edit it, and send it back to
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
+     Please also note that the entries are not necessarily sorted.
      </sourcenote>
    </lics>
    <e>
-      <l pos="Num" type="ord">ellevte</l>
+      <lg>
+         <l pos="Num" type="ord">ellevte</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">yhđestoista</t>
@@ -35,28 +40,30 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num">en</l>
+      <lg>
+         <l pos="Num">en</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Num">yksi</t>
-            <stem>yhđe-</stem>
-            <stem>yh-</stem>
+            <t pos="Num" stems="yhđe-;yh-;">yksi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Num">fem</l>
+      <lg>
+         <l pos="Num">fem</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">viisi</t>
-            <t pos="Num">viis</t>
-            <stem>viiđe-</stem>
-            <stem>viit-</stem>
+            <t pos="Num" stems="viiđe-;viit-;">viis</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Num">femten</l>
+      <lg>
+         <l pos="Num">femten</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">viisitoista</t>
@@ -65,17 +72,20 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num">femti</l>
+      <lg>
+         <l pos="Num">femti</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">viiskymmentä</t>
-            <t pos="Num">viisikymmentä</t>
-            <stem>viisikymmene-</stem>
+            <t pos="Num" stems="viisikymmene-;">viisikymmentä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Num">fire</l>
+      <lg>
+         <l pos="Num">fire</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">nelje</t>
@@ -83,27 +93,29 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num" type="ord">fjerde</l>
+      <lg>
+         <l pos="Num" type="ord">fjerde</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Num">neljes</t>
-            <stem>neljenhee-</stem>
-            <stem>neljet-</stem>
+            <t pos="Num" stems="neljenhee-;neljet-;">neljes</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Num">hundre</l>
+      <lg>
+         <l pos="Num">hundre</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Num">sata</t>
-            <stem>sađa-</stem>
-            <stem>satta-</stem>
+            <t pos="Num" stems="sađa-;satta-;">sata</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Num">ni</l>
+      <lg>
+         <l pos="Num">ni</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">yhđeksen</t>
@@ -111,22 +123,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num">seks</l>
+      <lg>
+         <l pos="Num">seks</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Num">kuus</t>
-            <stem>kuuđe-</stem>
-            <stem>kuut-</stem>
+            <t pos="Num" stems="kuuđe-;kuut-;">kuus</t>
          </tg>
          <tg>
-            <t pos="Num">kuusi</t>
-            <stem>kuuđe-</stem>
-            <stem>kuut-</stem>
+            <t pos="Num" stems="kuuđe-;kuut-;">kuusi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Num">sekshundre</l>
+      <lg>
+         <l pos="Num">sekshundre</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">kuusisattaa</t>
@@ -134,7 +146,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num">seksten</l>
+      <lg>
+         <l pos="Num">seksten</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">kuusitoista</t>
@@ -142,7 +156,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num">seksti</l>
+      <lg>
+         <l pos="Num">seksti</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">kuusikymmentä</t>
@@ -150,7 +166,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num">sekstusen</l>
+      <lg>
+         <l pos="Num">sekstusen</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">kuusituhatta</t>
@@ -158,17 +176,19 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num" type="ord">sjette</l>
+      <lg>
+         <l pos="Num" type="ord">sjette</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Num">kuuđes</t>
-            <stem>kuuđenne-</stem>
-            <stem>kuuđet-</stem>
+            <t pos="Num" stems="kuuđenne-;kuuđet-;">kuuđes</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Num">sju</l>
+      <lg>
+         <l pos="Num">sju</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">seittemen</t>
@@ -177,7 +197,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num">ti</l>
+      <lg>
+         <l pos="Num">ti</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">kymmenen</t>
@@ -185,36 +207,39 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num" type="ord">tiende</l>
+      <lg>
+         <l pos="Num" type="ord">tiende</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Num">kymmenes</t>
-            <stem>kymmenenne-</stem>
-            <stem>kymmenet-</stem>
+            <t pos="Num" stems="kymmenenne-;kymmenet-;">kymmenes</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Num">tjue</l>
+      <lg>
+         <l pos="Num">tjue</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Num">kakskymmentä</t>
-            <stem>kakskymmene-</stem>
+            <t pos="Num" stems="kakskymmene-;">kakskymmentä</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Num">to</l>
+      <lg>
+         <l pos="Num">to</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Num">kaksi</t>
-            <stem>kahđe-</stem>
-            <stem>kah-</stem>
+            <t pos="Num" stems="kahđe-;kah-;">kaksi</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Num">tolv</l>
+      <lg>
+         <l pos="Num">tolv</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">kakstoista</t>
@@ -222,7 +247,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num">totusen</l>
+      <lg>
+         <l pos="Num">totusen</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">kakstuhatta</t>
@@ -230,7 +257,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num">tre</l>
+      <lg>
+         <l pos="Num">tre</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">kolme</t>
@@ -238,7 +267,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num">trehundre</l>
+      <lg>
+         <l pos="Num">trehundre</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">kolmesattaa</t>
@@ -246,7 +277,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num">tretti</l>
+      <lg>
+         <l pos="Num">tretti</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Num">kolmekymmentä</t>
@@ -254,31 +287,33 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Num">åtte</l>
+      <lg>
+         <l pos="Num">åtte</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Num">kahđeksen</t>
-            <stem>kahđeksene-</stem>
+            <t pos="Num" stems="kahđeksene-;">kahđeksen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Num">åttehundre</l>
+      <lg>
+         <l pos="Num">åttehundre</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Num">kahđeksensattaa</t>
-            <stem>kahđeksensađa-</stem>
+            <t pos="Num" stems="kahđeksensađa-;">kahđeksensattaa</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l pos="Num">åtti</l>
+      <lg>
+         <l pos="Num">åtti</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="Num">kahđeksenkymmentä</t>
-            <stem>kahđeksenkymmene-</stem>
+            <t pos="Num" stems="kahđeksenkymmene-;">kahđeksenkymmentä</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

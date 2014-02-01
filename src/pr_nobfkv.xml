@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI ../script/nobfkv.dtd" "r">
+<r xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xml:lang="nob">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -26,7 +30,9 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l pos="Pr">av</l>
+      <lg>
+         <l pos="Pr">av</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">-sta</t>
@@ -45,7 +51,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">bak</l>
+      <lg>
+         <l pos="Pr">bak</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pr">takana</t>
@@ -53,7 +61,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">blant</l>
+      <lg>
+         <l pos="Pr">blant</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Po">kesken</t>
@@ -61,7 +71,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">enten</l>
+      <lg>
+         <l pos="Pr">enten</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pr">joko</t>
@@ -73,7 +85,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">foran</l>
+      <lg>
+         <l pos="Pr">foran</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Po">eđelä</t>
@@ -86,7 +100,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">forbi</l>
+      <lg>
+         <l pos="Pr">forbi</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">sivvu</t>
@@ -94,7 +110,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">før</l>
+      <lg>
+         <l pos="Pr">før</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pr">ennen</t>
@@ -102,7 +120,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">gjennom</l>
+      <lg>
+         <l pos="Pr">gjennom</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Po">kautta</t>
@@ -115,7 +135,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">hitenfor</l>
+      <lg>
+         <l pos="Pr">hitenfor</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pr">täkemppää</t>
@@ -123,29 +145,28 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">hos</l>
+      <lg>
+         <l pos="Pr">hos</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Po">tykköö</t>
+            <t pos="x">tykönä</t>
             <xg>
                <x>hun er hos meg</x>
                <xt>hän oon minun tykköö</xt>
             </xg>
-         </tg>
-         <tg>
-            <t pos="x">tykönä</t>
             <xg>
                <x>hun er hos meg</x>
                <xt>Hän oon minun tykkönä</xt>
             </xg>
          </tg>
       </mg>
-      <syng>
-         <syn>tykönä</syn>
-      </syng>
    </e>
    <e>
-      <l pos="Pr">inntil</l>
+      <lg>
+         <l pos="Pr">inntil</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Po">asti</t>
@@ -153,7 +174,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">langs</l>
+      <lg>
+         <l pos="Pr">langs</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Po">pitkin</t>
@@ -161,7 +184,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">med</l>
+      <lg>
+         <l pos="Pr">med</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Po">kans(a)</t>
@@ -178,7 +203,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">mellom</l>
+      <lg>
+         <l pos="Pr">mellom</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Po">välilä</t>
@@ -186,7 +213,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">mot</l>
+      <lg>
+         <l pos="Pr">mot</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Po">vasten</t>
@@ -197,7 +226,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">omkring</l>
+      <lg>
+         <l pos="Pr">omkring</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pr">ympäri</t>
@@ -205,7 +236,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">over</l>
+      <lg>
+         <l pos="Pr">over</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Po">yli</t>
@@ -213,7 +246,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">på</l>
+      <lg>
+         <l pos="Pr">på</l>
+      </lg>
       <mg>
          <tg>
             <t pos="x">pääle</t>
@@ -224,7 +259,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">til</l>
+      <lg>
+         <l pos="Pr">til</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pr">tykö</t>
@@ -236,7 +273,9 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">under</l>
+      <lg>
+         <l pos="Pr">under</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Po">alla</t>
@@ -244,12 +283,13 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="Pr">uten</l>
+      <lg>
+         <l pos="Pr">uten</l>
+      </lg>
       <mg>
          <tg>
             <t pos="Pr">vaila</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>

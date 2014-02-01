@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD nobfkv//FI" "../script/nobfkv.dtd">
-<?xml-stylesheet type="text/css" href="../script/nobfkv.css"?>
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//XMLmind//DTD nobfkv//FI ../script/nobfkv.dtd" "r">
+<r xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xml:lang="nob">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -26,40 +30,38 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
    <e>
-      <l decl="f2" pos="N">dreping</l>
+      <lg>
+         <l decl="f2" pos="N">dreping</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">tappaminen</t>
-            <stem>tappamise-</stem>
-            <stem>tappamis-</stem>
+            <t pos="N" stems="tappamise-;tappamis-;">tappaminen</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="f2" pos="N">forbedring</l>
+      <lg>
+         <l decl="f2" pos="N">forbedring</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">parannus</t>
-            <stem>parannukse-</stem>
+            <t pos="N" stems="parannukse-;">parannus</t>
          </tg>
       </mg>
    </e>
    <e>
-      <l decl="f2" pos="N">fornorskning</l>
+      <lg>
+         <l decl="f2" pos="N">fornorskning</l>
+      </lg>
       <mg>
          <tg>
-            <t pos="N">norjalaistuminen</t>
-            <stem>norjalaistumise-</stem>
-            <stem>norjalaistumis-</stem>
+            <t pos="N" stems="norjalaistumise-;norjalaistumis-;">norjalaistuminen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="N">norjalaistaminen</t>
-            <stem>norjalaistamise-</stem>
-            <stem>norjalaistamis-</stem>
+            <t pos="N" stems="norjalaistamise-;norjalaistamis-;">norjalaistaminen</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script type="text/javascript" src="../../scripts/gt_dictionary.js"/>
 </r>
