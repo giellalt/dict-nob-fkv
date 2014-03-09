@@ -12,6 +12,30 @@ inc>g '<stem>' nobfkv.xml |c
     4003
 
 
+note 1:
+syng 
+   <e mgc="1" syngc="1" tgc="2">
+      <lg>
+         <l decl="a2" pos="A">disig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">himmee</t>
+         </tg>
+         <tg>
+            <t pos="A">himmi</t>
+            <xg>
+               <x>disig vær er trykkende</x>
+               <xt>himmi sää oon umpu sää</xt>
+            </xg>
+         </tg>
+      </mg>
+      <syng>
+         <syn>himmee</syn>
+      </syng>
+   </e>
+
+
 nobfkv>g -h '<e ' _check/*|t
   84    <e mgc="1" sync="1">
    2    <e mgc="2" sync="1">
