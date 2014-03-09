@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="nob">
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">samme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="samma">sama</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">den her</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="tä">tämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">denne her</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="tä">tämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">dette her</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="tä">tämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">denne/dette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="tä">tämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">han</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="häne">hän</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">hun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="häne">hän</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">sjøl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">itte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">itte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">seg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">itte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">all</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kaikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">alle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kaikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">hvem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="kene;ke">kuka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">ingen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="kene;ke">kuka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">vi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="mei;mei">met</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">jeg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="minu;minnu">mie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">hva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="mi;mi">mikä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">som</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="mi;mi">mikä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">de</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="nii;nii">net</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">disse her</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="näi;näi">nämät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">disse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="näi;näi">nämät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">den</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="se;si">se</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">det</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="se;si">se</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">den/det</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="se;si">se</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">han/hun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="se;si">se</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">du</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="sinu;sinnu">sie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">dere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="tei">tet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">den der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">tuo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">det der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">tuo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">en</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="yhđe;yh">yksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">et</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="yhđe;yh">yksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">ikke en</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="yhđe;yh">yksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">et og annet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="yhđe;yh">yksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">begge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="molemii;molemii">molemat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">begge to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="molemii;molemii">molemat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">noen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="muutamma;muutampa">muutampi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">en/et</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="muutamma;muutampa">muutampi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">noen (stykker)</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="muutamma;muutampa">muutampi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">de der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="nuoi;nuoi">nuot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Det">hver</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">joka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron" type="Rel">som</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">joka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">hver og en</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">joka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pron">annenhver</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">joka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="A" decl="a1">hel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">koko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Adv">hvordan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kunka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Pron">hvem sin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kenen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Pron">min</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">minun</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Pron">mitt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">minun</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Pron">mine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">minun</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Pron">hva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">mitä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Pron" type="Interr">hvorfor ikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" type="Interr">miksei</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Pron" type="Interr">hvilken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" type="Interr">mones</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">eneste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">ainua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">de fleste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" nr="Pl">enimät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">de</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">het</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">hver og en</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">itte kukin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">hver</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">jokhainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">noen få</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">joku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">en eller annen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">joku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">allslags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kaikenlainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">hvordan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kummoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">hva slags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kummoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">hvem/hvilken av to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kumpi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">begge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kumpiki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">de er begge to lærere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kumpiki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">jeg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">meikäläinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">en av oss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">meikäläinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">en som er som oss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">meikäläinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">jeg spiser nok krøkebær også</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">meikäläinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">hvordan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">minkälainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">hva slags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">minkälainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">ikke noen slags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">minkälainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">hva for en/ett (i rekkefølgen)?</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">monesko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">mange</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">moni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">noen (stykker)</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">moni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">annen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">muu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">en (eller annen)</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">muuđan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">annen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">toinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">et(t) og annet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">toinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">den ene etter den andre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">toinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">den ene – den andre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">toinen</t>
+            <xg>
+               <x/>
+               <xt>den ene hette Pekka og den andre Hannu</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">hverandre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">toinen</t>
+            <xg>
+               <x/>
+               <xt>de elsker hverandre</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">flere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">ussee</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">ingen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">yksikhään</t>
+            <xg>
+               <x>ei vähhääkhään</x>
+               <xt>ingen, ikke en eneste</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>
