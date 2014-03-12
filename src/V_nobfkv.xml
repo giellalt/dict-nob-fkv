@@ -2,7 +2,7 @@
 <r xml:lang="nob">
    <e src="ta;ai">
       <lg>
-         <l pos="N" decl="v">surne</l>
+         <l pos="V">surne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -86,7 +86,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">løfte skjørt/bukse med belte</l>
+         <l pos="V">stramme</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -96,17 +96,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">stramme noe hårdt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">sonnustaat</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="x">komme overens</l>
+         <l pos="V">komme overens</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -401,32 +391,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="auta;autta">auttaat</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="adv">ikke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">ei</t>
-            <xg>
-               <x>Hän ei ole kotona</x>
-               <xt>Han er ikke hjemme</xt>
-            </xg>
-            <xg>
-               <x>En ole ostanu leippää</x>
-               <xt>Jeg har ikke kjøpt brød</xt>
-            </xg>
-            <xg>
-               <x>Het eivät ole</x>
-               <xt/>
-            </xg>
-            <xg>
-               <x>Emmä ole käynheet sielä</x>
-               <xt>Vi har ikke vært der</xt>
-            </xg>
          </tg>
       </mg>
    </e>

@@ -2,7 +2,53 @@
 <r xml:lang="nob">
    <e src="ta;ai">
       <lg>
-         <l pos="x">naken</l>
+         <l pos="Adv">hvordan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kunka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Adv">litt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">pikkusen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Adv">ikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ei</t>
+            <xg>
+               <x>Hän ei ole kotona</x>
+               <xt>Han er ikke hjemme</xt>
+            </xg>
+            <xg>
+               <x>En ole ostanu leippää</x>
+               <xt>Jeg har ikke kjøpt brød</xt>
+            </xg>
+            <xg>
+               <x>Het eivät ole</x>
+               <xt/>
+            </xg>
+            <xg>
+               <x>Emmä ole käynheet sielä</x>
+               <xt>Vi har ikke vært der</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Adv">naken</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -22,27 +68,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">først</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">alusta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="x">fra først av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">alusta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="x">i går</l>
+         <l pos="Adv">i går</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -92,7 +118,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">lett</l>
+         <l pos="Adv">lett</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -102,7 +128,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">snart</l>
+         <l pos="Adv">snart</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -112,7 +138,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">straks</l>
+         <l pos="Adv">straks</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -122,7 +148,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">i morgen</l>
+         <l pos="Adv">i morgen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -132,7 +158,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">godt</l>
+         <l pos="Adv">godt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -142,7 +168,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">vel</l>
+         <l pos="Adv">vel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -152,7 +178,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">bra</l>
+         <l pos="Adv">bra</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -172,26 +198,6 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">adjø</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">hyvästi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="x">farvel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">hyvästi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
          <l pos="Adv">bra</l>
       </lg>
       <mg>
@@ -202,7 +208,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="a" decl="a1">ensom</l>
+         <l pos="Adv">ensomt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -252,42 +258,6 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="pr">inntil</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">asti</t>
-            <xg>
-               <x>mie vien sinun Tromsshaan asti</x>
-               <xt>jeg skal følge med deg helt til Tromsø</xt>
-            </xg>
-            <xg>
-               <x>mie vien sinun Tromsshaan asti</x>
-               <xt>jeg skal følge med deg helt til Tromsø</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="pr">til</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">asti</t>
-            <xg>
-               <x>mie vien sinun Tromsshaan asti</x>
-               <xt>jeg skal følge med deg helt til Tromsø</xt>
-            </xg>
-            <xg>
-               <x>mie vien sinun Tromsshaan asti</x>
-               <xt>jeg skal følge med deg helt til Tromsø</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
          <l pos="Adv">fra</l>
       </lg>
       <mg>
@@ -302,7 +272,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="a" decl="ax">åpen</l>
+         <l pos="Adv">åpent</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -660,7 +630,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="a" decl="a1">nær</l>
+         <l pos="Adv">nært</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -690,7 +660,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="a" decl="a1">nær</l>
+         <l pos="Adv">nært</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -820,7 +790,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">raskt</l>
+         <l pos="Adv">raskt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -830,7 +800,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">hurtig</l>
+         <l pos="Adv">hurtig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -840,7 +810,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">fort</l>
+         <l pos="Adv">fort</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -850,7 +820,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">ondt</l>
+         <l pos="Adv">ondt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -860,7 +830,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">stygt</l>
+         <l pos="Adv">stygt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -870,7 +840,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">ille</l>
+         <l pos="Adv">ille</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -880,7 +850,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">sikkert</l>
+         <l pos="Adv">sikkert</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -890,7 +860,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">nøyaktig</l>
+         <l pos="Adv">nøyaktig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -910,7 +880,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">bestemt</l>
+         <l pos="Adv">bestemt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -940,7 +910,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">på nytt</l>
+         <l pos="Adv">på nytt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -950,7 +920,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">sikkert</l>
+         <l pos="Adv">sikkert</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -960,7 +930,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="a" decl="a2">forsiktig</l>
+         <l pos="Adv">forsiktig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -970,7 +940,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">rikelig</l>
+         <l pos="Adv">rikelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -980,7 +950,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="a">allment</l>
+         <l pos="Adv">allment</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -990,7 +960,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">der borte</l>
+         <l pos="Adv">der borte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1020,7 +990,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">i smug</l>
+         <l pos="Adv">i smug</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1030,7 +1000,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">nøye</l>
+         <l pos="Adv">nøye</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1040,7 +1010,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">nøyaktig</l>
+         <l pos="Adv">nøyaktig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1070,7 +1040,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">front mot front</l>
+         <l pos="Adv">front mot front</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1100,7 +1070,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">med tvang</l>
+         <l pos="Adv">med tvang</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1260,7 +1230,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">på vranga</l>
+         <l pos="Adv">på vranga</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1460,17 +1430,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">beruset</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">päissä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="x">full</l>
+         <l pos="Adv">full</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1635,26 +1595,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">suunile</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="x">tatt vare på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">tallessa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="x">bevart</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">tallessa</t>
          </tg>
       </mg>
    </e>
@@ -1864,7 +1804,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">på skeiva</l>
+         <l pos="Adv">på skeiva</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1874,7 +1814,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">på skrå</l>
+         <l pos="Adv">på skrå</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1914,7 +1854,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="x">lite</l>
+         <l pos="Adv">lite</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2378,7 +2318,7 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="A" decl="a1">full</l>
+         <l pos="Adv">fullt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2710,7 +2650,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">lenger nede</l>
+         <l pos="Adv">lenger nede</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2730,7 +2670,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">nedenfra</l>
+         <l pos="Adv">nedenfra</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2750,28 +2690,18 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">foran</l>
+         <l pos="Adv">foran</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">eđelä</t>
          </tg>
       </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="x">foran</l>
-      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">eđessä</t>
          </tg>
       </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="x">forfra</l>
-      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">eđestä</t>
@@ -2780,7 +2710,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">for det meste</l>
+         <l pos="Adv">for det meste</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2790,7 +2720,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">mest</l>
+         <l pos="Adv">mest</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2800,7 +2730,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">først</l>
+         <l pos="Adv">først</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2810,7 +2740,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">først</l>
+         <l pos="Adv">først</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2820,7 +2750,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">først</l>
+         <l pos="Adv">først</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2830,31 +2760,11 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">beruset</l>
+         <l pos="Adv">full</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">humalossa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="x">full</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">humalossa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="x">dårlige forhold</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">huonot välit</t>
          </tg>
       </mg>
    </e>
@@ -2880,7 +2790,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">rart</l>
+         <l pos="Adv">rart</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2890,7 +2800,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">underlig</l>
+         <l pos="Adv">underlig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2910,7 +2820,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">nedover</l>
+         <l pos="Adv">nedover</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3414,17 +3324,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">tre ganger</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">kolmesti</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="x">forbannet</l>
+         <l pos="Adv">helvetes</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3434,7 +3334,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">ubegrenset</l>
+         <l pos="Adv">ubegrenset</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3444,7 +3344,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">umåtelig</l>
+         <l pos="Adv">umåtelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3454,7 +3354,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">djevelsk</l>
+         <l pos="Adv">djevelsk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3464,7 +3364,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">selvfølgelig</l>
+         <l pos="Adv">selvfølgelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3474,7 +3374,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">fullstendig</l>
+         <l pos="Adv">fullstendig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3484,7 +3384,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">totalt</l>
+         <l pos="Adv">totalt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3494,7 +3394,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">oftere</l>
+         <l pos="Adv">oftere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3514,7 +3414,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="a" decl="a2">ansvarlig</l>
+         <l pos="Adv">ansvarlig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3524,7 +3424,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">best</l>
+         <l pos="Adv">best</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3534,7 +3434,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">etter hverandre</l>
+         <l pos="Adv">etter hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3544,7 +3444,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">etter hverandre</l>
+         <l pos="Adv">etter hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3554,7 +3454,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">jamnsides</l>
+         <l pos="Adv">jamnsides</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3564,17 +3464,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">side ved side</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">rinnakkain</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="a" decl="a4">blandet</l>
+         <l pos="Adv">blandet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3584,7 +3474,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="a" decl="a3">rotete</l>
+         <l pos="Adv">rotete</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3594,7 +3484,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">så langt</l>
+         <l pos="Adv">så langt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3768,7 +3658,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="midtveis">midtveis</l>
+         <l pos="Adv">midtveis</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3778,7 +3668,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="midtveis">halvveis</l>
+         <l pos="Adv">halvveis</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3818,7 +3708,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">i fred og ro</l>
+         <l pos="Adv">i fred og ro</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3948,7 +3838,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="x">sønder og sammen</l>
+         <l pos="Adv">sønder og sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4474,7 +4364,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="A" decl="a1">klar</l>
+         <l pos="Adv">klart</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4614,7 +4504,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="adv">for det andre</l>
+         <l pos="Adv">for det andre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4634,7 +4524,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="A">lukket</l>
+         <l pos="Adv">lukket</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4644,7 +4534,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="A">uåpnet</l>
+         <l pos="Adv">uåpnet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">

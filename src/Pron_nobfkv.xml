@@ -392,16 +392,6 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="Det">hver</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pron">joka</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
          <l pos="Pron" type="Rel">som</l>
       </lg>
       <mg>
@@ -427,26 +417,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pron">joka</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="A" decl="a1">hel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pron">koko</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Adv">hvordan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pron">kunka</t>
          </tg>
       </mg>
    </e>
