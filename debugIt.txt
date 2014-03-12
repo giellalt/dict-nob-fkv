@@ -1,0 +1,161 @@
+1. src issue:
+revert_fkvnob2nobfkv_20140309>g 'src="fkv"' in_src/*
+in_src/Adv_fkvnob.xml:         <l pos="Adv" src="fkv">jo</l>
+in_src/N_fkvnob.xml:         <l pos="N" src="fkv">kilo</l>
+in_src/N_fkvnob.xml:         <l pos="N" src="fkv">komma</l>
+in_src/N_fkvnob.xml:         <l pos="N" src="fkv">piano</l>
+
+2. pos issue:
+
+reverted2nob>g '<l ' A_nobfkv.xml|cut -d '>' -f1|t
+ 505          <l pos="A"
+ 234          <l pos="A" decl="a1"
+ 217          <l pos="A" decl="a2"
+  46          <l pos="A" decl="a3"
+  42          <l pos="A" decl="a5"
+  27          <l pos="A" decl="a4"
+  22          <l pos="A" decl="x"
+   7          <l pos="A" decl="ax"
+   5          <l pos="A" decl="m"
+   1          <l pos="x"
+   1          <l pos="Det"
+   	      1          <l pos="A" re="~ som denne/dette"
+   1          <l pos="A" decl="m1"
+   1          <l pos="A" decl="f"
+
+
+reverted2nob>g '<l ' Adv_nobfkv.xml|cut -d '>' -f1|t
+ 833          <l pos="Adv"
+  72          <l pos="x"
+   3          <l pos="a" decl="a1"
+   2          <l pos="pr"
+   2          <l pos="midtveis"
+   2          <l pos="a" decl="a2"
+   2          <l pos="A" decl="a1"
+   2          <l pos="A"
+   1          <l pos="adv"
+   1          <l pos="a" decl="ax"
+   1          <l pos="a" decl="a4"
+   1          <l pos="a" decl="a3"
+   1          <l pos="a"
+
+
+reverted2nob>g '<l ' CC_nobfkv.xml|cut -d '>' -f1|t
+  29          <l pos="CC"
+   1          <l pos="C"
+
+reverted2nob>g '<l ' N_nobfkv.xml|cut -d '>' -f1|t
+2458          <l pos="N"
+1741          <l pos="N" decl="m"
+ 848          <l pos="N" decl="f"
+ 807          <l pos="N" decl="N"
+ 107          <l pos="N" decl="x"
+   9          <l pos="N" decl="m1"
+   7          <l pos="N" decl="a"
+   5          <l pos="m"
+   4          <l pos="N" decl="a2"
+   3          <l pos="N" nr="Pl"
+   2          <l pos="f"
+   2          <l pos="N" gen="f"
+   2          <l pos="N" decl="f1"
+   2          <l pos="N" decl="a1"
+   1          <l pos="N" type="Prop"
+   	      1          <l pos="N" re="dyp"
+   	      1          <l pos="N" re="ES"
+   1          <l pos="N" gen="n"
+   1          <l pos="N" decl="v"
+   1          <l pos="N" decl="m2"
+   	      1          <l pos="N" decl="m" re="kastrert"
+   	      1          <l pos="N" decl="m" re="av ris"
+   1          <l pos="A" decl="a2"
+
+
+reverted2nob>g '<l ' Pcle_nobfkv.xml|cut -d '>' -f1|t
+   9          <l pos="Pcle"
+   1          <l pos="Adv"
+
+What is linguists' working definition of 'adv' vs. 'pcle'?
+
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pcle">pikkusen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">litt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pcle">altso</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>altså</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pcle">erikoisen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>spesielt</t>
+         </tg>
+      </mg>
+
+
+
+
+reverted2nob>g '<l ' Po_nobfkv.xml|cut -d '>' -f1|t
+  96          <l pos="Po"
+  18          <l pos="Pr"
+    	      8          <l pos="pr"
+
+reverted2nob>g '<l ' Pron_nobfkv.xml|cut -d '>' -f1|t
+  78          <l pos="Pron"
+   2          <l pos="Pron" type="Interr"
+   1          <l pos="Pron" type="Rel"
+   1          <l pos="Det"
+   1          <l pos="Adv"
+   1          <l pos="A" decl="a1"
+
+reverted2nob>g '<l ' V_nobfkv.xml|cut -d '>' -f1|t
+2362          <l pos="V"
+	         3          <l pos="x"
+		 1          <l pos="adv"
+   		 1          <l pos="N" decl="v"
+
+   <e src="ta;ai">
+      <lg>
+         <l pos="V">muijeta</l>
+         <stem>muikene</stem>
+         <stem>muijen</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" decl="v">surne</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e src="ta;ai">
+      <lg>
+         <l pos="N">peitto</l>
+         <stem>peito</stem>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" decl="N">dekke</t>
+            <t pos="N" decl="N">dekken</t>
+            <t pos="N" decl="N">teppe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>pledd</t>
+         </tg>
+      </mg>
+   </e>
