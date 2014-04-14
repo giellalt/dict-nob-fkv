@@ -4292,16 +4292,6 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="V">Slipp meg!</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">laskeet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
          <l pos="V">laste</l>
       </lg>
       <mg>
@@ -7527,6 +7517,11 @@
             <t pos="V" stem="puđota">puđottaat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">laskeet</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -7985,16 +7980,6 @@
    <e src="ta;ai">
       <lg>
          <l pos="V">skremme</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="pölätä">pölättäät</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="V">ikke skrem meg!</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8891,16 +8876,6 @@
    <e src="ta;ai">
       <lg>
          <l pos="V">velsigne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="siunaa;siunan">siunata</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="V">jøss!</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13293,16 +13268,6 @@
    <e src="ta">
       <lg>
          <l pos="V">gale</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="kuku">kukkuut</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="V">si ""ko-ko""</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21283,16 +21248,6 @@
    <e src="ai">
       <lg>
          <l pos="V">høve</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">passata</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="V">pass på deg!</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
