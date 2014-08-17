@@ -1,222 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="nob">
-   <e src="ta;ai">
+<r>
+   <e src="ai;ta">
       <lg>
          <l pos="Num">åtte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Num" stem="kahđeksene">kahđeksen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" stem="kahđe;kah">kaksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">tretti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kolmekymmentä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">tredve</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kolmekymmentä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">tre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kolme</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">sjette</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" type="ord" stem="kuuđenne;kuuđet">kuuđes</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">seksti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kuusikymmentä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">seks</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" stem="kuuđe;kuut">kuusi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">seksten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kuusitoista</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">seissen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kuusitoista</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">ti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kymmenen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">vi drar klokken ti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kymmenen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">tiende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" type="ord" stem="kymmenenne;kymmenet">kymmenes</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">fire</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">nelje</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">fjerde</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" type="ord" stem="neljenhee;neljet">neljes</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">syv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">seittemen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">sju</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">seittemen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">sju</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">seittemän</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">syv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">seittemän</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">femten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">viisitoista</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">fem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" stem="viiđe;viit">viisi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Num">ni</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">yhđeksen</t>
          </tg>
       </mg>
    </e>
@@ -240,136 +30,6 @@
          </tg>
       </mg>
    </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">tjue</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" stem="kakskymmene">kakskymmentä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">tyve</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" stem="kakskymmene">kakskymmentä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">tolv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kakstoista</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">totusen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kakstuhatta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">trehundre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kolmesattaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">sekshundre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kuusisattaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">sekstusen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kuusituhatta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">seks</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" stem="kuuđe;kuut">kuus</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">femti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" stem="viisikymmene">viisikymmentä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">femti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" stem="viiskymmene">viiskymmentä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">femten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">viistoista</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">fem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" stem="viiđe;viit">viis</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Num">første</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">ensimäinen</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai">
       <lg>
          <l pos="Num">atten</l>
@@ -382,7 +42,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="Num">1800</l>
+         <l pos="Num">attenhundre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -390,37 +50,7 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Num">åttende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kahđekses</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Num">attende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kahđeksestoista</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Num">tolvte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kahđestoista</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
+   <e src="ai;ta">
       <lg>
          <l pos="Num">to</l>
       </lg>
@@ -429,8 +59,13 @@
             <t pos="Num">kaks</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num" stem="kahđe;kah">kaksi</t>
+         </tg>
+      </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta">
       <lg>
          <l pos="Num">tyve</l>
       </lg>
@@ -439,14 +74,24 @@
             <t pos="Num">kaksikymmentä</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num" stem="kakskymmene">kakskymmentä</t>
+         </tg>
+      </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta">
       <lg>
          <l pos="Num">tolv</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Num">kaksitoista</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">kakstoista</t>
          </tg>
       </mg>
    </e>
@@ -460,13 +105,63 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ta">
       <lg>
-         <l pos="Num">tredje</l>
+         <l pos="Num">tjue</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Num">kolmas</t>
+            <t pos="Num" stem="kakskymmene">kakskymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Num">totusen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">kakstuhatta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Num">trettende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">kolmastoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Num">tretti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">kolmekymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Num">tredve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">kolmekymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Num">trehundre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">kolmesattaa</t>
          </tg>
       </mg>
    </e>
@@ -480,9 +175,94 @@
          </tg>
       </mg>
    </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Num">seks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num" stem="kuuđe;kuut">kuus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num" stem="kuuđe;kuut">kuusi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Num">seksti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">kuusikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Num">sekshundre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">kuusisattaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Num">seksten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">kuusitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Num">seissen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">kuusitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Num">sekstusen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">kuusituhatta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Num">sjette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num" type="Ord" stem="kuuđenne;kuuđet">kuuđes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Num">ti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">kymmenen</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
-         <l pos="Num">ca. ti</l>
+         <l pos="Num">omtrent ti</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -502,7 +282,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="Num">førtisyv</l>
+         <l pos="Num">førtisju</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -522,17 +302,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="Num">fire</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">neljä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Num">ca tyve</l>
+         <l pos="Num">omtrent tyve</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -540,13 +310,33 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta">
       <lg>
-         <l pos="Num">hundre</l>
+         <l pos="Num">syv</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Num">sata</t>
+            <t pos="Num">seittemen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">seittemän</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Num">sju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">seittemen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">seittemän</t>
          </tg>
       </mg>
    </e>
@@ -562,7 +352,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="Num">1700</l>
+         <l pos="Num">søtten hundre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -570,27 +360,7 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Num">andre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">toinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Num">annen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">toinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
+   <e src="ai;ta">
       <lg>
          <l pos="Num">annenhver</l>
       </lg>
@@ -599,34 +369,64 @@
             <t pos="Num">toinen</t>
          </tg>
       </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Num">nesteldst</l>
-      </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Num">toinen</t>
+            <t pos="Pron">joka</t>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta">
       <lg>
-         <l pos="Num">tusen</l>
+         <l pos="Num">fem</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Num">tuhat</t>
+            <t pos="Num" stem="viiđe;viit">viis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num" stem="viiđe;viit">viisi</t>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ta">
       <lg>
-         <l pos="Num">femte</l>
+         <l pos="Num">femti</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Num">viiđes</t>
+            <t pos="Num" stem="viisikymmene">viisikymmentä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num" stem="viiskymmene">viiskymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Num">femten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">viisitoista</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">viistoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Num">ni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">yhđeksen</t>
          </tg>
       </mg>
    </e>
@@ -640,29 +440,29 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta">
       <lg>
-         <l pos="Num">niende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">yhđekses</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Num">en/ett</l>
+         <l pos="Num">en</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Num">yksi</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="muutamma;muutampa">muutampi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="yhđe;yh">yksi</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Num">elve</l>
+         <l pos="Num">elleve</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">

@@ -1,22 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="nob">
-   <e src="ta;ai">
+<r>
+   <e src="ai">
       <lg>
-         <l pos="Det">annen</l>
+         <l pos="Det">de fleste</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">eri</t>
+            <t pos="Pron" nr="Pl">enimät</t>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ai;ta">
       <lg>
          <l pos="Det">hver</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pron">joka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">jokhainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Det">noen få</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">joku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Det">en eller annen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">joku</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">muuđan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Det">hva slags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kummoinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">minkälainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Det">begge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kumpiki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="molemii;molemii">molemat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Det">ikke noen slags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">minkälainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Det">hvilken i ei rekke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">monesko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Det">noen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">moni</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="muutamma;muutampa">muutampi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Det">et</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="muutamma;muutampa">muutampi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="yhđe;yh">yksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Det">disse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="näi;näi">nämät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Det">den ene ... den andre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">toinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Det">ca tre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Qu">kolmisen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Det">et par</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Qu">pari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Det">to-tre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Qu">parisen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Det">halvannen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Qu">puolitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Det">noe over ti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Qu">toistakymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Det">mer enn ti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Qu">toistakymmentä</t>
          </tg>
       </mg>
    </e>

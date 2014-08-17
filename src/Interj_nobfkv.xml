@@ -1,119 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="nob">
-   <e src="ta;ai">
-      <lg>
-         <l pos="Interj">farvel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">hyvästi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Interj">adjø</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">hyvästi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Interj">jo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">kyllä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Interj">ja</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">kyllä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Interj">unnskyld</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">antheeksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Interj">på gjensyn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">näkemiin</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Interj">oi-oi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">voi-voi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Interj">nå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">noh</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Interj">svarte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">perhana</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Interj">god dag</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">päivää</t>
-            <xg>
-               <x>hyvää päivää</x>
-               <xt>God dag</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Interj">svarten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">saakeli</t>
-         </tg>
-      </mg>
-   </e>
+<r>
    <e src="ai">
       <lg>
          <l pos="Interj">amen</l>
@@ -144,6 +30,26 @@
          </tg>
       </mg>
    </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Interj">unnskyld</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">antheeksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Interj">om forlatelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">antheeksi</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="Interj">vips</l>
@@ -154,17 +60,7 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Interj">farvel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">hyvästi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
+   <e src="ai;ta">
       <lg>
          <l pos="Interj">adjø</l>
       </lg>
@@ -174,9 +70,9 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta">
       <lg>
-         <l pos="Interj">ha det bra</l>
+         <l pos="Interj">farvel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -214,6 +110,36 @@
          </tg>
       </mg>
    </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Interj">jo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">joo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">kyllä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Interj">ja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">joo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">kyllä</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="Interj">nær-</l>
@@ -234,13 +160,18 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta">
       <lg>
          <l pos="Interj">på gjensyn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Interj">näkemhiin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">näkemiin</t>
          </tg>
       </mg>
    </e>
@@ -264,13 +195,32 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ta">
       <lg>
-         <l pos="Interj">bakre</l>
+         <l pos="Interj">svarte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Interj">taka-</t>
+            <t pos="Interj">perhana</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">saakeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Interj">god dag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">päivää</t>
+            <xg>
+               <x>Hyvää päivää!</x>
+               <xt>God dag!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -286,7 +236,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="Interj">huff</l>
+         <l pos="Interj">oi</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -294,13 +244,27 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ta">
       <lg>
-         <l pos="Interj">oi</l>
+         <l pos="Interj">oi-oi</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Interj">voi</t>
+            <t pos="Interj">voi-voi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Interj">kjære</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv" re="i tiltale">
+            <t pos="N" stem="kulla;kultta">kulta</t>
+            <xg>
+               <x>Pekka kulta!</x>
+               <xt>Kjære Pekka!</xt>
+            </xg>
          </tg>
       </mg>
    </e>

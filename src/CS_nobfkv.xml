@@ -1,12 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="nob">
-   <e src="ta">
+<r>
+   <e src="ai;ta">
+      <lg>
+         <l pos="CS">at</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="CS">ette</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="CS">että</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="CS">at ikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="CS">ettei</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="CS">dersom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="CS">jos</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="CS">hvis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="CS">jos</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="CS">om</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="CS">jos</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">kautta</t>
+            <xg>
+               <x>Nuutti reisasi Tukholman kautta.</x>
+               <xt>Knut reiste vias Stockholm.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
       <lg>
          <l pos="CS">enn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="CS">ko</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="CS">entä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="CS">som</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="CS">ko</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">joka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron" stem="mi;mi">mikä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="CS">fordi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="CS">koska</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="CS">sillä ko</t>
          </tg>
       </mg>
    </e>

@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="nob">
-   <e src="ta;ai">
+<r>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Pr">inn til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">saakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Pr">fra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">saakka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">asti</t>
+            <xg>
+               <x>Mie olen ollu kristilinen lapsuuđesta asti.</x>
+               <xt>Jeg har vært kristen siden barndommen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">tyköä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
       <lg>
          <l pos="Pr">inntil</l>
       </lg>
@@ -8,51 +42,397 @@
          <tg xml:lang="fkv">
             <t pos="Po">asti</t>
             <xg>
-               <x>mie vien sinun Tromsshaan asti</x>
-               <xt>jeg skal følge med deg helt til Tromsø</xt>
-            </xg>
-            <xg>
-               <x>mie vien sinun Tromsshaan asti</x>
-               <xt>jeg skal følge med deg helt til Tromsø</xt>
+               <x>Mie vien sinun Tromsshaan asti.</x>
+               <xt>Jeg skal følge deg helt til Tromsø.</xt>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pr">kiini</t>
+         </tg>
+      </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ai;ta">
       <lg>
          <l pos="Pr">til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">asti</t>
+            <t pos="Po">asti</t>
             <xg>
-               <x>mie vien sinun Tromsshaan asti</x>
-               <xt>jeg skal følge med deg helt til Tromsø</xt>
+               <x>Mie vien sinun Tromsshaan asti.</x>
+               <xt>Jeg skal følge deg helt til Tromsø.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">tykö</t>
             <xg>
-               <x>mie vien sinun Tromsshaan asti</x>
-               <xt>jeg skal følge med deg helt til Tromsø</xt>
+               <x>Hän tuli minun tykö.</x>
+               <xt>Hun kom til meg.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ai;ta">
       <lg>
-         <l pos="x">fra</l>
+         <l pos="Pr">hos</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">elativ</t>
+            <t pos="Po">kohđalta</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <re>fra begynnelsen</re>
-            <t pos="Adv">alusta</t>
+            <t pos="Po">tykköö</t>
+            <xg>
+               <x>Hän oon minun tykköö.</x>
+               <xt>Hun er hos meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">tykönä</t>
+            <xg>
+               <x>Hän oon minun tykönä.</x>
+               <xt>Han er hos meg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ai;ta">
+      <lg>
+         <l pos="Pr">langs med</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">myöđen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Pr">på vegne av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">puolesta</t>
+            <xg>
+               <x>Hän teki sen minun puolesta.</x>
+               <xt>Han gjorde det for min del.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Pr">opp på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">pääle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">ned fra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">päältä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Pr">oppe på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">päälä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">etter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">pörhään</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">pörässä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">pörästä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pr">jälkhiin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">i</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">seassa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">sekhaan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">seurassa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Pr">mellom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">seassa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">sekhaan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">välhiin</t>
+            <xg>
+               <x>Minula jäivä sormet oven välhiin.</x>
+               <xt>Jeg fikk fingrene mellom døra.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">välile</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">väliltä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">välilä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">välissä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">sammen med</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">seurhaan</t>
+            <xg>
+               <x>panna rusinoita seurhaan</x>
+               <xt>ha rosiner i, blande med rosiner</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">i stedet for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">sijassa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">sijasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">inn i</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">sishään</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">sisäle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">i forhold til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">suhtheen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">sammenlignet med</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">suhtheen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">for ... siden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">takaisin</t>
+            <xg>
+               <x>Met siiryimä Tromsshaan kolme vuotta takaisin.</x>
+               <xt>Vi flytta til Tromsø for tre år siden.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">takaperin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">takapäin</t>
+            <xg>
+               <x>kolme vuotta takapäin</x>
+               <xt>for tre år siden</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Pr">bakenfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">takana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Pr">bakom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">takana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Pr">på grunn av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">takia</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">tähđen</t>
+            <xg>
+               <x>Herran tähđen!</x>
+               <xt>For Guds skyld!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">vuoksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">bakfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">takkaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Pr">på grunnav</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">tähđen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Pr">for ... skyld</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">varten</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">vuoksi</t>
+            <xg>
+               <x>Se oli minun vuoksi.</x>
+               <xt>Det var for min skyld.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">(fra) ved siden av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">vierestä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
       <lg>
          <l pos="Pr">før</l>
       </lg>
@@ -62,89 +442,7 @@
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">tidligere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">ennen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">heller</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">ennen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">han hadde dratt noen dager tidligere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">ennen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">på den andre sida av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">poikki</t>
-            <xg>
-               <x>poikki jokkee</x>
-               <xt>på andre sida av elva</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">tvers over</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">poikki</t>
-            <xg>
-               <x>mennä poikki</x>
-               <xt>gå av, brekke</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">gjennom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">poikki</t>
-            <xg>
-               <x>mennä poikki</x>
-               <xt>gå av, brekke</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">jeg rodde over fjorden til bestemor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">poikki</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
+   <e src="ai;ta">
       <lg>
          <l pos="Pr">uten</l>
       </lg>
@@ -157,128 +455,19 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">uten</l>
-      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pr">vaila</t>
             <xg>
-               <x>Kello oon viis vaila seittemen</x>
-               <xt>Klokken er fem på sju</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">klokka er ti på et</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">vaila</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">over</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">yli</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">en får ikke ta brennvin over grensen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">yli</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Pr">gjennom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">läpi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Pr">via</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">läpi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">foran</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">eđeltä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">før</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">eđeltä</t>
-            <xg>
-               <x/>
-               <xt>han/hun kom hjem før sankthans</xt>
+               <x>Kello oon viis vaila seittemen.</x>
+               <xt>Klokken er fem på sju.</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Pr">etter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">jälkhiin</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">det er avhengig av det hvordan vi ønsker</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">jälkhiin</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">hun/han flyttet hit etter krigen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">jälkhiin</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">midt i/på (til)</l>
+         <l pos="Pr">til midt i</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -288,7 +477,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="Pr">kirken ble bygd midt i bygda</l>
+         <l pos="Pr">til midt på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -308,77 +497,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="Pr">jeg våknet opp midt på natten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">keskelä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">inntil</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">kiini</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">fast</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">kiini</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">fast</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">kiini</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">mot</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">kohđi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">mot</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">kohti</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="Pr">fra nærheten av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">likeltä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">Stiina er fra nærheten av Tromsø</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -396,1391 +515,41 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta">
       <lg>
-         <l pos="Pr">i nærheten av sjøen</l>
+         <l pos="Pr">på den andre sida av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Pr">liki</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">gjennom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">läpitte</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">langs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">pitkin</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">det går en vei der langs Tanaelvstarnden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">pitkin</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">midtveis</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">puolivälissä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">halvveis</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">puolivälissä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">i midten av mai</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">puolivälissä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">forbi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">siutte</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">Pekka gikk på ski forbi Trollvannet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">siutte</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">forbi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">sivvu</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">for – skyld</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">vuoksi</t>
+            <t pos="Pr">poikki</t>
             <xg>
-               <x>Se oli minun vuoksi</x>
-               <xt>Det var for min skyld</xt>
+               <x>poikki jokkee</x>
+               <xt>på andre sida av elva</xt>
             </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ai;ta">
       <lg>
-         <l pos="Po">på grunn av</l>
+         <l pos="Pr">tvers over</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">vuoksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">for sikkerhets skyld</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">vuoksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">derfor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">vuoksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">under</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">alla</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">under bordet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">alla</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">päälä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">oppe på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">päälä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">Hannu er på fjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">päälä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">bakenfor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takana</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">bakom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takana</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">bak</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takana</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">mellom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">välilä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">(i)mellom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">välilä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">gjennom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">kautta</t>
+            <t pos="Pr">poikki</t>
             <xg>
-               <x>Nuutti reisasi Tukholman kautta</x>
-               <xt>Knut reiste vias Stockholm</xt>
+               <x>Se voi mennä poikki.</x>
+               <xt>Den kan brekke.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ai;ta">
       <lg>
-         <l pos="Po">om</l>
+         <l pos="Pr">over</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">kautta</t>
-            <xg>
-               <x>Nuutti reisasi Tukholman kautta</x>
-               <xt>Knut reiste vias Stockholm</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">via</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">kautta</t>
-            <xg>
-               <x>Nuutti reisasi Tukholman kautta</x>
-               <xt>Knut reiste vias Stockholm</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">langs med</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">myöđen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">langs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">myöđen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">med</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">myötä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">med seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">myötä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">blant annet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">myötä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">vi ville ikke følge med fienden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">myötä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">opp på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">pääle</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">pääle</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">Hannu klatret på fjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">pääle</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">til</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">tykö</t>
-            <xg>
-               <x>Hän tuli minun tykö</x>
-               <xt>Hun/ Han kom til meg</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">hos</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">tykönä</t>
-            <xg>
-               <x>Hän oon minun tykönä</x>
-               <xt>Hun/ Han er hos meg</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">Liisa bor hos mor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">tykönä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">på grunn av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">tähđen</t>
-            <xg>
-               <x>Herran tähđen</x>
-               <xt>For Guds skyld</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">på grunnav</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">tähđen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">for</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">tähđen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">derfor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">tähđen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">for – skyld</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">varten</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">for</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">varten</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">mot</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">vasten</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">i retning av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">vasthaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">mot</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">vasthaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">ved siden av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">vieressä</t>
-            <xg>
-               <x>huonheen vieressä oon pihlajapuu</x>
-               <xt>det er rogntre ved huset</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Pr">omkring</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">ympäri</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">rundt (omkring)</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">ympäri</t>
-            <xg>
-               <x>niilä oon aita talon ympäri</x>
-               <xt>de har gjerde rundt huset</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">katten gikk rundt omkring i stua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">ympäri</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Po">med</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">kansa</t>
-            <xg>
-               <x>Hän tuli pojan kansa</x>
-               <xt>Han kom med gutten</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Pr">gjennom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">läpi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Pr">via</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">läpi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Pr">på vegne av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">puolesta</t>
-            <xg>
-               <x>Hän teki sen minun puolesta</x>
-               <xt>Han gjorde det for min del</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Pr">ved siden av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">rinnala</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Pr">hos</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">tykköö</t>
-            <xg>
-               <x>Hän oon minun tykköö</x>
-               <xt>Hun er hos meg</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">nedenfra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">alapuolelta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">under</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">alle</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">under</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">alta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">foran</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">eđessä</t>
-            <xg>
-               <x>se ooon juuri sinun silmiin eđessä</x>
-               <xt>den er akkurat foran øyene dine</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">foran</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">etheen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">i eie</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">hallussa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">blant</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">joukossa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">blant vadsøværingene</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">joukossa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">med</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">kans</t>
-            <xg>
-               <x>muorin kans</x>
-               <xt>med mor</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">hos</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">kohđalta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">i slutten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">lopula</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">i slutten av krigen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">lopula</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">langs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">myöten</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">med tida</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">myöten</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">etter hvert</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">myöten</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">posten ble fraktet med båt langs sjøen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">myöten</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">ned fra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">päältä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">Hannu kom ned fra fjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">päältä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">etter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">pörhään</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">gutten for etter mannen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">pörhään</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">jeg gir ikke etter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">pörhään</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">etter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">pörässä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">Maija gikk etter meg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">pörässä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">etter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">pörästä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">etter en stund</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">pörästä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">den ene etter den andre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">pörästä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">i</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">seassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">blant</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">seassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">mellom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">seassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">blant</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sejassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">der var det bark blandet i melen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sejassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">blant</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sejasta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">plukk larvene bort fra melen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sejasta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">i</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sekhaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">blant</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sekhaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">mellom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sekhaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">bestemor blandet bark i melen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sekhaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">med</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">seurassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">i</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">seurassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">det ble blandet med tjære</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">seurassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">sammen med</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">seurhaan</t>
-            <xg>
-               <x>panna rusinoita seurhaan</x>
-               <xt>ha rosiner i, blande med rosiner</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">i stedet for</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sijassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">Pekka fungerte som kokk i stedet for Anni</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sijassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">i stedet for</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sijasta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">inn i</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sishään</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">inn i</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sisäle</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">inne i</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sisälä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">Kreeta bor inne i skogen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sisälä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">inne i</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sisässä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">i forhold til</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">suhtheen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">sammenlignet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">suhtheen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">i forhold til det/den</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">suhtheen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">moltene her er små sammenlignet med dem der lengere borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">suhtheen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">bak</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">taka</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">sola gikk ner bak fjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">taka</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">for – siden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takaisin</t>
-            <xg>
-               <x>Met siiryimä Tromsshaan kolme vuotta takaisin</x>
-               <xt>Vi flytta til Tromsø for tre år siden</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">for – siden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takaperin</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">for mange år siden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takaperin</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">for – siden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takapäin</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">for tre år siden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takapäin</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">for</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takia</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">på grunn av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takia</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">bak(fra)</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takkaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">jeg plukket bær bak gjerdet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takkaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">vi var selvberget når det gjaldt smør</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takkaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">fra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">tyköä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">Marja flyttet fra mor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">tyköä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">(fra) ved siden av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">vierestä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">ved siden av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">vierheen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">(i)mellom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">välhiin</t>
-            <xg>
-               <x>Minula jäivä sormet oven välhiin</x>
-               <xt>jeg fikk fingrene mellom døra</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">(i)mellom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">välile</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">de bygget vei mellom Karasjok og Kautokeino</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">välile</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">(i)mellom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">väliltä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">(i)mellom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">välissä</t>
+            <t pos="Pr">yli</t>
          </tg>
       </mg>
    </e>
