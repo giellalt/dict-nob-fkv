@@ -23064,15 +23064,8 @@
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="N"
-            comment="det sto grannål. betyr ordet barnål eller barnål av gran?"
-            gen="f">barnål</l>
+         <l pos="N" gen="f">barnål</l>
       </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="kävy;käppy">käpy</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">neula</t>

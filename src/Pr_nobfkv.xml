@@ -2,22 +2,12 @@
 <r>
    <e src="ai;ta">
       <lg>
-         <l pos="Pr">inn til</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">saakka</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
          <l pos="Pr">fra</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">saakka</t>
-         </tg>
+            <t pos="">-sta</t>
+         </tg>Adv
       </mg>
       <mg>
          <tg xml:lang="fkv">
@@ -59,6 +49,11 @@
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">-lle</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Po">asti</t>
             <xg>
                <x>Jeg skal følge deg helt til Tromsø.</x>
@@ -80,11 +75,6 @@
       <lg>
          <l pos="Pr">hos</l>
       </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">kohđalta</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">tykköö</t>
@@ -187,6 +177,11 @@
       <lg>
          <l pos="Pr">i</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">-ssa</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">seassa</t>
