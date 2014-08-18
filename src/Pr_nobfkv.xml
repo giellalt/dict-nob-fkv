@@ -390,7 +390,7 @@
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Pr">på grunnav</l>
+         <l pos="Pr">på grunn av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -526,8 +526,42 @@
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Pr">tvers over</l>
+         <l pos="Pr">over</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pr">yli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Pr">gjennom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">kautta</t>
+            <xg>
+               <x>Knut reiste vias Stockholm.</x>
+               <xt>Nuutti reisasi Tukholman kautta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">läpi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pr">läpi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pr">läpitte</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pr">poikki</t>
@@ -540,11 +574,25 @@
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Pr">over</l>
+         <l pos="Po">via</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Pr">yli</t>
+            <t pos="Pr">kautta</t>
+            <xg>
+               <x>Knut reiste vias Stockholm.</x>
+               <xt>Nuutti reisasi Tukholman kautta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">läpi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pr">läpi</t>
          </tg>
       </mg>
    </e>
