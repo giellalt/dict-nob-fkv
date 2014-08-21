@@ -763,7 +763,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">f. eks.</l>
+         <l pos="Adv">f.eks.</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -948,8 +948,8 @@
          <tg xml:lang="fkv">
             <t pos="Adv">poikki</t>
             <xg>
-               <x>Planken brakk.</x>
-               <xt>Lauta meni poikki.</xt>
+               <x>Planken brakk.</x>
+               <xt>Lauta meni poikki.</xt>
             </xg>
          </tg>
       </mg>
@@ -961,6 +961,7 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">halki</t>
+            <t pos="Adv">poikki</t>
          </tg>
       </mg>
    </e>
@@ -3486,7 +3487,11 @@
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">muvvala</t>
+            <t pos="Adv">poikki</t>
+            <xg>
+               <x>Tie kääntyyt etelhään.</x>
+               <xt>Veien bøyer av sørover.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3739,6 +3744,11 @@
             <t pos="Adv">orjas</t>
          </tg>
       </mg>
+      <mg>
+            <tg xml:lang="fkv">
+            <t pos="Adv">etelhään</t>
+         </tg>
+         </mg>
    </e>
    <e src="ta">
       <lg>
@@ -4085,9 +4095,10 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">poikki</t>
+            <t pos="Adv">pois</t>
             <xg>
-               <x>Planken brakk.</x>
-               <xt>Lauta meni poikki.</xt>
+               <x>Tie kääntyyt etelhään.</x>
+               <xt>Veien bøyer av sørover.</xt>
             </xg>
          </tg>
       </mg>
