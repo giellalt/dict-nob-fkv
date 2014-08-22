@@ -3036,11 +3036,14 @@
          <l pos="Adv">opprinnelig fra</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+               <tg xml:lang="fkv">
             <t pos="Adv">lähtöisin</t>
+         </tg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">lähtö</t>
             <xg>
-               <x>Hvor kommer du i fra?</x>
-               <xt>Mist sie olet lähtöisin?</xt>
+               <x>hans/hennes slekt kommer opprinnelig fra Sverige</x>
+               <xt>se oon Ruottista hänen lähtö</xt>
             </xg>
          </tg>
       </mg>
@@ -3788,7 +3791,7 @@
    <e src="ai;ta">
       <lg>
          <l pos="Adv">umiddelbart</l>
-      </lg>
+      </lg>gjennom
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">paikala</t>
@@ -3975,6 +3978,10 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">pitkin</t>
+                        <xg>
+               <x><det går en vei der langs Tanaelvstranden.</x>
+               <xt>Siinä mennee tie pitkin Tenojokivartta.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -4096,10 +4103,6 @@
          <tg xml:lang="fkv">
             <t pos="Adv">poikki</t>
             <t pos="Adv">pois</t>
-            <xg>
-               <x>Tie kääntyyt etelhään.</x>
-               <xt>Veien bøyer av sørover.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -4185,10 +4188,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">pystössä</t>
-            <xg>
-               <x>Gutten satt med ørene på stilk.</x>
-               <xt>Poika istui korvat pystössä.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -4214,10 +4213,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">pystössä</t>
-            <xg>
-               <x>Gutten satt med ørene på stilk.</x>
-               <xt>Poika istui korvat pystössä.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -4228,6 +4223,10 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">päin</t>
+                        <xg>
+               <x>i retning mot fjellet</x>
+               <xt>vaarhaan päin</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -5046,6 +5045,10 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">sisälä</t>
+                        <xg>
+               <x>Kreeta bor inne i skogen.</x>
+               <xt>Kreeta assuu mettän sisälä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
