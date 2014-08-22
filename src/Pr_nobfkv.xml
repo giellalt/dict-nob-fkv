@@ -31,10 +31,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">asti</t>
-            <xg>
-               <x>Jeg skal følge deg helt til Tromsø.</x>
-               <xt>Mie vien sinun Tromsshaan asti.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -249,9 +245,14 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">seurhaan</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">yhtenä</t>
             <xg>
-               <x>ha rosiner i, blande med rosiner</x>
-               <xt>panna rusinoita seurhaan</xt>
+               <x>skinnet gikk sammen med spekket</x>
+               <xt>se nahka se meni yhtenä sen späkin kanssa</xt>
             </xg>
          </tg>
       </mg>
@@ -263,6 +264,10 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">sijassa</t>
+                        <xg>
+               <x>Pekka fungerte som kokk i stedet for Anni.</x>
+               <xt>Pekka toimi kokkina Annin sijassa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -302,7 +307,11 @@
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">suhtheen</t>
+            <t pos="Po">suhtheen</t>                                    
+            <xg>
+               <x>moltene her er små sammenlignet med dem der lengere borte</x>
+               <xt>täälä oon hyvin pienet hillat sen suhtheen mitä tuola kauvempana</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -541,10 +550,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">kautta</t>
-            <xg>
-               <x>Knut reiste vias Stockholm.</x>
-               <xt>Nuutti reisasi Tukholman kautta.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -561,6 +566,10 @@
          <tg xml:lang="fkv">
             <t pos="Pr">läpitte</t>
          </tg>
+            <xg>
+               <x>Moses reiste gjennom Rødehavet.</x>
+               <xt>Mooses reisas läpitte Punasenmeren.</xt>
+            </xg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
