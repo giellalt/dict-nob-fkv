@@ -252,6 +252,21 @@
    </e>
    <e src="ai;ta">
       <lg>
+         <l pos="Num">tusen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="tuhase;tuhat">tuhanen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">tuhat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
          <l pos="Num">ti</l>
       </lg>
       <mg>
