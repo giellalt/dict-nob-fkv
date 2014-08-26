@@ -3822,7 +3822,7 @@
          <tg xml:lang="fkv">
             <t pos="N">enturi</t>
             <xg>
-               <x>Dra tit peppern gror!</x>
+               <x>Dra dit peppern gror!</x>
                <xt>Mene enturhiin!</xt>
             </xg>
          </tg>
@@ -4539,19 +4539,10 @@
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N" stem="höyhene">höyhen</t>           
             <t pos="N">hyöhen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">hyöhän</t>
          </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="höyhene">höyhen</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="fkv" re="f.eks. i madrassen">
             <t pos="N" stem="joutte;joutte">joutti</t>
@@ -4589,10 +4580,6 @@
       <mg>
          <tg xml:lang="fkv" re="om stranden og vannet">
             <t pos="N">fierua</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv" re="om stranden og vannet">
             <t pos="N">fierva</t>
          </tg>
       </mg>
@@ -8524,10 +8511,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="hopu">hoppu</t>
-            <xg>
-               <x>Jeg har det travelt.</x>
-               <xt>Minula oon hoppu.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -9483,10 +9466,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="häđä;hättä">hätä</t>
-            <xg>
-               <x>Jeg var veldig tissetrengt.</x>
-               <xt>Minula oli hätä.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -9992,29 +9971,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ilmestys</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N" gen="n">lys lue</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">ilmivalkkee</t>
-            <xg>
-               <x>stå i lys lue</x>
-               <xt>pallaat ilmivalkkeessa</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">julkituli</t>
-            <xg>
-               <x>stå i lys lue</x>
-               <xt>pallaat julkiulessa</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -24061,7 +24017,17 @@
             <t pos="N" stem="laki">lakki</t>
          </tg>
       </mg>
-   </e>
+       <mg>
+         <tg xml:lang="fkv" re="som flamme">
+             <t pos="N">tuli</t>
+             <t pos="N">valkkee</t>
+            <xg>
+               <x>stå i lys lue</x>
+               <xt>pallaat julkitulessa</xt>
+               <xt>pallaat ilmivalkkeessa</xt> 
+         </tg>
+      </mg>
+ </e>
    <e src="ai">
       <lg>
          <l pos="N" gen="m">streik</l>
@@ -55423,6 +55389,16 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" type="Prop">Turja</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ki">
+      <lg>
+         <l pos="N" gen="n">substantiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" >substantiivi</t>
          </tg>
       </mg>
    </e>
