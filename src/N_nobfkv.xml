@@ -3816,20 +3816,6 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" gen="n">avsidesliggende sted</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">enturi</t>
-            <xg>
-               <x>Dra dit peppern gror!</x>
-               <xt>Mene enturhiin!</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
          <l pos="N" gen="m">epost</l>
       </lg>
       <mg>
@@ -4540,10 +4526,10 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="höyhene">höyhen</t>           
-            <t pos="N">hyöhen</t>
-            <t pos="N">hyöhän</t>
+            <t pos="N">höyhän</t>
          </tg>
-      </mg><mg>
+      </mg>
+      <mg>
          <tg xml:lang="fkv" re="f.eks. i madrassen">
             <t pos="N" stem="joutte;joutte">joutti</t>
          </tg>
@@ -10576,20 +10562,6 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N" gen="m">Jakob</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">jaakko</t>
-            <xg>
-               <x>rundt 25. juli</x>
-               <xt>jaakon aikana</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="N" gen="n">hanlam</l>
       </lg>
       <mg>
@@ -10670,13 +10642,21 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="jala;jalkka">jalka</t>
+            <xg>
+               <x>Jeg har vondt i foten.</x>
+               <xt>Minula oon jalka kippee.</xt>
+            </xg>
+            <xg>
+               <x>Båten var på 30 fot.</x>
+               <xt>Venet oli 30 jalkkaa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ketara</t>
             <xg>
-               <x>beina i været</x>
+               <x>føttene i været</x>
                <xt>ketarat taivhaala</xt>
             </xg>
          </tg>
