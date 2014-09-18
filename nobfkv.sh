@@ -32,6 +32,7 @@ tr '€' '\n'          | \
 tr '<' '>'           | \
 cut -d'>' -f2,6      | \
 tr '>' ':'           | \
+sed 's/0/%0/g;'      | \
 tr ' ' '_'           | \
 sed 's/$/ # ;/g;'    >> bin/nobfkv.lexc        
 
