@@ -11321,6 +11321,25 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="V">ha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t/>
+            <xg>
+              <x>Minula on kirja.</x>
+	      <xt>Jeg har ei bok.</xt>
+	    </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv" re="å eie">
+            <t pos="V" val="IV" stem="opi">omistaat</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="V">kunne</l>
