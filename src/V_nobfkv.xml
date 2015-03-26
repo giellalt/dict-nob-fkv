@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <r>
    <e src="ta">
       <lg>
@@ -50,22 +50,7 @@
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="V">ha til hensikt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="aio;aiko">aikkoot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="tarkoita">tarkoittaat</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
+  <e src="ai;ta">
       <lg>
          <l pos="V">svaie</l>
       </lg>
@@ -117,6 +102,10 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">aivastaat</t>
+            <xg>
+               <x>Jeg må nyse.</x>
+               <xt>Minnuu aivastuttaa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -124,22 +113,19 @@
             <t pos="V" stem="aivastele;aivastel">aivastella</t>
          </tg>
       </mg>
-   </e>
-   <e src="ta">
+        <e src="ta">
       <lg>
          <l pos="V" t_type="expl">kjennes som man må nyse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="aivastuta;aivastutta">aivastuttaat</t>
-            <xg>
-               <x>Jeg må nyse.</x>
-               <xt>Minnuu aivastuttaa.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+
+   </e>
+    <e src="ta">
       <lg>
          <l pos="V">gjerde inn</l>
       </lg>
