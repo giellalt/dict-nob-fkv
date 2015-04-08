@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <r>
    <e src="ai;ta">
       <lg>
@@ -7,7 +7,7 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="">-sta</t>
-         </tg>Adv
+         </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
@@ -323,10 +323,10 @@
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">suhtheen</t>                                    
+            <t pos="Po">suhtheen</t>
             <xg>
-               <x>moltene her er små sammenlignet med dem der lengere borte</x>
-               <xt>täälä oon hyvin pienet hillat sen suhtheen mitä tuola kauvempana</xt>
+               <x>Moltene her er små sammenlignet med dem der lengere borte.</x>
+               <xt>Täälä oon hyvin pienet hillat sen suhtheen mitä tuola kauvempana.</xt>
             </xg>
          </tg>
       </mg>
@@ -479,7 +479,7 @@
          <tg xml:lang="fkv">
             <t pos="Pr">vaila</t>
             <xg>
-               <x>Klokken er fem på sju.</x>
+               <x>Klokka er fem på sju.</x>
                <xt>Kello oon viis vaila seittemen.</xt>
             </xg>
          </tg>
@@ -605,7 +605,7 @@
          <tg xml:lang="fkv">
             <t pos="Pr">kautta</t>
             <xg>
-               <x>Knut reiste vias Stockholm.</x>
+               <x>Knut reiste via Stockholm.</x>
                <xt>Nuutti reisasi Tukholman kautta.</xt>
             </xg>
          </tg>
