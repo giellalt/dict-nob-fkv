@@ -294,6 +294,11 @@
             <t pos="A" stem="ara">arka</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli redd">
+            <t pos="V">pelastuut</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -1392,6 +1397,11 @@
             <t pos="A" stem="hengestynhee">hengestynny</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli andpusten">
+            <t pos="V">hengistyyt</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -1457,6 +1467,11 @@
             <t pos="A" stem="hermostunhee">hermostunnu</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli nervøs">
+            <t pos="V">hermostuut</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -1485,6 +1500,19 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">hietainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">avkjølt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">jähtyny</t>
+         </tg>
+         <tg xml:lang="fkv" re="bli avkjølt">
+            <t pos="V" stem="jähđy">jähtyyt</t>
          </tg>
       </mg>
    </e>
@@ -1955,6 +1983,11 @@
             <t pos="Adv">somaton</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli dårligere">
+            <t pos="V">huonota</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -1998,6 +2031,11 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Interj">hyvästi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli bra">
+            <t pos="V" stem="parane;paran">parata</t>
          </tg>
       </mg>
    </e>
@@ -2147,6 +2185,11 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">vanhaa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli eldre">
+            <t pos="V">vanheta</t>
          </tg>
       </mg>
    </e>
@@ -3229,12 +3272,12 @@
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">valkkee</t>
+            <t pos="N" stem="vallo">valo</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="vallo">valo</t>
+         <tg xml:lang="fkv" re="bli lys">
+            <t pos="V" stem="valkene;valjen">valjeta</t>
          </tg>
       </mg>
    </e>
@@ -3272,6 +3315,11 @@
             <t pos="A">selvä</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli klar">
+            <t pos="V">seljetä</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -3304,16 +3352,12 @@
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">kiverä</t>
-            <xg>
-               <x>Dattera har oppstoppernese.</x>
-               <xt>Tyttärellä oon kiverä nokka.</xt>
-            </xg>
+            <t pos="A">käyrä</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">käyrä</t>
+         <tg xml:lang="fkv" re="bli bøyd">
+            <t pos="V" val="IV">suijjuut</t>
          </tg>
       </mg>
    </e>
@@ -3324,10 +3368,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kiverä</t>
-            <xg>
-               <x>Dattera har oppstoppernese.</x>
-               <xt>Tyttärellä oon kiverä nokka.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3865,6 +3905,11 @@
             <t pos="A">kuuma</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli het">>
+            <t pos="V">kuumeta</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -3913,6 +3958,11 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kylmä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli kald">
+            <t pos="V" stem="kylmää;kylmän">kylmätä</t>
          </tg>
       </mg>
    </e>
@@ -4053,6 +4103,11 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">vahva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli bred">
+            <t pos="V" stem="levene;leven">levetä</t>
          </tg>
       </mg>
    </e>
@@ -5295,18 +5350,16 @@
          <l pos="A">gift</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="fkv" re="i ekteskap">
             <t pos="A">nainu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">naimisissa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="myrky">myrkky</t>
+            <xg>
+             <x>Han er en gift mann.</x>
+             <xt>Hän on nainu mies.</xt>
+	    </xg>
+            <xg>
+             <x>Mannen er gift.</x>
+             <xt>Mies oon naimisissa.</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -5774,6 +5827,12 @@
             <t pos="A">tuttu</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli kjent">
+            <t pos="V">opastuut</t>
+         </tg>
+      </mg>
+
    </e>
    <e src="ta">
       <lg>
@@ -6115,6 +6174,11 @@
             <t pos="Adv">paremin</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli bedre (om sykdom)">
+            <t pos="V" stem="paranu;parantu">paranttuut</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -6168,6 +6232,11 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">pehmee</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli myk">
+            <t pos="V">pehmetä</t>
          </tg>
       </mg>
    </e>
@@ -6668,8 +6737,8 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="porro">poro</t>
+         <tg xml:lang="fkv" re="bli rein">
+            <t pos="V" stem="puhđistu">puhđistuut</t>
          </tg>
       </mg>
    </e>
@@ -6850,6 +6919,11 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli rett">
+            <t pos="V">oijeta</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -6955,6 +7029,11 @@
             <t pos="A" stem="rikkhaa">rikas</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli rik">
+            <t pos="V">rikastuut</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -6990,9 +7069,24 @@
             <t pos="A">raitis</t>
          </tg>
       </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="A">edru</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">raitis</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">selvilä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli edru">
+            <t pos="V" stem="selvvii;selvin">selvitä</t>
          </tg>
       </mg>
    </e>
@@ -7068,6 +7162,11 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">rasvainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli feit">
+            <t pos="V" stem="lihotu">lihottuut</t>
          </tg>
       </mg>
    </e>
@@ -8706,13 +8805,14 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="fkv" re="alkoholpåvirka">
             <t pos="Adv">humalossa</t>
+            <t pos="Adv">päissä</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">päissä</t>
+         <tg xml:lang="fkv" re="bli full av alkohol">
+            <t pos="V">päistyyt</t>
          </tg>
       </mg>
    </e>
@@ -9121,6 +9221,11 @@
                <x>Gjør det nå ferdig!</x>
                <xt>Tehe nyt sen valmhiiksi!</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv" re="bli ferdig">
+            <t pos="V" stem="kerkkii;kerin">keritä</t>
          </tg>
       </mg>
    </e>

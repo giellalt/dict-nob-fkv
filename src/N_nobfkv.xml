@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <r>
    <e src="ta">
       <lg>
@@ -17237,6 +17237,7 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kiveränenä</t>
+            <t pos="N">kiverä nenä</t>
          </tg>
       </mg>
    </e>
@@ -45572,6 +45573,16 @@
    </e>
    <e src="ai;ta">
       <lg>
+         <l pos="N">gift</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">myrkky</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
          <l pos="N">fingerring</l>
       </lg>
       <mg>
@@ -55408,6 +55419,17 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pryyssi</t>
+         </tg>
+      </mg>
+   </e>
+   </e>
+      <e>
+      <lg>
+         <l pos="N">rein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">poro</t>
          </tg>
       </mg>
    </e>

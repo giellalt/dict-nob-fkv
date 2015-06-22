@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <r>
    <e src="ta">
       <lg>
@@ -4124,7 +4124,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">binde fast med tau</l>
+         <l pos="V">binde fast</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7195,6 +7195,16 @@
    </e>
    <e src="ai;ta">
       <lg>
+         <l pos="V">be om</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="pyyđä;pyytä">pyyttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
          <l pos="V">be</l>
       </lg>
       <mg>
@@ -7208,8 +7218,8 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">käskeet</t>
+         <tg xml:lang="fkv" re="be om">
+            <t pos="V">pyyttäät</t>
          </tg>
       </mg>
       <mg>
@@ -9539,6 +9549,11 @@
             <t pos="V" val="TV">maksaat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv" re="betale for noen">
+            <t pos="V" val="TV">löysätä</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -10450,7 +10465,7 @@
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">arbeide med slåtten</l>
+         <l pos="V">slå høy</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13430,16 +13445,6 @@
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">be om</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="pyyđä;pyytä">pyyttäät</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
          <l pos="V">rotere</l>
       </lg>
       <mg>
@@ -14656,7 +14661,12 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="fkv" re="blande sammen">
+            <t pos="V" stem="sekkainu;sekkaintu">sekkainttuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv" re="rote til">
             <t pos="V">sotkeet</t>
          </tg>
       </mg>
@@ -17020,6 +17030,16 @@
    <e src="ai">
       <lg>
          <l pos="V">bli eldre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vanheta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="V">eldes</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
