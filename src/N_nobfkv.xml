@@ -11502,20 +11502,6 @@
             <t pos="N">juoma</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="juoputtele">juoputella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="juo">juođa</t>
-            <xg>
-               <x>Han drikker vann.</x>
-               <xt>Hän juopi vettä.</xt>
-            </xg>
-         </tg>
-      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -15736,20 +15722,6 @@
             <t pos="N" stem="kelli">keli</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="ohjaa;ohjan">ohjata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="vie;vien">vieđä</t>
-            <xg>
-               <x>Hun fører hesten til stallen.</x>
-               <xt>Hän viepi hevosen navethaan.</xt>
-            </xg>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -17108,10 +17080,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kilva;kilppa">kilpa</t>
-            <xg>
-               <x>løpe om kapp</x>
-               <xt>juosta kilppaa</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -18212,10 +18180,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="sijja">sija</t>
-            <xg>
-               <x>Jeg har ikke plass til en bil.</x>
-               <xt>Minula ei ole sijjaa piilile.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -20794,20 +20758,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kuiti">kuitti</t>
-            <xg>
-               <x>å være skuls</x>
-               <xt>olla kuitti</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="N">tørrfisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="kuivakalla">kuivakala</t>
          </tg>
       </mg>
    </e>
@@ -21478,15 +21428,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kuoka">kuokka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="kuoki">kuokkiit</t>
-            <xg>
-               <x>Jeg graver i potetåkeren.</x>
-               <xt>Mie kuokin putaattimaata.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -22602,10 +22543,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kyllä">kylä</t>
-            <xg>
-               <x>være på besøk</x>
-               <xt>olla kylässä</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -22614,6 +22551,20 @@
             <xg>
                <x>på dette stedet</x>
                <xt>tässä paikkakunnassa</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">besøk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="kyllä">vierailu</t>
+            <xg>
+               <x>være på besøk</x>
+               <xt>olla kylässä</xt>
             </xg>
          </tg>
       </mg>
@@ -27358,35 +27309,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">tapattuut</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="N">tro</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">luulo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">usko</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="luule;luul">luula</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">uskoot</t>
-            <xg>
-               <x>Pekka tror på Gud.</x>
-               <xt>Pekka uskoo Jumalhaan.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -34541,10 +34463,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="pako">pakko</t>
-            <xg>
-               <x>Jeg må dra.</x>
-               <xt>Minun oon pakko mennä.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -34575,10 +34493,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="pao;pakko">pako</t>
-            <xg>
-               <x>Folk flyktet.</x>
-               <xt>Ihmiset menthiin pakhoon.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -36191,8 +36105,13 @@
          <l pos="N">vask</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="fkv" re="om å vaske seg">
             <t pos="N" stem="pesso">peso</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv" re="en utslagsvask">
+            <t pos="N">vaski</t>
          </tg>
       </mg>
    </e>
@@ -38767,54 +38686,6 @@
       <mg>
          <tg xml:lang="fkv" re="f.eks. skoleprøve">
             <t pos="N">pröövi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">freistata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">koitela</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="koje;koke">kokkeet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">kokkeila</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="pröövää;pröövän">pröövätä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">rännätä</t>
-            <xg>
-               <x>Jeg forsøkte å gjøre det bra.</x>
-               <xt>Mie rännäsin kylle teehä hyvin.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">sovitella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">yrittäät</t>
-            <xg>
-               <x>De prøver å dra.</x>
-               <xt>Het yritethään lähteet.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -43234,30 +43105,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ränni</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="huilaa;huilan">huilata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="tyyrää;tyyrän">tyyrätä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="valloo;valon">valota</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">vesistäät</t>
-            <xg>
-               <x>Øynene renner.</x>
-               <xt>Silmät vesistäävät.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -49697,10 +49544,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="tullo">tulo</t>
-            <xg>
-               <x>være på vei hitover</x>
-               <xt>olla tulossa</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -52379,30 +52222,6 @@
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="N">vaske</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">vaski</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="pese">pestä</t>
-            <xg>
-               <x>Gutten vasker kopper.</x>
-               <xt>Poika pessee astiita.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">siivota</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai">
       <lg>
          <l pos="N">badstukvast</l>
@@ -53040,10 +52859,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="veđo">veto</t>
-            <xg>
-               <x>Skal vi vedde?</x>
-               <xt>Lyömäkö vettoo?</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -53054,10 +52869,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="veđo">veto</t>
-            <xg>
-               <x>Skal vi vedde?</x>
-               <xt>Lyömäkö vettoo?</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
