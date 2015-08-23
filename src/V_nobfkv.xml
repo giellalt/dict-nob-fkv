@@ -337,7 +337,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">være redd for</l>
+         <l pos="V">være redd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -537,7 +537,7 @@
          <tg xml:lang="fkv">
             <t pos="V" stem="ehđy">ehtyyt</t>
             <xg>
-               <x>Kua slutta å melke.</x>
+               <x>Melka tok slutt for kua.</x>
                <xt>Lehmä ehtyi.</xt>
             </xg>
          </tg>
@@ -693,10 +693,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">eristäät</t>
-            <xg>
-               <x>Grensene skiller folk fra hverandre.</x>
-               <xt>Rajat eristethään kansat toinen toisisthaan.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2268,7 +2264,7 @@
          <tg xml:lang="fkv">
             <t pos="V">menestyyt</t>
             <xg>
-               <x>Det går ikke an å gjøre på den måten.</x>
+               <x>Det passer ikke å gjøre på den måten.</x>
                <xt>Se ei menesty tehhä sillä laila.</xt>
             </xg>
          </tg>
@@ -2307,7 +2303,7 @@
          <tg xml:lang="fkv">
             <t pos="V">joukahtaat</t>
             <xg>
-               <x>Det falt meg inn.</x>
+               <x>Jeg kom på det.</x>
                <xt>Se joukahti minule.</xt>
             </xg>
          </tg>
@@ -3336,33 +3332,14 @@
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="istuskele;istuskel">istuskella</t>
-            <xg>
-               <x>Han satt der hele dagen.</x>
-               <xt>Hän istuskeli siinä koko päivän.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">istuut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="seiso;seiso">seissoot</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="V">småsitte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" stem="istuskele;istuskel">istuskella</t>
             <xg>
-               <x>Han satt der hele dagen.</x>
+               <x>Han drev og satt der hele dagen.</x>
                <xt>Hän istuskeli siinä koko päivän.</xt>
             </xg>
          </tg>
@@ -4499,10 +4476,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">karssiit</t>
-            <xg>
-               <x>angripe</x>
-               <xt>karssiit jonku pääle</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -4797,16 +4770,21 @@
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="katto">kattoot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" stem="näje;näh">nähđä</t>
             <xg>
                <x>Hun ser.</x>
                <xt>Hän näkkee.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">se på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="katto">kattoot</t>
          </tg>
       </mg>
    </e>
@@ -5696,11 +5674,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">ulvoot</t>
-            <xg>
-               <x>Ulven uler i fjellsiden.</x>
-               <xt>Hukka ulvoo vaaran kyljessä.</xt>
-            </xg>
-         </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
@@ -17120,7 +17093,7 @@
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">fylle i</l>
+         <l pos="V">fylle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18115,20 +18088,6 @@
             <xg>
                <x>Alt som er unødvendig skal unngås.</x>
                <xt>Kaikki mikä oon liiaksi saatethaan välttäät.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="V">være bra nok</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="vältä">välttäät</t>
-            <xg>
-               <x>Den er nok bra for meg.</x>
-               <xt>Se oon nokko hyvä minule.</xt>
             </xg>
          </tg>
       </mg>
