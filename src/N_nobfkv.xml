@@ -1683,21 +1683,6 @@
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="N">matblanding for hester og kyr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="aphee">apet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="hauthee">hauđet</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai">
       <lg>
          <l pos="N">apostel</l>
@@ -4410,16 +4395,6 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">et fat fullt av noe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv" re="om mengde">
-            <t pos="N">fatilinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="N">favoritt</l>
       </lg>
       <mg>
@@ -5706,7 +5681,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">en tur for å hente noe</l>
+         <l pos="N">hentetur</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9401,7 +9376,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">trevisp av furu- eller grantopp</l>
+         <l pos="N">trevisp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16155,16 +16130,6 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">bunt av tørket bjørkeris med blad</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv" re="for husdyr">
-            <t pos="N">kerppu</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="N">sersjant</l>
       </lg>
       <mg>
@@ -16618,16 +16583,6 @@
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="N">den siste delen av vinteren</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="kevättalve;kevättalve">kevättalvi</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="N">boblebad</l>
@@ -17000,16 +16955,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kiivu</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">snø eller is i hestesko</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="kia;kikka">kika</t>
          </tg>
       </mg>
    </e>
@@ -22561,7 +22506,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">en som bor i en bygd</l>
+         <l pos="N">bygdeværing</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -26344,26 +26289,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">rassii</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">sko som ikke er knytt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="loppakengä;loppakenkkä">loppakenkä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">sko på bare føtter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="loppakengä;loppakenkkä">loppakenkä</t>
          </tg>
       </mg>
    </e>
@@ -32319,26 +32244,6 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">par som ikke har vært lenge gift</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">nuoripari</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">et ungt par</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">nuoripari</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">ungdom</l>
@@ -33124,7 +33029,7 @@
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="N">fiskestang med snøre og krok</l>
+         <l pos="N">fiskestang</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -39033,16 +38938,6 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">flatt rugbrød med hull i midten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">puolivahva</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="N">halvveien</l>
@@ -41445,6 +41340,16 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="rehhu">rehu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="aphee">apet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="hauthee">hauđet</t>
          </tg>
       </mg>
    </e>
@@ -43940,16 +43845,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="saviriko">savirikko</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">språket som snakkes i Savolaks</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">savo</t>
          </tg>
       </mg>
    </e>
@@ -46705,7 +46600,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">den første delen av vinteren</l>
+         <l pos="N">høstvinter</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -47780,16 +47675,6 @@
    <e src="ai">
       <lg>
          <l pos="N">skott</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">tehđas</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">tomrom i forstavn i en båt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -50917,16 +50802,6 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">stang til å henge noe på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">ulku</t>
-         </tg>
-      </mg>
-   </e>
    <e src="yr">
       <lg>
          <l pos="N">tidevannselv</l>
@@ -50950,16 +50825,6 @@
    <e src="ai;ta">
       <lg>
          <l pos="N">enspråklig person</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="ummiko">ummikko</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="N">en som ikke forstår stedets språk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
