@@ -997,16 +997,6 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Adv">med i livet i behold</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">hengissä</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="Adv">snart</l>
@@ -1044,16 +1034,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">hiljain</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Adv">for ikke så lenge sida</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">hiljattain</t>
          </tg>
       </mg>
    </e>
@@ -6065,6 +6045,11 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">äskön</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hiljattain</t>
          </tg>
       </mg>
    </e>
