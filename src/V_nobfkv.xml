@@ -113,18 +113,7 @@
             <t pos="V" stem="aivastele;aivastel">aivastella</t>
          </tg>
       </mg>
-        <e src="ta">
-      <lg>
-         <l pos="V" t_type="expl">kjennes som man må nyse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="aivastuta;aivastutta">aivastuttaat</t>
-         </tg>
-      </mg>
-   </e>
-
-   </e>
+    </e>
     <e src="ta">
       <lg>
          <l pos="V">gjerde inn</l>
@@ -5177,6 +5166,11 @@
             <t pos="V" stem="lahjoita">lahjoittaat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">juottaat</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -5220,16 +5214,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kerjää;kerjän">kerjätä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="V">lage risbunter til tørk for husdyr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">kerputa</t>
          </tg>
       </mg>
    </e>
@@ -5504,16 +5488,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kihise;kihis">kihistä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="V">se på noe i kikkert</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">kiikaroiđa</t>
          </tg>
       </mg>
    </e>
@@ -6417,16 +6391,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">kostaat</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="V">greie å ta seg fram</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">kostuut</t>
          </tg>
       </mg>
    </e>
@@ -9157,16 +9121,6 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="V">holde seg skjult og vokte på noe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">luurata</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="V">love</l>
@@ -11607,16 +11561,6 @@
          </tg>
       </mg>
    </e>
-   <e src="ta">
-      <lg>
-         <l pos="V">presse noen til å gjøre noe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">painostaat</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="V">synke</l>
@@ -11848,16 +11792,6 @@
    <e src="ai">
       <lg>
          <l pos="V">oppholde seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">palkkiit</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="V">røre på seg på sommerbeite</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15024,16 +14958,6 @@
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">løfte skjørt eller bukse med belte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">sonnustaat</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
          <l pos="V">stramme noe hårdt</l>
       </lg>
       <mg>
@@ -16140,16 +16064,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">tolvata</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="V">stoppe med nål og tråd</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="toppaa;topan">topata</t>
          </tg>
       </mg>
    </e>
