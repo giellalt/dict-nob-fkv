@@ -11962,10 +11962,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="järje;järkke">järki</t>
-            <xg>
-               <x>ved sine fulle fem</x>
-               <xt>täyđessä järjessä</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -11976,10 +11972,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="järje;järkke">järki</t>
-            <xg>
-               <x>ved sine fulle fem</x>
-               <xt>täyđessä järjessä</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -11990,10 +11982,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="järje;järkke">järki</t>
-            <xg>
-               <x>ved sine fulle fem</x>
-               <xt>täyđessä järjessä</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -12009,31 +11997,11 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">innsjøkant</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="järvenranna;järvenrantta">järvenranta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
          <l pos="N">innsjøstrand</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="järvenranna;järvenrantta">järvenranta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">innsjøer</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">järvet</t>
          </tg>
       </mg>
    </e>
@@ -12043,16 +12011,7 @@
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="järve;järve">järvi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">lompola</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">lompolo</t>
          </tg>
       </mg>
@@ -12066,29 +12025,19 @@
             <t pos="N" stem="järve;järve">järvi</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">lompola</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">lompolo</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">vann</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="järve;järve">järvi</t>
+         <tg xml:lang="fkv" re="væsken">
+            <t pos="N" stem="veđe;vet">vesi</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="veđe;vet">vesi</t>
+         <tg xml:lang="fkv" re="innsjø">
+            <t pos="N" stem="järve;järve">järvi</t>
          </tg>
       </mg>
    </e>
@@ -12369,10 +12318,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kaakkahopu">kaakkahoppu</t>
-            <xg>
-               <x>Jeg må skite.</x>
-               <xt>Minula oon kaakkahoppu.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -18162,10 +18107,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="sijja">sija</t>
-            <xg>
-               <x>Jeg har ikke plass til en bil.</x>
-               <xt>Minula ei ole sijjaa piilile.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -22495,10 +22436,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">paikkakunta</t>
-            <xg>
-               <x>på dette stedet</x>
-               <xt>tässä paikkakunnassa</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -23876,7 +23813,7 @@
          <l pos="N">lue</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="fkv" re="hodeplagg">
             <t pos="N" stem="laki">lakki</t>
          </tg>
       </mg>
@@ -25683,10 +25620,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="lio;likko">liko</t>
-            <xg>
-               <x>Hun la klærne i bløt.</x>
-               <xt>Hän pani vaatheet likhoon.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -31583,22 +31516,22 @@
          <l pos="N">råd</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="fkv" re="anbefaling">
             <t pos="N">neuvo</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="fkv" re="XXX">
             <t pos="N" stem="neuvokse">neuvos</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="fkv" re="samling mennesker">
             <t pos="N">raati</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="fkv" re="nok penger">
             <t pos="N" stem="varra">vara</t>
             <xg>
                <x>Jeg har råd.</x>
@@ -32503,10 +32436,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="nälä;nälkkä">nälkä</t>
-            <xg>
-               <x>Jeg er sulten.</x>
-               <xt>Minula oon nälkä.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -32517,10 +32446,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="nälä;nälkkä">nälkä</t>
-            <xg>
-               <x>Jeg er sulten.</x>
-               <xt>Minula oon nälkä.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -34286,10 +34211,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="pakkaa;pakan">pakata</t>
-            <xg>
-               <x>Det blir lett så at jeg glemmer alt.</x>
-               <xt>Mie pakkaan uhheettamhaan kaikki.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
