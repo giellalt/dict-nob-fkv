@@ -1222,11 +1222,6 @@
             <t pos="A">harva</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="saa;san">saađa</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -6991,7 +6986,8 @@
          <l pos="A">rik</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="av penger">
+	<tg xml:lang="fkv">
+	  <re>av penger</re>
             <t pos="A">raharikas</t>
          </tg>
       </mg>
@@ -7001,7 +6997,8 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="bli rik">
+	<tg xml:lang="fkv">
+	  <re>bli rik</re>
             <t pos="V">rikastuut</t>
          </tg>
       </mg>

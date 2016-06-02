@@ -2188,6 +2188,11 @@
             <t pos="N" stem="ashee">aset</t>
          </tg>
       </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">leke</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="asettele;asetel">asetella</t>
@@ -2196,10 +2201,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">leekata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" stem="leiki">leikkiit</t>
          </tg>
       </mg>
@@ -2828,6 +2829,11 @@
             <t pos="N">tukkeet</t>
          </tg>
       </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">støtte</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kuurttoo;kuuron;kuurton">kuurota</t>
@@ -4338,6 +4344,11 @@
             <t pos="N" stem="fangi">fanki</t>
          </tg>
       </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">fange</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="pyyđä;pyytä">pyyttäät</t>
