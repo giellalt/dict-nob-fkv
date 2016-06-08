@@ -1638,7 +1638,11 @@
             <t pos="N" stem="louku">loukku</t>
          </tg>
       </mg>
-      <mg>
+   </e>   
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">felle</l>
+      </lg> <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kaađa">kaattaat</t>
          </tg>
@@ -2824,11 +2828,6 @@
             <t pos="N" stem="nojja">noja</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">tukkeet</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -2837,6 +2836,11 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kuurttoo;kuuron;kuurton">kuurota</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tukkeet</t>
          </tg>
       </mg>
       <mg>
@@ -4760,6 +4764,11 @@
             <t pos="N" stem="onkimise;onkimis">onkiminen</t>
          </tg>
       </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">fiske</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">fiskata</t>
@@ -4770,13 +4779,12 @@
             <t pos="V">kalastaat</t>
          </tg>
       </mg>
+   </e>
       <mg>
          <tg xml:lang="fkv" re="med stang">
             <t pos="V" stem="ongi;onki">onkkiit</t>
          </tg>
-      </mg>
-   </e>
-   <e src="ai">
+      </mg>   <e src="ai">
       <lg>
          <l pos="N">fiskeri</l>
       </lg>
@@ -4915,13 +4923,17 @@
             <t pos="N">lentolaiva</t>
          </tg>
       </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">fly</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="lennä;lentä">lenttäät</t>
          </tg>
       </mg>
-   </e>
-   <e src="yr">
+   </e>   <e src="yr">
       <lg>
          <l pos="N">flybase</l>
       </lg>
@@ -5256,7 +5268,21 @@
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">farge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="färjää;färjän">färjätä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">painaat</t>
+         </tg>
+      </mg>
+   </e>   <e src="ai">
       <lg>
          <l pos="N">ferge</l>
       </lg>
@@ -5500,6 +5526,16 @@
             <t pos="N" stem="haassi">haasi</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="haassii;haasin">haasita</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">hesje</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="haassii;haasin">haasita</t>
@@ -5810,6 +5846,11 @@
             <t pos="N" stem="ravo;rakko">rako</t>
          </tg>
       </mg>
+   </e>
+      <e src="ai;ta">
+      <lg>
+         <l pos="V">revne</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="halkkee;haljen">haljeta</t>
@@ -6325,6 +6366,11 @@
             <t pos="N" stem="haraka">harakka</t>
          </tg>
       </mg>
+   </e>
+      <e src="ai;ta">
+      <lg>
+         <l pos="V">skjære</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="leikkaa;leikan">leikata</t>
@@ -6350,6 +6396,11 @@
             <t pos="N">harava</t>
          </tg>
       </mg>
+   </e>
+      <e src="ai;ta">
+      <lg>
+         <l pos="V">rive</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="revi;repi">reppiit</t>
@@ -6740,6 +6791,11 @@
             <t pos="N" stem="ranga;rankka">ranka</t>
          </tg>
       </mg>
+   </e>
+      <e src="ai;ta">
+      <lg>
+         <l pos="V">stamme</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="mykytä">mykyttäät</t>
