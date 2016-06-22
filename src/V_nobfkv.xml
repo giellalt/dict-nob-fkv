@@ -2,6 +2,646 @@
 <r>
    <e src="ai;ta">
       <lg>
+         <l pos="N">skje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="satu">sattuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tapahtuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tapattuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">løfte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kohota">kohottaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">nostaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="nostele;nostel">nostela</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">skøyte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">luistaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="luistele;luistel">luistela</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">lodde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv" re="med flytende metall">
+            <t pos="V" stem="juota">juottaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">luođata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">hvile</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="leppää;levän">levätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">leie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="käytä">käyttäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">laikottaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="taluta">taluttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">slette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="silitä">silittäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">hoste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="ryvi;ryki">rykkiit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">yskiit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">evne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kykene;kyen">kyetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">boble</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kiehuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">ære</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kunnioita">kunnioittaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">reise</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">matkustaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="reissaa;reisan">reisata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">krone</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kruunaa;krunan">kruunata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">møte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kohtaa;kohđan">kohđata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kohđatella</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N">samling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kokkaa;kokan">kokata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">gry</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="koita">koittaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="koitu">koittuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="valkene;valjen">valjeta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">plage</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ahđistaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kiussaa;kiusan">kiusata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vaivata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">kjerne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">huiluut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kirnuu;kirnun">kirnuta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">snø</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="lumita">lumittaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">feste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">juhliit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kiinitä">kiinittäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="tartuta">tartuttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">kile</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kiilaa;kiilan">kiilata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="IV" stem="kutise;kutis">kutista</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">fløte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv" re="om tømmer">
+            <t pos="V" stem="uita">uittaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">sko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kengitä">kengittäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="V">kjempe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="taistele;taistel">taistela</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">gynge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="keijaa;keijan">keijata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">keijuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="keikuta">keikuttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">karde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="karttaa;kartan">kartata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">vare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kestäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="riitä">riittäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">klippe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kerittäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="leikkaa;leikan">leikata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv" re="i stykker">
+            <t pos="V" stem="leiko">leikkoot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="V">jukse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">juksata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">spire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="iđä;itä">ittäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">verssoot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">hefte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">haitata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="tartu">tarttuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">nytte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="TV">hyöđyttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">hore</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="huoraa;huoran">huorata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">pleie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="hoiđa;hoita">hoittaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">ro</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="souđa;souta">souttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">stamme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="mykytä">mykyttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">rive</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="revi;repi">reppiit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="TV">repäistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">skjære</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="leikkaa;leikan">leikata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="leiko">leikkoot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">viilttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">revne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="halkkee;haljen">haljeta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="reppee;reven">revetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">hesje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="haassii;haasin">haasita</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">farge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="färjää;färjän">färjätä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">painaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">fly</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="lennä;lentä">lenttäät</t>
+         </tg>
+      </mg>
+   </e>   
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">fange</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="pyyđä;pyytä">pyyttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">støtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kuurttoo;kuuron;kuurton">kuurota</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="nojjaa;nojan">nojata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">leke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="asettele;asetel">asetella</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">leekata</t>
+            <t pos="V" stem="leiki">leikkiit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="tieraa;tieran">tierata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="värkkää;värkän">värkätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">felle</l>
+      </lg> <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kaađa">kaattaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="langeta">langettaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
          <l pos="V">hoppe</l>
       </lg>
       <mg>
