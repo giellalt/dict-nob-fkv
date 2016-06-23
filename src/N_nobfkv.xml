@@ -4695,26 +4695,7 @@
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="V">fiske</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">fiskata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">kalastaat</t>
-         </tg>
-      </mg>
-   </e>
-      <mg>
-         <tg xml:lang="fkv" re="med stang">
-            <t pos="V" stem="ongi;onki">onkkiit</t>
-         </tg>
-      </mg>   <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="N">fiskeri</l>
       </lg>
@@ -26953,21 +26934,6 @@
             <t pos="N" stem="lämmö;lämppö">lämpö</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="hauđo;hauto">hauttoot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="lämmittele;lämmitel">lämmitellä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="lämmitä">lämmittäät</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -28841,21 +28807,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="merki">merkki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="havaitte;havain">havaita</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">havata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="merkitte;merkitten">merkitä</t>
          </tg>
       </mg>
    </e>
@@ -30757,11 +30708,6 @@
             <t pos="N">naula</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="naulaa;naulan">naulata</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -32505,11 +32451,6 @@
             <t pos="N" stem="omistukse">omistus</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">omistaat</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -32685,11 +32626,6 @@
             <t pos="N" stem="ophaa">opas</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">opastaat</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -32733,21 +32669,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="opi">oppi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" val="IV" stem="opettele;opetel">opetella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="opeta">opettaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" val="IV" stem="opi">oppiit</t>
          </tg>
       </mg>
    </e>
@@ -33305,11 +33226,6 @@
             <t pos="N">paasto</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="paastoo;paaston">paastota</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -33765,11 +33681,6 @@
             <t pos="N" stem="paka">pakka</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="pakkaa;pakan">pakata</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -33915,11 +33826,6 @@
             <t pos="N">palava</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="palavoitte;palavoitte">palavoiđa</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -34023,11 +33929,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="palmiko">palmikko</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="palmikoitte;palmikoitte">palmikoiđa</t>
          </tg>
       </mg>
    </e>
@@ -34213,21 +34114,6 @@
       <mg>
          <tg xml:lang="fkv" re="om hav">
             <t pos="N">pankki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">kopaista</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">pieksäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="tao;tako">takkoot</t>
          </tg>
       </mg>
    </e>
@@ -34952,16 +34838,6 @@
       <mg>
          <tg xml:lang="fkv" re="for å dekke over varmt brød">
             <t pos="N">täppeni</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="peitä">peittäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="täkkää;täkkän">täkätä</t>
          </tg>
       </mg>
    </e>
@@ -35924,11 +35800,6 @@
             <t pos="N">piina</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="piinaa;piinan">piinata</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -35937,11 +35808,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="piipu">piippu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="piipitä">piipittäät</t>
          </tg>
       </mg>
    </e>
@@ -37169,11 +37035,6 @@
             <t pos="N">pommi</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="pommaa;pomman">pommata</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -38273,16 +38134,6 @@
             <t pos="N" stem="pumpu">pumppu</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="pumppaa;pumpan">pumpata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">pumputa</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -38385,11 +38236,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">puola</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="puolaa;puolan">puolata</t>
          </tg>
       </mg>
    </e>
@@ -39482,16 +39328,6 @@
             <t pos="N">päälyspiimä</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">karata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">pajeta</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -40050,41 +39886,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="rivvi">rivi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">ennättäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="kerkkii;kerin">keritä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="piisaa;piisan">piisata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="riitä">riittäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="räkkää;räkän">räkätä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" val="TV" stem="sauta">sauttaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="uletu;ulettu">ulettuut</t>
          </tg>
       </mg>
    </e>
@@ -41295,16 +41096,6 @@
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="rinthee">rinnet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" val="IV" stem="katkee;katken">katketa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="taita">taittaat</t>
          </tg>
       </mg>
    </e>
