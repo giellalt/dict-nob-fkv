@@ -3,7 +3,6 @@
 
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l comment CDATA #IMPLIED >
-<!ATTLIST l gen ( f | m | n ) #IMPLIED >
 <!ATTLIST l nr NMTOKEN #IMPLIED >
 <!ATTLIST l pos ( A | Adv | CC | CS | Det | Interj | N | Num | Po | Pr | Pron | V ) #REQUIRED >
 <!ATTLIST l t_type NMTOKEN #IMPLIED >
@@ -11,20 +10,31 @@
 
 <!ELEMENT lg ( l ) >
 
+<!ELEMENT lics (lic, ref*, sourcenote*) >
+<!ATTLIST lics xml:space (default|preserve) 'preserve'>
+<!ELEMENT lic (#PCDATA|a)*>
+<!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
+<!ELEMENT ref (#PCDATA|a|i)*>
+<!ELEMENT sourcenote (#PCDATA|a)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT i (#PCDATA)>
+
 <!ELEMENT mg ( tg ) >
 
-<!ELEMENT r ( e+ ) >
+<!ELEMENT r (lics?, e+, xhtml:script?) >
+<!ATTLIST r xml:lang (nob) #IMPLIED>
+<!ATTLIST r id (nobfkv) #IMPLIED>
 
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t comment CDATA #IMPLIED >
 <!ATTLIST t nr ( Pl ) #IMPLIED >
-<!ATTLIST t pos ( A | Abbr | Adv | CC | CS | Clt | Interj | N | Num | Pcle | Po | Pr | Pron | Qu | V ) #REQUIRED >
+<!ATTLIST t val ( TV|IV ) #IMPLIED >
+<!ATTLIST t pos ( A | Abbr | Adv | CC | CS | Clt | Interj | N | Num | Pcle | Po | Pr | Pron | Qu | V | suff ) #REQUIRED >
 <!ATTLIST t src NMTOKEN #IMPLIED >
 <!ATTLIST t stem CDATA #IMPLIED >
 <!ATTLIST t type ( Ord | Prop ) #IMPLIED >
-<!ATTLIST t val ( IV | TV ) #IMPLIED >
 
-<!ELEMENT tg ( t, xg* ) >
+<!ELEMENT tg ( t+, xg* ) >
 <!ATTLIST tg re CDATA #IMPLIED >
 <!ATTLIST tg xml:lang NMTOKEN #FIXED "fkv" >
 

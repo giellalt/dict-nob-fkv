@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
-<r id="fkvnob" xml:lang="fkv">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_nobfkv.dtd">
+<r id="nobfkv" xml:lang="nob">
    <lics>
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -1524,7 +1524,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="ki">
       <lg>
          <l pos="A">avkjølt</l>
       </lg>
@@ -1532,6 +1532,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">jähtyny</t>
          </tg>
+	 </mg>
+	 <mg>
          <tg xml:lang="fkv" re="bli avkjølt">
             <t pos="V" stem="jähđy">jähtyyt</t>
          </tg>
@@ -3917,7 +3919,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="bli het">>
+         <tg xml:lang="fkv" re="bli het">
             <t pos="V">kuumeta</t>
          </tg>
       </mg>
@@ -7007,8 +7009,7 @@ For the full license text, see the link above.</lic>
          <l pos="A">rik</l>
       </lg>
       <mg>
-	<tg xml:lang="fkv">
-	  <re>av penger</re>
+	<tg xml:lang="fkv" re="av penger">
             <t pos="A">raharikas</t>
          </tg>
       </mg>
@@ -7018,8 +7019,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-	<tg xml:lang="fkv">
-	  <re>bli rik</re>
+	<tg xml:lang="fkv" re="bli rik">
             <t pos="V">rikastuut</t>
          </tg>
       </mg>

@@ -2,7 +2,7 @@
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_nobfkv.dtd">
-<r id="nobfkv" xml:lang="fkv">
+<r id="nobfkv" xml:lang="nob">
    <lics>
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -986,8 +986,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">poikki</t>
             <xg>
-               <x>Planken brakk.</x>
-               <xt>Lauta meni poikki.</xt>
+               <x>Planken brakk.</x>
+               <xt>Lauta meni poikki.</xt>
             </xg>
          </tg>
       </mg>
@@ -3055,6 +3055,8 @@ For the full license text, see the link above.</lic>
                <tg xml:lang="fkv">
             <t pos="Adv">lähtöisin</t>
          </tg>
+      </mg>
+      <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">lähtö</t>
             <xg>
@@ -3797,7 +3799,7 @@ For the full license text, see the link above.</lic>
    <e src="ai;ta">
       <lg>
          <l pos="Adv">umiddelbart</l>
-      </lg>gjennom
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">paikala</t>
@@ -4018,8 +4020,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">pitkältä</t>
             <xg>
-               <x>Hvor langt strekker den veien?</x>
-               <xt>Kunka pitkältä sitä tietä riittää?</xt>
+               <x>Hvor langt strekker den veien?</x>
+               <xt>Kunka pitkältä sitä tietä riittää?</xt>
             </xg>
          </tg>
       </mg>
@@ -4167,8 +4169,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">puolihengissä</t>
             <xg>
-               <x>Han var halvdød.</x>
-               <xt>Hän oli puolihengissä.</xt>
+               <x>Han var halvdød.</x>
+               <xt>Hän oli puolihengissä.</xt>
             </xg>
          </tg>
       </mg>
@@ -4241,8 +4243,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">päin</t>
                         <xg>
-               <x>i retning mot fjellet</x>
-               <xt>vaarhaan päin</xt>
+               <x>i retning mot fjellet</x>
+               <xt>vaarhaan päin</xt>
             </xg>
          </tg>
       </mg>

@@ -2,7 +2,7 @@
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_nobfkv.dtd">
-<r id="nobfkv" xml:lang="fkv">
+<r id="nobfkv" xml:lang="nob">
    <lics>
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -32,7 +32,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="">-sta</t>
+            <t pos="suff">-sta</t>
          </tg>
       </mg>
       <mg>
@@ -593,11 +593,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pr">läpitte</t>
-         </tg>
             <xg>
                <x>Moses reiste gjennom Rødehavet.</x>
                <xt>Mooses reisas läpitte Punasenmeren.</xt>
             </xg>
+        </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">

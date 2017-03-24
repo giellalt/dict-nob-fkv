@@ -2,7 +2,7 @@
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_nobfkv.dtd">
-<r id="nobfkv" xml:lang="fkv">
+<r id="nobfkv" xml:lang="nob">
    <lics>
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -12602,13 +12602,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="ki">
       <lg>
          <l pos="V">ha</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t> </t>
+            <t pos="V">olla</t>
             <xg>
 	      <x>Jeg har ei bok.</x>
               <xt>Minula oon kirja.</xt>
@@ -17555,7 +17555,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="ki">
       <lg>
         <l pos="V">prøve</l>
       </lg>
@@ -18225,7 +18225,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="ki">
       <lg>
          <l pos="V">vedde</l>
       </lg>
