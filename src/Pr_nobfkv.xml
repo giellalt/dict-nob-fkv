@@ -26,6 +26,20 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="ki">
+      <lg>
+         <l pos="Pr">av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="suff">-sta</t>
+            <xg>
+               <x>Per hogger grener av treet.</x>
+               <xt>Per hakkaa oksii puusta.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="Pr">fra</l>
@@ -33,13 +47,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="suff">-sta</t>
+            <xg>
+               <x>Jeg drar fra Børselv i morgen.</x>
+               <xt>Mie lähđen Pyssyjovesta huomena.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="suff">-sta pois</t>
+            <xg>
+               <x>Jeg kommer egentlig fra Børselv.</x>
+               <xt>Mie olen oikheesti Pyssyjovesta pois.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">asti</t>
             <xg>
-               <x>Jeg har vært kristen siden barndommen.</x>
+               <x>Jeg har vært kristen fra barndommen av.</x>
                <xt>Mie olen ollu kristilinen lapsuuđesta asti.</xt>
             </xg>
          </tg>
@@ -134,7 +161,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Po">puolesta</t>
             <xg>
-               <x>Han gjorde det for min del.</x>
+               <x>Han gjorde det på vegne av meg.</x>
                <xt>Hän teki sen minun puolesta.</xt>
             </xg>
          </tg>
@@ -183,7 +210,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">pörhään</t>
             <xg>
                <x>Gutten gikk for etter mannen.</x>
-               <xt>Poika lähti miehen pärhään.</xt>
+               <xt>Poika lähti miehen pörhään.</xt>
             </xg>
          </tg>
       </mg>
@@ -213,7 +240,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">-ssa</t>
+            <t pos="suff">-ssa</t>
+            <xg>
+               <x>Jeg er i butikken.</x>
+               <xt>Mie olen kaupassa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="suff">-haan</t>
+            <xg>
+               <x>Jeg skal i butikken.</x>
+               <xt>Mie menen kaupphaan.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -225,7 +265,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Po">sekhaan</t>
             <xg>
-               <x>Bestemor blandet bark i melen.</x>
+               <x>Bestemor blandet bark i melet.</x>
                <xt>Ämmi pani parkkii jauhoin sekhaan.</xt>
             </xg>
             </tg>
@@ -633,4 +673,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Pr">på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="suff">-lla</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">pääle</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">päälä</t>
+         </tg>
+      </mg>
+   </e>
+
+
+
 </r>
