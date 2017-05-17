@@ -32,10 +32,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">aijankuulu</t>
-            <t pos="N">aijankuuluhomma</t>
+            <t pos="N">aijankulu</t>
+            <t pos="N">aijankuluhomma</t>
             <syng>
                <syn>hobby</syn>
+               <syn>tidsfordriv</syn>
             </syng>
          </tg>
       </mg>
@@ -548,6 +549,8 @@ For the full license text, see the link above.</lic>
    <e src="ai">
       <lg>
          <l pos="N">tidsfordriv</l>
+         <l pos="N">hobby</l>
+         <l pos="N">fritidssyssel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
