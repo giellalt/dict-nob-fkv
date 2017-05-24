@@ -26,6 +26,16 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="mk">
+      <lg>
+         <l pos="V">greie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kykene;kyen">kyetä</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="V">tre</l>
@@ -1213,6 +1223,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="langeta">langettaat</t>
+            <xg>
+               <x>felle dom</x>
+               <xt>langettaat tuomion</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6424,11 +6438,6 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="kelppaa;kelvan">kelvata</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="kykene;kyen">kyetä</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -7889,6 +7898,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">kryssätä</t>
+            <xg>
+               <x>Vi krysser veien.</x>
+               <xt>Met kryssäämä tien yli.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9359,20 +9372,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">domfelle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="langeta">langettaat</t>
-            <xg>
-               <x>felle dom</x>
-               <xt>langettaat tuomion</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
          <l pos="V">lande</l>
       </lg>
       <mg>
@@ -9616,6 +9615,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="laukota">laukottaat</t>
+            <xg>
+               <x>Vi fikk hestene til å springe.</x>
+               <xt>Met laukotimma hevoissii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9626,6 +9629,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="laukota">laukottaat</t>
+            <xg>
+               <x>Vi fikk hestene til å galoppere.</x>
+               <xt>Met laukotimma hevoissii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
