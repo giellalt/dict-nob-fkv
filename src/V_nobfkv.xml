@@ -28,6 +28,44 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="V">tine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="TV">sulattaat</t>
+            <xg>
+               <x>Solen tiner snøen.</x>
+               <xt>Aurinko sulattaa lumen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="V">briste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="TV">ratketa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="V">unnslippe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="TV">päästä</t>
+            <xg>
+               <x>Det unnslapp meg et rop.</x>
+               <xt>Se minulta pääsi huuto.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="V">greie</l>
       </lg>
       <mg>
@@ -1123,6 +1161,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="reppee;reven">revetä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="reppee;reven">ratketa</t>
          </tg>
       </mg>
    </e>
@@ -16462,11 +16505,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="IV" stem="sullaa;sulan">sulata</t>
+            <xg>
+               <x>Snøen smelter fort.</x>
+               <xt>Lumi sullaa hopusti.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV" stem="sulata">sulattaat</t>
+            <xg>
+               <x>Solen smelter snøen.</x>
+               <xt>Aurinko sulattaa lumen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16477,6 +16528,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="IV" stem="sullaa;sulan">sulata</t>
+            <xg>
+               <x>Snøen tiner fort.</x>
+               <xt>Lumi sullaa hopusti.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -18203,6 +18258,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">vaijenttaat</t>
+            <syng>
+               <syn>gjøre stum</syn>
+               <syn>målbinde</syn>
+            </syng>
          </tg>
       </mg>
    </e>
