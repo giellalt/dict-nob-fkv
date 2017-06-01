@@ -28,6 +28,30 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="V">få øvelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="TV">harjaanttuut</t>
+            <syng>
+               <syn>bli vant til</syn>
+               <syn>venne seg til</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="V">ønske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="TV">haluta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="V">tine</l>
       </lg>
       <mg>
@@ -1951,6 +1975,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="mk">
+      <lg>
+         <l pos="V">livberge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">elättäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="V">forsørge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">elättäät</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="V">holde liv i</l>
@@ -2251,6 +2295,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
+         <l pos="V">hefte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">eđesvastata</t>
+            <xg>
+               <x>Han hefter for alle utgifter.</x>
+               <xt>Hän eđesvastaa kaikista kuluista.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
          <l pos="V">gå framover</l>
       </lg>
       <mg>
@@ -2313,6 +2371,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="mk">
+      <lg>
+         <l pos="V">dele i to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv" re="fisk">
+            <t pos="V">fläkätä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">halkaista</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">halkkoot</t>
+            <syng>
+               <syn>dele på langs</syn>
+               <syn>kløyve</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="V">kløyve</l>
@@ -2330,6 +2412,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">halkkoot</t>
+            <syng>
+               <syn>dele på langs</syn>
+               <syn>dele i to</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -2340,6 +2426,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv" re="fisk">
             <t pos="V">fläkätä</t>
+            <syng>
+               <syn>kløyve</syn>
+               <syn>dele i to</syn>
+            </syng>
          </tg>
       </mg>
    </e>
