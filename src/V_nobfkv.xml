@@ -4000,7 +4000,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">drive med hor</l>
+         <l pos="V">drive hor</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4095,7 +4095,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">drive og hoppe</l>
+         <l pos="V">sprette</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4204,7 +4204,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" val="IV">hyöttyy</t>
+            <t pos="V" val="IV">hyöttyyt</t>
             <xg>
                <x>En har nytte av å lære kvensk.</x>
                <xt>Yksiki hyöttyy ko oppii kainuu.</xt>
@@ -4520,9 +4520,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="mk">
+      <lg>
+         <l pos="V">våge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="ilkkee;iljen">iljetä</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">føle ubehag</l>
+         <l pos="V">tore</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4989,16 +4999,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="jouđu;joutu">jouttuut</t>
+            <xg>
+               <x>Jeg ble tvunget til å kjøpe nye skor fordi de gamle gikk i stykker.</x>
+               <xt>Mie jouđuin ostamhaan uuđet kengät ko vanhat hajothiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">havne</l>
+         <l pos="V">være nødt til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="jouđu;joutu">jouttuut</t>
+            <xg>
+               <x>Jeg var nødt til å hjelpe henne.</x>
+               <xt>Mie jouđuin auttamhaan häntä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5123,16 +5141,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="juota">juottaat</t>
+            <xg>
+               <x>gi hesten vann å drikke</x>
+               <xt>juottaat hevoiselle vettä</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="mk">
       <lg>
-         <l pos="V">la en drikke</l>
+         <l pos="V">lodde</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="juota">juottaat</t>
+            <xg>
+               <x>lodde metall</x>
+               <xt>juottaat metallii</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5143,6 +5169,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="juota">juottaat</t>
+            <xg>
+               <x>Han skjenket meg full.</x>
+               <xt>Hän juotti minut humalhoon.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
