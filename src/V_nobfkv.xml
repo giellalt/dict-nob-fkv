@@ -28,6 +28,20 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="V">ise</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="TV">jäättyyt</t>
+            <xg>
+               <x>Skiene iset.</x>
+               <xt>Sivakat jääđythiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="V">få øvelse</l>
       </lg>
       <mg>
@@ -5438,7 +5452,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">elte</l>
+         <l pos="V">overlate</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5478,16 +5492,24 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">fryse til is</l>
+         <l pos="V">fryse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="jääđy;jääty">jäättyyt</t>
+            <xg>
+               <x>Vatnet fryser på vinteren.</x>
+               <xt>Lampi jäättyy talvela.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="jääđytä">jääđyttäät</t>
+            <xg>
+               <x>Fisken må fryses slik at den blir ikke ødelagt.</x>
+               <xt>Kalan häyttyy jääđyttäät ettei se mene pilhaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
