@@ -28,6 +28,26 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="V">besøke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="käve">käyđä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="V">ta vare på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="korjaa;korjan">korjata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="V">drikke kaffe</l>
       </lg>
       <mg>
@@ -8883,7 +8903,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="kyllänny;kyllänty">kyllänttyyt</t>
+            <t pos="V" stem="kyllänny;kyllänty">kylläänttyyt</t>
          </tg>
       </mg>
    </e>
