@@ -26,7 +26,112 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-  <e src="mk">
+   <e src="mk">
+      <lg>
+         <l pos="N">asentopaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">leirplass</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">armé</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">armeija</t>
+            <xg>
+               <x>Den røde armé</x>
+               <xt>Punainen armeija</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kjæreste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">armas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">hjelpemiddelsentral</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">apuneuvosentraali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">krykker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">apuketarat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">svigerforeldre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">appivanhemat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">ankel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ankkeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">bøttekott</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ämpärikotti</t>
+            <t pos="N">ämpäriloma</t>
+         </tg>
+      </mg>
+   </e> 
+   <e src="mk">
+      <lg>
+         <l pos="N">ammmunisjonslager</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ammunišuunilaakeri</t>
+         </tg>
+      </mg>
+   </e> 
+   <e src="mk">
+      <lg>
+         <l pos="N">ammmunisjonslager</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ammunišuunilaakeri</t>
+         </tg>
+      </mg>
+   </e> 
+   <e src="mk">
       <lg>
          <l pos="N">fotograf</l>
       </lg>
@@ -37,7 +142,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e> 
-  <e src="mk">
+   <e src="mk">
       <lg>
          <l pos="N">amatørfotograf</l>
       </lg>
@@ -47,7 +152,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e> 
-  <e src="mk">
+   <e src="mk">
       <lg>
          <l pos="N">forord</l>
       </lg>
@@ -57,7 +162,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e> 
-  <e src="mk">
+   <e src="mk">
       <lg>
          <l pos="N">alkohol</l>
       </lg>
@@ -67,7 +172,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e> 
-  <e src="mk">
+   <e src="mk">
       <lg>
          <l pos="N">nybegynner</l>
       </lg>
@@ -77,7 +182,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e> 
-  <e src="mk">
+   <e src="mk">
       <lg>
          <l pos="N">synkende måne</l>
       </lg>
