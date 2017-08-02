@@ -28,11 +28,130 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
-         <l pos="N">asentopaikka</l>
+         <l pos="N">stiftelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">leirplass</t>
+            <t pos="N">perustus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">boligstiftelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">asumaperustus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">møte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kohtaaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">treff</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kohtaaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">campingbil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">asumapiili</t>
+            <syng>
+               <syn>bobil</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">campingbil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">asumapiili</t>
+            <syng>
+               <syn>bobil</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">bobil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">asumapiili</t>
+            <syng>
+               <syn>campingbil</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kjøkkenskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">astiikaappi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">skritt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">astet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">innbygger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">assuuja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">tema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">assii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">leirplass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">asentopaikka</t>
          </tg>
       </mg>
    </e>
