@@ -28,6 +28,86 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="N">flyfille/l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">frinsta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">friertur/l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">friiaamatuuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">frase/l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fraasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">forlag/l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">forlaaki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">forkle/l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">forkeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">flåte/l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">floota</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">forkle/l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">flakkari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kino/l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">filmitupa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">premiere/l>
       </lg>
       <mg>
@@ -725,6 +805,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">kuvvaaja</t>
             <t pos="N">fotograaffi</t>
+            <t pos="N">kuvanottaaja</t>
          </tg>
       </mg>
    </e> 
