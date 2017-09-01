@@ -28,6 +28,40 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="V">flørte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">friiata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="V">utvikle seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">eđistyyt</t>
+            <xg>
+               <x>Jeg vil utvikle meg i kvensk.</x>
+               <xt>Mie halluun eđistyyt kväänin kielessä.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="V">utvikle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">eđistäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="V">score mål</l>
       </lg>
       <mg>
@@ -2419,7 +2453,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">eđistäät</t>
             <xg>
-               <x>Klokka går for fort.</x>
+               <x>Klokka fortner.</x>
                <xt>Kello eđistää.</xt>
             </xg>
          </tg>
