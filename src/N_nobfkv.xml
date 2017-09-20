@@ -28,6 +28,105 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="es">
       <lg>
+         <l pos="N">setning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fraasi</t>
+            <syng>
+               <syn>frase</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">avledning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">derivasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">konstruksjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">konstruksuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">proadverb</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">proadverbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">avledningssuffiks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">derivasuunisuffiksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">uttryck</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ilmoittaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">eierskapssyntaks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">omistussyntakti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">oversetning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ylisyntakti</t>
+            <syng>
+               <syn>overordnet setning</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">overordnet setning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ylisyntakti</t>
+            <syng>
+               <syn>oversetning</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">predikativ</l>
       </lg>
       <mg>
@@ -517,6 +616,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">fraasi</t>
+            <syng>
+               <syn>setning</syn>
+            </syng>
          </tg>
       </mg>
    </e>
