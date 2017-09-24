@@ -28,6 +28,66 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="es">
       <lg>
+         <l pos="N">possessivsuffiks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">possessiivisuffiksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">refleksivt pronomen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">refleksiivipronomeni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">vokal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vokaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">plosiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klusiili</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">postmodifikator</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pörädefineeraus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">premodifikator</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">etudefineeraus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">setning</l>
       </lg>
       <mg>
@@ -196,7 +256,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">bestemmelse</l>
+         <l pos="N">modifikator</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -617,7 +677,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">fraasi</t>
             <syng>
-               <syn>setning</syn>
+               <syn>setning	</syn>
             </syng>
          </tg>
       </mg>
