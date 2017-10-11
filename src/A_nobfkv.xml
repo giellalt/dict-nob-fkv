@@ -28,6 +28,94 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="es">
       <lg>
+         <l pos="A">synonym</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">synonyyminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">med konsonantstamme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">konsonanttirankainen</t>
+            <syng>
+               <syn>konsonantstammet</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">konsonantstammet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">konsonanttirankainen</t>
+            <syng>
+               <syn>med konsonantstamme</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">tostammet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kaksirankainen</t>
+            <syng>
+               <syn>med to stammer</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">med to stammer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kaksirankainen</t>
+            <syng>
+               <syn>tostammet</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">med en stamme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">yksirankainen</t>
+            <syng>
+               <syn>enstammet</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">enstammet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">yksirankainen</t>
+            <syng>
+               <syn>med en stamme</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="A">nullverdig</l>
       </lg>
       <mg>
