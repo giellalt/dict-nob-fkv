@@ -28,6 +28,90 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="es">
       <lg>
+         <l pos="A">aspektuell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">aspektuaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">konnektiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">konnektiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">typisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">prototyyppinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">ordfinal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sananloppuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">obligatorisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">obligatoorinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">parallell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">paralellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">bitrykket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sivvupainolinen</t>
+            <xg>
+               <x>bitrykket stavelse</x>
+               <xt>sivvupainolinen tavu</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">disjunktiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">disjunktiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="A">ekvivalent</l>
       </lg>
       <mg>
