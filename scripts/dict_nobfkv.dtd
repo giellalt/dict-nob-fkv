@@ -19,7 +19,7 @@
 <!ELEMENT a (#PCDATA)>
 <!ELEMENT i (#PCDATA)>
 
-<!ELEMENT mg ( re? tg ) >
+<!ELEMENT mg ( re?, tg ) >
 
 <!ELEMENT r (lics?, e+, xhtml:script?) >
 <!ATTLIST r xml:lang (nob) #IMPLIED>
