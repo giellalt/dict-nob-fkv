@@ -25,22 +25,27 @@
 <!ATTLIST r xml:lang (nob) #IMPLIED>
 <!ATTLIST r id (nobfkv) #IMPLIED>
 
-<!ELEMENT syng ( syn ) >
+<!ELEMENT syng ( syn+ ) >
 <!ELEMENT syn ( #PCDATA ) >
 
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t comment CDATA #IMPLIED >
 <!ATTLIST t nr ( Pl ) #IMPLIED >
 <!ATTLIST t val ( TV|IV ) #IMPLIED >
-<!ATTLIST t pos ( A | Abbr | Adv | CC | CS | Clt | Interj | N | Num | Pcle | Po | Pr | Pron | Qu | V | suff ) #REQUIRED >
+<!ATTLIST t pos CDATA #IMPLIED >
 <!ATTLIST t src NMTOKEN #IMPLIED >
 <!ATTLIST t stem CDATA #IMPLIED >
-<!ATTLIST t type ( Ord | Prop | CDATA ) #IMPLIED >
+<!ATTLIST t type CDATA #IMPLIED >
 <!ATTLIST t href CDATA #IMPLIED >
 
 <!ELEMENT tg ( re?, t+, xg* ) >
 <!ATTLIST tg re CDATA #IMPLIED >
 <!ATTLIST tg xml:lang NMTOKEN #FIXED "fkv" >
+
+<!ELEMENT re  ( #PCDATA )>
+<!ATTLIST re
+fra_ref CDATA #IMPLIED
+>
 
 <!ELEMENT x ( #PCDATA ) >
 
