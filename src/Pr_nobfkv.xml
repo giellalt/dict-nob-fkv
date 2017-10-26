@@ -607,7 +607,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Pr">yli</t>
+            <t pos="Po">yli</t>
          </tg>
       </mg>
    </e>
@@ -615,11 +615,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Pr">gjennom</l>
       </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">kautta</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">läpi</t>
@@ -651,25 +646,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Po">via</l>
+         <l pos="Pr">via</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Pr">kautta</t>
+            <t pos="Po">kautta</t>
             <xg>
                <x>Knut reiste via Stockholm.</x>
                <xt>Nuutti reisasi Tukholman kautta.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">läpi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">läpi</t>
          </tg>
       </mg>
    </e>
@@ -679,7 +664,70 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="suff">-lla</t>
+            <re>løst, oppå, retning til</re>
+            <t pos="Po">pääle</t>
+            <xg>
+               <x>Jeg legger boka på bordet.</x>
+               <xt>Mie panen kirjan pöyđän pääle.</xt>
+            </xg>
+            <t pos="suff">-le/-lle</t>
+            <t type="grammar" href="https://nn.wikipedia.org/wiki/Allativ">allativ</t>
+            <xg>
+               <x>Jeg legger boka på bordet.</x>
+               <xt>Mie panen kirjan pöyđäle.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <re>løst, oppå, i ro</re>
+            <t pos="Po">päälä</t>
+            <xg>
+               <x>Boka er på bordet.</x>
+               <xt>Kirjan oon pöyđän päälä.</xt>
+            </xg>
+            <t pos="Po">-la/-lla/-lä/-llâ</t>
+            <t type="grammar" href="https://nn.wikipedia.org/wiki/Adessiv">adessiv</t>
+            <xg>
+               <x>Boka er på bordet.</x>
+               <xt>Kirjan oon pöyđälä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <re>fast, retning til</re>
+            <t pos="suff">-Vn</t>
+            <t type="grammar" href="https://nn.wikipedia.org/wiki/Illativ">illativ</t>
+            <xg>
+               <x>Jeg  henger jakka på kroken.</x>
+               <xt>Mie panen jakan koukhuun.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <re>fast, i ro</re>
+            <t pos="suff">-ssa/-ssä</t>
+            <t type="grammar" href="https://nn.wikipedia.org/wiki/Inessiv">inessiv</t>
+            <xg>
+               <x>Jakka henger på kroken.</x>
+               <xt>Jakka henkkaa koukussa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <re>ufullført handling</re>
+            <t pos="Po">päälä</t>
+            <xg>
+               <x>Jeg tenker på deg.</x>
+               <xt>Mie hunteeraan sinun päälä.</xt>
+            </xg>
+            <xg>
+               <x>Jeg leste på leksene.</x>
+               <xt>Mie lujin läksyin päälä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -689,7 +737,48 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">päälä</t>
+            <re>om klokka</re>
+            <t pos="Po">vaile</t>
+            <xg>
+               <x>Klokka er fem på tre.</x>
+               <xt>Kello oon viisi vaile kolme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om hvor lang tid man bruker</re>
+            <t pos="suff">-ssa/-ssä</t>
+            <t type="grammar" href="https://nn.wikipedia.org/wiki/Inessiv">inessiv</t>
+            <xg>
+               <x>Han laget maten ferdig på to timer.</x>
+               <xt>Hän teki ruovan valmhiiksi kahđessa tiimassa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <re>om tidspunkt</re>
+            <t pos="suff">-na/-nä/-nna-/nnä</t>
+            <t type="grammar" href="https://nn.wikipedia.org/wiki/Essiv">essiv</t>
+            <xg>
+               <x>Hun kom på søndag.</x>
+               <xt>Hän tuli sunnuntaina.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <re>om mengde og størrelse</re>
+            <t type="expl">bruk adjektivsavledning</t>
+            <xg>
+               <x>et barn på to år</x>
+               <xt>kahđen vuotinen lapsi</xt>
+            </xg>
+            <xg>
+               <x>en fisk på fem kilo</x>
+               <xt>viiđen kilonen kala</xt>
+            </xg>
          </tg>
       </mg>
    </e>
