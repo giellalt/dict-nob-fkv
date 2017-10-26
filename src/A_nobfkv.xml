@@ -222,27 +222,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="A">med konsonantstamme</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">konsonanttirankainen</t>
-            <syng>
-               <syn>konsonantstammet</syn>
-            </syng>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="A">konsonantstammet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">konsonanttirankainen</t>
-            <syng>
-               <syn>med konsonantstamme</syn>
-            </syng>
+            <xg>
+               <x>konsonantstammet verb</x>
+               <xt>konsonanttirankainen verbi</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -253,35 +241,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kaksirankainen</t>
-            <syng>
-               <syn>med to stammer</syn>
-            </syng>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="A">med to stammer</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">kaksirankainen</t>
-            <syng>
-               <syn>tostammet</syn>
-            </syng>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="A">med en stamme</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">yksirankainen</t>
-            <syng>
-               <syn>enstammet</syn>
-            </syng>
+            <xg>
+               <x>tostammet substantiv</x>
+               <xt>ksksirankainen substantiivi</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -292,9 +255,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">yksirankainen</t>
-            <syng>
-               <syn>med en stamme</syn>
-            </syng>
+            <xg>
+               <x>enstammet substantiv</x>
+               <xt>yksirankainen substantiivi</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -515,27 +479,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
-         <l pos="A">umulig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">ajattelematon</t>
-            <syng>
-               <syn>utenkelig</syn>
-            </syng>
-         </tg>
-      </mg>
-   </e>
-   <e src="mk">
-      <lg>
          <l pos="A">utenkelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ajattelematon</t>
-            <syng>
-               <syn>umulig</syn>
-            </syng>
          </tg>
       </mg>
    </e>

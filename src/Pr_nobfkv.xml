@@ -332,7 +332,8 @@ For the full license text, see the link above.</lic>
             <t pos="suff">-n</t>
             <xg>
                <x>Han er glad i mat</x>
-               <xt>Hän tykkää ruovasta.</xt>
+	       <xt>Hän tykkää ruovasta.</xt>
+	    </xg>
                    <xg>
                <x>Jeg gir blaffen i det. </x>
                <xt>Mie en perusta siitä assiista.</xt>
@@ -744,12 +745,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <re>løst, oppå, retning til</re>
             <t pos="Po">pääle</t>
+            <t pos="suff">-le/-lle</t>
+            <t type="grammar" href="https://nn.wikipedia.org/wiki/Allativ">allativ</t>
             <xg>
                <x>Jeg legger boka på bordet.</x>
                <xt>Mie panen kirjan pöyđän pääle.</xt>
             </xg>
-            <t pos="suff">-le/-lle</t>
-            <t type="grammar" href="https://nn.wikipedia.org/wiki/Allativ">allativ</t>
             <xg>
                <x>Jeg legger boka på bordet.</x>
                <xt>Mie panen kirjan pöyđäle.</xt>
@@ -760,12 +761,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <re>løst, oppå, i ro</re>
             <t pos="Po">päälä</t>
+            <t pos="Po">-la/-lla/-lä/-llâ</t>
+            <t type="grammar" href="https://nn.wikipedia.org/wiki/Adessiv">adessiv</t>
             <xg>
                <x>Boka er på bordet.</x>
                <xt>Kirjan oon pöyđän päälä.</xt>
             </xg>
-            <t pos="Po">-la/-lla/-lä/-llâ</t>
-            <t type="grammar" href="https://nn.wikipedia.org/wiki/Adessiv">adessiv</t>
             <xg>
                <x>Boka er på bordet.</x>
                <xt>Kirjan oon pöyđälä.</xt>
@@ -855,7 +856,4 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-
-
 </r>
