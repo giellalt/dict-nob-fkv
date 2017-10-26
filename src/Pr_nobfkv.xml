@@ -245,6 +245,10 @@ For the full license text, see the link above.</lic>
                <x>Jeg er i butikken.</x>
                <xt>Mie olen kaupassa.</xt>
             </xg>
+            <xg>
+               <x>Vi var i følge hele kvelden.</x>
+               <xt>Me olima seurassa koko illan.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -272,7 +276,81 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">seurassa</t>
+	         <re>egenskap knyttet til personen</re>
+            <t pos="suff">-ssa</t>
+            <xg>
+               <x>Hun var flink i idrett.</x>
+               <xt>Se oli seppä idrettissä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>tidspunkt</re>
+            <t pos="suff">-ssa</t>
+            <xg>
+               <x>Norge ble med i NATO i 1949.</x>
+               <xt>.</xt>
+            </xg>
+            <xg>
+               <x>Hun kom hjem i går.</x>
+               <xt>Se tuli kothiin eilen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>tidsrom</re>
+            <t pos="suff">-ta</t>
+            <xg>
+               <x>De regnet i fire dager.</x>
+               <xt>Se satoi nelje päivää.</xt>
+            </xg>
+            <xg>
+               <x>Hun ventet i to år.</x>
+               <xt>Hän ođotti kaksi vuotta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>tilhørighet</re>
+            <t pos="suff">-n</t>
+            <xg>
+               <x>Hun er professor i historie.</x>
+               <xt>Hän oon historian professori.</xt>
+            </xg>
+            <xg>
+               <x>Hun arbeider ved Universitetssykehuset i Nord-Norge.</x>
+               <xt>Hän työtelee Pohjais-Norjan Universiteettisiukhuusissa.</xt>
+            </xg>
+                </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>fölelse for noe</re>
+            <t pos="suff">-n</t>
+            <xg>
+               <x>Han er glad i mat</x>
+               <xt>Hän tykkää ruovasta.</xt>
+                   <xg>
+               <x>Jeg gir blaffen i det. </x>
+               <xt>Mie en perusta siitä assiista.</xt>
+            </xg>
+             <xg>
+               <x>De er hodestups forelsket i hverandre. </x>
+               <xt>Het oon pallaavasti rakastunheet toishiinsa.</xt>
+            </xg>
+              </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>måte, materiale</re>
+            <t pos="suff">-n</t>
+            <xg>
+               <x>Trappa er i marmor.</x>
+               <xt>Trappu oon marmorissa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -728,11 +806,6 @@ For the full license text, see the link above.</lic>
                <x>Jeg leste på leksene.</x>
                <xt>Mie lujin läksyin päälä.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">pääle</t>
          </tg>
       </mg>
       <mg>
