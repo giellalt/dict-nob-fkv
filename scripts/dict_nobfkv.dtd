@@ -19,11 +19,14 @@
 <!ELEMENT a (#PCDATA)>
 <!ELEMENT i (#PCDATA)>
 
-<!ELEMENT mg ( re?, tg ) >
+<!ELEMENT mg ( re?, tg, syng? ) >
 
 <!ELEMENT r (lics?, e+, xhtml:script?) >
 <!ATTLIST r xml:lang (nob) #IMPLIED>
 <!ATTLIST r id (nobfkv) #IMPLIED>
+
+<!ELEMENT syng ( syn ) >
+<!ELEMENT syn ( #PCDATA ) >
 
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t comment CDATA #IMPLIED >
