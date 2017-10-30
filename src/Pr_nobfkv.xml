@@ -247,7 +247,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Vi var i følge hele kvelden.</x>
-               <xt>Me olima seurassa koko illan.</xt>
+               <xt>Met olima seurassa koko illan.</xt>
             </xg>
          </tg>
       </mg>
@@ -290,11 +290,15 @@ For the full license text, see the link above.</lic>
             <t pos="suff">-ssa</t>
             <xg>
                <x>Norge ble med i NATO i 1949.</x>
-               <xt>.</xt>
+               <xt>Ruija tuli myötä NATO:hoon vuona 1949.</xt>
             </xg>
             <xg>
                <x>Hun kom hjem i går.</x>
                <xt>Se tuli kothiin eilen.</xt>
+            </xg>
+              <xg>
+               <x>Jeg skal reise i mai.</x>
+               <xt>Mie aijon reisata maikuussa.</xt>
             </xg>
          </tg>
       </mg>
@@ -328,8 +332,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>fölelse for noe</re>
-            <t pos="suff">-n</t>
+	         <re>følelse for noe</re>
+            <t pos="suff">-sta</t>
             <xg>
                <x>Han er glad i mat</x>
 	       <xt>Hän tykkää ruovasta.</xt>
@@ -347,7 +351,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
 	         <re>måte, materiale</re>
-            <t pos="suff">-n</t>
+            <t pos="suff">-ssa</t>
             <xg>
                <x>Trappa er i marmor.</x>
                <xt>Trappu oon marmorissa.</xt>
