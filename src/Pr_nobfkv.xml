@@ -240,7 +240,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="suff">-ssa</t>
+	          <re>om sted, i ro</re>
+            <t pos="suff">-ssa/ssä</t>
             <xg>
                <x>Jeg er i butikken.</x>
                <xt>Mie olen kaupassa.</xt>
@@ -249,14 +250,49 @@ For the full license text, see the link above.</lic>
                <x>Vi var i følge hele kvelden.</x>
                <xt>Met olima seurassa koko illan.</xt>
             </xg>
+             <xg>
+               <x>Bestefar kjempet i krigen.</x>
+               <xt>Äiji taisteli sođassa.</xt>
+            </xg>
+             <xg>
+               <x>Det står i atlaset at Paris er hovedstaden i Frankrike.</x>
+               <xt>Se seissoo atlaksessa, ette Pariisi oon Franskanmaan pääkaupunki.</xt>
+            </xg>
+             <xg>
+               <x>Han hadde hendene i lommen</x>
+               <xt>Hän piti käđet plakkarissa.</xt>
+            </xg>
+             <xg>
+               <x>I Øst-Finnmark er det sterk vind.</x>
+               <xt>Öystä-Finmarkussa oon kova tuuli.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="suff">-haan</t>
+	           <re>om bevegelse til</re>
+            <t pos="suff">-haan/hään</t>
             <xg>
                <x>Jeg skal i butikken.</x>
                <xt>Mie menen kaupphaan.</xt>
+            </xg>
+             <xg>
+               <x>De satte seg i bilen.</x>
+               <xt>Het istuthiin piilhiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	           <re>når noe er fysisk nært</re>
+            <t pos="suff">-haan/hään</t>
+            <xg>
+               <x>Ungen klatret opp i treet.</x>
+               <xt>Lapsi kiikkui puuhun.</xt>
+            </xg>
+             <xg>
+               <x>Hän otti sen kiini.</x>
+               <xt>Han tok tak i den.</xt>
             </xg>
          </tg>
       </mg>
@@ -277,17 +313,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
 	         <re>egenskap knyttet til personen</re>
-            <t pos="suff">-ssa</t>
+            <t pos="suff">-ssa/ssä</t>
             <xg>
                <x>Hun var flink i idrett.</x>
-               <xt>Se oli seppä idrettissä.</xt>
+               <xt>Hän oli seppä idrettissä.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
 	         <re>tidspunkt</re>
-            <t pos="suff">-ssa</t>
+	          <t pos="suff">-hoon/höön</t>
+            <t pos="suff">-ssa/ssä</t>
             <xg>
                <x>Norge ble med i NATO i 1949.</x>
                <xt>Ruija tuli myötä NATO:hoon vuona 1949.</xt>
@@ -300,12 +337,16 @@ For the full license text, see the link above.</lic>
                <x>Jeg skal reise i mai.</x>
                <xt>Mie aijon reisata maikuussa.</xt>
             </xg>
+                          <xg>
+               <x>I gamle dager hadde ikke folk bil.</x>
+               <xt>Ihmisillä ei ollu piilii vanhaassa aijassa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
 	         <re>tidsrom</re>
-            <t pos="suff">-ta</t>
+            <t pos="suff">-ta/tä/a/ä</t>
             <xg>
                <x>De regnet i fire dager.</x>
                <xt>Se satoi nelje päivää.</xt>
@@ -320,6 +361,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>tilhørighet</re>
             <t pos="suff">-n</t>
+             <t pos="suff">-ssa/ssä</t>
             <xg>
                <x>Hun er professor i historie.</x>
                <xt>Hän oon historian professori.</xt>
@@ -333,7 +375,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
 	         <re>følelse for noe</re>
-            <t pos="suff">-sta</t>
+	         <t pos="suff">-hiin</t>
+            <t pos="suff">-sta/stä</t>
             <xg>
                <x>Han er glad i mat</x>
 	       <xt>Hän tykkää ruovasta.</xt>
@@ -348,6 +391,16 @@ For the full license text, see the link above.</lic>
             </xg>
               </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	         <re>egenskap knyttet til noe</re>
+           <t type="expl">bruk adjektivsavledning</t>
+            <xg>
+               <x>Han var stor i kjeften.</x>
+               <xt>Hän oli isosuinen.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
 	         <re>måte, materiale</re>
@@ -355,6 +408,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Trappa er i marmor.</x>
                <xt>Trappu oon marmorissa.</xt>
+            </xg>
+                        <xg>
+               <x>Profeten snakket i ligninger.</x>
+               <xt>Proffeetta puhui kuvissa.</xt>
             </xg>
          </tg>
       </mg>
@@ -765,7 +822,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <re>løst, oppå, i ro</re>
             <t pos="Po">päälä</t>
-            <t pos="Po">-la/-lla/-lä/-llâ</t>
+            <t pos="Po">-la/-lla/-lä/-llä</t>
             <t type="grammar" href="https://nn.wikipedia.org/wiki/Adessiv">adessiv</t>
             <xg>
                <x>Boka er på bordet.</x>
@@ -783,7 +840,7 @@ For the full license text, see the link above.</lic>
             <t pos="suff">-Vn</t>
             <t type="grammar" href="https://nn.wikipedia.org/wiki/Illativ">illativ</t>
             <xg>
-               <x>Jeg  henger jakka på kroken.</x>
+               <x>Jeg henger jakka på kroken.</x>
                <xt>Mie panen jakan koukhuun.</xt>
             </xg>
          </tg>
@@ -800,16 +857,58 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
+	        <tg xml:lang="fkv">
+            <re>om klær</re>
+            <t pos="Po">päälä/pääle</t>
+            <xg>
+               <x>Ungene tok på skonene selv.</x>
+               <xt>Kläpit panthiin kengät pääle itte.</xt>
+            </xg>
+              <xg>
+               <x>De hadde på seg kvendrakten under kipparifestivalen.</x>
+               <xt>Heilä oli kväänipuku pääle kipparifestivaalin aikana.</xt>
+            </xg>
+         </tg>
+      </mg>
+         <mg>
+	        <tg xml:lang="fkv">
+            <re>om måte</re>
+            <t pos="suff">lla/llä/la/lä</t>
+            <xg>
+               <x>De levde på fisk og tran.</x>
+               <xt>Het eläthiin kalala ja traanila.</xt>
+            </xg>
+              <xg>
+               <x> Min avdøde bestefar pleide hver høst å dra på rypejakt.</x>
+               <xt>Minun äiji-vaina pruukkas joka syksylä mennä pyytämhään riekkoi.</xt>
+            </xg>
+             <xg>
+               <x>Han skrev hele romanen på maskin.</x>
+               <xt>Hän kirjoitti koko rommaanin masiinila.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="fkv">
             <re>ufullført handling</re>
             <t pos="Po">päälä</t>
+             <t pos="suff">-V/ta/tä/a/ä</t>
+             <t type="grammar" href="https://nn.wikipedia.org/wiki/Partitiv">partitiv</t>
             <xg>
                <x>Jeg tenker på deg.</x>
-               <xt>Mie hunteeraan sinun päälä.</xt>
+               <xt>Mie ajattelen sinun päälä.</xt>
             </xg>
             <xg>
                <x>Jeg leste på leksene.</x>
                <xt>Mie lujin läksyin päälä.</xt>
+            </xg>
+              <xg>
+               <x>Han skriver på en roman.</x>
+               <xt>Hän oon kirjoittamassa rommaanii.</xt>
+            </xg>
+            <xg>
+               <x>Hun bar på en stor veske.</x>
+               <xt>Hän kanttoi issoo väskyy.</xt>
             </xg>
          </tg>
       </mg>
@@ -856,6 +955,24 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>en fisk på fem kilo</x>
                <xt>viiđen kilonen kala</xt>
+            </xg>
+         </tg>
+           </mg>
+          <mg>
+         <tg xml:lang="fkv">
+            <re>om tilhørighet</re>
+            <t type="grammar" href="https://nn.wikipedia.org/wiki/Genitiv">genitiv</t>
+            <xg>
+               <x>Stammen på treet</x>
+               <xt>Puun ranka</xt>
+            </xg>
+            <xg>
+               <x>Taket på huset</x>
+               <xt>Huonheen katto</xt>
+            </xg>
+             <xg>
+               <x>Språket i landet</x>
+               <xt>Maan kieli</xt>
             </xg>
          </tg>
       </mg>
