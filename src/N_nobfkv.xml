@@ -38,7 +38,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">tostemmighet</l>
+         <l pos="N">tostammethet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -667,7 +667,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">uttryck</l>
+         <l pos="N">meddelelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1137,7 +1137,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
-         <l pos="N">stinkfrukt</l>
+         <l pos="N">stinkefrukt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2033,11 +2033,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
-         <l pos="N">TV-akšuuni</l>
+         <l pos="N">TV-aksjon</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">TV-aksjon</t>
+            <t pos="N">TV-akšuuni</t>
          </tg>
       </mg>
    </e>
@@ -10162,7 +10162,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">hengingstau</l>
+         <l pos="N">galgetau</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21775,16 +21775,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">kratersjøer</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kraaterijärvet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
          <l pos="N">kratersjø</l>
       </lg>
       <mg>
@@ -22395,7 +22385,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">grønsak</l>
+         <l pos="N">grønnsak</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -23993,16 +23983,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">tettsteddel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kvartteeri</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">kvarter</l>
@@ -24010,11 +23990,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv" re="15 minutter">
             <t pos="N">kvartti</t>
+            <t pos="N" stem="varti">vartti</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="varti">vartti</t>
+         <tg xml:lang="fkv" re="bydel">
+            <t pos="N">kvartteeri</t>
          </tg>
       </mg>
    </e>
@@ -25793,11 +25774,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">dammer</l>
+         <l pos="N">dam</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">lantot</t>
+            <t pos="N">lantto</t>
          </tg>
       </mg>
    </e>
@@ -27213,25 +27194,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="N">firfirsle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">liisko</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
          <l pos="N">øgle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">liisko</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">lisko</t>
          </tg>
       </mg>
@@ -27503,6 +27470,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">lisko</t>
+            <t pos="N">liisko</t>
          </tg>
       </mg>
    </e>
@@ -30212,7 +30180,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="N">markedsdager</l>
+         <l pos="N">marked</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -37981,16 +37949,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">snarfly</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">pikaflyyi</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="N">beger</l>
@@ -38773,16 +38731,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pohjaiskeino</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">nordisk land</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">pohjaismaa</t>
          </tg>
       </mg>
    </e>
@@ -40531,7 +40479,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">skipsled på sjøen</l>
+         <l pos="N">skipslei</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -42256,6 +42204,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
+         <l pos="N">strandveg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rantatie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
          <l pos="N">strandvei</l>
       </lg>
       <mg>
@@ -43771,6 +43729,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="ruvanhallu">ruvanhalu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N">spiseskei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ruokalusikka</t>
          </tg>
       </mg>
    </e>
@@ -47281,16 +47249,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">saltsjøer</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">suolajärvet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
          <l pos="N">saltsjø</l>
       </lg>
       <mg>
@@ -47371,21 +47329,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">saltvannsdammer</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">suolavesialthaat</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
          <l pos="N">saltvannsdam</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">suolavesipato</t>
+            <t pos="N">suolavesiallas</t>
          </tg>
       </mg>
    </e>
@@ -54950,16 +54899,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="välli">väli</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">mellomtid</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">väliaika</t>
          </tg>
       </mg>
    </e>

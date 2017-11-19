@@ -5259,16 +5259,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Adv">omtent</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">suunale</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="Adv">omtrent</l>
@@ -5276,6 +5266,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">suunile</t>
+            <t pos="Adv">suunale</t>
          </tg>
       </mg>
    </e>
@@ -5729,7 +5720,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">tryggt</l>
+         <l pos="Adv">trygt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6697,16 +6688,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">overstømmende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">ylenmääräisesti</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="Adv">i overflod</l>
       </lg>
       <mg>
@@ -6900,13 +6881,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">untatt</l>
+         <l pos="Adv">unntatt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pcle">paitti</t>
             <xg>
-               <x>Alle untatt Maija kan kvensk.</x>
+               <x>Alle unntatt Maija kan kvensk.</x>
                <xt>Kaikki paitti Maija osathaan kainuu.</xt>
             </xg>
          </tg>
