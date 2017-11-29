@@ -96,11 +96,23 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Pr">til</l>
       </lg>
+       <mg>
+         <tg xml:lang="fkv">
+       <t pos="suff">-haan/hään</t>
+        <t pos="suff">-lle</t>
+       <t type="grammar" href="https://nn.wikipedia.org/wiki/Allativ">allativ</t>
+       <t type="grammar" href="https://nn.wikipedia.org/wiki/Illativ">illativ</t>
+             <xg>
+               <x>Jeg kjører til Børselv i morgen.</x>
+               <xt>Mie ajan Pyssyjokheen huomena.</xt>
+            </xg>
+         </tg>
+      </mg> 
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">-lle</t>
          </tg>
-      </mg>
+      </mg>  
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">asti</t>
