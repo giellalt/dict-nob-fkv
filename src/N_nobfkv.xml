@@ -28,6 +28,76 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">lon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">järämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">bergtopp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jyppyrä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">isfiskegarn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">juomus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">fordypning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">juhta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">elvekulp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jorra</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">sund</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jolma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">saubukk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jaara</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">okse</l>
       </lg>
       <mg>
@@ -13294,6 +13364,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">jorma</t>
+            <t pos="N">jurma</t>
          </tg>
       </mg>
    </e>
@@ -14148,6 +14219,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">jälli</t>
+            <t pos="N">jelli</t>
          </tg>
       </mg>
    </e>
