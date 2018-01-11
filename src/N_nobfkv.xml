@@ -28,6 +28,82 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">inngjerding</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kartakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">reingjerde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kartakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kronglefuru</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">karhakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">odde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kannas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">nes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kannas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">hei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kangas</t>
+            <syng>
+               <syn>kuolpano</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">mo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kangas</t>
+            <syng>
+               <syn>kuolpano</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">skalle</l>
       </lg>
       <mg>
@@ -72,7 +148,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kaarre</t>
+            <t pos="N">kaarret</t>
          </tg>
       </mg>
    </e>
@@ -82,7 +158,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kaarre</t>
+            <t pos="N">kaaret</t>
          </tg>
       </mg>
    </e>
@@ -23630,6 +23706,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kuolpano</t>
+            <syng>
+               <syn>kangas</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -23640,6 +23719,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kuolpano</t>
+            <syng>
+               <syn>kangas</syn>
+            </syng>
          </tg>
       </mg>
       <mg>
