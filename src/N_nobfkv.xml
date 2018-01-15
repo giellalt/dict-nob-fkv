@@ -28,6 +28,46 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">midt på dagen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">keskipäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">haug</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">keila</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">keile</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">keila</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">eid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kaulanne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">inngjerding</l>
       </lg>
       <mg>
@@ -386,6 +426,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">harju</t>
+            <t pos="N">kelhä</t>
          </tg>
       </mg>
    </e>
@@ -9015,6 +9056,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">harju</t>
+            <t pos="N">kelhä</t>
          </tg>
       </mg>
       <mg>
@@ -18519,7 +18561,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;yr">
+   <e src="ai;yr;ia">
       <lg>
          <l pos="N">voll</l>
       </lg>
@@ -18531,6 +18573,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vainio</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kenttä</t>
          </tg>
       </mg>
    </e>
@@ -18846,6 +18893,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kesäsija</t>
+            <t pos="N">kenttä</t>
          </tg>
       </mg>
    </e>
