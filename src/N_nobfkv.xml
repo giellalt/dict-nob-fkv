@@ -28,6 +28,40 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">fjellside</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kylki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">reinbrems</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kurmu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">foss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kurkkio</t>
+            <syng>
+               <syn>kurkkii</syn>
+               <syn>koski</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">søle</l>
       </lg>
       <mg>
@@ -25386,23 +25420,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ia">
       <lg>
          <l pos="N">orm</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kärmet</t>
+            <t pos="N">käärme</t>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ia">
       <lg>
          <l pos="N">slange</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kärmet</t>
+            <t pos="N">käärme</t>
          </tg>
       </mg>
    </e>
