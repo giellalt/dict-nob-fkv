@@ -28,6 +28,56 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">fangstbås</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">loukku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">bakkekneik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">linkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">fløteplass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lauttauspaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">lund</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lehto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">avsats</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lanja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">brygge</l>
       </lg>
       <mg>
@@ -44836,13 +44886,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia">
       <lg>
          <l pos="N">gressløk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ruuholööki</t>
+            <t pos="N">laukka</t>
          </tg>
       </mg>
    </e>
