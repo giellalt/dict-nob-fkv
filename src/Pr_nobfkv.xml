@@ -808,6 +808,10 @@ For the full license text, see the link above.</lic>
                <x>Lampen henger over bordet.</x>
                <xt>Lamppu henkkaa pöyđän yli.</xt>
             </xg>
+                        <xg>
+               <x>Tak over hodet.</x>
+               <xt>Oon katto pään yli.</xt>
+            </xg>
          </tg>
       </mg>
                <mg>
@@ -851,6 +855,16 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Bli natten over.</x>
                <xt>Jääđä yöksi.</xt>
+            </xg>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+            <re>I løpet av en bestemt tid</re>
+            <t pos="suff">-Vn</t>
+            <xg>
+               <x>Det hendte over natten.</x>
+               <xt>Se tapattui yön aikana.</xt>
             </xg>
          </tg>
       </mg>
