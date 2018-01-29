@@ -32,7 +32,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>bevegelse fra under noe</re>
             <t pos="Po">alta</t>
+                 <xg>
+               <x>Kattungen kom fram under skapet.</x>
+               <xt>Kissänpenikkä laukkoi esile kaapin alta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -42,7 +47,28 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	          <re>bevegelse til under noe, lavere enn noe, noe som  pågår</re>
             <t pos="Po">alle</t>
+                        <xg>
+               <x>Ballen trillet under bordet.</x>
+               <xt>Pallo vierii pöyđän alle.</xt>
+            </xg>
+                <xg>
+               <x>Hun er under atten.</x>
+               <xt>Hän oon alle kahđeksantoista.</xt>
+            </xg>
+              <xg>
+               <x>Ute er det under under null grader.</x>
+               <xt>Ulkkoo oon alle nolla graadii.</xt>
+            </xg>
+              <xg>
+               <x>De bot i etasjen under oss.</x>
+               <xt>Het asuthaan alakerrassa.</xt>
+            </xg>
+                          <xg>
+               <x>Under krigen.</x>
+               <xt>Sođan aikana.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -52,7 +78,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>i ro under noe, delvis skjult eller gjemt av noe</re>
             <t pos="Po">alla</t>
+                              <xg>
+               <x>Katten gjemmer seg under senga.</x>
+               <xt>Kissa lymmyilee sängyn alla.</xt>
+            </xg>
+                      <xg>
+               <x>Veien står under vann.</x>
+               <xt>Tie oon veđen alla.</xt>
+            </xg>
+                 <xg>
+               <x>Sitte under et tre.</x>
+               <xt>Istuut puun alla.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
