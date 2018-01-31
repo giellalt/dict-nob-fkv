@@ -339,10 +339,15 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	          <re>sammen med noen hjemme hos dem eller hos en selv, sammen på det stedet man måtte befinne seg </re>
             <t pos="Po">tykö</t>
             <xg>
                <x>Hun kom til meg.</x>
                <xt>Hän tuli minun tykö.</xt>
+            </xg>
+              <xg>
+               <x>Står det bra til hos dere?</x>
+               <xt>Menneekö hyvin teiđän kans?</xt>
             </xg>
          </tg>
       </mg>
@@ -367,8 +372,20 @@ For the full license text, see the link above.</lic>
                <x>Han er hos meg.</x>
                <xt>Hän oon minun tykönä.</xt>
             </xg>
+              <xg>
+               <x>De er på fest hos naboen.</x>
+               <xt>Het oon krannin tykönä fästissä.</xt>
+            </xg>
          </tg>
       </mg>
+         <mg>
+         <tg xml:lang="fkv">
+	          <re>om tjenesteforhold </re>
+            <t pos="Po">tykö</t>
+            <xg>
+               <x>Hun jobbet som tjenestepike hos tanten sin.</x>
+               <xt>Hän työteli piikana täđin tykönä.</xt>
+            </xg>
    </e>
    <e src="ai;ta">
       <lg>
