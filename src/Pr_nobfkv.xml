@@ -55,7 +55,7 @@ For the full license text, see the link above.</lic>
             </xg>
                 <xg>
                <x>Hun er under atten.</x>
-               <xt>Hän oon alle kahđeksantoista.</xt>
+               <xt>Hän oon alle kahđeksentoista.</xt>
             </xg>
               <xg>
                <x>Ute er det under under null grader.</x>
@@ -1098,11 +1098,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">läpi</t>
+               <xg>
+               <x>De vandret gjennom tunnelen.</x>
+               <xt>Het vajelthiin tunneliita läpi.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pr">läpi</t>
+                        <xg>
+               <x>Mannen tråkket igjennom isen.</x>
+               <xt>Mies polki jään läpi.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -1111,6 +1119,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Moses reiste gjennom Rødehavet.</x>
                <xt>Mooses reisas läpitte Punasenmeren.</xt>
+            </xg>
+               <xg>
+               <x>Vinteren igjennom pendlet han til jobb.</x>
+               <xt>Talven läpi hän pendlas työhön.</xt>
             </xg>
         </tg>
       </mg>
