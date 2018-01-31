@@ -51,7 +51,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">alle</t>
                         <xg>
                <x>Ballen trillet under bordet.</x>
-               <xt>Pallo vierii pöyđän alle.</xt>
+               <xt>Pallo trillas pöyđän alle.</xt>
             </xg>
                 <xg>
                <x>Hun er under atten.</x>
@@ -63,11 +63,39 @@ For the full license text, see the link above.</lic>
             </xg>
               <xg>
                <x>De bot i etasjen under oss.</x>
-               <xt>Het asuthaan alakerrassa.</xt>
+               <xt>Het asuthaan ala-etaasissa.</xt>
             </xg>
                           <xg>
                <x>Under krigen.</x>
                <xt>Sođan aikana.</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <re>bevegelse til i overført betydning</re>
+            <t pos="Po">alle</t>
+            <xg>
+               <x>Norge kom under Danmark.</x>
+               <xt>Norja joutui Tanskan alle.</xt>
+            </xg>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+            <re>under noe i overført betydning, om prosess</re>
+            <t pos="Po">alle/alla</t>
+            <xg>
+               <x>Prosjektet er enda under arbeid.</x>
+               <xt>Projekti oon vielä työn alla.</xt>
+            </xg>
+              <xg>
+               <x>Boka er under trykking.</x>
+               <xt>Kirja oon präntämisessä.</xt>
+            </xg>
+             <xg>
+               <x>Nye Rema 1000 er enda under bygging.</x>
+               <xt>Uusi Reema 1000 pykäthään vielä.</xt>
             </xg>
          </tg>
       </mg>
@@ -94,6 +122,38 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <re>underlagt noe annet</re>
+            <t pos="Po">alle</t>
+            <xg>
+               <x>Seile under norsk flagg.</x>
+               <xt>Purjettiit Norjan flavun alla.</xt>
+            </xg>
+             <xg>
+               <x>Under trussel om straff.</x>
+               <xt>Rangaistuksen uhala.</xt>
+            </xg>
+             <xg>
+               <x>Under hans komando.</x>
+               <xt>Hänen komenolla.</xt>
+            </xg>
+         </tg>
+      </mg>
+                  <mg>
+         <tg xml:lang="fkv">
+            <re>om omstendigheter</re>
+            <t pos="Po">alla</t>
+            <xg>
+               <x>Under press.</x>
+               <xt>Painostuksen alla.</xt>
+            </xg>
+                        <xg>
+               <x>Under tvil.</x>
+               <xt>Epäilyksen alla.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -101,10 +161,63 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	           <re>om bevegelse, bli delt fra noe, tatt bort fra eller ut av</re>
             <t pos="suff">-sta</t>
             <xg>
                <x>Per hogger grener av treet.</x>
                <xt>Per hakkaa oksii puusta.</xt>
+            </xg>
+                        <xg>
+               <x>Ta av seg skoene.</x>
+               <xt>Ottaat kengät pois.</xt>
+            </xg>
+                  <xg>
+               <x>De dro av sted.</x>
+               <xt>Het lähđethiin pois.</xt>
+            </xg>
+                  <xg>
+               <x>Vi kom ikke av flekken.</x>
+               <xt>Emmä pääsheet mihinkhään.</xt>
+            </xg>
+                  <xg>
+               <x>Hun falt av hesten.</x>
+               <xt>Hän puđos hevosen sölästä.</xt>
+            </xg>
+                  <mg>
+         <tg xml:lang="fkv">
+	           <re> i overført betydning</re>
+            <t pos="suff">-sta</t>
+            <xg>
+               <x>Holde fingrene av fatet.</x>
+               <xt>Pittäät sormet pois fajista.</xt>
+            </xg>
+                  <mg>
+         <tg xml:lang="fkv">
+	           <re>laget av et materiale</re>
+            <t pos="suff">-sta</t>
+            <xg>
+               <x>Øsa er av tre.</x>
+               <xt>Kauha oon tehty puusta.</xt>
+            </xg>
+                  <mg>
+         <tg xml:lang="fkv">
+	           <re> Om opphav</re>
+            <t pos="suff">-sta</t>
+            <xg>
+               <x>En roman av Børsskog.</x>
+               <xt>Børsskogin rommaani.</xt>
+            </xg>
+                        <xg>
+               <x>Av bestefar lærte jeg å snekre.</x>
+               <xt> Äijilta opin nikkaroiđa.</xt>
+            </xg>
+                              <mg>
+         <tg xml:lang="fkv">
+	           <re> Om årsak til</re>
+            <t pos="suff">-sta</t>
+            <xg>
+               <x>De gjorde det av fri vilje.</x>
+               <xt>Het tehthiin sen vaphaasta tahđosta.</xt>
             </xg>
          </tg>
       </mg>
