@@ -116,8 +116,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	          <re>Snakke om noe eller noen</re>
             <t pos="Po">(jonku) ympäri</t>
+                       <xg>
+               <x>Prate om været.</x>
+               <xt>Puhhuut sään ympäri.</xt>
+            </xg>
+                     <xg>
+               <x>Prate om været.</x>
+               <xt>Puhhuut säästä.</xt>
+            </xg>
          </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+	          <re>Omsluttet av noe</re>
+            <t pos="Po">(jonku) ympäri</t>
+                       <xg>
+               <x>Ha belte om livet.</x>
+               <xt>(Pittäät vyön vattan ympäri).</xt>
+            </xg>
+              </tg>
       </mg>
    </e>
    <e src="mk">
