@@ -28,11 +28,153 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">sted</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">plassi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">område</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">plaana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">eng</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">plaana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">hytte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pirtti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">stue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pirtti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">spiss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pirri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">merke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pilkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">flint</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kvae</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pihka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">fjellvål</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">piekana</t>
+            <t pos="N">piekkana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">villrein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">peura</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">unge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">penikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">dyrunge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">penikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">jorde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pelto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">kant</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">parras</t>
+            <t pos="N">perä</t>
          </tg>
       </mg>
    </e>
@@ -213,6 +355,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">nunni</t>
+            <t pos="N">pirri</t>
          </tg>
       </mg>
    </e>
@@ -2290,13 +2433,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;ia">
       <lg>
          <l pos="N">ende</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">heitto</t>
+            <t pos="N">perä</t>
          </tg>
       </mg>
    </e>
@@ -42856,13 +43000,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia">
       <lg>
          <l pos="N">bakende</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pöräpuoli</t>
+            <t pos="N">perä</t>
          </tg>
       </mg>
    </e>
@@ -55903,12 +56048,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="yr">
+   <e src="yr;ia">
       <lg>
          <l pos="N">botn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">pohja</t>
             <t pos="N">vuomanpohja</t>
          </tg>
       </mg>
