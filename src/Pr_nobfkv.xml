@@ -32,7 +32,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	          <re>Etter, bevegelse mot noe</re>
             <t pos="Po">takkaa</t>
+                                <xg>
+               <x>Gå bak fjellet.</x>
+               <xt>Mennä vaaran takkaa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -52,8 +57,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	           <re>Etter, i ro</re>
             <t pos="Po">takana</t>
+                                      <xg>
+               <x>Han står bak deg.</x>
+               <xt>Hän seissoo sinun takana.</xt>
+            </xg>
          </tg>
+      </mg>
+           <mg>
+         <tg xml:lang="fkv">
+	           <re>i abstrakt betydning og om tid</re>
+            <t pos="Po">kans</t>
+                                       <xg>
+               <x>Han har hele folket bak seg.</x>
+               <xt>Hänelä oon koko kansa takana.</xt>
+            </xg>
+                                <xg>
+               <x>Rådmannen har bak seg mange år i politikken.</x>
+               <xt>Raatimiehelä oon takana monta vuotta politiikassa.</xt>
+            </xg>
+              </tg>
       </mg>
    </e>
    <e src="mk">
