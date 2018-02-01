@@ -126,6 +126,10 @@ For the full license text, see the link above.</lic>
                <x>Prate om været.</x>
                <xt>Puhhuut säästä.</xt>
             </xg>
+              <xg>
+               <x>Spørre om noe.</x>
+               <xt>Kyssyyt jostaki.</xt>
+            </xg>
          </tg>
       </mg>
          <mg>
@@ -151,6 +155,16 @@ For the full license text, see the link above.</lic>
                <xt>Päivän aikana met pruukkaama hihđata.</xt>
             </xg>
                </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="fkv">
+	          <re>Om tidspunkt</re>
+	          <t pos="Po">päässä</t>
+                       <xg>
+               <x>Jeg kommer om en time.</x>
+               <xt>Mie tulen tiiman päässä.</xt>
+            </xg>
+                </tg>
       </mg>
    </e>
    <e src="mk">
