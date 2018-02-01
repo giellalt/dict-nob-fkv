@@ -42,7 +42,26 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>På utsiden av noe</re>
             <t pos="Po">ulkopuolela</t>
+                        <xg>
+               <x>Han står utenfor huset.</x>
+               <xt>Hän seissoo ulkopuolela talloo.</xt>
+            </xg>
+                 <xg>
+               <x>Han står utenfor huset.</x>
+               <xt>Hän seissoo talon ulkopuolela.</xt>
+            </xg>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+	             <re>På utsiden av noe, bevegelse fra</re>
+            <t pos="Po">sisäpuolelta</t>
+              <xg>
+               <x>Døra er låst fra utsiden.</x>
+               <xt>Ovi oon lukutettu ulkopuolelta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -52,7 +71,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	             <re>På innsiden av noe, i ro</re>
             <t pos="Po">sisäpuolela</t>
+              <xg>
+               <x>Høyet er nå på innsiden av fjøset.</x>
+               <xt>Heinä oon nyt navetan sisäpuolela.</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	             <re>På innsiden av noe, bevegelse fra</re>
+            <t pos="Po">sisäpuolelta</t>
+              <xg>
+               <x>Døra er låst fra innsiden.</x>
+               <xt>Ovi oon lukutettu sisäpuolelta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -186,7 +220,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	            <re>omkring, i sirkel</re>
             <t pos="Po">ympäri</t>
+                                <xg>
+               <x>Jordet roterer rundt sin egen akse</x>
+               <xt>Maa pyörii oman akselin ympäri.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
