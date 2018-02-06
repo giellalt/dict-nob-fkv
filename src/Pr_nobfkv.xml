@@ -138,6 +138,10 @@ For the full license text, see the link above.</lic>
                <x>Innen en viss tid.</x>
                <xt>Tietyn aijan sisälä.</xt>
             </xg>
+             <xg>
+               <x>Det skjedde innen en uke.</x>
+               <xt>Se tapattui viikon sisälä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -215,6 +219,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">jollekki</t>
+                  <xg>
+               <x>Det er for deg.</x>
+               <xt>Se oon sinule.</xt>
+            </xg>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+	          <re>foran, framover</re>
+            <t pos="Po">jollekki</t>
+                  <xg>
+               <x>Du må se deg for i trafikken.</x>
+               <xt>Trafiikissa häyttyy varottaat.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
