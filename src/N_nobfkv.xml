@@ -28,6 +28,36 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">bekk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puro</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">grop</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">purnu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">butikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puoti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">halvdel</l>
       </lg>
       <mg>
@@ -16304,13 +16334,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia">
       <lg>
          <l pos="N">skjå</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kaja</t>
+            <t pos="N">puura</t>
          </tg>
       </mg>
    </e>
