@@ -28,6 +28,136 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">strøm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rauma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">groblad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ratamo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">søle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rapa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">skar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rakku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">steinur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kvann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">raasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">gress</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">raasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">musling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">raakku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">svale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pääskinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">høgde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pää</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">fjell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pää</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">berg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">päri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vannvirvel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pyörret</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">bekk</l>
       </lg>
       <mg>
@@ -29948,13 +30078,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ia">
       <lg>
          <l pos="N">bakke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="luoka">luokka</t>
+            <t pos="N" stem="luoka">pysty</t>
          </tg>
       </mg>
       <mg>
