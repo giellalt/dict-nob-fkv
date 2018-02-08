@@ -173,7 +173,11 @@ For the full license text, see the link above.</lic>
             <t pos="Po">(jonku) ympäri</t>
                        <xg>
                <x>Ha belte om livet.</x>
-               <xt>Pittäät vyön vyötärän ympäri.</xt>
+               <xt>Pittäät beltin vyötärälä.</xt>
+            </xg>
+                 <xg>
+               <x>Ha belte om livet.</x>
+               <xt>Pittäät vyön vyötärän ympärilä.</xt>
             </xg>
               </tg>
       </mg>
@@ -231,7 +235,21 @@ For the full license text, see the link above.</lic>
             <t pos="Po">jollekki</t>
                   <xg>
                <x>Du må se deg for i trafikken.</x>
-               <xt>Trafiikissa häyttyy varottaat.</xt>
+               <xt>(Trafiikissa häyttyy varottaat).</xt>
+            </xg>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+	          <re>ved rekkefølge</re>
+            <t pos="Po">jollekki</t>
+                  <xg>
+               <x>Skritt for skritt.</x>
+               <xt>(Askel askelelta).</xt>
+            </xg>
+             <xg>
+               <x>Ord for ord.</x>
+               <xt>Sanasta sanhaan.</xt>
             </xg>
          </tg>
       </mg>
