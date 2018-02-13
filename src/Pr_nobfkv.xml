@@ -93,8 +93,25 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	          <re>nær ved og paralelt med</re>
             <t pos="Po">myöten</t>
             <t pos="Po">myöđen</t>
+              <xg>
+               <x>Langs elva.</x>
+               <xt>Joven myöđen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	          <re>bortover, på og nær ved </re>
+            <t pos="Po">myöten</t>
+            <t pos="Po">myöđen</t>
+             <t pos="Po">pitkin</t>
+              <xg>
+               <x>Grensen går langs gjerdet.</x>
+               <xt>Raja mennee aittaa pitkin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -105,6 +122,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">eđessä</t>
+              <xg>
+               <x>Foran treet.</x>
+               <xt>Puun eđessä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
