@@ -1171,8 +1171,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	           <re>om bevegelse eller plassering av noe oppå noe annet</re>
             <t pos="Po">pääle</t>
+             <xg>
+               <x>Han satte boksen oppå bordet.</x>
+               <xt>Hän pani loovan pöyđän pääle.</xt>
+            </xg>
+            <xg>
+               <x>Ungen klatret oppå kjøkkenbenken.</x>
+               <xt>(Kläppi kiikkui köökkipenkin pääle).</xt>
+            </xg>
          </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	           <re>i ro oppe på noe</re>
+            <t pos="Po">pääle</t>
+             <xg>
+               <x>Hatten lå oppå hylla.</x>
+               <xt>Hattu makkas hyllyn pääle.</xt>
+            </xg>
+             </tg>
       </mg>
    </e>
    <e src="ai">
