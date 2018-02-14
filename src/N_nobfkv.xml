@@ -28,6 +28,36 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">skjær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">selkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">fjellrygg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">selkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">staur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">saikara</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">kløft</l>
       </lg>
       <mg>
@@ -9697,6 +9727,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hamina</t>
+            <t pos="N">satama</t>
          </tg>
       </mg>
    </e>
@@ -23904,13 +23935,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia">
       <lg>
          <l pos="N">grunne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">krunni</t>
+            <t pos="N">selkä</t>
          </tg>
       </mg>
       <mg>
