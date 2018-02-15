@@ -28,6 +28,26 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">bosetning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">siiti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">bebyggelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">siiti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">skjær</l>
       </lg>
       <mg>
@@ -31062,6 +31082,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanpruuki</t>
+            <t pos="N">siiti</t>
          </tg>
       </mg>
       <mg>
