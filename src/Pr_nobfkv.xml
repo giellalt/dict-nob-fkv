@@ -75,7 +75,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">sishäänpäin</t>
+            <t pos="Po">sishäänpäin, sisä- </t>
+             <xg>
+               <x>Innover vidda vokser det mye bjørk.</x>
+               <xt>(Tunturin sisämaassa kassuu paljon koivvuu).</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -273,7 +277,11 @@ For the full license text, see the link above.</lic>
             <t pos="Po">alaspäin</t>
               <xg>
                <x>Det gikk nedover med dem.</x>
-               <xt>(Se meni huonosti heiđän kans).</xt>
+               <xt>Se meni huonosti heiđän kans.</xt>
+            </xg>
+              <xg>
+               <x>Det gikk nedover med dem.</x>
+               <xt>Se meni alaskäsin heiđän kans.</xt>
             </xg>
          </tg>
       </mg>
@@ -714,7 +722,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">kans</t>
                                        <xg>
                <x>Stryke hunden med hårene.</x>
-               <xt>Silittäät koiran karvoin myöđen.</xt>
+               <xt>Pyhkiit koiran karvoi myöđen.</xt>
             </xg>
                                  <xg>
                <x>Ro med vinden.</x>
