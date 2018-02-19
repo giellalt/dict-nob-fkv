@@ -28,6 +28,78 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">teglmølle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tiilimylly</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">tjæreovn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tervauuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vinterboplass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">talvisija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">hesje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">haasia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">bakside</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">takus</t>
+            <t pos="N">takusta</t>
+            <t pos="N">tausta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">dal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">taali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">ulvefelle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">susihauta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">dal</l>
       </lg>
       <mg>
@@ -103,6 +175,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sokka</t>
+            <t pos="N">tšokka</t>
          </tg>
       </mg>
    </e>
@@ -767,6 +840,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">oivi</t>
+            <t pos="N">tšokka</t>
          </tg>
       </mg>
    </e>
@@ -918,6 +992,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">luppo</t>
+            <t pos="N">taali</t>
          </tg>
       </mg>
    </e>
