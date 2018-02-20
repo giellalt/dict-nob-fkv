@@ -28,6 +28,47 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">åker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vainio</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">våg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaaka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kjos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">uopaja</t>
+            <t pos="N">vuopaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">hytte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tupa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">teglmølle</l>
       </lg>
       <mg>
@@ -477,6 +518,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">puro</t>
+            <t pos="N">uitto</t>
          </tg>
       </mg>
    </e>
@@ -528,6 +570,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">pukta</t>
             <t pos="N">pukti</t>
+            <t pos="N">vaaka</t>
          </tg>
       </mg>
    </e>
@@ -578,6 +621,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">plaana</t>
+            <t pos="N">vainio</t>
          </tg>
       </mg>
    </e>
@@ -1609,6 +1653,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">humppi</t>
+            <t pos="N">töyry</t>
          </tg>
       </mg>
    </e>
@@ -30427,6 +30472,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">törmä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">töyry</t>
          </tg>
       </mg>
    </e>
