@@ -28,6 +28,76 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">drag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">veto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">trekk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">veto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vatn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vanni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">veksling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaihetus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">bytte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaihetus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">uthus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">skjul</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">åker</l>
       </lg>
       <mg>
@@ -41348,6 +41418,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vörrääjä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">veräjä</t>
          </tg>
       </mg>
    </e>
