@@ -28,6 +28,16 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">fjordbotn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vuononperä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">drag</l>
       </lg>
       <mg>
@@ -124,6 +134,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">uopaja</t>
             <t pos="N">vuopaja</t>
+            <t pos="N">vuopio</t>
          </tg>
       </mg>
    </e>
@@ -22890,7 +22901,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;yr">
+   <e src="ai;ta;yr;ia">
       <lg>
          <l pos="N">vik</l>
       </lg>
@@ -22907,6 +22918,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vuoppii</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">viikka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">viika</t>
          </tg>
       </mg>
    </e>
@@ -51227,13 +51248,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia">
       <lg>
          <l pos="N">hovedelv</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">teno</t>
+            <t pos="N">väylä</t>
          </tg>
       </mg>
       <mg>
@@ -52802,7 +52824,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;yr">
+   <e src="ai;ta;yr;ia">
       <lg>
          <l pos="N">fjell</l>
       </lg>
@@ -52810,6 +52832,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">tunturi</t>
             <t pos="N">kaisa</t>
+            <t pos="N">vuori</t>
          </tg>
       </mg>
       <mg>
