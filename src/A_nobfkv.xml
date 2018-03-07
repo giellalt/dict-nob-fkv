@@ -28,6 +28,27 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="A">øverste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ylimäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">øvre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ylempi</t>
+            <t pos="A">ylinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="A">liten</l>
       </lg>
       <mg>
@@ -58,7 +79,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
-         <l pos="A">øvre</l>
+         <l pos="A">øverst</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3847,6 +3868,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">koukussa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">väärä</t>
          </tg>
       </mg>
    </e>
