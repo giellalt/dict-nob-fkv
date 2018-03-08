@@ -165,8 +165,8 @@ For the full license text, see the link above.</lic>
                <xt>Olla eđesvastauksessa jostaki.</xt>
             </xg>
              <xg>
-               <x>Stå ovefor hverandre i en konkurranse.</x>
-              <!--   <xt>(Olla toinen toista vasthaan kilppailussa).</xt>
+            <!--     <x>Stå ovefor hverandre i en konkurranse.</x>
+            <xt>(Olla toinen toista vasthaan kilppailussa).</xt>
             </xg>  -->
          </tg>
       </mg>
@@ -349,12 +349,12 @@ For the full license text, see the link above.</lic>
                <xt>Piika käveli klasin sivvu.</xt>
             </xg>
               <xg>
-               <x>Vi passerer nå Kirkenes.</x>
+         <!--       <x>Vi passerer nå Kirkenes.</x>
                <xt>(Met menemä nyt Kirkkoniemen siutte).</xt>
-            </xg>
-                <xg>
+            </xg> --> 
+           <!--        <xg>
                <x>Slippe forbi.</x>
-               <xt>(anttaa toinen mennä etheen).</xt>
+               <xt>(anttaa toinen mennä etheen).</xt> --> 
             </xg>
          </tg>
       </mg>
@@ -476,9 +476,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Po">sisälä</t>
                  <xg>
-               <x>Innen en viss tid.</x>
+      <!--         <x>Innen en viss tid.</x>
                <xt>Vissin aijan sisälä.</xt>
-            </xg>
+            </xg> -->
              <xg>
                <x>Det skjedde innen en uke.</x>
                <xt>Se tapattui viikon sisälä.</xt>
@@ -592,10 +592,10 @@ For the full license text, see the link above.</lic>
                <x>Skritt for skritt.</x>
                <xt>Askel askelheen pörästä.</xt>
             </xg>
-             <xg>
+         <!--    <xg>
                <x>Ord for ord.</x>
                <xt>Sana sanasta pörästä.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -627,7 +627,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">jonku seassa</t>
                           <xg>
                <x>Blant folk.</x>
-               <xt>ihmisten seassa.</xt>
+               <xt>Ihmisten seassa.</xt>
             </xg>
          </tg>
       </mg>
@@ -639,10 +639,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">taakse</t>
-                   <xg>
+              <!--     <xg>
                <x>Reise tilbake i tiden.</x>
                <xt>(Reisata taakse aijassa).</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -739,10 +739,10 @@ For the full license text, see the link above.</lic>
                <x>Fra og med i dag.</x>
                <xt>Tämän päivän jälkhiin.</xt>
             </xg>
-                                  <xg>
-               <x>Fra og med i dag.</x>
+                               <!--     <xg>
+     <x>Fra og med i dag.</x>
                <xt>(Täpälistä saakka).</xt>
-            </xg>
+            </xg> -->
                                  <xg>
                <x>Fem personer med sjåføren.</x>
                <xt>Viisi ihmistä ajajan kans.</xt>
@@ -1104,19 +1104,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">asti</t>
-              <xg>
+       <!--       <xg>
                <x>Inntil i morgen er det bare å vente.</x>
                <xt>(Huomisheen asti oon tyhä ođottaat).</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pr">kiini</t>
-             <xg>
+       <!--      <xg>
                <x>Bøtten står inntil stigen.</x>
                <xt>(Ämpäri seissoo kohta kiini trapphuun).</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -1258,10 +1258,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">myöđen</t>
-              <xg>
+           <!--   <xg>
                <x>Vi spaserer langs med elva.</x>
                <xt>(Met kävelemä joven myöđen).</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
