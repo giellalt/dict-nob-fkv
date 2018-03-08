@@ -41,10 +41,10 @@ For the full license text, see the link above.</lic>
                <x>Jeg stikker en snartur innom bestemor.</x>
                <xt>Mie tehen pienen mukan ämmin tykönä.</xt>
             </xg>
-             <xg>
+         <!--    <xg>
                <x>Vi var innom temaet under forelesningen.</x>
                <xt>(Puhuima vähän siitä teemasta faakimuisteluksen aikana).</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -85,10 +85,10 @@ For the full license text, see the link above.</lic>
                <x>Ingenting ble sagt imot forslaget.</x>
                <xt>Ei mithään ollu sanottu ehđotusta vasthaan.</xt>
             </xg>
-             <xg>
+      <!--       <xg>
                <x>De gikk rett imot horisonten.</x>
                <xt>(Het kävelthiin suorhaan kohđi horisonttii).</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -103,10 +103,10 @@ For the full license text, see the link above.</lic>
                <x>Greinene vokser utover.</x>
                <xt>Oksat kasuthaan ulvospäin.</xt>
             </xg>
-            <xg>
+        <!--    <xg>
                <x>Turistene så utover fjorden.</x>
                <xt>(Turistit katothiin vuonon yli).</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -710,10 +710,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	            <re>omkring, i sirkel</re>
             <t pos="Po">ympäri</t>
-                                <xg>
+        <!--                        <xg>
                <x>Jordet roterer rundt sin egen akse</x>
                <xt>Maa pyörii oman akselin ympäri.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -1309,10 +1309,10 @@ For the full license text, see the link above.</lic>
                <x>Han satte boksen oppå bordet.</x>
                <xt>Hän pani loovan pöyđän pääle.</xt>
             </xg>
-            <xg>
+         <!--   <xg>
                <x>Ungen klatret oppå kjøkkenbenken.</x>
                <xt>(Kläppi kiikkui köökkipenkin pääle).</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg> 
    </e>
@@ -1372,10 +1372,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">pörästä</t>
-            <xg>
+          <!--  <xg>
                <x>Den ene etter den andre.</x>
                <xt>(Yksi toinen toisen pörästä.)</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
       <mg>
