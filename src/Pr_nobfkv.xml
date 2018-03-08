@@ -121,9 +121,9 @@ For the full license text, see the link above.</lic>
                <x>Innover vidda vokser det mye bjørk.</x>
                <xt>(Tunturin sisämaassa kassuu paljon koivvuu).</xt>
             </xg>
-             <xg>
-           <!--      <x>Vannet flommer innover potetåkeren.</x>
-          <xt>(Vesi purssuu puteettimaan yli).</xt>
+<!--             <xg>
+               <x>Vannet flommer innover potetåkeren.</x>
+               <xt>(Vesi purssuu puteettimaan yli).</xt>
             </xg> -->
             <xg>
                <x>Negelen vokser innover.</x>
@@ -144,7 +144,9 @@ For the full license text, see the link above.</lic>
                <x>Skolen er overfor det gule huset.</x>
                <xt>Koulu oon keltaisen huonheen vastapuolela.</xt>
             </xg>
-             <mg>
+         </tg>
+             </mg>
+      <mg>
          <tg xml:lang="fkv">
 	             <re>I overført betydning</re>
             <t pos="Po">eđessä</t>
@@ -368,7 +370,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">jonku jälkhiin</t>
                   <xg>
                <x>Ifølge sagnet var Sammeli Kippanen den første som kom til Børselv.</x>
-               <xt>Muisteluksen jälkheen Sammeli Kippanen oli ensimäinen joka tuli Pyssyjokheen.</   xt>
+               <xt>Muisteluksen jälkheen Sammeli Kippanen oli ensimäinen joka tuli Pyssyjokheen.</xt>
             </xg>
                    <xg>
                <x>Ifølge loven er det straffbart å plage andre på internet.</x>
@@ -723,15 +725,17 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	           <re>hos, ved</re>
             <t pos="Po">kans</t>
-                                       <xg>
+           <xg>
                <x>Jeg er hos en venn.</x>
                <xt>Mie olen ystävän kans.</xt>
             </xg>
-                            <xg>
+           <xg>
                <x>Fløte til kaffen</x>
                <xt>Kerma kaffin kans.</xt>
             </xg>
-              <mg>
+         </tg>
+      </mg>
+            <mg>
          <tg xml:lang="fkv">
 	           <re>iberegnet</re>
             <t pos="Pr">asti</t>
@@ -765,6 +769,8 @@ For the full license text, see the link above.</lic>
                <x>Sårene forsvinner med tiden.</x>
                <xt>Haavat hävithään aijan kans.</xt>
             </xg>
+         </tg>
+      </mg>
              <mg>
          <tg xml:lang="fkv">
 	           <re>I samme retning som</re>
@@ -857,9 +863,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	           <re>Sammen med</re>
 	            <t pos="Po">kans</t>
-                                       <xg>
+             <xg>
                <x>Med kone og barn.</x>
-               <xt>Ämmän ja lasten kans. </xt>
+               <xt>Ämmän ja lasten kans.</xt>
             </xg>
                   </tg>
       </mg>
@@ -1005,23 +1011,25 @@ For the full license text, see the link above.</lic>
                <x>Per hogger grener av treet.</x>
                <xt>Per hakkaa oksii puusta.</xt>
             </xg>
-                        <xg>
+           <xg>
                <x>Ta av seg skoene.</x>
                <xt>Ottaat kengät pois.</xt>
             </xg>
-                  <xg>
+           <xg>
                <x>De dro av sted.</x>
                <xt>Het lähđethiin pois.</xt>
             </xg>
-                  <xg>
+           <xg>
                <x>Vi kom ikke av flekken.</x>
                <xt>Emmä pääsheet mihinkhään.</xt>
             </xg>
-                  <xg>
+          <xg>
                <x>Hun falt av hesten.</x>
                <xt>Hän puđos hevosen sölästä.</xt>
             </xg>
-                  <mg>
+                  </tg>
+                  </mg>
+      <mg>
          <tg xml:lang="fkv">
 	           <re> i overført betydning</re>
             <t pos="suff">-sta</t>
@@ -1029,6 +1037,8 @@ For the full license text, see the link above.</lic>
                <x>Holde fingrene av fatet.</x>
                <xt>Pittäät sormet pois fajista.</xt>
             </xg>
+            </tg>
+                  </mg>
                   <mg>
          <tg xml:lang="fkv">
 	           <re>laget av et materiale</re>
@@ -1037,6 +1047,8 @@ For the full license text, see the link above.</lic>
                <x>Øsa er av tre.</x>
                <xt>Kauha oon tehty puusta.</xt>
             </xg>
+            </tg>
+                  </mg>
                   <mg>
          <tg xml:lang="fkv">
 	           <re> Om opphav</re>
@@ -1049,7 +1061,9 @@ For the full license text, see the link above.</lic>
                <x>Av bestefar lærte jeg å snekre.</x>
                <xt> Äijilta opin nikkaroiđa.</xt>
             </xg>
-                              <mg>
+            </tg>
+                  </mg>
+                  <mg>
          <tg xml:lang="fkv">
 	           <re> Om årsak til</re>
             <t pos="suff">-sta</t>
@@ -1232,6 +1246,8 @@ For the full license text, see the link above.</lic>
                <x>Gutten gikk i lære hos onkelen sin.</x>
                <xt>Hän meni opiksi seđän työssä.</xt>
             </xg>
+         </tg>
+      </mg>
               <mg>
          <tg xml:lang="fkv">
 	          <re>i forretning</re>
@@ -1240,6 +1256,8 @@ For the full license text, see the link above.</lic>
                <x>Handle hos kjøpmannen.</x>
                <xt>Ostaat kauppamieheltä.</xt>
             </xg>
+         </tg>
+      </mg>
                    <mg>
          <tg xml:lang="fkv">
 	          <re>som hører til</re>
@@ -2287,7 +2305,6 @@ For the full license text, see the link above.</lic>
                <x>Taket på huset</x>
                <xt>Huonheen katto</xt>
             </xg>
-             <xg>
          </tg>
       </mg>
    </e>
