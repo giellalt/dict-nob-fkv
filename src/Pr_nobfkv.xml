@@ -1057,10 +1057,10 @@ For the full license text, see the link above.</lic>
                <x>En roman av Børsskog.</x>
                <xt>Børsskogin rommaani.</xt>
             </xg>
-                        <xg>
+          <!--              <xg>
                <x>Av bestefar lærte jeg å snekre.</x>
                <xt> Äijiltä opin nikkaroiđa.</xt>
-            </xg>
+            </xg> -->
             </tg>
                   </mg>
                   <mg>
@@ -1191,10 +1191,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">asti</t>
-            <xg>
+     <!--       <xg>
                <x>Jeg kjører deg helt til Tromsø.</x>
                <xt>Mie ajan sinun Tromsshaan asti.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
       <mg>
@@ -1242,10 +1242,10 @@ For the full license text, see the link above.</lic>
                <x>Hun jobbet som tjenestepike hos tanten sin.</x>
                <xt>Hän työteli piikana täđin tykönä.</xt>
             </xg>
-              <xg>
+      <!--        <xg>
                <x>Gutten gikk i lære hos onkelen sin.</x>
                <xt>Hän meni opiksi seđän työssä.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
               <mg>
@@ -1491,10 +1491,10 @@ For the full license text, see the link above.</lic>
                <x>Jeg skal reise i mai.</x>
                <xt>Mie aijon reisata maikuussa.</xt>
             </xg>
-                          <xg>
+          <!--                <xg>
                <x>I gamle dager hadde ikke folk bil.</x>
                <xt>Ihmisillä ei ollu piilii vanhaassa aijassa.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
       <mg>
@@ -1531,10 +1531,10 @@ For the full license text, see the link above.</lic>
 	         <re>følelse for noe</re>
 	         <t pos="suff">-hiin</t>
             <t pos="suff">-sta/stä</t>
-            <xg>
+        <!--    <xg>
                <x>Han er glad i mat</x>
 	       <xt>Hän tykkää ruovasta.</xt>
-	    </xg>
+	    </xg> -->
                    <xg>
                <x>Jeg gir blaffen i det. </x>
                <xt>Mie en perusta siitä assiista.</xt>
@@ -1625,7 +1625,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">välissä</t>
               <xg>
              <x>Hyljet uipi jäitten välissä.</x>
-               <xt>Selene svømmer mellom isen.</xt>
+               <xt>Selen svømmer mellom isen.</xt>
                    </xg>
          </tg>
       </mg>
