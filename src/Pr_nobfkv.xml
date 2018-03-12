@@ -117,10 +117,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">sishäänpäin, sisä- </t>
-             <xg>
+<!--                <xg>
                <x>Innover vidda vokser det mye bjørk.</x>
                <xt>(Tunturin sisämaassa kassuu paljon koivvuu).</xt>
-            </xg>
+            </xg> -->
 <!--             <xg>
                <x>Vannet flommer innover potetåkeren.</x>
                <xt>(Vesi purssuu puteettimaan yli).</xt>
@@ -1658,10 +1658,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">sijassa</t>
-                        <xg>
+                 <!--       <xg>
                <x>Pekka fungerte som kokk i stedet for Anni.</x>
                <xt>Pekka toimi kokkina Annin sijassa.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
       <mg>
@@ -1697,10 +1697,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">suhtheen</t>
-            <xg>
-               <x>I forhold til været lar det seg å hyppe potetene.</x>
-               <xt>(Sään suhtheen saattaa multtaat puteettii).</xt>
-            </xg>
+      <!--      <xg>
+               <x>I forhold til været kan vi hyppe potetene idag.</x>
+               <xt>(Sään suhtheen saatama multtaat puteettii täpänä).</xt>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -1725,28 +1725,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">takaisin</t>
-            <xg>
+       <!--     <xg>
                <x>Vi flytta til Tromsø for tre år siden.</x>
                <xt>Met siiryimä Tromsshaan kolme vuotta takaisin.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">takaperin</t>
-             <xg>
+ <!--            <xg>
                <x>For fem år siden var jeg i Japan.</x>
                <xt>(Viiđen vuođen takaperin olin Japanissa).</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">takapäin</t>
-            <xg>
+ <!--           <xg>
                <x>for tre år siden</x>
                <xt>kolme vuotta takapäin</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -1785,10 +1785,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">takia</t>
-             <xg>
+<!--             <xg>
                <x>Jeg ble forsinket på grunn av køen i kassa.</x>
                <xt>Mie hiljestyin sen takia, ette kassassa oli pitkä jono.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
       <mg>
@@ -1813,10 +1813,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">takkaa</t>
-             <xg>
+<!--             <xg>
                <x>Jeg så dem ikke siden de kom bakfra.</x>
                <xt>(Mie nähny heitä ko het tulthiin minun takkaa).</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -1885,10 +1885,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pr">vaila</t>
-            <xg>
+<!--            <xg>
                <x>Vi er uten elektrisitet.</x>
                <xt>Met olema vaila sähköö.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -2047,10 +2047,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <re>Via</re>
             <t pos="suff">-Vn</t>
-            <xg>
+<!--            <xg>
                <x>Vi reiser via Tromsø.</x>
                <xt>Met reissaama Tromssan kautta.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
            <mg>
@@ -2081,19 +2081,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">läpi</t>
-               <xg>
+<!--               <xg>
                <x>De vandret gjennom tunnelen.</x>
                <xt>Het vajelthiin tunneliita läpi.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pr">läpi</t>
-                        <xg>
+<!--                        <xg>
                <x>Mannen tråkket igjennom isen.</x>
                <xt>Mies polki jään läpi.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
       <mg>
@@ -2229,10 +2229,10 @@ For the full license text, see the link above.</lic>
             <t pos="Po">päälä</t>
              <t pos="suff">-V/ta/tä/a/ä</t>
              <t type="grammar" href="https://nn.wikipedia.org/wiki/Partitiv">partitiv</t>
-            <xg>
+<!--            <xg>
                <x>Jeg tenker på deg.</x>
                <xt>Mie ajattelen sinun päälä.</xt>
-            </xg>
+            </xg> -->
             <xg>
                <x>Jeg leste på leksene.</x>
                <xt>Mie lujin läksyin päälä.</xt>
