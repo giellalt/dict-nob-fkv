@@ -28,6 +28,138 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">smørflyndre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pontikka</t>
+            <t pos="N">voisantikka</t>
+            <t pos="N">voiflynteri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">sandskrubb</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuormakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">gråflyndre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">krooflynteri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">rødspette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">santikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vårtorsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kevätturska</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">loddetorsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lotaturska</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">gytefisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kutukala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">havtorsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">aapaturska</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">ikke-vandrende torsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">asentoturska</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">ikke-vandrende fisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">asentokala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">taretorsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">taaraturska</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">mort</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">murtto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">yngel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yngeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">fjordbotn</l>
       </lg>
       <mg>
@@ -8973,11 +9105,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">flynteri</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="santika">santikka</t>
          </tg>
       </mg>
    </e>
@@ -24086,13 +24213,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ia">
       <lg>
          <l pos="N">småfisk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kriili</t>
+            <t pos="N">murtto</t>
          </tg>
       </mg>
    </e>
