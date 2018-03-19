@@ -28,6 +28,87 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">vinterstøing</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">talvikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">stor laks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">käntti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">fjellfisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tunturikala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">ferskvannsfisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">saivokala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">bekkeørret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulmakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">ulke (vanlig)</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kunttepillari</t>
+            <t pos="N">kunttipillari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">korall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">koralli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">rognkall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rognkalli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">smørflyndre</l>
       </lg>
       <mg>
@@ -4726,13 +4807,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ia">
       <lg>
          <l pos="N">uer</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ahven</t>
+            <t pos="N">affen</t>
          </tg>
       </mg>
       <mg>
@@ -4746,13 +4828,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ia">
       <lg>
          <l pos="N">abbor</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ahven</t>
+            <t pos="N">affen</t>
          </tg>
       </mg>
       <mg>
@@ -17233,7 +17316,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia">
       <lg>
          <l pos="N">fiskeyngel</l>
       </lg>
@@ -17245,6 +17328,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kalansikkii</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulmakko</t>
          </tg>
       </mg>
    </e>
@@ -45564,13 +45652,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ia">
       <lg>
          <l pos="N">rognkjeks</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">ronku</t>
+            <t pos="N">ronkku</t>
          </tg>
       </mg>
    </e>
