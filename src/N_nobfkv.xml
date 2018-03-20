@@ -28,6 +28,66 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">fakslodde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rautalota</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vinterlodde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">talvilota</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">sjøørret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">meritammukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">pukkellaks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ryssänlohi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">russelaks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ryssänlohi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">høstlaks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">syyslohi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">vinterstøing</l>
       </lg>
       <mg>
@@ -24707,13 +24767,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ia">
       <lg>
-         <l pos="N">svele</l>
+         <l pos="N">røye</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kujeri</t>
+            <t pos="N">kuijeri</t>
          </tg>
       </mg>
    </e>
@@ -26053,7 +26113,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ia">
       <lg>
          <l pos="N">sjøørret</l>
       </lg>
@@ -30355,13 +30415,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ia">
       <lg>
          <l pos="N">lodde</l>
       </lg>
       <mg>
          <tg xml:lang="fkv" re="fisk">
             <t pos="N">lotta</t>
+            <t pos="N">lota</t>
          </tg>
       </mg>
    </e>
