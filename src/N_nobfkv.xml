@@ -28,6 +28,42 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">pigghå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hokki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kvitnos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">springari</t>
+            <syng>
+               <syn>springer</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">springer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">springari</t>
+            <syng>
+               <syn>kvitnos</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">spekkhogger</l>
       </lg>
       <mg>
@@ -10069,13 +10105,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia">
       <lg>
          <l pos="N">hai</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">haijikala</t>
+            <t pos="N">haija</t>
          </tg>
       </mg>
    </e>
