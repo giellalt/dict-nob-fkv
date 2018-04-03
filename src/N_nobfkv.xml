@@ -28,6 +28,117 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">rek</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rääkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">maisel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">maihyljet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">grønlandssel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ryssänhyljet</t>
+            <syng>
+               <syn>russekobbe</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">russekobbe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ryssänhyljet</t>
+            <syng>
+               <syn>grønlandssel</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">snadd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jääkatti</t>
+            <syng>
+               <syn>ringsel</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">ringsel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jääkatti</t>
+            <syng>
+               <syn>snadd</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">blåsel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jiekkainen</t>
+            <t pos="N">aapahyljet</t>
+            <syng>
+               <syn>storkobbe</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">storkobbe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jiekkainen</t>
+            <t pos="N">aapahyljet</t>
+            <syng>
+               <syn>blåsel</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">brugde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">prykti</t>
+            <t pos="N">prykte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">pigghå</l>
       </lg>
       <mg>
