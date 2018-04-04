@@ -26,6 +26,48 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   
+   <e src="ia">
+      <lg>
+         <l pos="N">sjøstjerne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ristirääppä</t>
+            <t pos="N">ristiräätti</t>
+         </tg>
+      </mg>
+   </e><e src="ia">
+      <lg>
+         <l pos="N">griseskjell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sikaraakku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">hummer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hummeri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kongekrabbe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuningaskrapu</t>
+            <t pos="N">ryssänkrapu</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ia">
       <lg>
          <l pos="N">rek</l>
@@ -1148,6 +1190,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">raakku</t>
+            <t pos="N">kuiski</t>
+            <syng>
+               <syn>skjell</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -12170,13 +12216,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ia">
       <lg>
          <l pos="N">hesteskjell</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">hevosen raakku</t>
+            <t pos="N">hevosenraakku</t>
+            <t pos="N">hevoskraakku</t>
          </tg>
       </mg>
    </e>
@@ -24385,6 +24432,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kraakku</t>
+            <syng>
+               <syn>musling</syn>
+            </syng>
          </tg>
       </mg>
       <mg>
@@ -24688,13 +24738,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia">
       <lg>
          <l pos="N">krill</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kriili</t>
+            <t pos="N">krilli</t>
          </tg>
       </mg>
    </e>
@@ -28246,13 +28297,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ia">
       <lg>
          <l pos="N">saueskjell</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">lamphaan raakku</t>
+            <t pos="N">lamphaanraakku</t>
+            <t pos="N">lammaskraakku</t>
          </tg>
       </mg>
    </e>
