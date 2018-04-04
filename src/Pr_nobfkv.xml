@@ -1157,8 +1157,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Po">asti</t>
        <!--       <xg>
-               <x>Inntil i morgen er det bare å vente.</x>
-               <xt>Huomisheen asti oon tyhä ođottaat.</xt>
+               <x>Inntil i morgen bør alt være gjort.</x>
+               <xt>Kaikki pitäis olla tehty huomisheen asti .</xt>
             </xg> -->
          </tg>
       </mg>
@@ -1167,7 +1167,7 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">kiini</t>
        <!--      <xg>
                <x>Bøtten står inntil stigen.</x>
-               <xt>(Ämpäri seissoo kohta kiini trapphuun).</xt>
+               <xt>Ämpäri seissoo kohta kiini trapphuun.</xt>
             </xg> -->
          </tg>
       </mg>
@@ -1229,9 +1229,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">asti</t>
+             <t pos="Po">kiini</t>
      <!--       <xg>
                <x>Jeg kjører deg helt til Tromsø.</x>
                <xt>Mie ajan sinun Tromsshaan asti.</xt>
+            </xg> -->
+               <!--       <xg>
+               <x>Jeg kjører deg helt til Tromsø.</x>
+               <xt>Mie ajan sinun kiini Tromsshaan.</xt>
             </xg> -->
          </tg>
       </mg>
@@ -1853,7 +1858,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">takkaa</t>
 <!--             <xg>
                <x>Jeg så dem ikke siden de kom bakfra.</x>
-               <xt>(Mie nähny heitä ko het tulthiin minun takkaa).</xt>
+               <xt>Mie nähny heitä ko het tulthiin minun takkaa.</xt>
             </xg> -->
          </tg>
       </mg>
