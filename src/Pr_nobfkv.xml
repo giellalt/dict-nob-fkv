@@ -1678,9 +1678,15 @@ For the full license text, see the link above.</lic>
             <t pos="Po">sekhaan</t>
          </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	           <re>om valgmuligheter</re>
+            <t pos="Po">välilä</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
-	    <re>avgrenset område der to flater eller flere er mot deg, bevegelse til dette området</re>
+	    <re>sted eller flate der to sider eller flere er mot deg, bevegelse til dette området</re>
             <t pos="Po">välhiin</t>
             <xg>
                <x>Jeg fikk fingrene mellom døra.</x>
@@ -1690,7 +1696,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	             <re>avgrenset område der to flater eller flere er mot deg, bevegelse til dette området</re>
+	             <re>sted eller flate der to sider eller flere er mot deg, bevegelse til dette området</re>
             <t pos="Po">välile</t>
                    <xg>
 	                    <x>De reiser hver dag mellom Kirkenes og Tana.</x>
@@ -1700,7 +1706,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	             <re>avgrenset område der to flater eller flere er mot deg, bevegelse fra dette området</re>
+	             <re>sted eller flate der to sider eller flere er mot deg, bevegelse fra dette området</re>
             <t pos="Po">väliltä</t>
                <xg>
 	                    <x>Fra et sted mellom Billefjord og Lakselv reiser mange sørover.</x>
@@ -1710,7 +1716,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	             <re>avgrenset område der to flater eller flere er mot deg og du er i ro</re>
+	             <re>sted eller flate der to sider eller flere er mot deg og du er i ro</re>
             <t pos="Po">välilä</t>
         <xg>
 	                    <x>Bestefar jobbet i veiarbeid mellom Børselv og Lakselv.</x>
@@ -1720,7 +1726,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	          <re>avgrenset område der to flater eller flere er mot deg og du er i ro</re>
+	          <re>sted eller flate der to sider eller flere er mot deg og du er i ro</re>
             <t pos="Po">välissä</t>
               <xg>
              <x>Hyljet uipi jäitten välissä.</x>
