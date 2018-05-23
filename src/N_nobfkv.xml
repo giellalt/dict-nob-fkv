@@ -26,8 +26,47 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   
-     <e src="ai;ta">
+   <e src="mj">
+      <lg>
+         <l pos="N">engelsk (språk)</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">englanti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">dill</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">dilli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">asfaltvei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">asfalttitie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">anorakk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">anorakki</t>
+         </tg>
+      </mg>
+   </e>   
+   <e src="ai;ta">
       <lg>
          <l pos="N">mot</l>
       </lg>
@@ -7267,6 +7306,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">asumakumppani</t>
+            <t pos="N">asumapari</t>
          </tg>
       </mg>
    </e>
