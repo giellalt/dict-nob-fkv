@@ -28,6 +28,86 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
+         <l pos="N">laurbærblad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">laakerilehti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">kjære</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">barndomshjem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kototalo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">hjemplass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kotopaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">hjembygd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kotokylä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">hjemhus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kotohuonet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">kinosal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kinosali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">slette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kenttä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="N">handletur</l>
       </lg>
       <mg>
@@ -1583,6 +1663,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">plaana</t>
             <t pos="N">vainio</t>
+            <t pos="N">kenttä</t>
          </tg>
       </mg>
    </e>
