@@ -26,6 +26,125 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="ai">
+      <lg>
+         <l pos="N">forfedre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">materivanhiimet</t>
+            <syng>
+               <syn>maaterivanhiimet</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N">forfeder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">maaterivanhiin</t>
+            <syng>
+               <syn>esivanhin</syn>
+               <syn>materivanhiin</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">forfeder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">materivanhiin</t>
+            <syng>
+               <syn>esivanhin</syn>
+               <syn>maaterivanhiin</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">matematikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">matematikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">kortautomat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">maksovehjet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">landskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">maisema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">jordstykke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">maapala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">eske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">loota</t>
+            <syng>
+               <syn>loova</syn>
+               <syn>rassii</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">liter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">liitteri</t>
+            <syng>
+               <syn>litteri</syn>
+               <syn>litra</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">brødfat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">leipäfati</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mj">
       <lg>
          <l pos="N">laurbærblad</l>
@@ -9071,6 +9190,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="esivanhema">esivanhin</t>
+            <syng>
+               <syn>materivanhiin</syn>
+               <syn>maaterivanhiin</syn>
          </tg>
       </mg>
    </e>
@@ -30624,11 +30746,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">litra</t>
+            <syng>
+               <syn>liitteri</syn>
+               <syn>litteri</syn>
+            </syng>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">litteri</t>
+            <syng>
+               <syn>liitteri</syn>
+               <syn>litra</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -30988,11 +31118,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">loova</t>
+            <syng>
+               <syn>rassii</syn>
+               <syn>loota</syn>
+            </syng>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">rassii</t>
+            <syng>
+               <syn>loova</syn>
+               <syn>loota</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -32624,13 +32762,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;mj">
       <lg>
          <l pos="N">verden</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">mailma</t>
+            <t pos="N">maailma</t>
          </tg>
       </mg>
    </e>
