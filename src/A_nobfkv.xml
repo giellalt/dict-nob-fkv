@@ -4679,7 +4679,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="bli bred">
+         <tg xml:lang="fkv">
+	         <re>bli bred</re>
             <t pos="V" stem="levene;leven">levetä</t>
          </tg>
       </mg>
@@ -6366,7 +6367,8 @@ For the full license text, see the link above.</lic>
             <t pos="A">tuttu</t>
          </tg>
       </mg>
-             <tg xml:lang="fkv">
+      <mg>
+        <tg xml:lang="fkv">
 	           <re>bli kjent</re>
            <t pos="V">opastuut</t>
          </tg>
