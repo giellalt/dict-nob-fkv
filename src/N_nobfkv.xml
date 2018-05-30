@@ -11050,12 +11050,14 @@ For the full license text, see the link above.</lic>
          <l pos="A">bar</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="f. eks. av furu">
+         <tg xml:lang="fkv">
+           <re> f. eks. av furu</re>
             <t pos="N">hako</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f. eks. av furu">
+         <tg xml:lang="fkv">
+           <re> f. eks. av furu</re>
             <t pos="N">haku</t>
          </tg>
       </mg>
