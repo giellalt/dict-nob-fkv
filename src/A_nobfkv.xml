@@ -9321,12 +9321,14 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv" re="alkoholpåvirka">
+	         <re>alkoholpåvirka</re>
             <t pos="Adv">humalossa</t>
             <t pos="Adv">päissä</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="bli full av alkohol">
+         <tg xml:lang="fkv">
+	         <re>bli full av alkohol"</re>
             <t pos="V">päistyyt</t>
          </tg>
       </mg>
