@@ -3373,7 +3373,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">trekke</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="om mat">
+         <tg xml:lang="fkv">
+	         <re>om mat</re>
             <t pos="V">hauttoonttuut</t>
          </tg>
       </mg>
@@ -3398,7 +3399,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">modnes</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="om mat">
+         <tg xml:lang="fkv">
+	         <re>om mat</re>
             <t pos="V">hauttoonttuut</t>
          </tg>
       </mg>
@@ -3423,7 +3425,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="i badstu eller i vannet">
+         <tg xml:lang="fkv">
+	         <re>i badstu eller i vannet</re>
             <t pos="V">saunoot</t>
          </tg>
       </mg>
