@@ -14697,7 +14697,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">sparke</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="en gang">
+         <tg xml:lang="fkv" re=>
+	         <re>"en gang"</re>
             <t pos="V">potkaista</t>
          </tg>
       </mg>
