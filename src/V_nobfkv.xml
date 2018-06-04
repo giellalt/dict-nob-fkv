@@ -2104,7 +2104,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="av flo">
+         <tg xml:lang="fkv">
+	         <re>"av flo"</re>
             <t pos="V">paissuut</t>
          </tg>
       </mg>
@@ -2435,7 +2436,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="lede, rettlede">
+         <tg xml:lang="fkv">
+	         <re>"lede, rettlede"</re>
             <t pos="V" stem="ohjaa;ohjan">ohjata</t>
          </tg>
       </mg>
@@ -2648,7 +2650,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">dele i to</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="fisk">
+         <tg xml:lang="fkv">
+	         <re>om fisk</re>
             <t pos="V">fläkätä</t>
          </tg>
       </mg>
@@ -2673,6 +2676,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv" re="fisk">
+	         <re>om fisk</re>
             <t pos="V">fläkätä</t>
          </tg>
       </mg>
@@ -2696,7 +2700,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">dele på langs</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="fisk">
+         <tg xml:lang="fkv">
+	         <re>om fisk</re>
             <t pos="V">fläkätä</t>
          </tg>
             <syng>
@@ -3133,7 +3138,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="spes. på ski, bil o.l.">
+         <tg xml:lang="fkv">
+	         <re>"spes. på ski, bil o.l."</re>
             <t pos="V" stem="tyyrää;tyyrän">tyyrätä</t>
          </tg>
       </mg>
