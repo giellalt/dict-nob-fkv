@@ -28,6 +28,206 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
+         <l pos="N">stativ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tällinki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">pute</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tyyny</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">tromsøværing</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tromssalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">dansemusikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tansimusikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">tallerken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">talriikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">drosje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">taksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">T-skjorte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">T-paita</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">værmelding</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">säätieđotus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">fødselsmerke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">syntymämerkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">sving</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">svingi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">salt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suola</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">sjokoladekake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sukulaatikakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">sjokolade</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sukulaati</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">spesialbutikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">spesiaaliputiikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">spesialtegn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">spesiaalimerkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">spesialkaffe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">spesiaalikaffi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">servitør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">servitööri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">tysk språk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">saksa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">side</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">saiti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">samisk språk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">saame</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="N">tur</l>
       </lg>
       <mg>
@@ -45077,6 +45277,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pöllö</t>
+            <t pos="N">tomppeli</t>
          </tg>
       </mg>
    </e>
@@ -48268,7 +48469,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">tyskälainen</t>
+            <t pos="N">tyskäläinen</t>
          </tg>
       </mg>
    </e>
