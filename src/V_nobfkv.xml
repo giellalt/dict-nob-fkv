@@ -8040,7 +8040,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. jord">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. jord"</re>
             <t pos="V">raivata</t>
          </tg>
       </mg>
@@ -8155,7 +8156,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. grøt">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. grøt</re>
             <t pos="V" val="TV" stem="liikuta">liikuttaat</t>
          </tg>
       </mg>
