@@ -2675,7 +2675,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">kløyve</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="fisk">
+         <tg xml:lang="fkv">
 	         <re>om fisk</re>
             <t pos="V">fläkätä</t>
          </tg>
@@ -5950,7 +5950,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="drive på og drikke">
+         <tg xml:lang="fkv">
+	         <re>"drive på og drikke"</re>
             <t pos="V" stem="juoputtele">juoputella</t>
          </tg>
       </mg>
@@ -15596,7 +15597,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">skille ut</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="rein">
+         <tg xml:lang="fkv">
+	         <re>om rein</re>
             <t pos="V">ratkoot</t>
          </tg>
       </mg>
@@ -18382,7 +18384,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">bli tom</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="~mere">
+         <tg xml:lang="fkv">
 	         <re>"~mere"</re>
             <t pos="V">tyyhetä</t>
          </tg>
