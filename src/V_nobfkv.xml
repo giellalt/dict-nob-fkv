@@ -3656,7 +3656,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="en person">
+         <tg xml:lang="fkv">
+	         <re>om en person</re>
             <t pos="V">hirttäät</t>
          </tg>
       </mg>
@@ -3896,7 +3897,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">knegge</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="en gang">
+         <tg xml:lang="fkv">
+	         <re>"en gang"</re>
             <t pos="V">hirnattaat</t>
          </tg>
       </mg>
@@ -3931,7 +3933,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">bli vond</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="av ledd">
+         <tg xml:lang="fkv">
+	         <re>"av ledd"</re>
             <t pos="V">hivelttyyt</t>
          </tg>
       </mg>
@@ -5214,12 +5217,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="om katten">
+         <tg xml:lang="fkv">
+	         <re>om katten</re>
             <t pos="V">kehrätä</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. vegg">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. vegg"</re>
             <t pos="V" stem="maalaa;maalan">maalata</t>
          </tg>
       </mg>
@@ -5522,7 +5527,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. grøt">
+         <tg xml:lang="fkv">
+	         <re>f.eks. røre i grøt</re>
             <t pos="V" val="TV" stem="liikuta">liikuttaat</t>
          </tg>
       </mg>
