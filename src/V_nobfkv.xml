@@ -6140,7 +6140,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">bryte opp</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. stein, røtter osv.">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. stein, røtter osv."</re>
             <t pos="V">kankkoot</t>
          </tg>
       </mg>
@@ -6180,7 +6181,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="kalve, lamme">
+         <tg xml:lang="fkv">
+	         <re>"kalve, lamme"</re>
             <t pos="V" stem="kanna;kanta">kanttaat</t>
          </tg>
       </mg>
@@ -6210,7 +6212,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">sette ut</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="garn, lin">
+         <tg xml:lang="fkv">
+	         <re>"garn, lin"</re>
             <t pos="V" val="IV">karistaat</t>
          </tg>
       </mg>
