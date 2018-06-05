@@ -6253,7 +6253,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. smuts">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. smuts"</re>
             <t pos="V">lähđetyttäät</t>
          </tg>
       </mg>
@@ -6318,7 +6319,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">øke</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="i antall">
+         <tg xml:lang="fkv">
+	         <re>"i antall"</re>
             <t pos="V">karttuut</t>
          </tg>
       </mg>
@@ -6358,7 +6360,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="i kirka ev en prest">
+         <tg xml:lang="fkv">
+	         <re>"i kirka av en prest"</re>
             <t pos="V">ristiit</t>
          </tg>
       </mg>
@@ -6523,7 +6526,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="frekv.">
+         <tg xml:lang="fkv">
+	         <re>"frekv."</re>
             <t pos="V">kattoskella</t>
          </tg>
       </mg>
