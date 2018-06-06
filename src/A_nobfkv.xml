@@ -938,7 +938,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="bli redd">
+         <tg xml:lang="fkv">
+	         <re>"bli redd"</re>
             <t pos="V">pelastuut</t>
          </tg>
       </mg>
@@ -7490,7 +7491,8 @@ For the full license text, see the link above.</lic>
          <l pos="A">rik</l>
       </lg>
       <mg>
-	<tg xml:lang="fkv" re="av penger">
+	<tg xml:lang="fkv">
+		<re>"av penger"</re>
             <t pos="A">raharikas</t>
          </tg>
       </mg>
@@ -7500,7 +7502,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-	<tg xml:lang="fkv" re="bli rik">
+	<tg xml:lang="fkv">
+		<re>"bli rik"</re>
             <t pos="V">rikastuut</t>
          </tg>
       </mg>
@@ -7555,7 +7558,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="bli edru">
+         <tg xml:lang="fkv">
+	         <re>"bli edru"</re>
             <t pos="V" stem="selvvii;selvin">selvitä</t>
          </tg>
       </mg>
@@ -7635,7 +7639,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="bli feit">
+         <tg xml:lang="fkv">
+	         <re>"bli feit"</re>
             <t pos="V" stem="lihotu">lihottuut</t>
          </tg>
       </mg>
@@ -7975,7 +7980,8 @@ For the full license text, see the link above.</lic>
          <l pos="A">tett</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. skog">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. skog</re>
             <t pos="A">sakkee</t>
          </tg>
       </mg>
@@ -7985,12 +7991,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f. eks. skog">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. skog"</re>
             <t pos="A">tihhee</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. en kar">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. en kar"</re>
             <t pos="A" stem="tivhii">tivis</t>
          </tg>
       </mg>
@@ -8877,7 +8885,8 @@ For the full license text, see the link above.</lic>
          <l pos="A">helt stille</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="om vannet">
+         <tg xml:lang="fkv">
+	         <re>"om vannet"</re>
             <t pos="A">tinatyven</t>
          </tg>
       </mg>
@@ -9120,7 +9129,8 @@ For the full license text, see the link above.</lic>
          <l pos="A">fersk</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. jord">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. jord"</re>
             <t pos="A" stem="tuorhee">tuoret</t>
          </tg>
       </mg>
@@ -9270,7 +9280,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="alkoholpåvirka">
+         <tg xml:lang="fkv">
 	         <re>alkoholpåvirka</re>
             <t pos="Adv">humalossa</t>
             <t pos="Adv">päissä</t>
@@ -9403,7 +9413,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. også om hel fisk">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. også om hel fisk"</re>
             <t pos="Adv">umpinansa</t>
          </tg>
       </mg>
@@ -9439,7 +9450,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. også om hel fisk">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. også om hel fisk</re>
             <t pos="Adv">umpinansa</t>
          </tg>
       </mg>
@@ -9687,7 +9699,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="bli ferdig">
+         <tg xml:lang="fkv">
+	         <re>"bli ferdig"</re>
             <t pos="V" stem="kerkkii;kerin">keritä</t>
          </tg>
       </mg>
@@ -10167,7 +10180,8 @@ For the full license text, see the link above.</lic>
          <l pos="A">strømmet</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="om vann">
+         <tg xml:lang="fkv">
+	         <re>"om vann"</re>
             <t pos="A">virtainen</t>
          </tg>
       </mg>
@@ -10177,7 +10191,8 @@ For the full license text, see the link above.</lic>
          <l pos="A">stri</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="om vann">
+         <tg xml:lang="fkv">
+	         <re>"om vann"</re>
             <t pos="A">virtainen</t>
          </tg>
       </mg>
@@ -10391,7 +10406,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="brukes vanligvis i flertall om gjensidige forhold">
+         <tg xml:lang="fkv">
+	         <re>"brukes vanligvis i flertall om gjensidige forhold"</re>
             <t pos="A">yksituumainen</t>
          </tg>
       </mg>
