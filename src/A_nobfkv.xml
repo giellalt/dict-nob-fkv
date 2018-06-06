@@ -6271,7 +6271,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="relig.">
+         <tg xml:lang="fkv">
+	         <re>"relig.</re>
             <t pos="A">vanhurskas</t>
          </tg>
       </mg>
@@ -6988,12 +6989,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="om lengde">
+         <tg xml:lang="fkv">
+	         <re>"om lengde"</re>
             <t pos="A">pituinen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="om lengde">
+         <tg xml:lang="fkv">
+	         <re>"om lengde"</re>
             <t pos="A" stem="pitukaise;pitukais">pitukainen</t>
             <xg>
                <x>Båten er to meter lang.</x>
