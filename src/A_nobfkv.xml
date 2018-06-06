@@ -1047,7 +1047,8 @@ For the full license text, see the link above.</lic>
          <l pos="A">åpen</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. om båt">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. om båt"</re>
             <t pos="A">aukinainen</t>
          </tg>
       </mg>
@@ -1701,7 +1702,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="om smak">
+         <tg xml:lang="fkv">
+	         <re>"om smak"</re>
             <t pos="A">kirmee</t>
          </tg>
       </mg>
@@ -1916,7 +1918,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. kaffe eller annen væske">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. kaffe eller annen væske"</re>
             <t pos="A">lieppee</t>
          </tg>
       </mg>
