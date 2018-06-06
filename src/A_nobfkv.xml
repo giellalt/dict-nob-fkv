@@ -4782,7 +4782,8 @@ For the full license text, see the link above.</lic>
          <l pos="A">slett</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="av mark">
+         <tg xml:lang="fkv">
+	         <re>"av mark"</re>
             <t pos="A">lakso</t>
          </tg>
       </mg>
@@ -4837,7 +4838,8 @@ For the full license text, see the link above.</lic>
          <l pos="A">mild</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="om været">
+         <tg xml:lang="fkv">
+	         <re>"om været"</re>
             <t pos="A">lauha</t>
          </tg>
       </mg>
