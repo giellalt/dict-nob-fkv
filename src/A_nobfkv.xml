@@ -4960,7 +4960,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. suppe">
+         <tg xml:lang="fkv">
+	         <re>"f.eks. suppe"</re>
             <t pos="A">sakkee</t>
          </tg>
       </mg>
@@ -5851,7 +5852,8 @@ For the full license text, see the link above.</lic>
          <l pos="A">gift</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="i ekteskap">
+         <tg xml:lang="fkv">
+	         <re>"i ekteskap"</re>
             <t pos="A">nainu</t>
             <xg>
              <x>Han er en gift mann.</x>
