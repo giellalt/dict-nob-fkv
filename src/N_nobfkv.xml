@@ -20276,6 +20276,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv" re="på dyr eller hud eller på menneskekropp">
+         
             <t pos="N">karva</t>
          </tg>
       </mg>
@@ -20785,7 +20786,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kjøpmann</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="mannlig">
+         <tg xml:lang="fkv">
+         <re>"mannlig"</re>
             <t pos="N" stem="kauppamiehe">kauppamies</t>
          </tg>
       </mg>
@@ -21064,7 +21066,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tjeld</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="fugl">
+         <tg xml:lang="fkv">
+         <re>"fugl"</re>
             <t pos="N">keili</t>
          </tg>
       </mg>
@@ -21534,12 +21537,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="pengeenhet">
+         <tg xml:lang="fkv">
+         <re>"pengeenhet"</re>
             <t pos="N" stem="marka">markka</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. metemark">
+         <tg xml:lang="fkv">
+         <re>"f.eks. metemark"</re>
             <t pos="N" stem="mađo;matto">mato</t>
          </tg>
       </mg>
