@@ -24956,7 +24956,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">liten foss</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="der strømmen snur seg">
+         <tg xml:lang="fkv">
+         <re>"der strømmen snur seg</re>
             <t pos="N">korva</t>
          </tg>
       </mg>
@@ -24966,7 +24967,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">elvestryk</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="der strømmen snur seg">
+         <tg xml:lang="fkv">
+         <re>"der strømmen snur seg"</re>
             <t pos="N">korva</t>
          </tg>
       </mg>
@@ -25376,7 +25378,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">lærer</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="mannlig">
+         <tg xml:lang="fkv">
+         <re>mannlig</re>
             <t pos="N" stem="koulumiehe">koulumies</t>
          </tg>
       </mg>
@@ -25456,7 +25459,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="på innsida">
+         <tg xml:lang="fkv">
+         <re>"på innsida"</re>
             <t pos="N">pijo</t>
          </tg>
       </mg>
@@ -25629,7 +25633,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">naboer</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="i forhold til hverandre">
+         <tg xml:lang="fkv">
+         <re>"i forhold til hverandre"</re>
             <t pos="N" nr="Pl">krannikset</t>
          </tg>
       </mg>
@@ -25804,7 +25809,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">krakk</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="til å sitte på">
+         <tg xml:lang="fkv">
+         <re>"til å sitte på"</re>
             <t pos="N">krenkku</t>
          </tg>
       </mg>
@@ -26136,7 +26142,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gruvearbeider</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="mannlig">
+         <tg xml:lang="fkv">
+         <re>"mannlig"</re>
             <t pos="N">kruuvamies</t>
          </tg>
       </mg>
@@ -26361,7 +26368,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="skjellsord">
+         <tg xml:lang="fkv">
+         <re>"skjellsord"</re>
             <t pos="N">rapatainari</t>
          </tg>
       </mg>
@@ -26816,7 +26824,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">brus</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="sted der det er">
+         <tg xml:lang="fkv">
+         <re>"et sted der det er</re>
             <t pos="N">kuohukko</t>
          </tg>
       </mg>
@@ -26826,7 +26835,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">skum</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="sted der det er">
+         <tg xml:lang="fkv">
+         <re>"et sted der det er"</re>
             <t pos="N">kuohukko</t>
          </tg>
       </mg>
@@ -27782,13 +27792,15 @@ For the full license text, see the link above.</lic>
          <l pos="N">kvarter</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="15 minutter">
+         <tg xml:lang="fkv">
+         <re>"15 minutter"</re>
             <t pos="N">kvartti</t>
             <t pos="N" stem="varti">vartti</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="bydel">
+         <tg xml:lang="fkv">
+         <re>"bydel"</re>
             <t pos="N">kvartteeri</t>
          </tg>
       </mg>
