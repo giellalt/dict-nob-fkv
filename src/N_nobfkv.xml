@@ -29017,7 +29017,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">leie</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="betaling">
+         <tg xml:lang="fkv">
+         <re>"betaling"</re>
             <t pos="N">laikko</t>
          </tg>
       </mg>
@@ -29332,12 +29333,14 @@ For the full license text, see the link above.</lic>
          <l pos="N">lue</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="hodeplagg">
+         <tg xml:lang="fkv">
+         <re>"hodeplagg</re>
             <t pos="N" stem="laki">lakki</t>
          </tg>
       </mg>
        <mg>
-         <tg xml:lang="fkv" re="som flamme">
+         <tg xml:lang="fkv">
+         <re>"som flamme"</re>
              <t pos="N">tuli</t>
              <t pos="N">valkkee</t>
             <xg>
@@ -29582,7 +29585,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">østersjøfinne</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="i Nord-Norge, Nord-Sverige eller Nord-Finland">
+         <tg xml:lang="fkv">
+         <re>"i Nord-Norge, Nord-Sverige eller Nord-Finland"</re> 
             <t pos="N" stem="lantalaise;lantalais">lantalainen</t>
          </tg>
       </mg>
@@ -29877,7 +29881,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="av tre, stein">
+         <tg xml:lang="fkv">
+         <re>"av tre, stein"</re>
             <t pos="N">päret</t>
          </tg>
       </mg>
@@ -30057,7 +30062,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">fjøl</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="f. eks. i golv el. tak">
+         <tg xml:lang="fkv">
+         <re>"f.ek.s i golv eller i tak"</re>
             <t pos="N" stem="lauđa;lautta">lauta</t>
          </tg>
       </mg>
@@ -30067,7 +30073,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">bord</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="f. eks. i golv el. tak">
+         <tg xml:lang="fkv">
+         <re>"f.eks. i golv eller tak"</re>
             <t pos="N" stem="lauđa;lautta">lauta</t>
          </tg>
       </mg>
@@ -30187,7 +30194,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">storfe</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="av kyr">
+         <tg xml:lang="fkv">
+         <re>"av kyr"</re>
             <t pos="N">lehmäkarja</t>
          </tg>
       </mg>
@@ -30372,7 +30380,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="vedfyrt og av stein">
+         <tg xml:lang="fkv">
+         <re>"vedfyrt og av stein</re>
             <t pos="N">paakariuuni</t>
          </tg>
       </mg>
@@ -31108,7 +31117,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">ekall</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="hann">
+         <tg xml:lang="fkv">
+         <re>"hann"</re>
             <t pos="N">likka</t>
          </tg>
       </mg>
@@ -31557,7 +31567,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">renning</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="i veving">
+         <tg xml:lang="fkv">
+         <re>"i veving"</re>
             <t pos="N" stem="loime;loime">loimi</t>
             <xg>
                <x>tøyrenning</x>
@@ -31601,7 +31612,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="til overbredsel">
+         <tg xml:lang="fkv">
+         <re>"til overbredsel"</re>
             <t pos="N" stem="rouvo;roukko">rouko</t>
          </tg>
       </mg>
@@ -31612,6 +31624,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv" re="som man lager klær av">
+         <re>"som man lager klær av</re>
             <t pos="N" stem="vuođa;vuot">vuota</t>
          </tg>
       </mg>
@@ -31666,7 +31679,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="i hus">
+         <tg xml:lang="fkv">
+         <re>"i hus"</re>
             <t pos="N">ruuma</t>
          </tg>
       </mg>
@@ -31944,7 +31958,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">lodde</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="fisk">
+         <tg xml:lang="fkv">
+         <re>"fisk"</re>
             <t pos="N">lotta</t>
             <t pos="N">lota</t>
          </tg>
@@ -31975,12 +31990,14 @@ For the full license text, see the link above.</lic>
          <l pos="N">hjørne</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="inne i huset">
+         <tg xml:lang="fkv">
+         <re>"inne i huset"</re>
             <t pos="N" stem="louko">loukko</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="utenfor huset">
+         <tg xml:lang="fkv">
+         <re>"utenfor huset</re>
             <t pos="N" stem="nurka">nurkka</t>
          </tg>
       </mg>
@@ -32065,7 +32082,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="skolefag">
+         <tg xml:lang="fkv">
+         <re>"skolefag"</re>
             <t pos="N" stem="luvu;lukku">luku</t>
          </tg>
       </mg>
@@ -32170,7 +32188,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">formular</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. trylleformular">
+         <tg xml:lang="fkv">
+         <re>"f.eks. trylleformular"</re>
             <t pos="N" stem="luvu;lukku">luku</t>
          </tg>
       </mg>
@@ -32366,7 +32385,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">bogtre</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="del av en hestesele">
+         <tg xml:lang="fkv">
+         <re>"del av en hestesele"</re>
             <t pos="N" stem="luoka">luokka</t>
          </tg>
       </mg>
@@ -32996,7 +33016,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="også om jord">
+         <tg xml:lang="fkv">
+         <re>"også om jord"</re>
             <t pos="N" stem="omaisuuđe;omaisuut">omaisuus</t>
          </tg>
       </mg>
@@ -33041,7 +33062,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">mage</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="spes. på fisk">
+         <tg xml:lang="fkv">
+         <re>"spes. på fisk"</re>
             <t pos="N">maakko</t>
          </tg>
       </mg>
@@ -33397,7 +33419,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">mai</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="måned">
+         <tg xml:lang="fkv">
+         <re>"måned"</re>
             <t pos="N">maikuu</t>
          </tg>
       </mg>
@@ -33839,7 +33862,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">mandler</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="organ i svelget">
+         <tg xml:lang="fkv">
+         <re>"organ i svelget"</re>
             <t pos="N" nr="Pl">mantelit</t>
          </tg>
       </mg>
@@ -34144,7 +34168,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svovel</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="i ei fyrstikkeske">
+         <tg xml:lang="fkv">
+         <re>"i ei fyrstikkeske"</re>
             <t pos="N">materi</t>
          </tg>
       </mg>
@@ -34154,7 +34179,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">ripeflate</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="i ei fyrstikkeske">
+         <tg xml:lang="fkv">
+         <re>"i ei fyrstikkeske"</re>
             <t pos="N">materi</t>
          </tg>
       </mg>
@@ -34229,7 +34255,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">makk</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. metemark">
+         <tg xml:lang="fkv">
+         <re>"f.eks. metemark"</re>
             <t pos="N" stem="mađo;matto">mato</t>
          </tg>
       </mg>
@@ -34624,7 +34651,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sjøulv</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="en fiktiv figur">
+         <tg xml:lang="fkv">
+         <re>"en fiktiv figur"</re>
             <t pos="N">merihukka</t>
          </tg>
       </mg>
@@ -34949,12 +34977,14 @@ For the full license text, see the link above.</lic>
          <l pos="N">dyp skog</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="langt inn i innlandet">
+         <tg xml:lang="fkv">
+         <re>"langt inn i innlandet"</re>
             <t pos="N">mettäperä</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="langt inn i landet">
+         <tg xml:lang="fkv">
+         <re>"langt inn i landet"</re>
             <t pos="N">syđänmettä</t>
          </tg>
       </mg>
