@@ -36613,7 +36613,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="i fiskeredskap">
+         <tg xml:lang="fkv">
+         <re>"i fiskeredskap"</re>
             <t pos="N">tooma</t>
          </tg>
       </mg>
@@ -36648,7 +36649,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="i fiskeredskap">
+         <tg xml:lang="fkv">
+         <re>"i fiskeredskap"</re>
             <t pos="N">tooma</t>
          </tg>
       </mg>
@@ -36993,22 +36995,26 @@ For the full license text, see the link above.</lic>
          <l pos="N">råd</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="anbefaling">
+         <tg xml:lang="fkv">
+         <re>"anbefaling"</re>
             <t pos="N">neuvo</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="XXX">
+         <tg xml:lang="fkv">
+         <re>"XXX"</re>
             <t pos="N" stem="neuvokse">neuvos</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="samling mennesker">
+         <tg xml:lang="fkv">
+         <re>"samling mennesker"</re>
             <t pos="N">raati</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="nok penger">
+         <tg xml:lang="fkv">
+         <re>"nok penger"</re>
             <t pos="N" stem="varra">vara</t>
             <xg>
                <x>Jeg har råd.</x>
@@ -37661,7 +37667,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sund</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="mellom en øy og fastlandet">
+         <tg xml:lang="fkv">
+         <re>"mellom en øy og fastlandet"</re>
             <t pos="N">nuora</t>
          </tg>
       </mg>
@@ -37701,7 +37708,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="unge mennesker">
+         <tg xml:lang="fkv">
+         <re>"unge mennesker"</re>
             <t pos="N">nuoriso</t>
          </tg>
       </mg>
@@ -38581,7 +38589,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tynt tau</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="spesielt som børnskap">
+         <tg xml:lang="fkv">
+         <re>"spesielt om børnskap"</re>
             <t pos="N">oori</t>
          </tg>
       </mg>
@@ -38981,17 +38990,20 @@ For the full license text, see the link above.</lic>
          <l pos="N">stengsel</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="for drivgarnfiske">
+         <tg xml:lang="fkv">
+         <re>"for drivgarnsfiske"</re>
             <t pos="N">oset</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="for å stenge fisk med">
+         <tg xml:lang="fkv">
+         <re>"for å stenge fisk med</re>
             <t pos="N" stem="pađo;patto">pato</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="for å stenge vann med">
+         <tg xml:lang="fkv">
+         <re>"for å stenge vann med"</re>
             <t pos="N">tammi</t>
          </tg>
       </mg>
@@ -39502,7 +39514,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="til å veie med">
+         <tg xml:lang="fkv">
+         <re>"til å veie med"</re>
             <t pos="N">puntari</t>
          </tg>
       </mg>
@@ -39592,7 +39605,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">steikeovn</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="moderne">
+         <tg xml:lang="fkv">
+         <re>"moderne"</re>
             <t pos="N">paistiuuni</t>
          </tg>
       </mg>
@@ -39818,6 +39832,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv" re="en liten ~">
+         <re>"en liten ~"</re>
             <t pos="N">palainen</t>
          </tg>
       </mg>
