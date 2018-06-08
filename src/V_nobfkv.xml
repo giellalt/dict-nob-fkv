@@ -28,6 +28,80 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
+         <l pos="V">ha som vane</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">pruukata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">pleie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">pruukata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">må</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">pittäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">se hverandre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">näjetellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">stikke opp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">nousta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">ferdes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">mennä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">synes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">meinata</t>
+            <xg>
+               <x>Jeg syns du har rett.</x>
+               <xt>Mie meinaan ette sie olet oikkeessa.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="V">tro</l>
       </lg>
       <mg>
@@ -12843,6 +12917,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">näkkyyt</t>
+            <xg>
+               <x>Et lys synes i enden av tunnelen.</x>
+               <xt>Se näkkyy valo tunnelin päässä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
