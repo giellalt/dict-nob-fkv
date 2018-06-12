@@ -28,6 +28,61 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
+         <l pos="V">bli kjent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tutustuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">sykle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">syklata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">spille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">soittaat</t>
+            <xg>
+               <x>Pekka spiller gitar.</x>
+               <xt>Pekka soittaa kitaarii.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">makte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">saattaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">ringe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">rinkastaat</t>
+            <t pos="V">rinkata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="V">ha som vane</l>
       </lg>
       <mg>
@@ -524,13 +579,14 @@ For the full license text, see the link above.</lic>
          </syng>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;mj">
       <lg>
          <l pos="V">ønske</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV">haluta</t>
+            <t pos="V" val="TV">tahtoot</t>
          </tg>
       </mg>
    </e>
