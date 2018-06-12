@@ -6472,7 +6472,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">åre</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="i båt">
+         <tg xml:lang="fkv">
+         <re>"i båt"</re>
             <t pos="N" stem="airo">airo</t>
          </tg>
       </mg>
@@ -6682,7 +6683,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="f.eks. over fjellet">
+         <tg xml:lang="fkv">
+         <re>"f.eks. over fjellet"</re>
             <t pos="N">keino</t>
          </tg>
       </mg>
@@ -59163,8 +59165,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gjestevenn</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv"
-             re="spesielt om forholdet mellom fastboende og reidriftsamer">
+         <tg xml:lang="fkv">
+             <re>"spesielt om forholdet mellom fastboende og reidriftsamer"</re>
             <t pos="N" stem="väärti">väärtti</t>
          </tg>
       </mg>
