@@ -26,6 +26,66 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="mj">
+      <lg>
+         <l pos="A">høflig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">hööli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="A">opptatt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">hoppuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="A">travel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">hoppuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="A">smal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">hoikkanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="A">slank</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">hoikkanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="A">tynn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">hoikkanen</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ia">
       <lg>
          <l pos="A">øverste</l>
@@ -2434,13 +2494,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;mj">
       <lg>
          <l pos="A">historisk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">histoorialinen</t>
+            <t pos="A">historialinen</t>
          </tg>
       </mg>
    </e>
