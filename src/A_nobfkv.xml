@@ -28,11 +28,51 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
+         <l pos="A">krigsentusiast</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sotahullu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="A">trivelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">soma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="A">ordentlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">siivo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="A">romantisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">romanttinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="A">hva slags</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">hva slags</t>
+            <t pos="A">minkälainen</t>
          </tg>
       </mg>
    </e>
@@ -42,7 +82,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">hva slags</t>
+            <t pos="A">minkälainen</t>
          </tg>
       </mg>
    </e>
@@ -6505,13 +6545,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;mj">
       <lg>
          <l pos="A">oransje</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">oransi</t>
+            <t pos="A">oranssi</t>
          </tg>
       </mg>
    </e>
@@ -9898,6 +9939,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">vapaa</t>
+            <t pos="A">vappaa</t>
          </tg>
       </mg>
    </e>
