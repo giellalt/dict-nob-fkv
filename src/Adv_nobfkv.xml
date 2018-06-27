@@ -998,7 +998,8 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">i begynnelsen</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="om tid">
+         <tg xml:lang="fkv">
+	         <re>om tid</re>
             <t pos="Adv">alkuaikhaan</t>
          </tg>
       </mg>
@@ -1217,7 +1218,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="i nektende setninger">
+         <tg xml:lang="fkv">
+	         <re>i nektende setninger</re>
             <t pos="Adv">enämppää</t>
             <xg>
                <x>Jeg kan ikke si mer.</x>
@@ -2540,7 +2542,8 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">lengere</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="om tid">
+         <tg xml:lang="fkv">
+	         <re>om tid</re>
             <t pos="Adv">kauvoimin</t>
          </tg>
       </mg>
@@ -2829,7 +2832,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="om to">
+         <tg xml:lang="fkv">
+	         <re>om to</re>
             <t pos="Adv">molemin</t>
                         <xg>
                <x>Det er en stund siden dere har vært sammen i Nordreisa.</x>
@@ -3052,7 +3056,8 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">samlet</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="på et sted">
+         <tg xml:lang="fkv">
+	         <re>på et sted</re>
             <t pos="Adv">kovossa</t>
          </tg>
       </mg>
@@ -3691,12 +3696,14 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">liksom</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv" re="når man tviler på det som blir sagt">
+         <tg xml:lang="fkv">
+	         <re>når man tviler på det som blir sagt</re>
             <t pos="Adv">makka</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv" re="når en ikke tror på det som blir sagt">
+         <tg xml:lang="fkv">
+	         <re>når en ikke tror på det som blir sagt</re>
             <t pos="Adv">muka</t>
          </tg>
       </mg>
@@ -5414,6 +5421,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv" re="~ borte">
+	         <re>der borte</re>
             <t pos="Adv">tuossa</t>
          </tg>
       </mg>
@@ -5444,6 +5452,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv" re="~ bort">
+	         <re>dit bort</re>
             <t pos="Adv">tuone</t>
          </tg>
       </mg>
