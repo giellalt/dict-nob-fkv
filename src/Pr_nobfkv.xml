@@ -175,7 +175,7 @@ For the full license text, see the link above.</lic>
             </xg>
              <xg>
                <x>Ingenting ble sagt imot forslaget.</x>
-               <xt>Ei mithään ollu sanottu ehđotusta vasthaan.</xt>
+               <xt>Mithään ei sanottu ehđotusta vasthaan.</xt>
             </xg>
       <!--       <xg>
                <x>De gikk rett imot horisonten.</x>
@@ -197,7 +197,7 @@ For the full license text, see the link above.</lic>
             </xg>
         <xg>
                <x>Turistene så utover fjorden.</x>
-               <xt>Turistit katothiin vuonoo.</xt>
+               <xt>Turistit kattothiin vuonoo.</xt>
             </xg> 
          </tg>
       </mg>
@@ -296,7 +296,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">yläpuolela</t>
              <xg>
                <x>Skjæreredet ligger ovenfor de laveste grenene.</x>
-               <xt>Harakanpesä oon matalammiitten oksiin yläpuolela.</xt>
+               <xt>Harakanpesä oon mataliimiitten oksiin yläpuolela.</xt>
             </xg>
          </tg>
       </mg>
@@ -312,7 +312,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">myöđen</t>
               <xg>
                <x>Gutten går langs fjæra.</x>
-               <xt>Poika kulkkee fierua myöten.</xt>
+               <xt>Poika kulkkee fieruaa myöten.</xt>
             </xg>
          </tg>
       </mg>
@@ -391,7 +391,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">ylöspäin</t>
              <xg>
                <x>Når du går oppover gata finner du huset til lensmannen.</x>
-               <xt>Ko sie kävelet kattuu ylöspäin löyđät lensmanin talo.</xt>
+               <xt>Ko sie kävelet kattuu ylöspäin, löyđät lensmanin talo.</xt>
             </xg>
          </tg>
       </mg>
@@ -472,11 +472,11 @@ For the full license text, see the link above.</lic>
             </xg>
                    <xg>
                <x>Ifølge loven er det straffbart å plage andre på internet.</x>
-               <xt>Lajin jälkhiin saapi rangaistuksen ko kiussaa toissii internetissa.</xt>
+               <xt>Lajin jälkhiin saapi rangaistuksen ko kiussaa toissii internetissä.</xt>
             </xg>
             <xg>
                <x>Ifølge ekspertene lønner det seg å tenke på miljøet.</x>
-               <xt>Assiintunttijoitten jälkhiin se kannattaa ajatella miljöötä.</xt>
+               <xt>Assiintunttiijoitten jälkhiin se kannattaa ajatella miljöötä.</xt>
             </xg>
          </tg>
       </mg>
@@ -559,7 +559,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">ympäri</t>
                   <xg>
                <x>Det er omkring null grader.</x>
-               <xt>Oon kohta nolla graadii.</xt>
+               <xt>Oon noin nolla graadii.</xt>
             </xg>
               <xg>
                <x>Omkring år 1912.</x>
@@ -642,7 +642,7 @@ For the full license text, see the link above.</lic>
 	          <t pos="Po">päässä</t>
                        <xg>
                <x>Jeg kommer om en time.</x>
-               <xt>Mie tulen tiiman päässä.</xt>
+               <xt>Mie tulen tiiman päästä.</xt>
             </xg>
                 </tg>
       </mg>
@@ -760,7 +760,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">vasthaan</t>
                       <xg>
                <x>De røde mot de hvite.</x>
-               <xt>Punaset valkkeita vasthaan.</xt>
+               <xt>Punaset vasthaan valkkeita.</xt>
             </xg>
                    <xg>
                <x>Det ene laget mot det andre.</x>
@@ -850,11 +850,11 @@ For the full license text, see the link above.</lic>
             <t pos="Po">kans</t>
                                        <xg>
                <x>Han har hele folket bak seg.</x>
-               <xt>Hänelä oon koko kansa takana.</xt>
+               <xt>Hänelä oon koko kansa ittensä takana.</xt>
             </xg>
                                 <xg>
                <x>Rådmannen har bak seg mange år i politikken.</x>
-               <xt>Raatimiehelä oon takana monta vuotta politiikassa.</xt>
+               <xt>Raatimiehelä oon takana monta vuotta politikissa.</xt>
             </xg>
               </tg>
       </mg>
@@ -920,7 +920,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">kans</t>
                                        <xg>
                <x>Trekkfuglene kommer med våren.</x>
-               <xt>Siirtolinnut tulhaan kevväin kans.</xt>
+               <xt>Siirtolinnut tulhaan kevväimen kans.</xt>
             </xg>
                                  <xg>
                <x>Jeg kommer med en gang.</x>
@@ -929,6 +929,10 @@ For the full license text, see the link above.</lic>
                            <xg>
                <x>Sårene forsvinner med tiden.</x>
                <xt>Haavat hävithään aijan kans.</xt>
+            </xg>
+                          <xg>
+               <x>Sårene forsvinner med tiden.</x>
+               <xt>Haavat hävithään aijan myötä.</xt>
             </xg>
          </tg>
       </mg>
@@ -1092,15 +1096,15 @@ For the full license text, see the link above.</lic>
             <t pos="Po">alle/alla</t>
             <xg>
                <x>Prosjektet er enda under arbeid.</x>
-               <xt>Projekti oon vielä työn alla.</xt>
+               <xt>Prosjekti oon vielä työn alla.</xt>
             </xg>
               <xg>
                <x>Boka er under trykking.</x>
-               <xt>Kirja oon präntämisessä.</xt>
+               <xt>Kirja oon präntin alla.</xt>
             </xg>
              <xg>
                <x>Nye Rema 1000 er enda under bygging.</x>
-               <xt>Uusi Reema 1000 pykäthään vielä.</xt>
+               <xt>Uusi Rema 1000-kauppaa pykäthään vielä.</xt>
             </xg>
          </tg>
       </mg>
@@ -1176,7 +1180,7 @@ For the full license text, see the link above.</lic>
             </xg>
            <xg>
                <x>Ta av seg skoene.</x>
-               <xt>Ottaat kengät pois.</xt>
+               <xt>Ottaat kengät pois jaloista.</xt>
             </xg>
            <xg>
                <x>De dro av sted.</x>
@@ -1188,7 +1192,7 @@ For the full license text, see the link above.</lic>
             </xg>
           <xg>
                <x>Hun falt av hesten.</x>
-               <xt>Hän puđos hevosen sölästä.</xt>
+               <xt>Hän putos hevosen sölästä.</xt>
             </xg>
                   </tg>
                   </mg>
@@ -1208,7 +1212,7 @@ For the full license text, see the link above.</lic>
             <t pos="suff">-sta</t>
             <xg>
                <x>Øsa er av tre.</x>
-               <xt>Kauha oon tehty puusta.</xt>
+               <xt>Kauhan oon tehty puusta.</xt>
             </xg>
             </tg>
                   </mg>
@@ -1255,7 +1259,7 @@ For the full license text, see the link above.</lic>
             <t pos="suff">-sta pois</t>
             <xg>
                <x>Han kommer egentlig fra Karasjok.</x>
-               <xt>Hän oon oikheesti Kaarasjovesta pois.</xt>
+               <xt>Hän oon oikkeesti Kaarasjovesta pois.</xt>
             </xg>
          </tg>
       </mg>
@@ -1342,7 +1346,7 @@ For the full license text, see the link above.</lic>
             </xg>
                <xg>
           <x>De er bundet til jobben.</x>
-               <xt>Het oon siđottu töihin.</xt>
+               <xt>Het oon siđottu työhön.</xt>
             </xg>
          </tg>
       </mg> 
@@ -1384,7 +1388,7 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Pr">hos</l>
       </lg>
-      <mg>
+   <!--   <mg>
          <tg xml:lang="fkv">
             <t pos="Po">tykköö</t>
             <xg>
@@ -1392,7 +1396,7 @@ For the full license text, see the link above.</lic>
                <xt>Lapset lähđethiin ämmin tykköö.</xt>
             </xg>
          </tg>
-      </mg>
+      </mg> -->
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">tykönä</t>
@@ -1408,7 +1412,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">tykö</t>
             <xg>
                <x>Hun jobbet som tjenestepike hos tanten sin.</x>
-               <xt>Hän työteli piikana täđin tykönä.</xt>
+               <xt>Hän työteli piikana oman täđin tykönä.</xt>
             </xg>
       <!--        <xg>
                <x>Gutten gikk i lære hos onkelen sin.</x>
@@ -1444,10 +1448,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">myöđen</t>
-           <!--   <xg>
+          <xg>
                <x>Vi spaserer langs med elva.</x>
-               <xt>Met kävelemä joven myöđen.</xt>
-            </xg> -->
+               <xt>Met kävelemmä joven myöđen.</xt>
+            </xg> 
          </tg>
       </mg>
    </e>
@@ -1508,7 +1512,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">päälä</t>
              <xg>
                <x>Hatten lå oppå hylla.</x>
-               <xt>Hattu makkas hyllyn pääle.</xt>
+               <xt>Hattu makas hyllyn päälä.</xt>
             </xg>
          </tg>
       </mg>
@@ -1533,7 +1537,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">pörässä</t>
              <xg>
                <x>Gutter går etter de andre.</x>
-               <xt>Poika oon kävelemässä toisten pörässä.</xt>
+               <xt>Poika kävelee toisten pörässä.</xt>
             </xg>
          </tg>
       </mg>
@@ -1578,11 +1582,11 @@ For the full license text, see the link above.</lic>
             </xg>
              <xg>
                <x>Det står i atlaset at Paris er hovedstaden i Frankrike.</x>
-               <xt>Se seissoo atlaksessa, ette Pariisi oon Franskanmaan pääkaupunki.</xt>
+               <xt>Se seissoo atlaksessa, ette Pariisi oon Franskan pääkaupunki.</xt>
             </xg>
              <xg>
                <x>Han hadde hendene i lommen</x>
-               <xt>Hän piti käđet plakkarissa.</xt>
+               <xt>Hänelä oli käđet plakkarissa.</xt>
             </xg>
              <xg>
                <x>I Øst-Finnmark er det sterk vind.</x>
@@ -1628,7 +1632,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">sekhaan</t>
             <xg>
                <x>Bestemor blandet bark i melet.</x>
-               <xt>Ämmi pani parkkii jauhoin sekhaan.</xt>
+               <xt>Ämmi sekoitti parkkii jauhoin sekhaan.</xt>
             </xg>
             </tg>
       </mg>
@@ -1649,7 +1653,7 @@ For the full license text, see the link above.</lic>
             <t pos="suff">-ssa/ssä</t>
             <xg>
                <x>Norge ble med i NATO i 1949.</x>
-               <xt>Ruija tuli myötä NATO:hoon vuona 1949.</xt>
+               <xt>Norja tuli myötä NATO:hoon vuona 1949.</xt>
             </xg>
             <xg>
                <x>Hun kom hjem i går.</x>
@@ -1686,7 +1690,7 @@ For the full license text, see the link above.</lic>
              <t pos="suff">-ssa/ssä</t>
             <xg>
                <x>Hun er professor i historie.</x>
-               <xt>Hän oon historian professori.</xt>
+               <xt>Hän oon histoorian professori.</xt>
             </xg>
             <xg>
                <x>Hun arbeider ved Universitetssykehuset i Nord-Norge.</x>
@@ -1727,9 +1731,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>måte, materiale</re>
             <t pos="suff">-ssa</t>
+             <t pos="suff">-sta</t>
             <xg>
                <x>Trappa er i marmor.</x>
-               <xt>Trappu oon marmorissa.</xt>
+               <xt>Trappu oon marmorista.</xt>
             </xg>
                         <xg>
                <x>Profeten snakket i ligninger.</x>
@@ -1772,9 +1777,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	             <re>sted eller flate der to sider eller flere er mot deg, bevegelse til dette området</re>
             <t pos="Po">välile</t>
+            <t pos="Po">välilä</t>
                    <xg>
 	                    <x>De reiser hver dag mellom Kirkenes og Tana.</x>
-               <xt>Het reisathaan joka päivä Kirkkoniemen ja Tenon välile.</xt>
+               <xt>Het reisathaan joka päivä Kirkkoniemen ja Tenon välilä.</xt>
             </xg>
          </tg>
       </mg>
@@ -1782,10 +1788,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	             <re>sted eller flate der to sider eller flere er mot deg, bevegelse fra dette området</re>
             <t pos="Po">väliltä</t>
-    <!--               <xg>
+             <t pos="Po">välilä</t>
+                <xg>
 	                    <x>Fra et sted mellom Billefjord og Lakselv reiser mange sørover.</x>
-               <xt>Pillavuonon ja Lemmijoven väliltä lähtee paljon ihmissii etelänpäin.</xt>
-            </xg> -->
+               <xt>Yhđestä paikasta mikä oon Pillavuonon ja Lemmijoven välilä, reisaa paljon ihmissii etelhään käsin</xt>
+            </xg> 
          </tg>
       </mg>
       <mg>
@@ -1828,8 +1835,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">seurhaan</t>
+             <t pos="Po">kans</t>
               <x>Han dro sammen med dem.</x>
-               <xt>Hän lähti myötä heiđän seurhaan.</xt>
+               <xt>Hän lähti yhđessä heiđän kans.</xt>
          </tg>
       </mg>
             <mg>
@@ -1837,7 +1845,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">yhtenä</t>
             <xg>
                <x>Skinnet gikk sammen med spekket.</x>
-               <xt>Se nahka se meni yhtenä sen späkin kanssa.</xt>
+               <xt>Se nahka meni yhtenä sen späkin kanssa.</xt>
             </xg>
          </tg>
       </mg>
@@ -1868,9 +1876,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">sishään</t>
+             <t pos="Po">sisäle</t>
                                     <xg>
                <x>Kom bare inn.</x>
-               <xt>Tule tyhä sishään.</xt>
+               <xt>Tule tyhä sisäle.</xt>
             </xg>
 
          </tg>
@@ -1904,7 +1913,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">suhtheen</t>
             <xg>
                <x>Moltene her er små sammenlignet med dem der lengere borte.</x>
-               <xt>Täälä oon hyvin pienet hillat sen suhtheen mitä tuola kauvempana.</xt>
+               <xt>Täälä oon pienet hillat sen suhtheen mitä tuola kauvempanna.</xt>
             </xg>
          </tg>
       </mg>
@@ -1987,7 +1996,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">tähđen</t>
             <xg>
                <x>Jeg gjorde det for deg.</x>
-               <xt>Mie tein sen sinun tähđen.</xt>
+               <xt>Mie tehin sen sinun tähđen.</xt>
             </xg>
          </tg>
       </mg>
@@ -2100,7 +2109,7 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">keskele</t>
                <xg>
                <x>Skolen ble bygget midt i bygda.</x>
-               <xt>Koulu pykäthiin keskele kyllää.</xt>
+               <xt>Koulun pykäthiin keskele kyllää.</xt>
             </xg>
          </tg>
       </mg>
@@ -2150,9 +2159,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pr">liki</t>
+             <t pos="Pr">likelä</t>
              <xg>
                <x>Kirkenes ligger nær russegrensa.</x>
-               <xt>Kirkkoniemi oon liki Ryssän rajjaa.</xt>
+               <xt>Kirkkoniemi oon likelä Ryssän rajjaa.</xt>
             </xg>
          </tg>
       </mg>
@@ -2165,9 +2175,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	          <re>ovenfor, høyere enn </re>
             <t pos="Po">yli</t>
+            <t pos="Po">ylipuolela</t>
             <xg>
                <x>Skiltet henger over døren.</x>
-               <xt>Kyltti henkkaa oven yli.</xt>
+               <xt>Kyltti henkkaa oven ylipuolela.</xt>
             </xg>
          </tg>
       </mg>
@@ -2191,7 +2202,7 @@ For the full license text, see the link above.</lic>
             <t pos="suff">-Vn</t>
             <xg>
                <x>Hun strøk barnet over håret.</x>
-               <xt>Hän silitti lasten hykset.</xt>
+               <xt>Hän silitti lasten hyksii.</xt>
             </xg>
              <xg>
                <x>Det er uvær over hele Nord-Norge.</x>
@@ -2313,7 +2324,7 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">läpitte</t>
             <xg>
                <x>Moses reiste gjennom Rødehavet.</x>
-               <xt>Mooses reisas läpitte Punasenmeren.</xt>
+               <xt>Mooses reisas läpitte Punaisenmeren.</xt>
             </xg>
 <!--                  <xg>
                <x>Vinteren igjennom pendlet han til jobb.</x>
@@ -2333,7 +2344,7 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">poikki</t>
             <xg>
                <x>Den kan brekke.</x>
-               <xt>Se voi mennä poikki.</xt>
+               <xt>Se saattaa mennä poikki.</xt>
             </xg>
          </tg>
       </mg>
@@ -2347,7 +2358,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">kautta</t>
             <xg>
                <x>Knut reiste via Stockholm.</x>
-               <xt>Nuutti reisasi Tukholman kautta.</xt>
+               <xt>Nuutti reisas Tukholman kautta.</xt>
             </xg>
          </tg>
       </mg>
@@ -2380,11 +2391,11 @@ For the full license text, see the link above.</lic>
             <t type="grammar" href="https://nn.wikipedia.org/wiki/Adessiv">adessiv</t>
             <xg>
                <x>Boka er på bordet.</x>
-               <xt>Kirjan oon pöyđän päälä.</xt>
+               <xt>Kirja oon pöyđän päälä.</xt>
             </xg>
             <xg>
                <x>Boka er på bordet.</x>
-               <xt>Kirjan oon pöyđälä.</xt>
+               <xt>Kirja oon pöyđälä.</xt>
             </xg>
          </tg>
       </mg>
@@ -2393,10 +2404,10 @@ For the full license text, see the link above.</lic>
             <re>fast, retning til</re>
             <t pos="suff">-Vn</t>
             <t type="grammar" href="https://nn.wikipedia.org/wiki/Illativ">illativ</t>
-            <xg>
+  <!--            <xg>
                <x>Jeg henger jakka på kroken.</x>
-               <xt>Mie panen jakan koukhuun.</xt>
-            </xg>
+               <xt>Mie hengaan jakan koukkhuun.</xt>
+            </xg> -->
          </tg>
       </mg>
       <mg>
@@ -2418,9 +2429,13 @@ For the full license text, see the link above.</lic>
                <x>Ungene tok på skoene selv.</x>
                <xt>Kläpit panthiin kengät pääle itte.</xt>
             </xg>
+                        <xg>
+               <x>Ungene tok på skoene selv.</x>
+               <xt>Kläpit panthiin kengät jalkhoin itte.</xt>
+            </xg>
               <xg>
                <x>De hadde på seg kvendrakten under kipparifestivalen.</x>
-               <xt>Heilä oli kväänipuku pääle kipparifestivaalin aikana.</xt>
+               <xt>Heilä oli kväänipuku päälä kipparifestivaalin aikana.</xt>
             </xg>
          </tg>
       </mg>
@@ -2430,7 +2445,7 @@ For the full license text, see the link above.</lic>
             <t pos="suff">lla/llä/la/lä</t>
             <xg>
                <x>De levde på fisk og tran.</x>
-               <xt>Het eläthiin kalala ja traanila.</xt>
+               <xt>Het elethiin kalala ja traanila.</xt>
             </xg>
               <xg>
                <x> Min avdøde bestefar pleide hver høst å dra på rypejakt.</x>
@@ -2438,7 +2453,7 @@ For the full license text, see the link above.</lic>
             </xg>
              <xg>
                <x>Han skrev hele romanen på maskin.</x>
-               <xt>Hän kirjoitti koko rommaanin masiinila.</xt>
+               <xt>Hän kirjoitti koko rommaanin masiinilla.</xt>
             </xg>
          </tg>
       </mg>
@@ -2454,7 +2469,7 @@ For the full license text, see the link above.</lic>
             </xg> -->
             <xg>
                <x>Jeg leste på leksene.</x>
-               <xt>Mie lujin läksyin päälä.</xt>
+               <xt>Mie lujin läksyi päälä.</xt>
             </xg>
               <xg>
                <x>Han skriver på en roman.</x>
@@ -2462,7 +2477,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Hun bar på en stor veske.</x>
-               <xt>Hän kanttoi issoo väskyy.</xt>
+               <xt>Hän kantoi issoo väskyy.</xt>
             </xg>
          </tg>
       </mg>
