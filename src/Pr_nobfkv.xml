@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_nobfkv.dtd">
@@ -55,10 +55,15 @@ For the full license text, see the link above.</lic>
             <t pos="Po">vierheen</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">vieressä</t>
+         </tg>
+      </mg>
    </e>
    <e src="mj">
       <lg>
-         <l pos="Pr">ved siden av</l>
+         <l pos="Pr">ved</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
