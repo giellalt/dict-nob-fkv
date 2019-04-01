@@ -16455,18 +16455,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">måned</l>
       </lg>
-      <mg>
+      <!--   <mg>
          <tg xml:lang="fkv">
             <t pos="N">janturi</t>
          </tg>
-      </mg>
+      </mg> -->
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kuu</t>
-            <xg>
+               <xg>
                <x>I hvilken måned?</x>
                <xt>Missä kuussa?</xt>
-            </xg>
+            </xg> 
          </tg>
       </mg>
       <mg>
