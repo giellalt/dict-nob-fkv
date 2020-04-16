@@ -1491,7 +1491,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="mk">
+      <e src="aili">
       <lg>
          <l pos="N">kall</l>
       </lg>
@@ -9184,7 +9184,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="yr">
+   <e src="aili">
       <lg>
          <l pos="N">frisbee</l>
       </lg>
@@ -9194,7 +9194,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="yr">
+      <e src="aili">
       <lg>
          <l pos="N">plante</l>
       </lg>
@@ -9204,7 +9204,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-<e src="yr">
+<e src="aili">
       <lg>
          <l pos="N">overblikk</l>
       </lg>
@@ -25893,7 +25893,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="yr">
+      <e src="aili">
       <lg>
          <l pos="N">tilværelse</l>
       </lg>
@@ -25903,7 +25903,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-         <e src="yr">
+         <e src="aili">
       <lg>
          <l pos="N">oppfordring</l>
       </lg>
@@ -25913,7 +25913,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-            <e src="yr">
+            <e src="aili">
       <lg>
          <l pos="N">svakhet</l>
       </lg>
@@ -25923,7 +25923,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-               <e src="yr">
+                  <e src="yr">
+      <lg>
+         <l pos="N">storhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mahtavuus</t>
+         </tg>
+      </mg>
+   </e>
+               <e src="aili">
       <lg>
          <l pos="N">landskapsområde</l>
       </lg>
@@ -25933,7 +25943,47 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-               <e src="yr">
+              <e src="grom">
+      <lg>
+         <l pos="N">stellebord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hoitamapöytä</t>
+         </tg>
+      </mg>
+   </e>
+                 <e src="grom">
+      <lg>
+         <l pos="N">utfordring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">haastet</t>
+         </tg>
+      </mg>
+   </e>
+                 <e src="merethe">
+      <lg>
+         <l pos="N">nasjonalpark</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kansalistaras</t>
+         </tg>
+      </mg>
+   </e>
+                    <e src="grom">
+      <lg>
+         <l pos="N">kloss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">klossa</t>
+         </tg>
+      </mg>
+   </e>
+               <e src="aili">
       <lg>
          <l pos="N">narkoman</l>
       </lg>
@@ -47226,7 +47276,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ai">
+      <e src="aili">
       <lg>
          <l pos="N">tørke</l>
       </lg>
@@ -47236,7 +47286,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ai">
+      <e src="aili">
       <lg>
          <l pos="N">hjelpeløshet</l>
       </lg>
@@ -47246,7 +47296,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ai">
+      <e src="aili">
       <lg>
          <l pos="N">kaster</l>
       </lg>
@@ -53210,7 +53260,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">tehtäävä</t>
+            <t pos="N">tehtävä</t>
          </tg>
       </mg>
       <mg>
@@ -63688,7 +63738,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ki">
+      <e src="aili">
       <lg>
          <l pos="N">frisbeegolf</l>
       </lg>
@@ -63698,7 +63748,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ki">
+      <e src="aili">
       <lg>
          <l pos="N">dolomittformasjon</l>
       </lg>
