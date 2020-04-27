@@ -26,6 +26,46 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+            <e src="me">
+      <lg>
+         <l pos="N">skiskrape</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sivakkaskraapa</t>
+         </tg>
+      </mg>
+   </e>
+            <e src="me">
+      <lg>
+         <l pos="N">skismurning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sivakkavoiđet</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="me">
+      <lg>
+         <l pos="N">skipar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sivakkapari</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="me">
+      <lg>
+         <l pos="N">gli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">keli</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mj">
       <lg>
          <l pos="N">kjæreste</l>
@@ -13613,7 +13653,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta:me">
       <lg>
          <l pos="N">skisko</l>
       </lg>
@@ -13622,8 +13662,13 @@ For the full license text, see the link above.</lic>
             <t pos="N" stem="hihtokengä;hihtokenkkä">hihtokenkä</t>
          </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="sivakkakengä;sivakkakenkkä">sivakkakenkä</t>
+         </tg>
+      </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;me">
       <lg>
          <l pos="N">skistav</l>
       </lg>
@@ -13635,6 +13680,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sompasauva</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sivakkasauva</t>
          </tg>
       </mg>
    </e>
@@ -23273,7 +23323,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kiusaukse">kiusaus</t>
+            <t pos="N" stem="kiussaukse">kiussaus</t>
          </tg>
       </mg>
    </e>
@@ -50531,7 +50581,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;me">
       <lg>
          <l pos="N">ski</l>
       </lg>
@@ -61724,7 +61774,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">kiusaus</t>
+            <t pos="N">kiussaus</t>
          </tg>
       </mg>
    </e>
@@ -62724,7 +62774,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">kiusaaminen</t>
+            <t pos="N">kiussaaminen</t>
          </tg>
       </mg>
    </e>
