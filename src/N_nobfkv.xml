@@ -26,6 +26,16 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+               <e src="me">
+      <lg>
+         <l pos="N">skidress</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sivakkapuku</t>
+         </tg>
+      </mg>
+   </e>
             <e src="me">
       <lg>
          <l pos="N">skiskrape</l>
@@ -30196,13 +30206,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;me">
       <lg>
          <l pos="N">skiløype</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">lattuu</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sivakkalattuu</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hihtolattuu</t>
          </tg>
       </mg>
    </e>
