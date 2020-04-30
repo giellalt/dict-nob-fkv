@@ -26,7 +26,67 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-               <e src="me">
+      <e src="bildetema">
+      <lg>
+         <l pos="N">watt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">watti</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">ohm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ohmi</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">bleie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rievu</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">pinnsvin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">siili</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
+         <l pos="N">volt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">voltti</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">sikring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">proppu</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="me">
       <lg>
          <l pos="N">skidress</l>
       </lg>
@@ -689,7 +749,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="mj;bildetema">
       <lg>
          <l pos="N">eske</l>
       </lg>
@@ -699,6 +759,8 @@ For the full license text, see the link above.</lic>
             <syng>
                <syn>loova</syn>
                <syn>rassii</syn>
+                <syn>rasia</syn>
+               <syn>äsky</syn>
             </syng>
          </tg>
       </mg>
