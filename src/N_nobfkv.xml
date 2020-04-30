@@ -26,6 +26,96 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+     <e src="bildetema">
+      <lg>
+       <l pos="N">ullteppe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">villateppeni</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+       <l pos="N">vinkelhake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vinkkeli</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
+         <l pos="N">strømbryter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">virrankatkaisiija</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">tittel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ylikirjoitus</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">overkjeve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ylileuka</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
+         <l pos="N">omkjøring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ympäriajo</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
+         <l pos="N">omkrets</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ympärimitta</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">nattkjole</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yökleninki</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">østers</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">österi</t>
+         </tg>
+      </mg>
+   </e>
         <e src="bildetema">
       <lg>
          <l pos="N">østers</l>
@@ -49425,7 +49515,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;bildetema">
       <lg>
          <l pos="N">sandpapir</l>
       </lg>
@@ -49815,7 +49905,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;bildetema">
       <lg>
          <l pos="N">veggklokke</l>
       </lg>
