@@ -26,6 +26,66 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">østers</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">österi</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">ampere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">amperi</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="bildetema">
+      <lg>
+         <l pos="N">grensesnitt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">daattaruutu</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="bildetema">
+      <lg>
+         <l pos="N">kubikkmeter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kubekkimeetteri</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">blomsterbed</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kukkapeti</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="bildetema">
+      <lg>
+         <l pos="N">vannslange</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">letku</t>
+         </tg>
+      </mg>
+   </e>
       <e src="bildetema">
       <lg>
          <l pos="N">watt</l>
@@ -6720,10 +6780,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;bildetema">
       <lg>
          <l pos="N">sjåfør</l>
       </lg>
+          <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuljettaaja</t>
+         </tg>
+      </mg>
+                <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuljettaja</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ajaja</t>
@@ -11969,13 +12039,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;bildetema">
       <lg>
          <l pos="N">kran</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hana</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">krana</t>
          </tg>
       </mg>
    </e>
@@ -12417,6 +12492,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">harttii</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hartia</t>
          </tg>
       </mg>
       <mg>
@@ -54811,13 +54891,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai:bildetema">
       <lg>
          <l pos="N">trillebår</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">trillepoori</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kottikärry</t>
          </tg>
       </mg>
    </e>
