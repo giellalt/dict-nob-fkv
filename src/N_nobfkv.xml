@@ -26,6 +26,117 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+         <e src="bildetema">
+      <lg>
+       <l pos="N">nøste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kerä</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="bildetema">
+      <lg>
+       <l pos="N">midtpunkt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">keskikohta</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="bildetema">
+      <lg>
+       <l pos="N">lungesekk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">keuhkosäkki</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="bildetema">
+      <lg>
+       <l pos="N">kirsebær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kirsikka</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="bildetema">
+      <lg>
+       <l pos="N">klarinett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">klarinetti</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="bildetema">
+      <lg>
+       <l pos="N">klitoris</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">klitoris</t>
+         </tg>
+         </mg>
+      </e>
+          <e src="bildetema">
+      <lg>
+       <l pos="N">kiosk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kioski</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="bildetema">
+      <lg>
+       <l pos="N">clutch</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">klötši</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="bildetema">
+      <lg>
+       <l pos="N">koffert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">koffertti</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="bildetema">
+      <lg>
+       <l pos="N">kolje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kolja</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="bildetema">
+      <lg>
+       <l pos="N">spalte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kolumni</t>
+            <t pos="N">palsta</t>
+         </tg>
+         </mg>
+      </e>
        <e src="bildetema">
       <lg>
        <l pos="N">kompress</l>
@@ -24506,6 +24617,11 @@ For the full license text, see the link above.</lic>
             <t pos="N" stem="keuko">keukko</t>
          </tg>
       </mg>
+          <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="keuhko">keuhko</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -29684,13 +29800,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;bildetema">
       <lg>
          <l pos="N">kompass</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kumpassi</t>
+            <t pos="N">kompassi</t>
          </tg>
       </mg>
    </e>
