@@ -14,7 +14,7 @@ while (<>)
 	my ($lemma, $POS, $trans) = split /\t/ ;
 	print STDOUT "   <e src=\"ki\">\n";
 	print STDOUT "      <lg>\n";
-	print STDOUT "         <l pos=\"N\">$lemma</l>\n";
+	print STDOUT "         <l pos=\"$POS\">$lemma</l>\n";
 	print STDOUT "      </lg>\n";
 	print STDOUT "      <mg>\n";
 	print STDOUT "         <tg xml:lang=\"fkv\"\>\n";
