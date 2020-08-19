@@ -28,6 +28,166 @@ For the full license text, see the link above.</lic>
    </lics>
         <e src="bildetema">
       <lg>
+       <l pos="N">falukorv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">faalumakkara</t>
+         </tg>
+         </mg>
+      </e>
+           <e src="bildetema">
+      <lg>
+       <l pos="N">fasade</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fasaadi</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="bildetema">
+      <lg>
+       <l pos="N">fasan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fasaani</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="bildetema">
+      <lg>
+       <l pos="N">fiol</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fioli</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="bildetema">
+      <lg>
+       <l pos="N">fiolin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fioliini</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="bildetema">
+      <lg>
+       <l pos="N">flygel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">flyygeli</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="bildetema">
+      <lg>
+       <l pos="N">foto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">foto</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="bildetema">
+      <lg>
+       <l pos="N">gasspedal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">gassipedaali</t>
+         </tg>
+         </mg>
+      </e>
+      <e src="bildetema">
+      <lg>
+       <l pos="N">girkasse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">giirikassa</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="bildetema">
+      <lg>
+       <l pos="N">girstang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">giiritanko</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="bildetema">
+      <lg>
+       <l pos="N">gymnastikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">gymnastikki</t>
+         </tg>
+         </mg>
+      </e>
+           <e src="bildetema">
+      <lg>
+       <l pos="N">kroppsøving</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">gymnastikki</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="bildetema">
+      <lg>
+       <l pos="N">tannkrem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hammaskräämi</t>
+         </tg>
+         </mg>
+      </e>
+           <e src="bildetema">
+      <lg>
+       <l pos="N">tannhjul</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hammasratas</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="bildetema">
+      <lg>
+       <l pos="N">harpe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">harppu</t>
+         </tg>
+         </mg>
+      </e>
+           <e src="bildetema">
+      <lg>
+       <l pos="N">gressklipper</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">heinäklipperi</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="bildetema">
+      <lg>
        <l pos="N">gresshoppe</l>
       </lg>
       <mg>
@@ -41407,13 +41567,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;aili">
       <lg>
          <l pos="N">synsvinkel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">näkökulma</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">näkövinkkeli</t>
          </tg>
       </mg>
    </e>
