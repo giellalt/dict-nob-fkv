@@ -116,6 +116,140 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">fan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fani</t>
+            <xg>
+               <x>musikkfan</x>
+               <xt>musikin fani</xt>
+            </xg>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">hamster</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hamsteri</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">kamskjell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hevoisraakku</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">sandbunn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hietapohja</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">fuglekonge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hippiäinen</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">tangloppe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hirra</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">oppmerksomhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">huomio</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">humor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">huumori</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">angriper</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hyökkääjä</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">angrepsspiller</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hyökkääjä</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">insekt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hyöntheinen</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">tussmørke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hämy</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">haletipp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hännänpää</t>
+         </tg>
+         </mg>
+      </e>
            <e src="bildetema">
       <lg>
        <l pos="N">arterie</l>
@@ -3447,6 +3581,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">hehto</t>
             <t pos="N">hekto</t>
          </tg>
          </mg>
@@ -8914,6 +9049,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">flakkari</t>
+            <t pos="N">filkkari</t>
          </tg>
       </mg>
    </e>
@@ -19120,6 +19256,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hämärä</t>
+            <t pos="N">hämy</t>
          </tg>
       </mg>
    </e>
@@ -29899,6 +30036,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" nr="Pl">kraviaiset</t>
+            <t pos="N" nr="Pl">hautajaiset</t>
          </tg>
       </mg>
    </e>

@@ -117,6 +117,46 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="ks">
+      <lg>
+         <l pos="V">tilbringe tid (henge)</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">hengaila</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ks">
+      <lg>
+         <l pos="V">lokke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">houkutella</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ks">
+      <lg>
+         <l pos="V">friste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">houkutella</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ks">
+      <lg>
+         <l pos="V">bli bekymret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">huolestuut</t>
+         </tg>
+      </mg>
+   </e>
       <e src="aili">
       <lg>
          <l pos="V">forsikre</l>
@@ -3142,6 +3182,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kuljeta">kuljettaat</t>
+            <t pos="V">höyrätä</t>
          </tg>
       </mg>
    </e>
@@ -14319,6 +14360,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="pauhaa;pauhan">pauhata</t>
+            <t pos="V">humista</t>
+
          </tg>
       </mg>
    </e>
@@ -19795,6 +19838,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">viettäät</t>
+            <t pos="V">feirata</t>
          </tg>
       </mg>
    </e>
