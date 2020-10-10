@@ -651,6 +651,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="ks">
+      <lg>
+         <l pos="A">blek</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kalppee</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ks">
+      <lg>
+         <l pos="A">støl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kankkee</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="A">generisk</l>
@@ -4587,6 +4607,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="kovva">kova</t>
+            <t pos="A">kankkee</t>
          </tg>
       </mg>
    </e>
@@ -4727,6 +4748,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">krouvi</t>
+            <t pos="A">karhee</t>
          </tg>
       </mg>
    </e>
