@@ -310,6 +310,66 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">blikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kattet</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">gatekjøkken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">katukööki</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">skrekkfilm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kauhufilmi</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">kaviar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kaviaari</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">sommerferie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kesäfeeriä</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">ekskrement</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kikara</t>
+         </tg>
+         </mg>
+      </e>
          <e src="pnp">
       <lg>
        <l pos="N">lufthavn</l>
@@ -25226,6 +25286,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">kaurapuuro</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="N">prässikryynipuuro</t>
          </tg>
       </mg>
@@ -36089,6 +36154,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">loisto</t>
+            <t pos="N">kiilto</t>
          </tg>
       </mg>
    </e>
