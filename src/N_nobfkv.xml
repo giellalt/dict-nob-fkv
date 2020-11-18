@@ -430,6 +430,87 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">kirrous</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">forbannelse</t>
+            <t pos="N">ed</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">kotihiiri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">husmus</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">kotimatka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hjemreise</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">kranniperet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nabofamilie</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">krokotilli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">krokodille</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">strikketøy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuđelma</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">spøkelseshistorie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kummitusmuistelus</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ks">
+      <lg>
+       <l pos="N">tissetrang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kusihoppu</t>
+         </tg>
+         </mg>
+      </e>
          <e src="pnp">
       <lg>
        <l pos="N">lufthavn</l>
@@ -27392,7 +27473,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kiroussanna">kiroussana</t>
+            <t pos="N" stem="kirroussanna">kirroussana</t>
          </tg>
       </mg>
    </e>
@@ -30831,7 +30912,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">blomster</l>
+         <l pos="N">liten blomst</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
