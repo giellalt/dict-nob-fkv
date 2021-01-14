@@ -3269,7 +3269,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">sikkersneula</t>
+            <t pos="N">sikkarineula</t>
          </tg>
          </mg>
       </e>
@@ -3370,7 +3370,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">slalom</t>
+            <t pos="N">slaalomi</t>
          </tg>
          </mg>
       </e>
@@ -4085,7 +4085,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">vaatetkliipa</t>
+            <t pos="N">vaatetkliippa</t>
          </tg>
          </mg>
       </e>
@@ -4296,7 +4296,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">amperi</t>
+            <t pos="N">ampääri</t>
          </tg>
       </mg>
    </e>
@@ -26294,11 +26294,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>dekke, belegg</re>
             <t pos="N" stem="kerra;kertta">kerta</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>gruppe</re>
             <t pos="N" stem="laaki;laakki">laaki</t>
          </tg>
       </mg>
@@ -55601,6 +55603,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sportti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="kt">
+      <lg>
+         <l pos="N">idrettslag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">idrettilaaki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="kt">
+      <lg>
+         <l pos="N">idrettsråd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">idrettiraati</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="kt">
+      <lg>
+         <l pos="N">idrettskrets</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">idrettipiiri</t>
          </tg>
       </mg>
    </e>
