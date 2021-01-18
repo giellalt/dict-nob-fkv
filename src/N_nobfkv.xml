@@ -2152,7 +2152,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">mikroparouuni</t>
+            <t pos="N">mikrouuni</t>
             <t pos="N">mikroaaltouuni</t>
          </tg>
          </mg>
@@ -9061,6 +9061,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">haamustus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">mikrobølge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mikroaalto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">lydbølge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ääniaalto</t>
          </tg>
       </mg>
    </e>
