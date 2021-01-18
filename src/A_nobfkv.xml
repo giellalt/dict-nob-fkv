@@ -4642,11 +4642,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="kovva">kova</t>
+              <xg>
+               <x>Kaffi oon kova.</x>
+               <xt>Kaffen er sterk.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="lujja">luja</t>
+             <xg>
+               <x>Karhuu oon luja.</x>
+               <xt>Bjørnen er sterk.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -4656,7 +4664,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">väkevä</t>
+            <t pos="A">väkkeevä</t>
+             <xg>
+               <x>Mies oon väkkeevä.</x>
+               <xt>Mannen er sterk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10478,6 +10490,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">veđenpitävä</t>
+              <xg>
+               <x>Saapphaat oon veđenpittäävät.</x>
+               <xt>Støvlene er vanntette.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
