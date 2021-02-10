@@ -26,7 +26,17 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-       <e src="tb">
+       <e src="grom">
+      <lg>
+         <l pos="V">klassifisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">klassifiseerata</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="tb;jaj">
       <lg>
          <l pos="V">tygge</l>
       </lg>
@@ -7622,7 +7632,7 @@ For the full license text, see the link above.</lic>
 	         <re>tåle påkjenning</re> 
             <t pos="V">kestäät</t>
             <xg>
-               <x>Jää kestää. Se saattaa kävelä sen pääle.</x>
+               <x> Jää kestää. Se saattaa kävelä sen pääle.</x>
                <xt>Isen holder. Man kan gå på den.</xt>
             </xg>
          </tg>
@@ -7631,11 +7641,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="piđä;pitä">pittäät</t>
              <xg>
-               <x>Piđätkö sie minun kirjoi hetken aikkaa ko mie solmin kenkänauhat?</x>
+               <x> Piđätkö sie minun kirjoi hetken aikkaa ko mie solmin kenkänauhat?</x>
                <xt>Kan du holde bøkene mine mens jeg knytter skolissene?</xt>
             </xg>
              <xg>
-               <x>Het piđethiin luppauksen.</x>
+               <x> Het piđethiin luppauksen.</x>
                <xt>De holdt løftet.</xt>
             </xg>
          </tg>
@@ -10096,7 +10106,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="käytä">käyttäät</t>
              <xg>
-               <x>Hän halluu käyttäät sitä.</x>
+               <x> Hän halluu käyttää sitä.</x>
                <xt>Han vil bruke den.</xt>
             </xg>
          </tg>
@@ -10105,7 +10115,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="piđä;pitä">pittäät</t>
                <xg>
-               <x>Se kannattaa pittäät karttaa ja kompassii ko kulkkee luonossa.</x>
+               <x> Se kannattaa pittää karttaa ja kompassii ko kulkkee luonossa.</x>
                <xt>Det lønner seg å bruke kart og kompass når man er ute i naturen.</xt>
             </xg>
          </tg>
@@ -10115,7 +10125,7 @@ For the full license text, see the link above.</lic>
 	     <re>pleie, ha for vane</re> 
             <t pos="V" stem="pruukkaa;pruukan">pruukata</t>
                  <xg>
-               <x>Se pruukkaa olla niin.</x>
+               <x> Se pruukkaa olla niin.</x>
                <xt>Det bruker å være slik.</xt>
             </xg>
          </tg>
@@ -15154,7 +15164,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="piđä;pitä">pittäät</t>
              <xg>
-               <x>Mitä met piđämä tehđä?</x>
+               <x> Mitä met piđämä tehđä?</x>
                <xt>Hva skal vi gjøre?</xt>
             </xg>
          </tg>
