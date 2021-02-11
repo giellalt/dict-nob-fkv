@@ -28,6 +28,86 @@ For the full license text, see the link above.</lic>
    </lics>
        <e src="grom">
       <lg>
+       <l pos="N">pensel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pensseli</t>
+         </tg>
+         </mg>
+      </e>
+      <e src="grom">
+      <lg>
+       <l pos="N">geitebukk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">keituripukki</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="grom">
+      <lg>
+       <l pos="N">animasjonsfilm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">animasjuunifilmi</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="grom">
+      <lg>
+       <l pos="N">animasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">animasjuuni</t>
+         </tg>
+         </mg>
+      </e>
+      <e src="grom">
+      <lg>
+       <l pos="N">refleksjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hunteeraus</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="grom">
+      <lg>
+       <l pos="N">faktatekst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">faktateksti</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="grom">
+      <lg>
+       <l pos="N">rekkefølge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">oorninki</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="grom">
+      <lg>
+       <l pos="N">rekkefølge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">oorninki</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="grom">
+      <lg>
        <l pos="N">riveskaft</l>
       </lg>
       <mg>
@@ -36538,7 +36618,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;grom">
       <lg>
          <l pos="N">slott</l>
       </lg>
@@ -50905,7 +50985,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;grom">
       <lg>
          <l pos="N">ugle</l>
       </lg>
