@@ -26,6 +26,81 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+          <e src="grom">
+      <lg>
+         <l pos="V">formidle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">jakkaat</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">muistela</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="grom">
+      <lg>
+         <l pos="V">zoome inn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">zoomata sisäle</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="grom">
+      <lg>
+         <l pos="V">tilpasse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sovitella</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="grom">
+      <lg>
+         <l pos="V">flagge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">flavuttaat</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="grom">
+      <lg>
+         <l pos="V">laste ned</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">lastata alas</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="grom">
+      <lg>
+         <l pos="V">logge ut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">lokata ulos</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="grom">
+      <lg>
+         <l pos="V">logge inn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">lokata sisäle</t>
+         </tg>
+      </mg>
+   </e>
       <e src="grom">
       <lg>
          <l pos="V">skrive ut</l>
@@ -169,7 +244,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="aili">
+   <e src="ame">
       <lg>
          <l pos="V">bli formet</l>
       </lg>
@@ -4373,6 +4448,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="herätä">herättäät</t>
+              <xg>
+               <x>Vekker du meg klokken sju?</x>
+               <xt>Herätätkö sie minun kello seittemeltä?</xt>
+            </xg>
+              <xg>
+               <x>Hun vekker interesse der hun ferdes.</x>
+               <xt>Hän herättää intressin siinä missä kulkkee.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5879,7 +5962,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>om katten</re>
+	         <re>katt som maler</re>
             <t pos="V">kehrätä</t>
          </tg>
       </mg>
@@ -5937,7 +6020,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="jouđu;joutu">jouttuut</t>
             <xg>
-               <x>Jeg ble tvunget til å kjøpe nye skor fordi de gamle gikk i stykker.</x>
+               <x>Jeg ble tvunget til å kjøpe nye sko fordi de gamle gikk i stykker.</x>
                <xt>Mie jouđuin ostamhaan uuđet kengät ko vanhat hajothiin.</xt>
             </xg>
          </tg>
