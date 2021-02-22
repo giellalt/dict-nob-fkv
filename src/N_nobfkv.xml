@@ -26,6 +26,26 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+       <e src="kl">
+      <lg>
+       <l pos="N">multeblomst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">hillankukka</t>
+         </tg>
+         </mg>
+      </e>
+          <e src="kl">
+      <lg>
+       <l pos="N">løvetann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">ämmänkukka</t>
+         </tg>
+         </mg>
+      </e>
           <e src="kl;ame">
       <lg>
        <l pos="N">krøkebærlyng</l>
@@ -8635,6 +8655,11 @@ For the full license text, see the link above.</lic>
             <t pos="N">rohtu</t>
          </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lehtimettä</t>
+         </tg>
+      </mg>
    </e>
    <e src="ia">
       <lg>
@@ -12580,7 +12605,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ai;ta">
+      <e src="ai;ta;kl">
       <lg>
          <l pos="N">lav</l>
       </lg>
@@ -20493,7 +20518,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta:kl">
       <lg>
          <l pos="N">multemyr</l>
       </lg>
@@ -24365,7 +24390,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">myrull</l>
       </lg>
@@ -37325,7 +37350,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">løvtre</l>
       </lg>
@@ -37586,7 +37611,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">older</l>
       </lg>
@@ -55901,7 +55926,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">mose</l>
       </lg>
@@ -58311,7 +58336,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;kl">
       <lg>
          <l pos="N">reinfann</l>
       </lg>
@@ -64365,7 +64390,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">lyng</l>
       </lg>
