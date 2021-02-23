@@ -26,6 +26,98 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+       <e src="kl">
+      <lg>
+       <l pos="N">skinnskrape</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">jiekkrauta</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="kl">
+      <lg>
+       <l pos="N">skallebånd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">paula</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kl">
+      <lg>
+       <l pos="N">garvet skinn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">sisti</t>
+         </tg>
+         </mg>
+      </e>
+      <e src="kl">
+      <lg>
+       <l pos="N">skinnarbeid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">nahkatyö</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="kl">
+      <lg>
+       <l pos="N">sytråd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">neulomalanka</t>
+         </tg>
+         </mg>
+      </e>
+          <e src="kl">
+      <lg>
+       <l pos="N">synål</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">neulomaneula</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="kl">
+      <lg>
+       <l pos="N">stoff</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+          <re>tøy</re>
+         <t pos="N">kangas</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="kl">
+      <lg>
+       <l pos="N">vrangbord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+          <re>strikket bord av rette og vrange masker</re>
+         <t pos="N">varsi</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="kl">
+      <lg>
+       <l pos="N">strikkegarn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">kutomalanka</t>
+         </tg>
+         </mg>
+      </e>
         <e src="kl">
       <lg>
        <l pos="N">maske</l>
@@ -2778,7 +2870,7 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
-         <e src="ks">
+         <e src="ks;kl">
       <lg>
        <l pos="N">strikketøy</l>
       </lg>
@@ -4158,7 +4250,7 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
-        <e src="bildetema">
+        <e src="bildetema;kl">
       <lg>
        <l pos="N">strikkepinne</l>
       </lg>
@@ -4523,7 +4615,7 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
-        <e src="bildetema">
+        <e src="bildetema;kl">
       <lg>
        <l pos="N">symaskin</l>
       </lg>
@@ -24633,7 +24725,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">vann</l>
       </lg>
@@ -25181,7 +25273,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">mønster</l>
       </lg>
@@ -25964,6 +26056,18 @@ For the full license text, see the link above.</lic>
             <t pos="N" stem="paulakengä;paulakenkkä">paulakenkä</t>
          </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+         <re>til daglig bruk</re>
+            <t pos="N" stem="nutukoitte;nutukoi">nutukat</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+         <re>ekstra høye skaller</re>
+            <t pos="N" stem="kalsukoitte;kalsukoi">kalsukat</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -26376,7 +26480,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;bildetema">
+   <e src="ai;ta;bildetema;kl">
       <lg>
          <l pos="N">vevstol</l>
       </lg>
@@ -27190,7 +27294,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;kl">
       <lg>
          <l pos="N">kardang</l>
       </lg>
@@ -38755,7 +38859,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">renning</l>
       </lg>
@@ -38785,22 +38889,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">skinn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>glans</re>
             <t pos="N" stem="loisthee">loistet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>dyrehud</re>
             <t pos="N" stem="naha">nahka</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>lysskinn</re>
             <t pos="N">paistet</t>
          </tg>
       </mg>
@@ -41500,7 +41607,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">matte</l>
       </lg>
@@ -41527,6 +41634,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="mattatraassu">mattatraasu</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="matankutetta">matankutet</t>
          </tg>
       </mg>
    </e>
@@ -47658,7 +47770,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">bark</l>
       </lg>
@@ -47985,13 +48097,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;kl">
       <lg>
          <l pos="N">komager</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="paulakengä;paulakenkkä">paulakenkä</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+         <re>av kalve- eller saueskinn</re> 
+            <t pos="N">sistikät</t> 
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>av okse- eller kuskinn</re> 
+            <t pos="N">vuotakengät</t> 
          </tg>
       </mg>
    </e>
@@ -48086,7 +48210,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">teppe</l>
       </lg>
@@ -55906,7 +56030,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">såpe</l>
       </lg>
@@ -65003,13 +65127,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">ullstoff</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="vera;verkka">verka</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+           <t pos="N">villakangas</t>
          </tg>
       </mg>
    </e>
