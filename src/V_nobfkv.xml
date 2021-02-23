@@ -182,7 +182,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-       <e src="bildetema">
+       <e src="bildetema;kl">
       <lg>
          <l pos="V">hekle</l>
       </lg>
@@ -7465,7 +7465,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;kl">
       <lg>
          <l pos="V">spinne</l>
       </lg>
@@ -13714,38 +13714,92 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ame">
       <lg>
          <l pos="V">stoppe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	          <re>få til å stanse</re>
             <t pos="V" val="IV">olestaat</t>
+           <xg>
+               <x>Føreren stoppet bussen.</x>
+               <xt>Ajaaja olesti pyssin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+	    <mg>
+         <tg xml:lang="fkv">
+	         <re>stanse</re>
+            <t pos="V" val="IV">olestuut</t>
+            <xg>
+               <x>Bussen stanset.</x>
+               <xt>Pyssi olestui.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	          <re>stanse</re>
             <t pos="V" val="IV">pyssäänttyyt</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	           <re>stanse</re>
             <t pos="V" val="IV">pysättyyt</t>
+              <xg>
+               <x>Toget stoppet.</x>
+               <xt>Tooki pysättyi.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	          <re>få til å stanse</re>
             <t pos="V" val="TV">pysättäät</t>
+            <xg>
+               <x>Lokmotivføreren stoppet toget.</x>
+               <xt>Lukmutiiviajaaja pysätti tookin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	           <re>stanse, få til å stoppe</re>
             <t pos="V" stem="toppaa;topan">topata</t>
+              <xg>
+               <x>Sjåføren stoppet bilen.</x>
+               <xt>Ajaaja toppas piilin.</xt>
+            </xg>
+         </tg>
+          <xg>
+            <x>Bilen stoppet.</x>
+               <xt>Piili toppas.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>fylle, tette</re>
             <t pos="V" stem="tuki">tukkiit</t>
+            <xg>
+               <x>Ajaaja toppas piilin.</x>
+               <xt>Sjåføren stoppet bilen.</xt>
+            </xg>
+         </tg>
+      </mg>
+              <mg>
+         <tg xml:lang="fkv">
+	         <re>stoppe f.eks. møbler</re>
+            <t pos="V" stem="täytä">täyttäät</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+	         <re>bøte, reparere med nål og garn</re>
+            <t pos="V" stem="paikkaa">paikata</t>
          </tg>
       </mg>
    </e>
