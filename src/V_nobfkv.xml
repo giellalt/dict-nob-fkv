@@ -26,6 +26,75 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+          <e src="kl;jaj">
+      <lg>
+         <l pos="V">ta opp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	  <re>ta opp poteter</re>
+            <t pos="V">kiskoot</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	  <re>ta opp poteter</re>
+            <t pos="V">kuokkiit</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kl">
+      <lg>
+         <l pos="V">så</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	  <re>så frø</re>
+            <t pos="V">kylvätä</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="kl">
+      <lg>
+         <l pos="V">luke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	  <re>luke ugress</re>
+            <t pos="V">hilskuut</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="jaj">
+      <lg>
+         <l pos="V">hyppe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">multtaat</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="kl">
+      <lg>
+         <l pos="V">dekke til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">peittää yli</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="kl">
+      <lg>
+         <l pos="V">kasterere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kuohiit</t>
+         </tg>
+      </mg>
+   </e>
           <e src="grom">
       <lg>
          <l pos="V">formidle</l>
@@ -481,10 +550,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	     <re>spille et musikkinstrument</re>
             <t pos="V">soittaat</t>
             <xg>
                <x>Pekka spiller gitar.</x>
                <xt>Pekka soittaa kitaarii.</xt>
+            </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="fkv">
+	     <re>om å spille spill</re>
+            <t pos="V">pelata</t>
+            <xg>
+               <x>Hans spiller kort.</x>
+               <xt>Hansi pellaa korttii.</xt>
             </xg>
          </tg>
       </mg>
@@ -883,16 +963,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
-         <l pos="V">nødlande</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">hätälannata</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mk">
-      <lg>
          <l pos="V">flørte</l>
       </lg>
       <mg>
@@ -965,7 +1035,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;ame">
       <lg>
          <l pos="V">ta vare på</l>
       </lg>
@@ -973,6 +1043,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="korjaa;korjan">korjata</t>
             <t pos="V">pittäät huolen</t>
+             <t pos="V">ottaat vaarin</t>
          </tg>
       </mg>
    </e>
@@ -1189,6 +1260,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	    <re>jobbe i et yrke</re>
             <t pos="V" stem="työtele;työtel">työtelä</t>
          </tg>
       </mg>
@@ -1323,7 +1395,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ame">
       <lg>
          <l pos="V">rose</l>
       </lg>
@@ -1335,6 +1407,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">ylistäät</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	      <re>i generell betydning</re>
+            <t pos="V">praamata</t>
          </tg>
       </mg>
    </e>
@@ -1374,6 +1452,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	      <re>noe er tilstrekkelig/nok</re>
             <t pos="V" stem="riitä">riittäät</t>
          </tg>
       </mg>
@@ -1384,6 +1463,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	     <re>f.eks. nå bussen</re>
             <t pos="V" val="TV" stem="sauta">sauttaat</t>
          </tg>
       </mg>
@@ -1469,11 +1549,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	    <re>dekke over</re>
             <t pos="V" stem="peitä">peittäät</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	      <re>dekke på</re>
             <t pos="V" stem="täkkää;täkkän">täkätä</t>
          </tg>
       </mg>
@@ -1750,12 +1832,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>   
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="V">slette</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	    <re>gjøre slett</re>
             <t pos="V" stem="silitä">silittäät</t>
          </tg>
       </mg>
@@ -2062,7 +2145,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="V">spire</l>
       </lg>
@@ -2193,16 +2276,17 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="reppee;reven">ratketa</t>
+            <t pos="V" stem="ratkee">ratketa</t>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="V">hesje</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	     <re>henge høy på hesje</re>
             <t pos="V" stem="haassii;haasin">haasita</t>
          </tg>
       </mg>
@@ -9054,7 +9138,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="V">skrape</l>
       </lg>
@@ -9075,7 +9159,14 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>skrape med negler eller klør</re>
             <t pos="V">kynssiit</t>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+	         <re>skrape innsiden av skinn</re>
+            <t pos="V">näskätä</t>
          </tg>
       </mg>
    </e>
@@ -9184,7 +9275,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="kuivaa;kuivan">kuivata</t>
+            <t pos="V" stem="kuivu">kuivuut</t>
             <xg>
                <x>Skjorta tørka.</x>
                <xt>Paita kuivui.</xt>
@@ -9192,20 +9283,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="V">tørke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	        <re>om å tørke hår,tøy og matvarer som kjøtt og korn</re>
             <t pos="V" stem="kuivaa;kuivan">kuivata</t>
             <xg>
-               <x>Skjorta tørka.</x>
-               <xt>Paita kuivui.</xt>
+               <x>Mor tørket håret.</x>
+               <xt>Muori kuivas hykset.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
+            </tg>
+           </mg>
+         <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV" stem="kuivata">kuivattaat</t>
             <xg>
@@ -10011,6 +10103,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	   <re>tilbe, beundre, forgude</re>
             <t pos="V" stem="palvele;palvel">palvela</t>
          </tg>
       </mg>
@@ -10470,7 +10563,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="V">slakte</l>
       </lg>
@@ -11794,7 +11887,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="V">melke</l>
       </lg>
@@ -12993,17 +13086,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="V">slå høy</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="niitä">niittäät</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="V">slå høy</l>
       </lg>
@@ -13709,13 +13792,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;jaj;smn">
       <lg>
          <l pos="V">være kvalm</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="okseta">oksettaat</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">syđäntä kaivaa</t>
          </tg>
       </mg>
    </e>
@@ -13790,21 +13878,33 @@ For the full license text, see the link above.</lic>
 	         <re>fylle, tette</re>
             <t pos="V" stem="tuki">tukkiit</t>
             <xg>
-               <x>Røret er tettet.</x>
-               <xt>Putki oon tukittu.</xt>
+               <x>Alt søppelet tetter røret.</x>
+               <xt>Kaikki roskat tukkii putken.</xt>
+            </xg>
+             <xg>
+               <x>Alt søppelet tetter røret.</x>
+               <xt>Kaikki roskat tukkii röörin.</xt>
             </xg>
          </tg>
       </mg>
-              <mg>
+        <mg>
          <tg xml:lang="fkv">
 	         <re>stoppe f.eks. møbler</re>
             <t pos="V" stem="täytä">täyttäät</t>
+            <xg>
+               <x>Han stoppet sofaen.</x>
+               <xt>Hän täytti soffan.</xt>
+            </xg>
          </tg>
       </mg>
         <mg>
          <tg xml:lang="fkv">
 	         <re>bøte, reparere med nål og garn</re>
             <t pos="V" stem="paikkaa">paikata</t>
+            <xg>
+               <x>Bestemor stoppet genseren.</x>
+               <xt>Ämmi paikkas paiđan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15430,23 +15530,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="V">føde</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	    <re>om mindre dyr som føder</re>
             <t pos="V" stem="poiji;poiki">poikkiit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	     <re>sette til verden, føde</re>
             <t pos="V" stem="synnytä">synnyttäät</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	      <re>bli født, komme til verden</re>
             <t pos="V" stem="synny;synty">synttyyt</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	       <re>om å være gravid</re>
+            <t pos="V" stem="kanna;kanta">kanttaat</t>
          </tg>
       </mg>
    </e>
@@ -17491,7 +17600,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;kl">
       <lg>
          <l pos="V">sile</l>
       </lg>
