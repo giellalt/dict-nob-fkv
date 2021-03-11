@@ -3504,6 +3504,26 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">strykebrett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">stryykiprättä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">strikkejakke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">villajakki</t>
+         </tg>
+      </mg>
+   </e>
          <e src="pnp">
       <lg>
        <l pos="N">lufthavn</l>
@@ -6133,7 +6153,7 @@ For the full license text, see the link above.</lic>
       </e>
         <e src="bildetema;kl">
       <lg>
-       <l pos="N">sennepp</l>
+       <l pos="N">sennep</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6404,21 +6424,11 @@ For the full license text, see the link above.</lic>
       </e>
        <e src="bildetema">
       <lg>
-       <l pos="N">stiftimašiini</l>
+       <l pos="N">stiftemaskin</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">stiftemaskin</t>
-         </tg>
-         </mg>
-      </e>
-        <e src="bildetema">
-      <lg>
-       <l pos="N">stryykiprättä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">strykebrett</t>
+            <t pos="N">stiftimašiini</t>
          </tg>
          </mg>
       </e>
@@ -6434,11 +6444,11 @@ For the full license text, see the link above.</lic>
       </e>
           <e src="bildetema">
       <lg>
-       <l pos="N">stämppelikortti</l>
+       <l pos="N">stempelkort</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">stempelkort</t>
+            <t pos="N">stämppelikortti</t>
          </tg>
          </mg>
       </e>
@@ -10442,7 +10452,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
-         <l pos="N">kyrkogård</l>
+         <l pos="N">kirkegård</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12277,7 +12287,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
-         <l pos="N">stinkefrukt</l>
+         <l pos="N">stinkfrukt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -23845,7 +23855,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">hanlam</l>
+         <l pos="N">hannlam</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -32785,7 +32795,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">fem år gammel hanrein</l>
+         <l pos="N">fem år gammel hannrein</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -34652,7 +34662,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">fire år gammel hanrein</l>
+         <l pos="N">fire år gammel hannrein</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -40961,7 +40971,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">seks år gammel hanrein</l>
+         <l pos="N">seks år gammel hannrein</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -44387,7 +44397,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="N">hundyr</l>
+         <l pos="N">hunndyr</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -64278,7 +64288,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">to år gammel hanrein</l>
+         <l pos="N">to år gammel hannrein</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -64608,7 +64618,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">hunrein</l>
+         <l pos="N">hunnrein</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -66917,7 +66927,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">tre år gammel hanrein</l>
+         <l pos="N">tre år gammel hannrein</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -68878,7 +68888,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">arkivmaterial</l>
+         <l pos="N">arkivmateriale</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -70464,7 +70474,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">medisinplant</l>
+         <l pos="N">medisinplante</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -71374,7 +71384,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">speasialbutikk</l>
+         <l pos="N">spesialbutikk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
