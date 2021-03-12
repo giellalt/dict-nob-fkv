@@ -36,7 +36,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-           <e src="kl">
+    <e src="kl">
       <lg>
          <l pos="A">likedan</l>
       </lg>
@@ -2731,13 +2731,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	          <re>uten noe ekstra</re>
             <t pos="A">simppeli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	      <re>uten noe ekstra</re>
-            <t pos="A" stem="yksinkertaise;yksinkertais">yksinkertainen</t>
              <xg>
                <x>Klokken tolv er det enkel servering på hotellet.</x>
                <xt>Kello yksitoista oon simppeli serveeraus hotelissa.</xt>
