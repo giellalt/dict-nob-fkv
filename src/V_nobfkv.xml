@@ -127,6 +127,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">flavuttaat</t>
+            <xg>
+               <x>Han flagget bildene på twitter.</x>
+               <xt>Hän flavutti kuvat mikkä olthiin twitterissä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -313,16 +317,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
        </e>
-         <e src="grom">
-      <lg>
-         <l pos="V">flagge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">flavuttaat</t>
-         </tg>
-      </mg>
-   </e>
       <e src="mj">
       <lg>
          <l pos="V">bli lenge</l>
@@ -1427,39 +1421,82 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	      <re>rekke å gjøre noe</re>
             <t pos="V">ennättäät</t>
+            <xg> 
+               <x>Mie ennätän kyllä mennä posthiin huomena.</x> 
+               <xt>Jeg rekker jo å gå til posten i morgen.</xt> 
+              </xg> 
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	       <re>rekke å gjøre noe</re>
             <t pos="V" stem="kerkkii;kerin">keritä</t>
+             <xg> 
+               <x>Kerkkiitkö sie tekemhään tämän?</x> 
+               <xt>Rekker du å gjøre dette?</xt> 
+            </xg> 
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="piisaa;piisan">piisata</t>
+           <xg> 
+               <x>Kyllä nisujauhot piisathaan!</x> 
+               <xt>Jovisst rekker hvetemelet!</xt> 
+            </xg> 
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
 	      <re>noe er tilstrekkelig/nok</re>
             <t pos="V" stem="riitä">riittäät</t>
+            <xg> 
+               <x>Nyt tämä saapi riittäät!</x> 
+               <xt>Nå får det være nok!</xt> 
+            </xg> 
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="räkkää;räkän">räkätä</t>
+           <xg> 
+            <x>Räkäthäänkö polttopuut?</x> 
+               <xt>Rekker veden?</xt> 
+            </xg> 
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	     <re>f.eks. nå bussen</re>
+	     <re>f.eks. nå bussen eller et annet transportmiddel</re>
             <t pos="V" val="TV" stem="sauta">sauttaat</t>
+            <xg> 
+               <x>Mie sautoin tookin.</x> 
+               <xt>Jeg rakk toget.</xt> 
+            </xg> 
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	     <re>få tak i eller strekke seg</re> 
             <t pos="V" stem="uletu;ulettu">ulettuut</t>
+               <xg> 
+               <x>Pikku lapsi ei ulettunnu ylimälle hyllyle.</x> 
+               <xt>Det lille barnet rakk ikke opp til øverste hylle .</xt> 
+            </xg> 
+            <xg> 
+              <x>Frakki ulettuu kohta varphaissiin.</x> 
+               <xt>Frakken når nesten til tærne.</xt> 
+            </xg> 
+            <xg> 
+               <x>Liiton tevot uletuthaan koko maahan.</x> 
+               <xt>Foreningens handlinger strekker seg over hele landet.</xt> 
+            </xg> 
+            <xg> 
+               <x>Auringon loistet ulettuu horisonttikantin ylitte.</x> 
+               <xt>Sollyset strekker seg over horisontkanten.</xt> 
+            </xg> 
          </tg>
       </mg>
    </e>
@@ -20551,7 +20588,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	     <re>f.eks. bruke vinsj eller lignende innretning til å heise eller hale noe med</re>
             <t pos="V" stem="vinttaa;vintan">vintata</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="fkv">
+	     <re>mer generelt om å heise eller hale</re>
+            <t pos="V">nostaat</t>
+              <xg>
+               <x>De heiste flagget.</x>
+               <xt>Het nostethiin flavun.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

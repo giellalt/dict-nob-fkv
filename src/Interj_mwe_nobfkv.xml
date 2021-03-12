@@ -26,6 +26,27 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+         <e src="ki">
+      <lg>
+         <l pos="Interj">god bedring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">Paranee heti</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="Interj">gratulerer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">Paljon onnee</t>
+             <t pos="Interj">Onnee</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ki">
       <lg>
          <l pos="Interj">gratulerer med dagen</l>
@@ -35,6 +56,11 @@ For the full license text, see the link above.</lic>
             <t pos="Interj">Paljon onnee päiväle</t>
          </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">Hyvvää syntymäpäivää</t>
+         </tg>
+      </mg>
    </e>
       <e src="ki">
       <lg>
@@ -42,6 +68,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	        <t pos="Interj">Paljon onnee</t>
             <t pos="Interj">Onnee</t>
          </tg>
       </mg>
