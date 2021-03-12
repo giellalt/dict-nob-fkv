@@ -126,10 +126,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	<!-- XXX  sjekk <re>gjøre kjent i overført betydning, på internett</re> -->
             <t pos="V">flavuttaat</t>
             <xg>
                <x>Han flagget bildene på twitter.</x>
-               <xt>Hän flavutti kuvat mikkä olthiin twitterissä.</xt>
+               <xt>Hän flavutti kuvat twitterissä.</xt>
             </xg>
          </tg>
       </mg>
@@ -20594,7 +20595,7 @@ For the full license text, see the link above.</lic>
       </mg>
        <mg>
          <tg xml:lang="fkv">
-	     <re>mer generelt om å heise eller hale</re>
+	  <re>mer generelt om å heise eller hale</re> 
             <t pos="V">nostaat</t>
               <xg>
                <x>De heiste flagget.</x>
