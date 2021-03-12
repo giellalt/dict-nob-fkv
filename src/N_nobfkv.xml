@@ -2541,16 +2541,6 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
-       <e src="grom">
-      <lg>
-       <l pos="N">lydfil</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">äänifiili</t>
-         </tg>
-         </mg>
-      </e>
         <e src="grom">
       <lg>
        <l pos="N">tilbake-knapp</l>
@@ -2558,16 +2548,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">takaisinknappi</t>
-         </tg>
-         </mg>
-      </e>
-        <e src="grom">
-      <lg>
-       <l pos="N">personale</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">personaali</t>
          </tg>
          </mg>
       </e>
@@ -49213,7 +49193,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;grom">
       <lg>
          <l pos="N">personale</l>
       </lg>
@@ -67776,7 +67756,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;grom">
       <lg>
          <l pos="N">lydfil</l>
       </lg>
