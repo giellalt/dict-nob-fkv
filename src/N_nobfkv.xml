@@ -665,6 +665,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+    <re>garnløkke som f.eks. hekles eller strikkes sammen med en ny garnløkke</re>
          <t pos="N">silmä</t>
          </tg>
          </mg>
@@ -705,21 +706,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <t pos="N">merenelävät</t>
+         <t pos="N">merenelävä</t>
          </tg>
          </mg>
       </e>
       <e src="kl">
-      <lg>
-       <l pos="N">nattsvermer</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-         <t pos="N">yölintu</t>
-         </tg>
-         </mg>
-      </e>
-       <e src="kl">
       <lg>
        <l pos="N">nattsvermer</l>
       </lg>
@@ -1094,11 +1085,11 @@ For the full license text, see the link above.</lic>
       </e>
          <e src="kl">
       <lg>
-       <l pos="N">torsketunger</l>
+       <l pos="N">torsketunge</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <t pos="N">turskankielet</t>
+         <t pos="N">turskankieli</t>
          </tg>
          </mg>
       </e>
@@ -6024,7 +6015,7 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
-        <e src="bildetema">
+        <e src="bildetema;kl">
       <lg>
        <l pos="N">heklenål</l>
       </lg>
