@@ -1268,7 +1268,7 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
-        <e src="kl;kl">
+        <e src="kl">
       <lg>
        <l pos="N">flyndre</l>
       </lg>
@@ -1458,28 +1458,13 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
-       <e src="kl">
-      <lg>
-       <l pos="N">dyptallerken</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">syväfati</t>
-         </tg>
-         </mg>
-      </e>
-          <e src="kl;anb">
+          <e src="kl">
       <lg>
        <l pos="N">kaffekanne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kaffikanna</t>
-         </tg>
-         </mg>
-               <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kaffikattila</t>
          </tg>
          </mg>
       </e>
@@ -1858,16 +1843,6 @@ For the full license text, see the link above.</lic>
          </mg>
       </e>
           <e src="grom">
-      <lg>
-       <l pos="N">setra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kesäsija</t>
-         </tg>
-         </mg>
-      </e>
-       <e src="grom">
       <lg>
        <l pos="N">setra</l>
       </lg>
@@ -27663,6 +27638,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="ai">
+      <lg>
+         <l pos="N">kaffekjele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kaffikattila</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">kaffekjel</l>
@@ -33241,7 +33226,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="N">handyr</l>
+         <l pos="N">hanndyr</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
