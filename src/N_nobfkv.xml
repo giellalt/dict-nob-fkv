@@ -26,6 +26,76 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+           <e src="ki">
+      <lg>
+       <l pos="N">hovedorganisasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">pääorganisašuuni</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="ki">
+      <lg>
+       <l pos="N">vedtekter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">reekelit ja päätökset</t>
+         </tg>
+         </mg>
+      </e>
+     <e src="ki">
+      <lg>
+       <l pos="N">eksklusjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">uloslukuttaminen</t>
+         </tg>
+         </mg>
+      </e>
+          <e src="ki">
+      <lg>
+       <l pos="N">årsmøte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">vuosimöötti</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="mk;ki">
+      <lg>
+       <l pos="N">styre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">styyri</t>
+         </tg>
+         </mg>
+      </e>
+    <e src="ki">
+      <lg>
+       <l pos="N">kontigent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">jäsenten makso</t>
+         </tg>
+         </mg>
+      </e>
+            <e src="ki">
+      <lg>
+       <l pos="N">medlemskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">jäsenyys</t>
+         </tg>
+         </mg>
+      </e>
          <e src="kt">
       <lg>
        <l pos="N">spørsmålstegn</l>
@@ -194,39 +264,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
          <t pos="N">jänkkäruuho</t>
-         </tg>
-         </mg>
-      </e>
-        <e src="kl">
-      <lg>
-       <l pos="N">ljå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-        <re>til å slå myrgress</re>
-         <t pos="N">siipivikatet</t>
-         </tg>
-         </mg>
-      </e>
-             <e src="kl">
-      <lg>
-       <l pos="N">ljå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-        <re>til sanking av tang og tare</re>
-         <t pos="N">staarivikatet</t>
-         </tg>
-         </mg>
-      </e>
-          <e src="kl">
-      <lg>
-       <l pos="N">ljå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-        <re>til sanking av tang og tare</re>
-         <t pos="N">staarivikatet</t>
          </tg>
          </mg>
       </e>
@@ -484,16 +521,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
          <t pos="N">porohärkä</t>
-         </tg>
-         </mg>
-      </e>
-        <e src="kl">
-      <lg>
-       <l pos="N">oksekalv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-         <t pos="N">purrinvasikka</t>
          </tg>
          </mg>
       </e>
@@ -54169,7 +54196,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;kl">
       <lg>
          <l pos="N">oksekalv</l>
       </lg>
@@ -68081,7 +68108,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>vanlig ljå</re>
             <t pos="N" stem="vikatthee">vikatet</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+         <re>til å slå myrgress</re>
+            <t pos="N">siipivikatet</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+            <re>til sanking av tang og tare</re>
+            <t pos="N">staarivikatet</t>
          </tg>
       </mg>
    </e>
