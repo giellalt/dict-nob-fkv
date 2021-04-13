@@ -26,6 +26,73 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+       <e src="rh">
+      <lg>
+         <l pos="V">dempe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	  <re>i fotball</re>
+            <t pos="V">tempata</t>
+            <xg>
+               <x>Hun dempet ballen med låret.</x>
+               <xt>Hän tempathiin pallon reiđelä.</xt>
+            </xg>
+              <xg>
+               <x>Hun dempet ballen med brystet.</x>
+               <xt>Hän tempathiin pallon rinnala.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+      <e src="rh">
+      <lg>
+         <l pos="V">trikse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	  <re>i fotball</re>
+            <t pos="V">triksata</t>
+            <xg>
+               <x>De trikset med ballen.</x>
+               <xt>Het triksathiin pallola.</xt>
+            </xg>
+                        <xg>
+               <x>De trikset med ballen.</x>
+               <xt>Het triksathiin pallon kans.</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	  <re>i fotball</re>
+            <t pos="V">temppuila</t>
+            <xg>
+               <x>De trikset med ballen.</x>
+               <xt>Het temppuilthiin pallola.</xt>
+            </xg>
+                        <xg>
+               <x>De trikset med ballen.</x>
+               <xt>Het temppuilthiin pallon kans.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e src="rh">
+      <lg>
+         <l pos="V">heade</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	  <re>i fotball</re>
+            <t pos="V">puskeet</t>
+            <xg>
+               <x>Han headet ballen.</x>
+               <xt>Hän puski pallon.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
           <e src="kl;jaj">
       <lg>
          <l pos="V">ta opp</l>
@@ -924,11 +991,15 @@ For the full license text, see the link above.</lic>
       </mg>
        <mg>
          <tg xml:lang="fkv">
-	     <re>om å spille spill</re>
+	     <re>om å spille musikkinstrument og spill</re>
             <t pos="V">pelata</t>
             <xg>
                <x>Hans spiller kort.</x>
                <xt>Hansi pellaa korttii.</xt>
+            </xg>
+            <xg>
+               <x>Liisa spiller piano.</x>
+               <xt>Liisa pellaa pianoo.</xt>
             </xg>
          </tg>
       </mg>

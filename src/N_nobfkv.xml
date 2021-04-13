@@ -26,6 +26,27 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+    <e src="ae">
+      <lg>
+       <l pos="N">solverv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">aijankäänet</t>
+         </tg>
+         </mg>
+      </e>
+     <e src="ae">
+      <lg>
+       <l pos="N">skattegrav</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">aarethauta</t>
+         <t pos="N">aarihauta</t>
+         </tg>
+         </mg>
+      </e>
            <e src="ki">
       <lg>
        <l pos="N">hovedorganisasjon</l>
@@ -3623,6 +3644,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>kjede</re>
             <t pos="N">länkki</t>
          </tg>
       </mg>
@@ -21324,7 +21346,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ame">
       <lg>
          <l pos="N">kost</l>
       </lg>
@@ -21344,6 +21366,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>lime</re>
             <t pos="N">luuta</t>
+         </tg>
+      </mg>
+             <mg>
+         <tg xml:lang="fkv">
+         <re>mat</re>
+            <t pos="N">ruoka</t>
          </tg>
       </mg>
    </e>
@@ -25700,7 +25728,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;rh">
       <lg>
          <l pos="N">fotball</l>
       </lg>
@@ -39597,13 +39625,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;rh">
       <lg>
          <l pos="N">skudd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="laukhaukse">laukhaus</t>
+            <xg>
+               <x>Begge lag hadde en rekke skudd på mål.</x>
+               <xt>Molemila laakila oli usseita laukhausta moolin pääle.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -49786,7 +49818,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;yr">
+   <e src="ai;ta;yr;ae">
       <lg>
          <l pos="N">banke</l>
       </lg>
@@ -49794,6 +49826,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>om hav</re>
             <t pos="N">pankki</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+         <re>ute på havet</re>
+            <t pos="N">aapamatala</t>
          </tg>
       </mg>
    </e>
