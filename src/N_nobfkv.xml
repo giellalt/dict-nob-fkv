@@ -5240,6 +5240,188 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">innsidespark</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>fotball</re>
+            <t pos="N">sisäpuolipotku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">utsidespark</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>fotball</re>
+            <t pos="N">ulkopuolipotku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">hjørnespark</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nuskapotku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">straffespark</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rangaistuspotku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">straffefelt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rangaistuskenttä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rangaistusfeltti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">midtbane</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">keskipaana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">forsvarsrekke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puolustusraito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">angrepsrekke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hyökkäysraito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">innbytter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">varapellaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">trene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">träänätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">lagleder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">laakinjohtaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">linjedommer </l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">linjatuomari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">assistentdommer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">assistenttituomari </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">frispark</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ilmanpotku</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vapaapotku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">hjørneflagg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nuskaflaku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">målmann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">moolimies</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">målvakt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">moolivahti</t>
+         </tg>
+      </mg>
+   </e>
          <e src="pnp">
       <lg>
        <l pos="N">lufthavn</l>
