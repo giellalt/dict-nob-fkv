@@ -26,6 +26,16 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+       <e src="ae">
+      <lg>
+       <l pos="N">oppholdsvær og østavind</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">öystäpouta</t>
+         </tg>
+         </mg>
+      </e>
     <e src="ae">
       <lg>
        <l pos="N">solverv</l>
@@ -16200,9 +16210,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+      <e src="ame">
       <lg>
          <l pos="N">nysing</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="aivastamise;aivastamis">aivastaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ae">
+      <lg>
+         <l pos="N">nys</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16226,6 +16246,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>staur eller stav av tynn trestamme til gjerde som ble lagt skrått over hverandre og festet til stokker</re>
             <t pos="N" stem="aiđakse">aiđas</t>
          </tg>
       </mg>
@@ -26116,13 +26137,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;aht">
       <lg>
          <l pos="N">bein</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="jala;jalkka">jalka</t>
+             <xg>
+               <x>Foten må gå først (frase).</x>
+               <xt>Jalka mennä eelä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -26348,13 +26373,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;aht">
       <lg>
          <l pos="N">gikt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>sykdom med smerter i musler og ledd. Også metaforisk om at det alltid er noe å klage over eller noe som ikke er bra</re>
             <t pos="N">jikta</t>
+            <xg>
+               <x>Hvordan går det? Gikta river!.</x>
+               <xt>Kunka se mennee? Jikta rieppii!.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -27819,13 +27849,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;aht">
       <lg>
          <l pos="N">lom</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kaakkuri</t>
+            <xg>
+               <x>Når lommen skriker får vi regn.</x>
+               <xt>Ko kaakkuri huuttaa, silloin tullee sađet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -34399,11 +34433,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">konto</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">skonto</t>
+             <t pos="N">skonto</t>
+            <xg>
+               <x>Tåken gikk i bakken.</x>
+               <xt>Konto meni maahan.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -38415,7 +38449,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;aht">
       <lg>
          <l pos="N">stue</l>
       </lg>
@@ -38427,6 +38461,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="tuva;tuppa">tupa</t>
+             <xg>
+               <x>Han kommer seg sikkert ikke fra stallen til stua (beskriver en treg person, som ikke får gjort noe).</x>
+               <xt>Se ei kyllä pääse tallista tuphaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -49262,13 +49300,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;aht">
       <lg>
          <l pos="N">dør</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="ove;ovve">ovi</t>
+            <xg>
+               <x>Lukker du igjen døra?</x>
+               <xt>Panetko oven kiini?</xt>
+            </xg>
+             <xg>
+               <x>Lukk igjen døra, varmen må kjøpes! (når noen har glemt å lukke døra etter seg)</x>
+               <xt>Ovi kiini, ostossa oon lämmin!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -53834,13 +53880,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;aht">
       <lg>
          <l pos="N">oppholdsvær</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>oppholdsvær med varm vind</re>
             <t pos="N" stem="pouđa">pouta</t>
+            <xg>
+               <x>Nå er det bra oppholdsvær.</x>
+               <xt>Nyt oon hyvä pouta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -56691,6 +56742,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="rauđa;rautta">rauta</t>
+             <xg>
+               <x>Han har mange jern i ilden (frase).</x>
+               <xt>Hänelä oon monta rauttaa tulissa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -58408,16 +58463,42 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ryssä</t>
+               <xg>
+               <x>Så dumt, russerne vant kampen! (om fotballkamp)</x>
+               <xt>Voi synti ette ryssät voitethiin matsin!</xt>
+            </xg>
+              <xg>
+               <x>Russerne pleier å komme om sommeren under markedsdagene.</x>
+               <xt>Ryssät pruukathaan tulla kesälä markkinapäivhiin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>vanligere: ryssä</re>
             <t pos="N" stem="ryssäläise;ryssäläis">ryssäläinen</t>
+          <xg>
+               <x>Så dumt, russerne vant kampen! (om fotballkamp)</x>
+               <xt>Voi synti ette ryssäläiset voitethiin matsin!</xt>
+            </xg>
+              <xg>
+               <x>Russerne pleier å komme om sommeren under markedsdagene.</x>
+               <xt>Ryssäläiset pruukathaan tulla kesälä markkinapäivhiin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>vanligere: ryssä</re>
             <t pos="N" stem="venäläise;venäläis">venäläinen</t>
+            <xg>
+               <x>Så dumt, russerne vant kampen! (om fotballkamp)</x>
+               <xt>Voi synti ette venäläiset voitethiin matsin!</xt>
+            </xg>
+              <xg>
+               <x>Russerne pleier å komme om sommeren under markedsdagene.</x>
+               <xt>Venäläiset pruukathaan tulla kesälä markkinapäivhiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -58428,11 +58509,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ryssä</t>
+             <xg>
+               <x>De snakker russisk.</x>
+               <xt>Het puhuthaan ryssää.</xt>
+            </xg>
+              <xg>
+               <x>Han studerer russisk.</x>
+               <xt>Hän studeeraa ryssää.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>vanligere: ryssä</re>
             <t pos="N">venäjä</t>
+              <xg>
+               <x>De snakker russisk.</x>
+               <xt>Het puhuthaan venäjää.</xt>
+            </xg>
+              <xg>
+               <x>Han studerer russisk.</x>
+               <xt>Hän studeeraa venäjää.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
