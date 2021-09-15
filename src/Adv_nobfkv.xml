@@ -858,7 +858,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ae">
       <lg>
          <l pos="Adv">aldeles</l>
       </lg>
@@ -6578,21 +6578,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;aht">
       <lg>
          <l pos="Adv">ut</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">ulos</t>
+             <t pos="Adv">ulvos</t>
+              <xg>
+               <x>Jeg går ut!</x>
+               <xt>Mie lähđen ulos!</xt>
+            </xg>
          </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">ulvos</t>
-         </tg>
-      </mg>
-   </e>
+         </mg>
+    </e>
    <e src="ai">
       <lg>
          <l pos="Adv">stengt</l>
