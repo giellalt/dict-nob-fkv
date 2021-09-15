@@ -1352,13 +1352,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;aht">
       <lg>
          <l pos="V">ryke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">höyryyt</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">savustaat</t>
          </tg>
       </mg>
    </e>
@@ -7875,6 +7880,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="katto">kattoot</t>
+           <xg>
+               <x>De ser på tv.</x>
+               <xt>Het kattothaan teeveetä.</xt>
+            </xg>
+             <xg>
+               <x>Ikke kom hit og se.</x>
+               <xt>Älä tule tänne kattomhaan (når man ikke vil ha besøk og vil være i fred).</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9885,7 +9898,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;aht">
       <lg>
          <l pos="V">gå</l>
       </lg>
@@ -9926,6 +9939,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="mene;men">mennä</t>
+              <xg>
+               <x>Gå vekk!</x>
+               <xt>Mene pois!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10154,7 +10171,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;aht">
       <lg>
          <l pos="V">kikke</l>
       </lg>
@@ -10165,6 +10182,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	      <re>Strekke hals, smugtitte</re>
             <t pos="V">kurkistella</t>
          </tg>
       </mg>
@@ -15466,7 +15484,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;aht">
       <lg>
          <l pos="V">lukke igjen</l>
       </lg>
@@ -15479,6 +15497,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">sulkkeet</t>
          </tg>
+           <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">panna kiini</t>
+           <xg>
+               <x>Lukk igjen døra!</x>
+               <xt>Pane oven kiini!</xt>
+            </xg>
+         </tg>
+      </mg>
       </mg>
    </e>
    <e src="ai;ta">
