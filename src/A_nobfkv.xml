@@ -9070,16 +9070,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ryssä</t>
+             <xg>
+               <x>På kafeen ble det servert russisk rødbetsuppe.</x>
+               <xt>Kafeassa tarjothiin ryssän punajuurivellin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	       <re>vanligere: ryssä</re>
             <t pos="A">ryssäläinen</t>
+               <xg>
+               <x>På kafeen ble det servert russisk rødbetsuppe.</x>
+               <xt>Kafeassa tarjothiin ryssäläisen punajuurivellin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	        <re>vanligere: ryssän</re>
             <t pos="A">venäläinen</t>
+             <xg>
+               <x>På kafeen ble det servert russisk rødbetsuppe.</x>
+               <xt>Kafeassa tarjothiin venäläisen punajuurivellin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
