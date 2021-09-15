@@ -26,6 +26,27 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+         <e src="aht;ame">
+      <lg>
+         <l pos="Interj">Vi høres</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">Kuulema</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="aht">
+      <lg>
+         <l pos="Interj">Oi, herregud</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	      <re>oi, gudløs tid</re>
+            <t pos="Interj">voi, herraton aikkaa</t>
+         </tg>
+      </mg>
+   </e>
        <e src="anb;uit">
       <lg>
          <l pos="Interj">god morgen</l>
@@ -36,7 +57,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-         <e src="ame">
+     <e src="ame;ki">
       <lg>
          <l pos="Interj">god bedring</l>
       </lg>
@@ -258,21 +279,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;aht">
       <lg>
          <l pos="Interj">på gjensyn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Interj">näkemhiin</t>
+            <t pos="Interj">näkemiin</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Interj">näkemiin</t>
+            <t pos="Interj">näjemä</t>
          </tg>
       </mg>
-   </e>
+      </e>
    <e src="ai">
       <lg>
          <l pos="Interj">åhå</l>
@@ -317,7 +339,7 @@ For the full license text, see the link above.</lic>
             <t pos="Interj">päivää</t>
             <xg>
                <x>God dag!</x>
-               <xt>Hyvää päivää!</xt>
+               <xt>Hyvvää päivää!</xt>
             </xg>
          </tg>
       </mg>
@@ -339,15 +361,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Interj">voi</t>
+               <xg>
+               <x>Oi, forderdelig!</x>
+               <xt>Voi, kauhee!</xt>
+            </xg>
+              <xg>
+               <x>Oi, for en fryktelig tid!</x>
+               <xt>Voi, kauhee aikkaa!</xt>
+            </xg>
+             <xg>
+               <x>Oi, så fryktelig mange biler!</x>
+               <xt>Voi, kauheesti piilii!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;aht">
       <lg>
          <l pos="Interj">oi-oi</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	     <re>uttrykk for undering, mild overraskelse og lignende</re>
             <t pos="Interj">voi-voi</t>
          </tg>
       </mg>
