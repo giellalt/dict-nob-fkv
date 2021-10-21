@@ -10130,47 +10130,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">forfedre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">materivanhiimet</t>
-            <syng>
-               <syn>maaterivanhiimet</syn>
-            </syng>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">forfeder</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">maaterivanhiin</t>
-            <syng>
-               <syn>esivanhin</syn>
-               <syn>materivanhiin</syn>
-            </syng>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
-      <lg>
-         <l pos="N">forfeder</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">materivanhiin</t>
-            <syng>
-               <syn>esivanhin</syn>
-               <syn>maaterivanhiin</syn>
-            </syng>
-         </tg>
-      </mg>
-   </e>
    <e src="mj">
       <lg>
          <l pos="N">matematikk</l>
@@ -19489,20 +19448,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">forfeder</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="esivanhema">esivanhin</t>
-            <syng>
-               <syn>materivanhiin</syn>
-               <syn>maaterivanhiin</syn>
-            </syng>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">hindring</l>
@@ -25844,16 +25789,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">isotäti</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">besteforeldre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">isovanhiimet</t>
          </tg>
       </mg>
    </e>
@@ -61223,6 +61158,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">språkråd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kieliraati</t>
+         </tg>
+      </mg>
+   </e>
    <e src="kt">
       <lg>
          <l pos="N">idrettskrets</l>
@@ -67335,16 +67280,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="N">foreldre</l>
+         <l pos="N">forelder</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vanhiin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="vanhiimi;vanhiimi">vanhiimet</t>
+            <xg>
+               <x>De er foreldrene mine.</x>
+               <xt>Het oon minun vanhiimet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -71724,14 +71668,9 @@ For the full license text, see the link above.</lic>
             <t pos="N">esivanhiin</t>
          </tg>
       </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">forfader</l>
-      </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">materivanhiin</t>
+            <t pos="N">maaterivanhiin</t>
          </tg>
       </mg>
    </e>
