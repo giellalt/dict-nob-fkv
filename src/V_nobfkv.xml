@@ -1186,16 +1186,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="V">finne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">hoksata</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
-      <lg>
          <l pos="V">henkkaat</l>
       </lg>
       <mg>
@@ -1696,6 +1686,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="löyđä;löytä">löyttäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">hoksata</t>
          </tg>
       </mg>
    </e>
