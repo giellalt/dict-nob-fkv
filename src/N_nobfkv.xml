@@ -11630,17 +11630,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
-         <l pos="N">strøm</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">rauma</t>
-            <t pos="N">riuna</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
          <l pos="N">groblad</l>
       </lg>
       <mg>
@@ -11726,16 +11715,6 @@ For the full license text, see the link above.</lic>
    <e src="ia">
       <lg>
          <l pos="N">høgde</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">pää</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
-         <l pos="N">fjell</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -55373,23 +55352,23 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">rauma</t>
+            <t pos="N">riuna</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="virra;virt">virta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="N">pänkärä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="siikathee">siikatet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="virra;virt">virta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>i vannet</re>
-            <t pos="N" stem="virra;virt">virta</t>
          </tg>
       </mg>
    </e>
@@ -65177,6 +65156,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vaara</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pää</t>
          </tg>
       </mg>
    </e>
