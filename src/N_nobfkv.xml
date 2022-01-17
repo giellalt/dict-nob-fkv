@@ -26,6 +26,116 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+       <e src="na">
+      <lg>
+       <l pos="N">elektriker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">elektrikkari</t>
+         </tg>
+         </mg>
+      </e>
+             <e src="na">
+      <lg>
+       <l pos="N">immunitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">immuniteetti</t>
+         </tg>
+         </mg>
+      </e>
+          <e src="na">
+      <lg>
+       <l pos="N">hypokonder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">hypokonderi</t>
+         </tg>
+         </mg>
+      </e>
+       <e src="na">
+      <lg>
+       <l pos="N">alpint</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">alpintti</t>
+         </tg>
+         </mg>
+      </e>
+           <e src="na">
+      <lg>
+       <l pos="N">beundrer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">ihhailiija</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="na">
+      <lg>
+       <l pos="N">beundrer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">ihhailiija</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="na">
+      <lg>
+       <l pos="N">aspargessuppe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">aspargesvelli</t>
+         </tg>
+         </mg>
+      </e>
+      <e src="na">
+      <lg>
+       <l pos="N">arbeidstaker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">työteliijä</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="na">
+      <lg>
+       <l pos="N">arbeider</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">työteliijä</t>
+         </tg>
+         </mg>
+      </e>
+     <e src="na">
+      <lg>
+       <l pos="N">aktor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">aktori</t>
+         </tg>
+         </mg>
+      </e>
+          <e src="na">
+      <lg>
+       <l pos="N">naturfenomen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">luononfenomeeni</t>
+         </tg>
+         </mg>
+      </e>
        <e src="ae">
       <lg>
        <l pos="N">oppholdsvær og østavind</l>
@@ -6358,7 +6468,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">hammaskräämi</t>
+            <t pos="N">hammaskreemi</t>
          </tg>
          </mg>
       </e>
@@ -55002,13 +55112,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">helg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="pyhhä">pyhä</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">viikonloppu</t>
          </tg>
       </mg>
    </e>
