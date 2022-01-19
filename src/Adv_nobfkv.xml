@@ -606,6 +606,88 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kjørende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">ajosin</t>
+            <xg>
+               <xt>De dro kjørende til Tromsø.</xt>
+               <x>Het menthiin ajosin Tromsshaan.</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">på ski</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hihtosin</t>
+            <xg>
+               <xt>Jeg gikk på ski til Karasjok.</xt>
+               <x>Menin hihtosin Kaaransjokheen.</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">på gråten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">itkheilä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">med fly</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">lentosin</t>
+            <xg>
+               <xt>Vi dro med fly til Oslo.</xt>
+               <x>Met menimä lentosin Uslhuun.</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">i forbifarten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sivvumennen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">rett og slett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">suorastans</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">svømmende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">uiten</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mk">
       <lg>
          <l pos="Adv">med det første</l>
@@ -969,6 +1051,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">alemppaa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">alempanna</t>
          </tg>
       </mg>
    </e>
@@ -1646,6 +1733,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">heti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hetikohta</t>
          </tg>
       </mg>
    </e>
@@ -3128,6 +3220,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kumhoon</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">nurinniskoin</t>
          </tg>
       </mg>
    </e>
@@ -5248,6 +5345,19 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">rikki</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hajala</t>
+            <xg>
+               <x>Klasi oon hajala.</x>
+               <xt>Glasset er i stykker.</xt>
+            </xg>
+            <xg>
+               <x>Klasi meni hajale.</x>
+               <xt>Glasset gikk i stykker.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -6847,6 +6957,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">vastakkain</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">nokitusten</t>
          </tg>
       </mg>
    </e>

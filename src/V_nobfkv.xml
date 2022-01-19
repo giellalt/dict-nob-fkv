@@ -1342,6 +1342,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="V">miste bevisstheten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">mennä tyrmhiin</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mk;aht">
       <lg>
          <l pos="V">ryke</l>
@@ -4365,12 +4375,24 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	  <re>gi en klem</re>
             <t pos="V">halata</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	  <re>trykke, presse</re>
             <t pos="V">puristaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="V">klemme flat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">painaat lähjään</t>
          </tg>
       </mg>
    </e>
