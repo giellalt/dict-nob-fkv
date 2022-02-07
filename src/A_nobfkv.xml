@@ -26,6 +26,56 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+       <e>
+      <lg>
+         <l pos="A">lyshåret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vaalehyksinen</t>
+         </tg>
+      </mg>
+   </e>
+        <e>
+      <lg>
+         <l pos="A">overnaturlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">yliluonolinen</t>
+         </tg>
+      </mg>
+   </e>
+            <e>
+      <lg>
+         <l pos="A">mørkebrun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tummanpruuni</t>
+         </tg>
+      </mg>
+   </e>
+         <e>
+      <lg>
+         <l pos="A">oval</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ovaali</t>
+         </tg>
+      </mg>
+   </e>
+      <e>
+      <lg>
+         <l pos="A">betalt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">maksettu</t>
+         </tg>
+      </mg>
+   </e>
        <e src="na">
 	     <lg>
          <l pos="A">medium</l>
@@ -11236,7 +11286,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;na">
       <lg>
          <l pos="A">skyldig</l>
       </lg>
@@ -11248,6 +11298,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">syypää</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">syylinen</t>
          </tg>
       </mg>
       </e>
