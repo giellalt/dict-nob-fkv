@@ -95,7 +95,7 @@ For the full license text, see the link above.</lic>
    </e>
           <e src="kl;jaj">
       <lg>
-         <l pos="V">ta opp</l>
+         <l pos="Phrase">ta opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -144,11 +144,11 @@ For the full license text, see the link above.</lic>
    </e>
           <e src="kl">
       <lg>
-         <l pos="V">dekke til</l>
+         <l pos="Phrase">dekke til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">peittää yli</t>
+            <t pos="Phrase">peittää yli</t>
          </tg>
       </mg>
    </e>
@@ -169,11 +169,11 @@ For the full license text, see the link above.</lic>
    </e>
        <e src="grom">
       <lg>
-         <l pos="V">zoome inn</l>
+         <l pos="Phrase">zoome inn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">zoomata sisäle</t>
+            <t pos="Phrase">zoomata sisäle</t>
          </tg>
       </mg>
    </e>
@@ -204,37 +204,37 @@ For the full license text, see the link above.</lic>
    </e>
        <e src="grom">
       <lg>
-         <l pos="V">laste ned</l>
+         <l pos="Phrase">laste ned</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">lastata alas</t>
+            <t pos="Phrase">lastata alas</t>
          </tg>
       </mg>
    </e>
          <e src="grom">
       <lg>
-         <l pos="V">logge ut</l>
+         <l pos="Phrase">logge ut</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">lokata ulos</t>
+            <t pos="Phrase">lokata ulos</t>
          </tg>
       </mg>
    </e>
       <e src="grom">
       <lg>
-         <l pos="V">logge inn</l>
+         <l pos="Phrase">logge inn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">lokata sisäle</t>
+            <t pos="Phrase">lokata sisäle</t>
          </tg>
       </mg>
    </e>
       <e src="grom">
       <lg>
-         <l pos="V">skrive ut</l>
+         <l pos="Phrase">skrive ut</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -346,12 +346,12 @@ For the full license text, see the link above.</lic>
    </e>
       <e src="me;ame">
       <lg>
-         <l pos="V">renne på ski</l>
+         <l pos="Phrase">renne på ski</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-<!-- XXX sjekk  <t pos="V">huilata sivakoitten pääle</t> -->
-            <t pos="V">tyyrätä sivakoila</t>
+<!-- XXX sjekk  <t pos="Phrase">huilata sivakoitten pääle</t> -->
+            <t pos="Phrase">tyyrätä sivakoila</t>
          </tg>
       </mg>
    </e>
@@ -377,7 +377,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ame">
       <lg>
-         <l pos="V">bli formet</l>
+         <l pos="Phrase">bli formet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -387,7 +387,7 @@ For the full license text, see the link above.</lic>
        </e>
       <e src="mj">
       <lg>
-         <l pos="V">bli lenge</l>
+         <l pos="Phrase">bli lenge</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -397,7 +397,7 @@ For the full license text, see the link above.</lic>
    </e>
       <e src="ks">
       <lg>
-         <l pos="V">tilbringe tid (henge)</l>
+         <l pos="Phrase">tilbringe tid (henge)</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -427,7 +427,7 @@ For the full license text, see the link above.</lic>
    </e>
       <e src="ks">
       <lg>
-         <l pos="V">bli bekymret</l>
+         <l pos="Phrase">bli bekymret</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -437,7 +437,7 @@ For the full license text, see the link above.</lic>
    </e>
       <e src="ks">
       <lg>
-         <l pos="V">bli ivrig</l>
+         <l pos="Phrase">bli ivrig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -447,7 +447,7 @@ For the full license text, see the link above.</lic>
    </e>
       <e src="ks">
       <lg>
-         <l pos="V">bli interessert</l>
+         <l pos="Phrase">bli interessert</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -488,7 +488,7 @@ For the full license text, see the link above.</lic>
    </e>
       <e src="ks">
       <lg>
-         <l pos="V">bli våt</l>
+         <l pos="Phrase">bli våt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -508,7 +508,7 @@ For the full license text, see the link above.</lic>
    </e>
       <e src="ks">
       <lg>
-         <l pos="V">gjøre vakker</l>
+         <l pos="Phrase">gjøre vakker</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -558,7 +558,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">bli varmere</l>
+         <l pos="Phrase">bli varmere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -568,7 +568,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">få plass</l>
+         <l pos="Phrase">få plass</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -588,7 +588,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">drive dank</l>
+         <l pos="Phrase">drive dank</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -618,7 +618,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">holde på med</l>
+         <l pos="Phrase">holde på med</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -628,7 +628,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">forelske seg</l>
+         <l pos="Phrase">forelske seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -679,7 +679,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">kaste blikk på</l>
+         <l pos="Phrase">kaste blikk på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -741,7 +741,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">gjøre sint</l>
+         <l pos="Phrase">gjøre sint</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -771,7 +771,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">gjenta seg</l>
+         <l pos="Phrase">gjenta seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -791,7 +791,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">bli vant til</l>
+         <l pos="Phrase">bli vant til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -801,7 +801,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">være sjenert</l>
+         <l pos="Phrase">være sjenert</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -811,7 +811,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">fornye seg</l>
+         <l pos="Phrase">fornye seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -831,7 +831,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">passe seg</l>
+         <l pos="Phrase">passe seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -841,7 +841,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">tøye ut</l>
+         <l pos="Phrase">tøye ut</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -851,7 +851,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">strekke noe</l>
+         <l pos="Phrase">strekke noe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -861,7 +861,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">kvikne til</l>
+         <l pos="Phrase">kvikne til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -881,7 +881,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">se ned på</l>
+         <l pos="Phrase">se ned på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -912,7 +912,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="V">bli ødelagt</l>
+         <l pos="Phrase">bli ødelagt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -947,7 +947,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="V">kle på seg</l>
+         <l pos="Phrase">kle på seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -957,7 +957,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="V">bli kjent</l>
+         <l pos="Phrase">bli kjent</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1027,7 +1027,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="V">ha som vane</l>
+         <l pos="Phrase">ha som vane</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1057,7 +1057,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="V">se hverandre</l>
+         <l pos="Phrase">se hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1067,7 +1067,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="V">stikke opp</l>
+         <l pos="Phrase">stikke opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1121,7 +1121,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="V">føye til</l>
+         <l pos="Phrase">føye til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1151,7 +1151,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="V">bli igjen</l>
+         <l pos="Phrase">bli igjen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1176,7 +1176,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="V">være nødt til</l>
+         <l pos="Phrase">være nødt til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1234,7 +1234,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="V">ha følge med</l>
+         <l pos="Phrase">ha følge med</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1244,7 +1244,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="V">sette opp felle</l>
+         <l pos="Phrase">sette opp felle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1254,7 +1254,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="V">ha til hensikt</l>
+         <l pos="Phrase">ha til hensikt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1344,11 +1344,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="V">miste bevisstheten</l>
+         <l pos="Phrase">miste bevisstheten</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">mennä tyrmhiin</t>
+            <t pos="Phrase">mennä tyrmhiin</t>
          </tg>
       </mg>
    </e>
@@ -1423,7 +1423,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
-         <l pos="V">utvikle seg</l>
+         <l pos="Phrase">utvikle seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1447,21 +1447,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
-         <l pos="V">score mål</l>
+         <l pos="Phrase">score mål</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">amppuut moolhiin</t>
+            <t pos="Phrase">amppuut moolhiin</t>
          </tg>
       </mg>
    </e>
    <e src="mk">
       <lg>
-         <l pos="V">skyte med skarpt</l>
+         <l pos="Phrase">skyte med skarpt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">amppuut luođipatruunilla</t>
+            <t pos="Phrase">amppuut luođipatruunilla</t>
          </tg>
       </mg>
    </e>
@@ -1487,19 +1487,19 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk;ame">
       <lg>
-         <l pos="V">ta vare på</l>
+         <l pos="Phrase">ta vare på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="korjaa;korjan">korjata</t>
-            <t pos="V">pittäät huolen</t>
-             <t pos="V">ottaat vaarin</t>
+            <t pos="Phrase">pittäät huolen</t>
+             <t pos="Phrase">ottaat vaarin</t>
          </tg>
       </mg>
    </e>
    <e src="mk">
       <lg>
-         <l pos="V">drikke kaffe</l>
+         <l pos="Phrase">drikke kaffe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1523,7 +1523,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
-         <l pos="V">få øvelse</l>
+         <l pos="Phrase">få øvelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3042,7 +3042,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">røre seg</l>
+         <l pos="Phrase">røre seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3071,7 +3071,7 @@ For the full license text, see the link above.</lic>
     </e>
     <e src="ta">
       <lg>
-         <l pos="V">gjerde inn</l>
+         <l pos="Phrase">gjerde inn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3102,7 +3102,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">jage etter</l>
+         <l pos="Phrase">jage etter</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3137,7 +3137,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli gift</l>
+         <l pos="Phrase">bli gift</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3282,7 +3282,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">være redd</l>
+         <l pos="Phrase">være redd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3296,7 +3296,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">forbarme seg</l>
+         <l pos="Phrase">forbarme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3316,7 +3316,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">forbarme seg over</l>
+         <l pos="Phrase">forbarme seg over</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3341,7 +3341,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">spørre gåter</l>
+         <l pos="Phrase">spørre gåter</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3366,7 +3366,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">stille seg</l>
+         <l pos="Phrase">stille seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3376,7 +3376,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bosette seg</l>
+         <l pos="Phrase">bosette seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3422,7 +3422,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta;ae">
       <lg>
-         <l pos="V">åpne seg</l>
+         <l pos="Phrase">åpne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3477,7 +3477,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ta slutt</l>
+         <l pos="Phrase">ta slutt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3501,7 +3501,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">tørke inn</l>
+         <l pos="Phrase">tørke inn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3540,7 +3540,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">holde leven</l>
+         <l pos="Phrase">holde leven</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3580,7 +3580,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">holde liv i</l>
+         <l pos="Phrase">holde liv i</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3620,7 +3620,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">ta feil</l>
+         <l pos="Phrase">ta feil</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3654,7 +3654,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">holde fra hverandre</l>
+         <l pos="Phrase">holde fra hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3674,7 +3674,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">skille seg</l>
+         <l pos="Phrase">skille seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3694,7 +3694,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli skilt</l>
+         <l pos="Phrase">bli skilt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3709,7 +3709,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">kunne sees</l>
+         <l pos="Phrase">kunne sees</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3719,7 +3719,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">være synlig</l>
+         <l pos="Phrase">være synlig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3789,7 +3789,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli forhindra</l>
+         <l pos="Phrase">bli forhindra</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3849,7 +3849,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">hjelpe til</l>
+         <l pos="Phrase">hjelpe til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3869,7 +3869,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">være ansvarlig for</l>
+         <l pos="Phrase">være ansvarlig for</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3893,7 +3893,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">gå framover</l>
+         <l pos="Phrase">gå framover</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3903,7 +3903,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">gå fram</l>
+         <l pos="Phrase">gå fram</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3957,7 +3957,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
-         <l pos="V">dele i to</l>
+         <l pos="Phrase">dele i to</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4007,7 +4007,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">dele på langs</l>
+         <l pos="Phrase">dele på langs</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4048,7 +4048,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">fri til</l>
+         <l pos="Phrase">fri til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4148,7 +4148,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli såra</l>
+         <l pos="Phrase">bli såra</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4207,7 +4207,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli spredt</l>
+         <l pos="Phrase">bli spredt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4217,7 +4217,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">rive ned</l>
+         <l pos="Phrase">rive ned</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4267,7 +4267,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gå i stykker</l>
+         <l pos="Phrase">gå i stykker</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4276,7 +4276,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">mennä poikki</t>
+            <t pos="Phrase">mennä poikki</t>
          </tg>
       </mg>
       <mg>
@@ -4388,11 +4388,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">klemme flat</l>
+         <l pos="Phrase">klemme flat</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">painaat lähjään</t>
+            <t pos="Phrase">painaat lähjään</t>
          </tg>
       </mg>
    </e>
@@ -4428,7 +4428,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">dele i to</l>
+         <l pos="Phrase">dele i to</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4484,7 +4484,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ha lyst til</l>
+         <l pos="Phrase">ha lyst til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4583,7 +4583,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">venne seg til</l>
+         <l pos="Phrase">venne seg til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4593,7 +4593,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli vant til</l>
+         <l pos="Phrase">bli vant til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4791,7 +4791,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">legge merke til</l>
+         <l pos="Phrase">legge merke til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4816,7 +4816,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">våkne til</l>
+         <l pos="Phrase">våkne til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4826,7 +4826,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">skvette til</l>
+         <l pos="Phrase">skvette til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4956,7 +4956,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gjøre lettere</l>
+         <l pos="Phrase">gjøre lettere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4992,7 +4992,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli åndpusten</l>
+         <l pos="Phrase">bli åndpusten</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5002,7 +5002,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli andpusten</l>
+         <l pos="Phrase">bli andpusten</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5032,7 +5032,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli nervøs</l>
+         <l pos="Phrase">bli nervøs</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5070,7 +5070,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli slitt</l>
+         <l pos="Phrase">bli slitt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5085,7 +5085,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">skitne til</l>
+         <l pos="Phrase">skitne til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5120,7 +5120,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta;me">
       <lg>
-         <l pos="V">gå på ski</l>
+         <l pos="Phrase">gå på ski</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5217,7 +5217,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli forsinket</l>
+         <l pos="Phrase">bli forsinket</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5263,7 +5263,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">skjære grimaser</l>
+         <l pos="Phrase">skjære grimaser</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5273,7 +5273,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli vond</l>
+         <l pos="Phrase">bli vond</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5294,7 +5294,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli slankere</l>
+         <l pos="Phrase">bli slankere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5343,7 +5343,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">komme på</l>
+         <l pos="Phrase">komme på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5387,7 +5387,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">ha det travelt</l>
+         <l pos="Phrase">ha det travelt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5397,7 +5397,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">skynde på</l>
+         <l pos="Phrase">skynde på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5592,7 +5592,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ville ha</l>
+         <l pos="Phrase">ville ha</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5602,7 +5602,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli dårligere</l>
+         <l pos="Phrase">bli dårligere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5617,7 +5617,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">drive hor</l>
+         <l pos="Phrase">drive hor</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5762,7 +5762,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">ta hyre</l>
+         <l pos="Phrase">ta hyre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5817,7 +5817,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">ha nytte av</l>
+         <l pos="Phrase">ha nytte av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5851,7 +5851,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli overrasket</l>
+         <l pos="Phrase">bli overrasket</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5866,7 +5866,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli øksen</l>
+         <l pos="Phrase">bli øksen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5876,7 +5876,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">engste seg</l>
+         <l pos="Phrase">engste seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5886,7 +5886,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">være engstelig</l>
+         <l pos="Phrase">være engstelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5896,7 +5896,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">være redd</l>
+         <l pos="Phrase">være redd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5915,7 +5915,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">være bekymret</l>
+         <l pos="Phrase">være bekymret</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5925,7 +5925,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli engstelig</l>
+         <l pos="Phrase">bli engstelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5985,7 +5985,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli borte</l>
+         <l pos="Phrase">bli borte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6040,7 +6040,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">spisse ører</l>
+         <l pos="Phrase">spisse ører</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6125,7 +6125,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">gjøre kvalm</l>
+         <l pos="Phrase">gjøre kvalm</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6159,7 +6159,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">få seg til</l>
+         <l pos="Phrase">få seg til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6169,7 +6169,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">dukke opp</l>
+         <l pos="Phrase">dukke opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6219,7 +6219,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">si fra</l>
+         <l pos="Phrase">si fra</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6229,7 +6229,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">glede seg</l>
+         <l pos="Phrase">glede seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6369,7 +6369,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">gjøre større</l>
+         <l pos="Phrase">gjøre større</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6379,7 +6379,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli større</l>
+         <l pos="Phrase">bli større</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6408,7 +6408,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">få til å sitte</l>
+         <l pos="Phrase">få til å sitte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6448,7 +6448,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">komme til syne</l>
+         <l pos="Phrase">komme til syne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6584,7 +6584,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">falle en inn</l>
+         <l pos="Phrase">falle en inn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6598,7 +6598,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">late seg</l>
+         <l pos="Phrase">late seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6613,7 +6613,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli tvunget til</l>
+         <l pos="Phrase">bli tvunget til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6627,7 +6627,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">være nødt til</l>
+         <l pos="Phrase">være nødt til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6641,7 +6641,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">ha fest</l>
+         <l pos="Phrase">ha fest</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6671,7 +6671,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">fiske med jukse</l>
+         <l pos="Phrase">fiske med jukse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6691,7 +6691,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">være drikkfeldig</l>
+         <l pos="Phrase">være drikkfeldig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6755,7 +6755,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gi drikke</l>
+         <l pos="Phrase">gi drikke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6797,7 +6797,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">følge etter</l>
+         <l pos="Phrase">følge etter</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6879,7 +6879,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">flytte på seg</l>
+         <l pos="Phrase">flytte på seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6909,7 +6909,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">slå rot</l>
+         <l pos="Phrase">slå rot</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6959,7 +6959,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli avkjølt</l>
+         <l pos="Phrase">bli avkjølt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6969,7 +6969,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli kald</l>
+         <l pos="Phrase">bli kald</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6989,7 +6989,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">tenke over</l>
+         <l pos="Phrase">tenke over</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6999,7 +6999,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli spent</l>
+         <l pos="Phrase">bli spent</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7009,7 +7009,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">være spent</l>
+         <l pos="Phrase">være spent</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7039,7 +7039,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">la bli igjen</l>
+         <l pos="Phrase">la bli igjen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7049,7 +7049,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">la være igjen</l>
+         <l pos="Phrase">la være igjen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7153,7 +7153,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">forbli uferdig</l>
+         <l pos="Phrase">forbli uferdig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7218,7 +7218,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">binde fast</l>
+         <l pos="Phrase">binde fast</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7232,7 +7232,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bøye av</l>
+         <l pos="Phrase">bøye av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7277,7 +7277,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ta en kaffepause</l>
+         <l pos="Phrase">ta en kaffepause</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7307,7 +7307,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">drikke kaffe</l>
+         <l pos="Phrase">drikke kaffe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7337,7 +7337,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">fjerne seg</l>
+         <l pos="Phrase">fjerne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7386,7 +7386,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">stille på skrå</l>
+         <l pos="Phrase">stille på skrå</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7471,7 +7471,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli støl</l>
+         <l pos="Phrase">bli støl</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7486,7 +7486,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bryte opp</l>
+         <l pos="Phrase">bryte opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7497,7 +7497,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">lønne seg</l>
+         <l pos="Phrase">lønne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7512,7 +7512,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">la bære</l>
+         <l pos="Phrase">la bære</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7558,7 +7558,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">sette ut</l>
+         <l pos="Phrase">sette ut</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7594,7 +7594,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ta bort</l>
+         <l pos="Phrase">ta bort</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7630,7 +7630,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">karde ull</l>
+         <l pos="Phrase">karde ull</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7640,7 +7640,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">hope seg</l>
+         <l pos="Phrase">hope seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7802,7 +7802,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gå av</l>
+         <l pos="Phrase">gå av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7816,7 +7816,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">mennä poikki</t>
+            <t pos="Phrase">mennä poikki</t>
          </tg>
       </mg>
    </e>
@@ -7862,7 +7862,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">se på</l>
+         <l pos="Phrase">se på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7897,7 +7897,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">se på</l>
+         <l pos="Phrase">se på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7915,7 +7915,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">kaste et blikk</l>
+         <l pos="Phrase">kaste et blikk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7930,7 +7930,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">se i full fart</l>
+         <l pos="Phrase">se i full fart</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7950,7 +7950,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli forskrekket</l>
+         <l pos="Phrase">bli forskrekket</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7975,7 +7975,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">drive forretning</l>
+         <l pos="Phrase">drive forretning</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7985,7 +7985,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">drive handel</l>
+         <l pos="Phrase">drive handel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8030,7 +8030,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">utvikle seg</l>
+         <l pos="Phrase">utvikle seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8040,7 +8040,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli utviklet</l>
+         <l pos="Phrase">bli utviklet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8130,7 +8130,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">la bygge</l>
+         <l pos="Phrase">la bygge</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8271,7 +8271,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">gi gave</l>
+         <l pos="Phrase">gi gave</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8306,7 +8306,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">klippe sauer</l>
+         <l pos="Phrase">klippe sauer</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8316,7 +8316,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ha tid til</l>
+         <l pos="Phrase">ha tid til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8326,7 +8326,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli ferdig</l>
+         <l pos="Phrase">bli ferdig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8361,7 +8361,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">surne fisk</l>
+         <l pos="Phrase">surne fisk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8371,7 +8371,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">holde ut</l>
+         <l pos="Phrase">holde ut</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8434,7 +8434,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">ta tid</l>
+         <l pos="Phrase">ta tid</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8458,7 +8458,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli lettere</l>
+         <l pos="Phrase">bli lettere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8468,7 +8468,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">koke opp</l>
+         <l pos="Phrase">koke opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8533,7 +8533,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gå rundt</l>
+         <l pos="Phrase">gå rundt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8558,7 +8558,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gå omveier</l>
+         <l pos="Phrase">gå omveier</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8578,7 +8578,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">reise rundt</l>
+         <l pos="Phrase">reise rundt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8618,7 +8618,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">krølle håret</l>
+         <l pos="Phrase">krølle håret</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8648,7 +8648,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">kile fast</l>
+         <l pos="Phrase">kile fast</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8718,7 +8718,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">skinne svakt</l>
+         <l pos="Phrase">skinne svakt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8853,7 +8853,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">ha neglebit</l>
+         <l pos="Phrase">ha neglebit</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8883,7 +8883,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">skrive ned</l>
+         <l pos="Phrase">skrive ned</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8908,7 +8908,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli lysere</l>
+         <l pos="Phrase">bli lysere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8968,7 +8968,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">rykke til</l>
+         <l pos="Phrase">rykke til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9062,7 +9062,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">klare seg</l>
+         <l pos="Phrase">klare seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9107,7 +9107,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">løfte seg</l>
+         <l pos="Phrase">løfte seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9153,7 +9153,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">røre ved</l>
+         <l pos="Phrase">røre ved</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9163,7 +9163,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">streve etter</l>
+         <l pos="Phrase">streve etter</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9183,7 +9183,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">samle seg</l>
+         <l pos="Phrase">samle seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9363,7 +9363,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">banke på</l>
+         <l pos="Phrase">banke på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9428,7 +9428,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">samle inn</l>
+         <l pos="Phrase">samle inn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9438,7 +9438,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ta i bevaring</l>
+         <l pos="Phrase">ta i bevaring</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9569,7 +9569,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ta i skole</l>
+         <l pos="Phrase">ta i skole</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9589,7 +9589,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli sterkere</l>
+         <l pos="Phrase">bli sterkere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9604,7 +9604,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli stivere</l>
+         <l pos="Phrase">bli stivere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9644,7 +9644,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">si kra</l>
+         <l pos="Phrase">si kra</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9701,7 +9701,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">være kresen</l>
+         <l pos="Phrase">være kresen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9731,7 +9731,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">krysse av</l>
+         <l pos="Phrase">krysse av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9751,7 +9751,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bevege seg i kryss</l>
+         <l pos="Phrase">bevege seg i kryss</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9800,7 +9800,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli tørr</l>
+         <l pos="Phrase">bli tørr</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9863,7 +9863,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">si ko-ko</l>
+         <l pos="Phrase">si ko-ko</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9980,7 +9980,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">fiske med garn</l>
+         <l pos="Phrase">fiske med garn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9990,7 +9990,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bruke opp</l>
+         <l pos="Phrase">bruke opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10000,7 +10000,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">drive fiske med drivgarn</l>
+         <l pos="Phrase">drive fiske med drivgarn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10020,7 +10020,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bøye seg framover</l>
+         <l pos="Phrase">bøye seg framover</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10030,7 +10030,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">undre seg</l>
+         <l pos="Phrase">undre seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10140,7 +10140,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">brette opp</l>
+         <l pos="Phrase">brette opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10150,7 +10150,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">sette kopper</l>
+         <l pos="Phrase">sette kopper</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10160,7 +10160,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">ha diaré</l>
+         <l pos="Phrase">ha diaré</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10330,7 +10330,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">knyte garn</l>
+         <l pos="Phrase">knyte garn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10350,7 +10350,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">be om</l>
+         <l pos="Phrase">be om</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10440,7 +10440,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">høre til</l>
+         <l pos="Phrase">høre til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10450,7 +10450,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli het</l>
+         <l pos="Phrase">bli het</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10475,7 +10475,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">høre på</l>
+         <l pos="Phrase">høre på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10525,7 +10525,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">være i stand til</l>
+         <l pos="Phrase">være i stand til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10535,7 +10535,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli lei av</l>
+         <l pos="Phrase">bli lei av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10545,7 +10545,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli mett</l>
+         <l pos="Phrase">bli mett</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10555,7 +10555,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">få nok</l>
+         <l pos="Phrase">få nok</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10570,7 +10570,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">gå lei av</l>
+         <l pos="Phrase">gå lei av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10618,7 +10618,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli kaldt</l>
+         <l pos="Phrase">bli kaldt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10675,7 +10675,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli moden</l>
+         <l pos="Phrase">bli moden</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10745,7 +10745,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">kalle for</l>
+         <l pos="Phrase">kalle for</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10755,7 +10755,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gi ordre</l>
+         <l pos="Phrase">gi ordre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10765,7 +10765,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">gjømme seg</l>
+         <l pos="Phrase">gjømme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10810,7 +10810,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">kjevle ut</l>
+         <l pos="Phrase">kjevle ut</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10820,7 +10820,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">gjøre en snartur</l>
+         <l pos="Phrase">gjøre en snartur</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10830,7 +10830,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli krokete</l>
+         <l pos="Phrase">bli krokete</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10850,7 +10850,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">gå rundt omkring</l>
+         <l pos="Phrase">gå rundt omkring</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10903,7 +10903,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ta en tur</l>
+         <l pos="Phrase">ta en tur</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10913,7 +10913,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gå og hente</l>
+         <l pos="Phrase">gå og hente</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10979,7 +10979,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">vende raskt</l>
+         <l pos="Phrase">vende raskt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10989,7 +10989,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">vende seg</l>
+         <l pos="Phrase">vende seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11019,7 +11019,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">rulle opp</l>
+         <l pos="Phrase">rulle opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11119,7 +11119,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli tynn</l>
+         <l pos="Phrase">bli tynn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11129,7 +11129,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli slank</l>
+         <l pos="Phrase">bli slank</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11139,7 +11139,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">slanke seg</l>
+         <l pos="Phrase">slanke seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11174,7 +11174,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli tynnere</l>
+         <l pos="Phrase">bli tynnere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11234,7 +11234,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">få til å snuble</l>
+         <l pos="Phrase">få til å snuble</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11244,7 +11244,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">sette krokfot</l>
+         <l pos="Phrase">sette krokfot</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11294,7 +11294,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gå ned</l>
+         <l pos="Phrase">gå ned</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11372,7 +11372,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">legge ned</l>
+         <l pos="Phrase">legge ned</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11382,7 +11382,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">legge på</l>
+         <l pos="Phrase">legge på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11392,7 +11392,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">senke ned</l>
+         <l pos="Phrase">senke ned</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11402,7 +11402,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ferdes nedover</l>
+         <l pos="Phrase">ferdes nedover</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11447,7 +11447,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli mildere</l>
+         <l pos="Phrase">bli mildere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11463,7 +11463,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli mildvær</l>
+         <l pos="Phrase">bli mildvær</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11493,7 +11493,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">få til å springe</l>
+         <l pos="Phrase">få til å springe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11507,7 +11507,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">få til å galoppere</l>
+         <l pos="Phrase">få til å galoppere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11546,7 +11546,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bake brød</l>
+         <l pos="Phrase">bake brød</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11566,7 +11566,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">drive og fly</l>
+         <l pos="Phrase">drive og fly</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11586,7 +11586,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli bred</l>
+         <l pos="Phrase">bli bred</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11636,7 +11636,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bre seg</l>
+         <l pos="Phrase">bre seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11646,7 +11646,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">utvide seg</l>
+         <l pos="Phrase">utvide seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11656,7 +11656,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">spre seg</l>
+         <l pos="Phrase">spre seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11682,7 +11682,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">legge på seg</l>
+         <l pos="Phrase">legge på seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11692,7 +11692,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli tykkere</l>
+         <l pos="Phrase">bli tykkere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11712,7 +11712,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli feit</l>
+         <l pos="Phrase">bli feit</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11722,7 +11722,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli til overs</l>
+         <l pos="Phrase">bli til overs</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11732,7 +11732,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">røre på seg</l>
+         <l pos="Phrase">røre på seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11767,7 +11767,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">slutte seg til</l>
+         <l pos="Phrase">slutte seg til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11787,7 +11787,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">legge til</l>
+         <l pos="Phrase">legge til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11802,7 +11802,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">sette sammen</l>
+         <l pos="Phrase">sette sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11832,7 +11832,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">nærme seg</l>
+         <l pos="Phrase">nærme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11842,7 +11842,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli skitten</l>
+         <l pos="Phrase">bli skitten</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11857,7 +11857,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">legge i bløt</l>
+         <l pos="Phrase">legge i bløt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11867,7 +11867,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ligge i bløt</l>
+         <l pos="Phrase">ligge i bløt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11882,7 +11882,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">formere seg</l>
+         <l pos="Phrase">formere seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11938,7 +11938,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">falle av</l>
+         <l pos="Phrase">falle av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11949,7 +11949,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bryte løs noe</l>
+         <l pos="Phrase">bryte løs noe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11959,7 +11959,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">løsne noe</l>
+         <l pos="Phrase">løsne noe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11984,7 +11984,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">lage bulker</l>
+         <l pos="Phrase">lage bulker</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12004,7 +12004,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">få bulker</l>
+         <l pos="Phrase">få bulker</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12029,7 +12029,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">snakke tull</l>
+         <l pos="Phrase">snakke tull</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12074,7 +12074,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli såret</l>
+         <l pos="Phrase">bli såret</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12084,7 +12084,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli skadet</l>
+         <l pos="Phrase">bli skadet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12094,7 +12094,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli støtt</l>
+         <l pos="Phrase">bli støtt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12104,7 +12104,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gå på skøyter</l>
+         <l pos="Phrase">gå på skøyter</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12124,7 +12124,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">regne opp</l>
+         <l pos="Phrase">regne opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12169,7 +12169,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">kaste snø</l>
+         <l pos="Phrase">kaste snø</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12224,7 +12224,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">gi opp</l>
+         <l pos="Phrase">gi opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12249,7 +12249,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">stole på</l>
+         <l pos="Phrase">stole på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12269,7 +12269,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">krysse seg fram</l>
+         <l pos="Phrase">krysse seg fram</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12320,7 +12320,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gi lov</l>
+         <l pos="Phrase">gi lov</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12340,7 +12340,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli kortere</l>
+         <l pos="Phrase">bli kortere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12390,7 +12390,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gjemme seg</l>
+         <l pos="Phrase">gjemme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12433,7 +12433,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">slå seg sammen</l>
+         <l pos="Phrase">slå seg sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12443,7 +12443,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">nærne seg</l>
+         <l pos="Phrase">nærne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12453,7 +12453,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">dra av gårde</l>
+         <l pos="Phrase">dra av gårde</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12473,7 +12473,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">skvulpe til</l>
+         <l pos="Phrase">skvulpe til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12493,7 +12493,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">spille melk</l>
+         <l pos="Phrase">spille melk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12503,7 +12503,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli varm</l>
+         <l pos="Phrase">bli varm</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12528,7 +12528,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">varme opp</l>
+         <l pos="Phrase">varme opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12554,7 +12554,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">betale for</l>
+         <l pos="Phrase">betale for</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12589,7 +12589,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">legge seg</l>
+         <l pos="Phrase">legge seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12599,7 +12599,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">forbinde til jord</l>
+         <l pos="Phrase">forbinde til jord</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12609,7 +12609,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli til jord</l>
+         <l pos="Phrase">bli til jord</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12619,7 +12619,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">få til å rommes</l>
+         <l pos="Phrase">få til å rommes</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12629,7 +12629,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">gjøre plass til</l>
+         <l pos="Phrase">gjøre plass til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12669,7 +12669,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ligge og dra seg</l>
+         <l pos="Phrase">ligge og dra seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12684,7 +12684,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">ta en liten strekk</l>
+         <l pos="Phrase">ta en liten strekk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12710,7 +12710,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">ha tålmodighet</l>
+         <l pos="Phrase">ha tålmodighet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12720,7 +12720,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">besinne seg</l>
+         <l pos="Phrase">besinne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12730,7 +12730,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">være på besøk</l>
+         <l pos="Phrase">være på besøk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12755,7 +12755,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">drive gjøn</l>
+         <l pos="Phrase">drive gjøn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12841,7 +12841,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ha som mening</l>
+         <l pos="Phrase">ha som mening</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12851,7 +12851,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">tenke seg</l>
+         <l pos="Phrase">tenke seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12949,7 +12949,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">begi seg</l>
+         <l pos="Phrase">begi seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12963,17 +12963,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">mennä kokhoon</t>
+            <t pos="Phrase">mennä kokhoon</t>
          </tg>
       </mg>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">gå på besøk</l>
+         <l pos="Phrase">gå på besøk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">mennä kylhään</t>
+            <t pos="Phrase">mennä kylhään</t>
          </tg>
       </mg>
    </e>
@@ -12983,7 +12983,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">mennä pakhoon</t>
+            <t pos="Phrase">mennä pakhoon</t>
             <xg>
                <x>Folk flyktet.</x>
                <xt>Ihmiset menthiin pakhoon.</xt>
@@ -12998,7 +12998,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">gjøre seg til</l>
+         <l pos="Phrase">gjøre seg til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13063,7 +13063,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">lage grimaser</l>
+         <l pos="Phrase">lage grimaser</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13108,7 +13108,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">minne på</l>
+         <l pos="Phrase">minne på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13118,7 +13118,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">ligne på noe</l>
+         <l pos="Phrase">ligne på noe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13138,7 +13138,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gå i sikksakk</l>
+         <l pos="Phrase">gå i sikksakk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13148,7 +13148,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">være innviklet</l>
+         <l pos="Phrase">være innviklet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13158,7 +13158,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bukte seg</l>
+         <l pos="Phrase">bukte seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13308,7 +13308,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">forandre seg</l>
+         <l pos="Phrase">forandre seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13338,7 +13338,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gi etter</l>
+         <l pos="Phrase">gi etter</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13353,7 +13353,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">ta ut sevje</l>
+         <l pos="Phrase">ta ut sevje</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13363,7 +13363,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">tygge drøv</l>
+         <l pos="Phrase">tygge drøv</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13383,7 +13383,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">skille ut materie</l>
+         <l pos="Phrase">skille ut materie</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13448,7 +13448,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">snike seg</l>
+         <l pos="Phrase">snike seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13458,7 +13458,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gifte seg</l>
+         <l pos="Phrase">gifte seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13568,7 +13568,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gi råd</l>
+         <l pos="Phrase">gi råd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13608,7 +13608,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">svelge gjentatte ganger</l>
+         <l pos="Phrase">svelge gjentatte ganger</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13618,7 +13618,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">pusse nesa</l>
+         <l pos="Phrase">pusse nesa</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13628,7 +13628,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta;kl">
       <lg>
-         <l pos="V">slå høy</l>
+         <l pos="Phrase">slå høy</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13648,7 +13648,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bytte skinn</l>
+         <l pos="Phrase">bytte skinn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13658,7 +13658,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">fjerne skinn</l>
+         <l pos="Phrase">fjerne skinn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13748,7 +13748,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">lene seg mot</l>
+         <l pos="Phrase">lene seg mot</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13758,7 +13758,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">lene mot</l>
+         <l pos="Phrase">lene mot</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13768,7 +13768,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli fornærmet</l>
+         <l pos="Phrase">bli fornærmet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13782,7 +13782,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">ta seg nær</l>
+         <l pos="Phrase">ta seg nær</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13826,7 +13826,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">la seg fornorske</l>
+         <l pos="Phrase">la seg fornorske</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13841,7 +13841,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">løfte opp</l>
+         <l pos="Phrase">løfte opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13851,7 +13851,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">stå opp</l>
+         <l pos="Phrase">stå opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13911,7 +13911,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">falle i søvn</l>
+         <l pos="Phrase">falle i søvn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13931,7 +13931,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">sovne av</l>
+         <l pos="Phrase">sovne av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13951,7 +13951,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">få til å sove</l>
+         <l pos="Phrase">få til å sove</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14102,7 +14102,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">se ut til</l>
+         <l pos="Phrase">se ut til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14122,7 +14122,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">springe og hente</l>
+         <l pos="Phrase">springe og hente</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14147,7 +14147,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">drive og vise</l>
+         <l pos="Phrase">drive og vise</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14157,7 +14157,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">vise seg</l>
+         <l pos="Phrase">vise seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14171,7 +14171,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">se ut</l>
+         <l pos="Phrase">se ut</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14182,7 +14182,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli skikkelig sint</l>
+         <l pos="Phrase">bli skikkelig sint</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14192,7 +14192,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">gjøre tynnere</l>
+         <l pos="Phrase">gjøre tynnere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14227,7 +14227,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli strak</l>
+         <l pos="Phrase">bli strak</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14238,7 +14238,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli rett</l>
+         <l pos="Phrase">bli rett</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14269,7 +14269,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">rette opp</l>
+         <l pos="Phrase">rette opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14289,7 +14289,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">grave en bekk</l>
+         <l pos="Phrase">grave en bekk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14309,7 +14309,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">kaste opp</l>
+         <l pos="Phrase">kaste opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14319,7 +14319,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;jaj;smn">
       <lg>
-         <l pos="V">føle seg kvalm</l>
+         <l pos="Phrase">føle seg kvalm</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14328,13 +14328,13 @@ For the full license text, see the link above.</lic>
       </mg>
          <mg>
          <tg xml:lang="fkv">
-            <t pos="V">syđäntä kaivaa</t>
+            <t pos="Phrase">syđäntä kaivaa</t>
          </tg>
       </mg>
    </e>
    <e src="ai;ta;jaj;smn">
       <lg>
-         <l pos="V">være kvalm</l>
+         <l pos="Phrase">være kvalm</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14343,7 +14343,7 @@ For the full license text, see the link above.</lic>
       </mg>
             <mg>
          <tg xml:lang="fkv">
-            <t pos="V">syđäntä kaivaa</t>
+            <t pos="Phrase">syđäntä kaivaa</t>
          </tg>
       </mg>
    </e>
@@ -14474,13 +14474,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">olla olemassa</t>
+            <t pos="Phrase">olla olemassa</t>
          </tg>
       </mg>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">tilegne seg</l>
+         <l pos="Phrase">tilegne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14490,7 +14490,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ta i besittelse</l>
+         <l pos="Phrase">ta i besittelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14520,7 +14520,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">dra på foten</l>
+         <l pos="Phrase">dra på foten</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14550,7 +14550,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli kjent med</l>
+         <l pos="Phrase">bli kjent med</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14560,7 +14560,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">lære seg</l>
+         <l pos="Phrase">lære seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14575,7 +14575,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">øve seg</l>
+         <l pos="Phrase">øve seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14605,7 +14605,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">lære sjøl</l>
+         <l pos="Phrase">lære sjøl</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14665,7 +14665,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">peke på</l>
+         <l pos="Phrase">peke på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14689,7 +14689,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">la vente</l>
+         <l pos="Phrase">la vente</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14719,7 +14719,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">snakke monotonisk</l>
+         <l pos="Phrase">snakke monotonisk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14739,7 +14739,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli sint</l>
+         <l pos="Phrase">bli sint</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14859,7 +14859,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">ta tak</l>
+         <l pos="Phrase">ta tak</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14974,7 +14974,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">la svelle</l>
+         <l pos="Phrase">la svelle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14989,7 +14989,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">få til å svelle</l>
+         <l pos="Phrase">få til å svelle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15024,7 +15024,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">komme tilbake</l>
+         <l pos="Phrase">komme tilbake</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15092,7 +15092,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">oppholde seg</l>
+         <l pos="Phrase">oppholde seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15122,7 +15122,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">tjene som</l>
+         <l pos="Phrase">tjene som</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15167,7 +15167,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli satt bort</l>
+         <l pos="Phrase">bli satt bort</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15177,7 +15177,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">la sette</l>
+         <l pos="Phrase">la sette</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15215,7 +15215,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">det snør</l>
+         <l pos="Phrase">det snør</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15225,7 +15225,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">danne issvull</l>
+         <l pos="Phrase">danne issvull</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15260,7 +15260,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli bedre</l>
+         <l pos="Phrase">bli bedre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15270,7 +15270,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">få forbedret</l>
+         <l pos="Phrase">få forbedret</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15280,7 +15280,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">få reparert</l>
+         <l pos="Phrase">få reparert</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15290,7 +15290,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli bra</l>
+         <l pos="Phrase">bli bra</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15330,7 +15330,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ha avføring</l>
+         <l pos="Phrase">ha avføring</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15340,7 +15340,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">ha tilsyn med</l>
+         <l pos="Phrase">ha tilsyn med</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15350,12 +15350,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">passe på</l>
+         <l pos="Phrase">passe på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">passata</t>
-            <t pos="V">pittäät huolen</t>
+            <t pos="Phrase">pittäät huolen</t>
          </tg>
       </mg>
    </e>
@@ -15439,7 +15439,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">stenge med stengsel</l>
+         <l pos="Phrase">stenge med stengsel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15449,7 +15449,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">demme med stengsel</l>
+         <l pos="Phrase">demme med stengsel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15469,7 +15469,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">myke opp</l>
+         <l pos="Phrase">myke opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15489,7 +15489,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli myk</l>
+         <l pos="Phrase">bli myk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15504,7 +15504,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gjøre myk</l>
+         <l pos="Phrase">gjøre myk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15514,7 +15514,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta;aht">
       <lg>
-         <l pos="V">lukke igjen</l>
+         <l pos="Phrase">lukke igjen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15527,7 +15527,7 @@ For the full license text, see the link above.</lic>
          </tg>
            <mg>
          <tg xml:lang="fkv">
-            <t pos="V">panna kiini</t>
+            <t pos="Phrase">panna kiini</t>
            <xg>
                <x>Lukk igjen døra!</x>
                <xt>Pane oven kiini!</xt>
@@ -15558,7 +15558,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">redde seg</l>
+         <l pos="Phrase">redde seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15568,7 +15568,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli reddet</l>
+         <l pos="Phrase">bli reddet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15589,7 +15589,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">gå av med pensjon</l>
+         <l pos="Phrase">gå av med pensjon</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15609,7 +15609,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bry seg</l>
+         <l pos="Phrase">bry seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15619,7 +15619,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bry seg om</l>
+         <l pos="Phrase">bry seg om</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15677,7 +15677,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli skuffet</l>
+         <l pos="Phrase">bli skuffet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15732,7 +15732,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gjøre mindre</l>
+         <l pos="Phrase">gjøre mindre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15752,7 +15752,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli mindre</l>
+         <l pos="Phrase">bli mindre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15782,7 +15782,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">jobbe som tjenestepike</l>
+         <l pos="Phrase">jobbe som tjenestepike</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15832,7 +15832,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">regne regndråper</l>
+         <l pos="Phrase">regne regndråper</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15852,7 +15852,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gjøre narr av</l>
+         <l pos="Phrase">gjøre narr av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15892,7 +15892,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli ødelagt</l>
+         <l pos="Phrase">bli ødelagt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15902,7 +15902,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli skjemt</l>
+         <l pos="Phrase">bli skjemt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15922,7 +15922,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">gjøre mørkere</l>
+         <l pos="Phrase">gjøre mørkere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16001,7 +16001,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">være spydig</l>
+         <l pos="Phrase">være spydig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16025,7 +16025,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">beherske seg</l>
+         <l pos="Phrase">beherske seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16055,7 +16055,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">gjøre en avstikker</l>
+         <l pos="Phrase">gjøre en avstikker</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16069,7 +16069,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">gå fra</l>
+         <l pos="Phrase">gå fra</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16352,7 +16352,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">skrive på maskin</l>
+         <l pos="Phrase">skrive på maskin</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16392,7 +16392,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">stikke hull på</l>
+         <l pos="Phrase">stikke hull på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16412,7 +16412,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">snakke til</l>
+         <l pos="Phrase">snakke til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16452,7 +16452,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli rein</l>
+         <l pos="Phrase">bli rein</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16532,7 +16532,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">arbeide for</l>
+         <l pos="Phrase">arbeide for</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16552,7 +16552,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bedrive helbreding</l>
+         <l pos="Phrase">bedrive helbreding</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16577,7 +16577,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">plukke ned</l>
+         <l pos="Phrase">plukke ned</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16597,7 +16597,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">renne over</l>
+         <l pos="Phrase">renne over</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16636,7 +16636,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">legge seg opp i</l>
+         <l pos="Phrase">legge seg opp i</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16683,7 +16683,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">la falle</l>
+         <l pos="Phrase">la falle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16693,7 +16693,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">tørke støv</l>
+         <l pos="Phrase">tørke støv</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16703,7 +16703,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">vise baken</l>
+         <l pos="Phrase">vise baken</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16713,7 +16713,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">pynte seg</l>
+         <l pos="Phrase">pynte seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16723,7 +16723,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">briste ut i</l>
+         <l pos="Phrase">briste ut i</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16733,7 +16733,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli værende</l>
+         <l pos="Phrase">bli værende</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16803,7 +16803,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli svimmel</l>
+         <l pos="Phrase">bli svimmel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16813,7 +16813,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">vende om</l>
+         <l pos="Phrase">vende om</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16833,7 +16833,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">snu tilbake</l>
+         <l pos="Phrase">snu tilbake</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16843,7 +16843,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli full</l>
+         <l pos="Phrase">bli full</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16859,7 +16859,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">greie seg</l>
+         <l pos="Phrase">greie seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16869,7 +16869,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">berge livet</l>
+         <l pos="Phrase">berge livet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16889,7 +16889,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli fri fra noe</l>
+         <l pos="Phrase">bli fri fra noe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16899,7 +16899,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">slippe til</l>
+         <l pos="Phrase">slippe til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16909,7 +16909,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">komme fram til</l>
+         <l pos="Phrase">komme fram til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16934,7 +16934,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">la gå</l>
+         <l pos="Phrase">la gå</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16964,7 +16964,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli redd</l>
+         <l pos="Phrase">bli redd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16974,7 +16974,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli skremt</l>
+         <l pos="Phrase">bli skremt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17018,7 +17018,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli stolt</l>
+         <l pos="Phrase">bli stolt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17032,7 +17032,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">dra med seg</l>
+         <l pos="Phrase">dra med seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17052,7 +17052,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">jobbe hardt</l>
+         <l pos="Phrase">jobbe hardt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17062,7 +17062,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli voksen</l>
+         <l pos="Phrase">bli voksen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17102,7 +17102,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ha hjerte til</l>
+         <l pos="Phrase">ha hjerte til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17112,7 +17112,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">sprette opp</l>
+         <l pos="Phrase">sprette opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17129,7 +17129,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gå opp i sømmen</l>
+         <l pos="Phrase">gå opp i sømmen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17139,7 +17139,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">skille ut</l>
+         <l pos="Phrase">skille ut</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17190,7 +17190,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">roe seg</l>
+         <l pos="Phrase">roe seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17210,7 +17210,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli utett</l>
+         <l pos="Phrase">bli utett</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17220,7 +17220,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">springe lekk</l>
+         <l pos="Phrase">springe lekk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17240,7 +17240,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">åpne på klem</l>
+         <l pos="Phrase">åpne på klem</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17274,7 +17274,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli oppkvikket</l>
+         <l pos="Phrase">bli oppkvikket</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17298,7 +17298,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">kle av seg</l>
+         <l pos="Phrase">kle av seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17308,7 +17308,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">kle av</l>
+         <l pos="Phrase">kle av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17318,7 +17318,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli uenig</l>
+         <l pos="Phrase">bli uenig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17328,7 +17328,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">være tilstrekkelig</l>
+         <l pos="Phrase">være tilstrekkelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17338,7 +17338,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">strekke til</l>
+         <l pos="Phrase">strekke til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17348,7 +17348,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli rik</l>
+         <l pos="Phrase">bli rik</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17368,7 +17368,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">la flyte</l>
+         <l pos="Phrase">la flyte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17378,7 +17378,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">tas av strømmen</l>
+         <l pos="Phrase">tas av strømmen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17388,7 +17388,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">drive omkring</l>
+         <l pos="Phrase">drive omkring</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17413,7 +17413,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">skynde seg</l>
+         <l pos="Phrase">skynde seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17483,7 +17483,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gi mat</l>
+         <l pos="Phrase">gi mat</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17508,7 +17508,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bygge på</l>
+         <l pos="Phrase">bygge på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17518,7 +17518,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">være i brunst</l>
+         <l pos="Phrase">være i brunst</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17538,7 +17538,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ha samleie</l>
+         <l pos="Phrase">ha samleie</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17568,7 +17568,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">drikke fort</l>
+         <l pos="Phrase">drikke fort</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17578,7 +17578,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">ta en drink</l>
+         <l pos="Phrase">ta en drink</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17641,7 +17641,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">rekke til</l>
+         <l pos="Phrase">rekke til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17651,7 +17651,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">duge til</l>
+         <l pos="Phrase">duge til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17695,7 +17695,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">puste tungt</l>
+         <l pos="Phrase">puste tungt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17725,7 +17725,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">komme fram</l>
+         <l pos="Phrase">komme fram</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17745,7 +17745,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">holde tale</l>
+         <l pos="Phrase">holde tale</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17776,11 +17776,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">få klarhet i</l>
+         <l pos="Phrase">få klarhet i</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">saađa selvile</t>
+            <t pos="Phrase">saađa selvile</t>
          </tg>
       </mg>
    </e>
@@ -17796,7 +17796,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">være syk</l>
+         <l pos="Phrase">være syk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17811,7 +17811,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli syk</l>
+         <l pos="Phrase">bli syk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17821,7 +17821,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">holde hemmelig</l>
+         <l pos="Phrase">holde hemmelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17841,7 +17841,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">slå av</l>
+         <l pos="Phrase">slå av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17906,7 +17906,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bade badstu</l>
+         <l pos="Phrase">bade badstu</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17927,7 +17927,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">stoppe opp</l>
+         <l pos="Phrase">stoppe opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17947,7 +17947,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">blande sammen</l>
+         <l pos="Phrase">blande sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17957,7 +17957,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli forvirret</l>
+         <l pos="Phrase">bli forvirret</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17989,7 +17989,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">tale om</l>
+         <l pos="Phrase">tale om</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18014,7 +18014,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli edru</l>
+         <l pos="Phrase">bli edru</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18029,7 +18029,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli klar</l>
+         <l pos="Phrase">bli klar</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18039,7 +18039,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">ta rede på</l>
+         <l pos="Phrase">ta rede på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18059,7 +18059,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli klar(t)</l>
+         <l pos="Phrase">bli klar(t)</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18202,7 +18202,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">gå konkurs</l>
+         <l pos="Phrase">gå konkurs</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18212,7 +18212,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">binde seg</l>
+         <l pos="Phrase">binde seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18222,7 +18222,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli bundet</l>
+         <l pos="Phrase">bli bundet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18297,7 +18297,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">gi lyd</l>
+         <l pos="Phrase">gi lyd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18307,7 +18307,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">renne bort</l>
+         <l pos="Phrase">renne bort</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18318,7 +18318,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">stramme noe hårdt</l>
+         <l pos="Phrase">stramme noe hårdt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18328,7 +18328,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">komme overens</l>
+         <l pos="Phrase">komme overens</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18353,7 +18353,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">rote til</l>
+         <l pos="Phrase">rote til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18444,7 +18444,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli bøyd</l>
+         <l pos="Phrase">bli bøyd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18454,7 +18454,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bøye seg</l>
+         <l pos="Phrase">bøye seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18464,7 +18464,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ha råd til</l>
+         <l pos="Phrase">ha råd til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18521,7 +18521,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">la smelte</l>
+         <l pos="Phrase">la smelte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18531,7 +18531,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">få til å smelte</l>
+         <l pos="Phrase">få til å smelte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18586,7 +18586,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">salte ned</l>
+         <l pos="Phrase">salte ned</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18620,7 +18620,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">suođa antheeksi</t>
+            <t pos="Phrase">suođa antheeksi</t>
          </tg>
       </mg>
    </e>
@@ -18636,7 +18636,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">ta sikte på</l>
+         <l pos="Phrase">ta sikte på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18646,7 +18646,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">legge kursen til</l>
+         <l pos="Phrase">legge kursen til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18691,7 +18691,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli fødd</l>
+         <l pos="Phrase">bli fødd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18721,7 +18721,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli tent</l>
+         <l pos="Phrase">bli tent</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18731,7 +18731,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ta fyr</l>
+         <l pos="Phrase">ta fyr</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18741,7 +18741,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">tenne på</l>
+         <l pos="Phrase">tenne på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18821,7 +18821,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">holde seg</l>
+         <l pos="Phrase">holde seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18871,7 +18871,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">søke til</l>
+         <l pos="Phrase">søke til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18910,7 +18910,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">sannsynligvis være</l>
+         <l pos="Phrase">sannsynligvis være</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18934,7 +18934,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli stiv</l>
+         <l pos="Phrase">bli stiv</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18969,7 +18969,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">utholde kulde</l>
+         <l pos="Phrase">utholde kulde</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18979,7 +18979,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">ikke fryse</l>
+         <l pos="Phrase">ikke fryse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18999,7 +18999,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">by på</l>
+         <l pos="Phrase">by på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19019,7 +19019,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">klebe seg</l>
+         <l pos="Phrase">klebe seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19029,7 +19029,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">sette seg fast</l>
+         <l pos="Phrase">sette seg fast</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19049,7 +19049,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">få napp</l>
+         <l pos="Phrase">få napp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19059,7 +19059,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">overføre smitte</l>
+         <l pos="Phrase">overføre smitte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19099,7 +19099,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">jevne seg</l>
+         <l pos="Phrase">jevne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19119,7 +19119,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">jobbe med noe</l>
+         <l pos="Phrase">jobbe med noe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19129,7 +19129,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">la gjøre</l>
+         <l pos="Phrase">la gjøre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19149,7 +19149,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">gripe tak i</l>
+         <l pos="Phrase">gripe tak i</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19179,7 +19179,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gi tjenester</l>
+         <l pos="Phrase">gi tjenester</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19219,7 +19219,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">påføre tinn</l>
+         <l pos="Phrase">påføre tinn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19269,7 +19269,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">la dryppe</l>
+         <l pos="Phrase">la dryppe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19299,7 +19299,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">vaske opp</l>
+         <l pos="Phrase">vaske opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19329,7 +19329,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">krangle med</l>
+         <l pos="Phrase">krangle med</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19419,7 +19419,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">løpe fort</l>
+         <l pos="Phrase">løpe fort</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19459,7 +19459,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">drive med noe</l>
+         <l pos="Phrase">drive med noe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19524,7 +19524,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">vitne om</l>
+         <l pos="Phrase">vitne om</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19554,7 +19554,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">sprute på</l>
+         <l pos="Phrase">sprute på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19604,7 +19604,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">drive snø</l>
+         <l pos="Phrase">drive snø</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19614,7 +19614,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli kvalt</l>
+         <l pos="Phrase">bli kvalt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19687,7 +19687,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">stoppe til</l>
+         <l pos="Phrase">stoppe til</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19697,7 +19697,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">trenge inn</l>
+         <l pos="Phrase">trenge inn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19727,11 +19727,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">komme sammen</l>
+         <l pos="Phrase">komme sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">tulla yhtheen</t>
+            <t pos="Phrase">tulla yhtheen</t>
          </tg>
       </mg>
    </e>
@@ -19757,7 +19757,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">føle seg for</l>
+         <l pos="Phrase">føle seg for</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19767,7 +19767,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">kjenne igjen</l>
+         <l pos="Phrase">kjenne igjen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19848,7 +19848,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">komme med</l>
+         <l pos="Phrase">komme med</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19903,7 +19903,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">nøye seg med</l>
+         <l pos="Phrase">nøye seg med</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19913,7 +19913,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli tom</l>
+         <l pos="Phrase">bli tom</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19944,7 +19944,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">dekke på</l>
+         <l pos="Phrase">dekke på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19979,7 +19979,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gå i oppfyllelse</l>
+         <l pos="Phrase">gå i oppfyllelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20061,7 +20061,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">hyle en gang</l>
+         <l pos="Phrase">hyle en gang</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20081,7 +20081,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli glemt</l>
+         <l pos="Phrase">bli glemt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20091,7 +20091,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">drømme i søvne</l>
+         <l pos="Phrase">drømme i søvne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20141,7 +20141,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">kle på seg</l>
+         <l pos="Phrase">kle på seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20151,7 +20151,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">kle på</l>
+         <l pos="Phrase">kle på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20186,7 +20186,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gjøre tykkere</l>
+         <l pos="Phrase">gjøre tykkere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20206,7 +20206,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli ombyttet</l>
+         <l pos="Phrase">bli ombyttet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20226,7 +20226,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">få til å tie</l>
+         <l pos="Phrase">få til å tie</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20260,7 +20260,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli trøtt</l>
+         <l pos="Phrase">bli trøtt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20305,7 +20305,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">lyöđä veto</t>
+            <t pos="Phrase">lyöđä veto</t>
             <xg>
                <x>Skal vi vedde?</x>
                <xt>Lyömäkö vettoo?</xt>
@@ -20325,7 +20325,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">klage over noe</l>
+         <l pos="Phrase">klage over noe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20335,7 +20335,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">beklage seg</l>
+         <l pos="Phrase">beklage seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20345,7 +20345,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli lys</l>
+         <l pos="Phrase">bli lys</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20355,7 +20355,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bli hvitere</l>
+         <l pos="Phrase">bli hvitere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20399,7 +20399,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">forberede seg</l>
+         <l pos="Phrase">forberede seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20429,7 +20429,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli eldre</l>
+         <l pos="Phrase">bli eldre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20534,7 +20534,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">holde av</l>
+         <l pos="Phrase">holde av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20599,7 +20599,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">akte seg</l>
+         <l pos="Phrase">akte seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20619,7 +20619,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">felle blader</l>
+         <l pos="Phrase">felle blader</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20643,7 +20643,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">ta imot</l>
+         <l pos="Phrase">ta imot</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20653,7 +20653,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">motsette seg</l>
+         <l pos="Phrase">motsette seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20663,7 +20663,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">gjøre motstand</l>
+         <l pos="Phrase">gjøre motstand</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20693,7 +20693,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">synge salme</l>
+         <l pos="Phrase">synge salme</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20738,7 +20738,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">veksle penger</l>
+         <l pos="Phrase">veksle penger</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20768,7 +20768,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">strekke seg</l>
+         <l pos="Phrase">strekke seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20858,7 +20858,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">rulle ned</l>
+         <l pos="Phrase">rulle ned</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20924,7 +20924,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">være fornuftig</l>
+         <l pos="Phrase">være fornuftig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20934,7 +20934,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">spille fornuftig</l>
+         <l pos="Phrase">spille fornuftig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20944,7 +20944,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli klokere</l>
+         <l pos="Phrase">bli klokere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20989,7 +20989,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">bruke tegnspråk</l>
+         <l pos="Phrase">bruke tegnspråk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20999,7 +20999,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">tolke til tegnspråk</l>
+         <l pos="Phrase">tolke til tegnspråk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21029,7 +21029,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli lenge</l>
+         <l pos="Phrase">bli lenge</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21084,7 +21084,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bruke vippebrønn</l>
+         <l pos="Phrase">bruke vippebrønn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21115,7 +21115,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">vippe opp</l>
+         <l pos="Phrase">vippe opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21125,7 +21125,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">spenne opp</l>
+         <l pos="Phrase">spenne opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21175,7 +21175,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">vekke avsky</l>
+         <l pos="Phrase">vekke avsky</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21185,7 +21185,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli kvalm</l>
+         <l pos="Phrase">bli kvalm</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21235,7 +21235,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">ro bakover</l>
+         <l pos="Phrase">ro bakover</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21315,7 +21315,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">trekke seg tilbake</l>
+         <l pos="Phrase">trekke seg tilbake</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21355,7 +21355,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">være nok</l>
+         <l pos="Phrase">være nok</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21379,7 +21379,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">drive på med</l>
+         <l pos="Phrase">drive på med</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21389,7 +21389,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">bli verre</l>
+         <l pos="Phrase">bli verre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21474,7 +21474,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">være stolt</l>
+         <l pos="Phrase">være stolt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21534,7 +21534,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli irritert</l>
+         <l pos="Phrase">bli irritert</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21544,7 +21544,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bli terga</l>
+         <l pos="Phrase">bli terga</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -21554,7 +21554,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">gå seg bort</l>
+         <l pos="Phrase">gå seg bort</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
