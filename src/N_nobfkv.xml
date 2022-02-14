@@ -26,10 +26,30 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+      <e src="na">
+      <lg>
+       <l pos="N">medspiller</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">myötäpellaaja</t>
+         </tg>
+         </mg>
+      </e>
+          <e src="na">
+      <lg>
+       <l pos="N">flyvert</l>
+      </lg> 
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">lentoväärtti</t>
+         </tg>
+         </mg>
+      </e>
        <e src="na">
       <lg>
        <l pos="N">hovedrett</l>
-      </lg>svn 
+      </lg>
       <mg>
          <tg xml:lang="fkv">
          <t pos="N">pääruoka</t>
@@ -108,11 +128,11 @@ For the full license text, see the link above.</lic>
       </e>
          <e src="na">
       <lg>
-       <l pos="N">bønne</l>
+       <l pos="N">solist</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <t pos="N">bønneri</t>
+         <t pos="N">solisti</t>
          </tg>
          </mg>
       </e>
@@ -15186,13 +15206,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;ai">
       <lg>
          <l pos="N">kino</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">filmitupa</t>
+              <xg>
+               <x>Skal vi gå på kino?</x>
+               <xt>Menemäkö filmituphaan?</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kino</t>
+                        <xg>
+               <x>Blir dere med på kino?</x>
+               <xt>Tulettako myötä kinhoon?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -20762,6 +20795,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">filmi</t>
+                        <xg>
+               <x>Hvilken film vil dere se?</x>
+               <xt>Mitä filmi tet halluutta kattoot?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24213,7 +24250,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>verdi i penger, konstad, takst</re>
+	         <re>verdi i penger, konstnad, takst</re>
             <t pos="N" stem="hinna;hintta">hinta</t>
          </tg>
       </mg>
@@ -27154,6 +27191,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">roikka</t>
+                        <xg>
+               <x>Som gruppe?</x>
+               <xt>Roikkanako?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -52931,6 +52972,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="pileti">piletti</t>
+              <xg>
+               <x>Hvor mye koster billetten?</x>
+               <xt>Paljonko piletti maksaa?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
