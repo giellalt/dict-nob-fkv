@@ -26,6 +26,46 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+         <e src="ame">
+      <lg>
+         <l pos="V">hete</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>navnet/personen er</re>
+            <t pos="N">nimi</t>
+             <xg>
+               <x>Jeg heter Matti.</x>
+               <xt>Minun nimi oon Matti.</xt>
+            </xg>
+              <xg>
+               <x>Hun heter Liisa.</x>
+               <xt>Hän oon Liisa.</xt>
+            </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="fkv">
+	         <re>kalles, ha å gjøre med</re>
+            <t pos="V">sannoot</t>
+            <t pos="V">kuttuut</t>
+             <xg>
+               <x>Hun er interessert i alt som heter teater.</x>
+               <xt>Hän oon kiinostunu kaikesta mitä sanothaan teatteriksi</xt>
+               </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	         <re>sies, lyde</re>
+            <t pos="V">sannoot</t>
+             <xg>
+               <x>Hva heter det på norsk?</x>
+               <xt>Mitä se oon norjaksi?</xt>
+            </xg>
+         </tg>
+      </mg>
+         </e>
        <e src="rh">
       <lg>
          <l pos="V">dempe</l>
