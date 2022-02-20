@@ -13405,9 +13405,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kangas</t>
-            <syng>
-               <syn>kuolpano</syn>
-            </syng>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuolpano</t>
          </tg>
       </mg>
    </e>
@@ -32720,12 +32722,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kevväin</t>
+            <t pos="N">kevät</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kevväi">kevät</t>
+            <t pos="N">kevväin</t>
          </tg>
       </mg>
    </e>
@@ -37680,19 +37682,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kuolevainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">hei</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kuolpano</t>
-            <syng>
-               <syn>kangas</syn>
-            </syng>
          </tg>
       </mg>
    </e>
