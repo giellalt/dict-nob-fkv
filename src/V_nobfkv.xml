@@ -26,6 +26,71 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+       <e src="ai">
+      <lg>
+         <l pos="V">synes synd på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sääliit</t>
+             <xg>
+               <x>Jeg syntes så synd på gatefiolinisten at jeg ga han alle vekslepengene.</x>
+               <xt>Mie säälin katuviolinistii niin ette annoin hänele kaikki vaihtorahat.  </xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tykätä synttii</t>
+             <xg>
+               <x>Barna syntes synd på tiggerne.</x>
+               <xt>Lapset tykäthiin synttii kerjääjiistä.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+             <e src="ai">
+      <lg>
+         <l pos="V">stampe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">survoot</t>
+             <xg>
+               <x>Barna stampet alle rognebærene i stampen.</x>
+               <xt>Lapset survothiin kaikki pihlaajamarjat tampussa.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+          <e src="ai">
+      <lg>
+         <l pos="V">bekymre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">huolestuttaat</t>
+             <xg>
+               <x>Helsen hans bekymrer meg.</x>
+               <xt>Hänen tervheys huolestuttaa minnuu.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+       <e src="ai">
+      <lg>
+         <l pos="V">bosette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">asuttaat</t>
+            <xg>
+               <x>Danskekongen ønsket å bosette Finnmark.</x>
+               <xt>Tanskan kuningas halus asuttaat Finmarkun.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
          <e src="ame">
       <lg>
          <l pos="V">hete</l>
@@ -10702,6 +10767,11 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="käve">käyđä</t>
          </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">mennä kylhään</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -12954,17 +13024,33 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	          <re>tape</re>
             <t pos="V" stem="menetä">menettäät</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	          <re>rote bort, tape</re>
             <t pos="V">mistanttaat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	          <re>slippe mev vilje, senke</re>
             <t pos="V" stem="puđota">puđottaat</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kađota">kađottaat</t>
+              <xg>
+               <x>Han mistet lommeboken på gaten.</x>
+               <xt>Hän kađotti rahapörsin kađula.</xt>
+            </xg>
+               <xg>
+               <x>De mistet ikke håpet selv om det var vanskelige tider.</x>
+               <xt>Het ei kađottanheet toivoo vaikka aijat olthiin vaikkeet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
