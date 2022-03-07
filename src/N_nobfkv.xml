@@ -889,6 +889,196 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">seksuell legning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">seksuaalinen suunta</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">singel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">singeli</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">enslig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">yksinelläävä</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">ektefelle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">aviokumppani</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">partner</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">kumppani</t>
+         </tg>
+         </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">elämänkumppani</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">livspartner</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">elämänkumppani</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">bonus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">bonus</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">bonusbarn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">bonuslapsi</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">regnbuefolk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">satheenkaari-ihmiset</t>
+         </tg>
+         </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">vesikaari-ihmiset</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">trans</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">transi</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">transperson</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">transihminen</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">transkvinne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">transvaimo</t>
+         </tg>
+         </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">transnainen</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">transmann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">transmies</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">voldtekt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">raiskaus</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">hatprat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">vihapraatti</t>
+         </tg>
+         </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">vihapuhet</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">diskriminering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">diskrimineerinki</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="kt">
+      <lg>
+       <l pos="N">rasisme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">rasismi</t>
+         </tg>
+         </mg>
+      </e>
          <e src="kl">
       <lg>
        <l pos="Phrase">nordøstlig vind</l>
@@ -9907,6 +10097,16 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
+       <e src="ki">
+      <lg>
+       <l pos="N">vagina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vagina</t>
+         </tg>
+         </mg>
+      </e>
        <e src="bildetema">
       <lg>
        <l pos="N">klesskap</l>
@@ -10366,16 +10566,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vanhapoika</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
-      <lg>
-         <l pos="N">kvinne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">vaimo</t>
          </tg>
       </mg>
    </e>
@@ -18647,6 +18837,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">asumakumppani</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	    <re>samboerpar</re>
             <t pos="N">asumapari</t>
          </tg>
       </mg>
@@ -45932,6 +46127,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">miesihminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="N">miehenpuoli</t>
          </tg>
       </mg>
@@ -45963,11 +46163,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="miehe">mies</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="miesihmise;miesihmis">miesihminen</t>
          </tg>
       </mg>
       <mg>
@@ -47420,12 +47615,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="naise;nais">nainen</t>
+            <t pos="N">vaimo</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="vaimoihmise;vaimoihmis">vaimoihminen</t>
+            <t pos="N" stem="naise;nais">nainen</t>
          </tg>
       </mg>
    </e>
@@ -67820,6 +68015,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">kvinnfolk</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaimoihminen</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vaimoväki</t>
