@@ -26,6 +26,37 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+           <e src="ae">
+      <lg>
+       <l pos="N">ankalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	        <re>volumenhet</re>
+         <t pos="N">anker</t>
+         </tg>
+         </mg>
+      </e>
+        <e src="ae">
+      <lg>
+       <l pos="N">åpning i gjerdet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">aiđanrako</t>
+         </tg>
+         </mg>
+      </e>
+         <e src="ae">
+      <lg>
+       <l pos="N">mellomrom i gjerdet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">myötäpellaaja</t>
+         </tg>
+         </mg>
+      </e>
       <e src="na">
       <lg>
        <l pos="N">medspiller</l>
@@ -112,7 +143,7 @@ For the full license text, see the link above.</lic>
       </lg>svn 
       <mg>
          <tg xml:lang="fkv">
-         <t pos="N">peanøtteri</t>
+         <t pos="N">peanötteri</t>
          </tg>
          </mg>
       </e>
@@ -152,7 +183,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <t pos="N">vesimelon</t>
+         <t pos="N">vesimeloni</t>
          </tg>
          </mg>
       </e>
@@ -326,7 +357,7 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
       </e>
-            <e src="na">
+       <e src="na">
       <lg>
        <l pos="N">klovn</l>
       </lg>
@@ -624,16 +655,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
          <t pos="N">alpintti</t>
-         </tg>
-         </mg>
-      </e>
-           <e src="na">
-      <lg>
-       <l pos="N">beundrer</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-         <t pos="N">ihhailiija</t>
          </tg>
          </mg>
       </e>
