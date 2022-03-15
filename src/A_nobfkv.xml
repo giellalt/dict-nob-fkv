@@ -198,27 +198,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="jaj;smn;th;es">
+      <e src="jaj;th;es;bs">
       <lg>
          <l pos="A">gravid</l>
       </lg>
-      <mg>
+                  <mg>
          <tg xml:lang="fkv">
-	         <re>gjerne om dyr</re>
-            <t pos="A" stem="tiinhee">tiinet</t>
+            <t pos="V">olla lasta vasten</t>
               <xg>
-               <x>Kua er gravid.</x>
-               <xt>Lehmä oon tiinet.</xt>
+               <x>Hun er gravid.</x>
+               <xt>Hän oon lasta vasten.</xt>
             </xg>
          </tg>
       </mg>
-            <mg>
+        <mg>
          <tg xml:lang="fkv">
-	         <re>gjerne om dyr</re>
-            <t pos="V">kanttaat</t>
+            <t pos="V">olla raskhaana</t>
               <xg>
-               <x>Sauen er gravid.</x>
-               <xt>Lammas kanttaa.</xt>
+               <x>Hun er gravid.</x>
+               <xt>Hän oon raskhaana.</xt>
             </xg>
          </tg>
       </mg>
@@ -10346,13 +10344,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta;kl;jaj">
       <lg>
          <l pos="A">drektig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="tiinhee">tiinet</t>
+              <xg>
+               <x>Kua er drektig.</x>
+               <xt>Lehmä oon tiinet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
