@@ -938,16 +938,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia">
-      <lg>
-         <l pos="A">bratt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">jyrkkä</t>
-         </tg>
-      </mg>
-   </e>
    <e src="es">
       <lg>
          <l pos="A">aspektuell</l>
@@ -1881,16 +1871,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
-         <l pos="A">andpusten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">hengistynny</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mk">
-      <lg>
          <l pos="A">harsk</l>
       </lg>
       <mg>
@@ -1962,16 +1942,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
-         <l pos="A">aktiv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">aktiivinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mk">
-      <lg>
          <l pos="A">utenkelig</l>
       </lg>
       <mg>
@@ -2007,16 +1977,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">A-klassinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="A">allmektig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="kaikkivaltihaa">kaikkivaltias</t>
          </tg>
       </mg>
    </e>
@@ -2137,16 +2097,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kommee</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="A">aktiv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">aktiivinen</t>
          </tg>
       </mg>
    </e>
@@ -3367,7 +3317,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="hengestynhee">hengestynny</t>
+            <t pos="A" stem="hengestynhee">hengistynny</t>
          </tg>
       </mg>
       <mg>
@@ -7547,6 +7497,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="A">bratt</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">jyrkkä</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">nyrkkä</t>
@@ -12295,387 +12250,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="A">kommende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">tulleeva</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">overstømmende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">ylenmääräisesti</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">uvarierende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">vaihettelematon</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">uvitende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">tietämätön</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">blivende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">tulleeva</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">mangfoldig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">monenkertainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">mangfoldig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">monenlainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">uferdig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">kesken</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">lydlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">äänelinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">tydelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">selkkee</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">tydelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">selvästi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">herskapelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">herrattava</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">granngivelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">selvästi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">arkivfaglig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">arkiivifaakilinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">uregjerlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">vallaton</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">offentlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">viralinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">regelmessig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">reekelinmukainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">uregelmessig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">epäreekelinmukainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">kraftig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">voimakas</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">kunnskapsrik</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">tietorikas</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">trykksterk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">painolinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">økonomisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">ekonominen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">elektronisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">elektroninen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">finsk-ugrisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">suomalais-ugrilainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">systemaatisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">systemaattinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">identisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">identtinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">nasjonal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">kansalinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">internasjonal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">internasunaali</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">digital</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">digitaalinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">tradisjonell</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">tradittiinaalinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">intern</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">sisäinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">intern</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">sisänen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">primær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">primääri</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">kompleks</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">kompleksinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">vektløs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">painoton</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">trykklett</l>
-      </lg>
-      <mg>
-        <tg xml:lang="nob">
-	  <re>språkvitenskaplig</re>
-            <t pos="A">painoton</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">ultrafiolett</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">ultrafioletti</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">utgitt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">ulosannettu</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="A">lik</l>
       </lg>
       <mg>
@@ -12786,16 +12360,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="fkvnob">
       <lg>
-         <l pos="A">tydelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">selvästi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fkvnob">
-      <lg>
          <l pos="A">herskapelig</l>
       </lg>
       <mg>
@@ -12896,16 +12460,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="fkvnob">
       <lg>
-         <l pos="A">økonomisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">ekonominen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fkvnob">
-      <lg>
          <l pos="A">elektronisk</l>
       </lg>
       <mg>
@@ -12926,7 +12480,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="fkvnob">
       <lg>
-         <l pos="A">systemaatisk</l>
+         <l pos="A">systematisk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12961,16 +12515,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">internasunaali</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fkvnob">
-      <lg>
-         <l pos="A">digital</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">digitaalinen</t>
          </tg>
       </mg>
    </e>
