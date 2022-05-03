@@ -4668,7 +4668,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">kainulainen</t>
+            <t pos="N">kvääni</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="kväänin kiele;kväänin kiel">kväänin kieli</t>
          </tg>
       </mg>
       <mg>
@@ -4683,12 +4688,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kvääni</t>
+            <t pos="A">lantalainen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kväänin kiele;kväänin kiel">kväänin kieli</t>
+            <t pos="A">kainulainen</t>
          </tg>
       </mg>
    </e>
@@ -4696,6 +4701,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="A">kvenskspråklig</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kvääninkielinen</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kainunkielinen</t>
