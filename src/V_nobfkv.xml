@@ -2445,6 +2445,12 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="silitä">silittäät</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	    <re>fjerne</re>
+            <t pos="V" stem="silitä">poistaat</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -5858,6 +5864,16 @@ For the full license text, see the link above.</lic>
    <e src="ai;ta">
       <lg>
          <l pos="V">godta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">hyväksyyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">godkjenne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10986,7 +11002,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="käytä">käyttäät</t>
              <xg>
-               <x> Hän halluu käyttää sitä.</x>
+               <x> Hän halluu käyttäät sitä.</x>
                <xt>Han vil bruke den.</xt>
             </xg>
          </tg>
@@ -10995,7 +11011,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="piđä;pitä">pittäät</t>
                <xg>
-               <x> Se kannattaa pittää karttaa ja kompassii ko kulkkee luonossa.</x>
+               <x> Se kannattaa pittäät karttaa ja kompassii ko kulkkee luonossa.</x>
                <xt>Det lønner seg å bruke kart og kompass når man er ute i naturen.</xt>
             </xg>
          </tg>
@@ -11008,6 +11024,48 @@ For the full license text, see the link above.</lic>
                <x> Se pruukkaa olla niin.</x>
                <xt>Det bruker å være slik.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">ta i bruk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ottaat käytthöön</t>
+            <t pos="V">ottaat pithoon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">skanne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">skannata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">printe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">printata</t>
+            <t pos="V">tulostaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">avvise</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">hylätä</t>
          </tg>
       </mg>
    </e>
@@ -13992,6 +14050,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="nouđa;nouta">nouttaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">hakkeet</t>
          </tg>
       </mg>
    </e>
@@ -19220,6 +19283,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="tassaa;tasan">tasata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">luođa</t>
          </tg>
       </mg>
    </e>
