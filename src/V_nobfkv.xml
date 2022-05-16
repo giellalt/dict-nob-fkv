@@ -26,6 +26,126 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+             <e src="ame">
+      <lg>
+         <l pos="V">fordele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">jakkaat</t>
+             <xg>
+               <x>La oss fordele oppgavene på hele gruppen.</x>
+               <xt>Jajama työtehtävät koko roikale.</xt>
+            </xg>
+         </tg>
+      </e>
+          <e src="ame">
+      <lg>
+         <l pos="V">innsende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">lähättäät</t>
+         </tg>
+      </e>
+          <e src="ame;jaj">
+      <lg>
+         <l pos="V">avgjøre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">päättäät</t>
+         </tg>
+               <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">määrätä</t>
+         </tg>
+      </e>
+       <e src="ame">
+      <lg>
+         <l pos="V">tildele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">anttaat</t>
+         </tg>
+      </e>
+           <e src="ame">
+      <lg>
+         <l pos="V">funke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">toimiit</t>
+         </tg>
+      </e>
+        <e src="ame">
+      <lg>
+         <l pos="V">dokumentere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">dokumenteerata</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="ame">
+      <lg>
+         <l pos="V">samarbeid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">tehđä yhtheistyötä</t>
+                           <xg>
+               <x>De samarbeider.</x>
+               <xt>Het tehđhään yhtheistyötä.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+        <e src="ame">
+      <lg>
+         <l pos="V">fokusere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">fokuseerata</t>
+         </tg>
+      </mg>
+   </e>
+                <e src="ame">
+      <lg>
+         <l pos="V">produsere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">produseerata</t>
+         </tg>
+      </mg>
+   </e>
+             <e src="ame">
+      <lg>
+         <l pos="V">teste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">testata</t>
+         </tg>
+      </mg>
+   </e>
+             <e src="ame">
+      <lg>
+         <l pos="V">plassere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">panna</t>
+               <xg>
+               <x>Jeg plasserte boka på bordet.</x>
+               <xt>Mie panin kirjan pöyđän pääle.  </xt>
+            </xg>
+         </tg>
+   </e>
        <e src="ai">
       <lg>
          <l pos="V">synes synd på</l>
@@ -97,12 +217,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>navnet/personen er</re>
-            <t pos="N">nimi</t>
+	         <re>om å ha et navn</re>
+            <t pos="Phrase">nimi oon</t>
              <xg>
                <x>Jeg heter Matti.</x>
                <xt>Minun nimi oon Matti.</xt>
             </xg>
+            </tg>
+            </mg>
+         <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">joku oon</t>
               <xg>
                <x>Hun heter Liisa.</x>
                <xt>Hän oon Liisa.</xt>
