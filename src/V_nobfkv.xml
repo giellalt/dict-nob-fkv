@@ -38,6 +38,7 @@ For the full license text, see the link above.</lic>
                <xt>Jajama työtehtävät koko roikale.</xt>
             </xg>
          </tg>
+      </mg>
       </e>
           <e src="ame">
       <lg>
@@ -47,6 +48,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">lähättäät</t>
          </tg>
+      </mg>
       </e>
           <e src="ame;jaj">
       <lg>
@@ -56,10 +58,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">päättäät</t>
          </tg>
-               <mg>
+      </mg>
+      <mg>
          <tg xml:lang="fkv">
             <t pos="V">määrätä</t>
          </tg>
+      </mg>
       </e>
        <e src="ame">
       <lg>
@@ -69,6 +73,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">anttaat</t>
          </tg>
+      </mg>
       </e>
            <e src="ame">
       <lg>
@@ -78,6 +83,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">toimiit</t>
          </tg>
+      </mg>
       </e>
         <e src="ame">
       <lg>
@@ -96,7 +102,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">tehđä yhtheistyötä</t>
-                           <xg>
+            <xg>
                <x>De samarbeider.</x>
                <xt>Het tehđhään yhtheistyötä.</xt>
             </xg>
@@ -142,9 +148,10 @@ For the full license text, see the link above.</lic>
             <t pos="V">panna</t>
                <xg>
                <x>Jeg plasserte boka på bordet.</x>
-               <xt>Mie panin kirjan pöyđän pääle.  </xt>
+               <xt>Mie panin kirjan pöyđän pääle.</xt>
             </xg>
          </tg>
+      </mg>
    </e>
        <e src="ai">
       <lg>
