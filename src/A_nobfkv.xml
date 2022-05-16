@@ -204,7 +204,7 @@ For the full license text, see the link above.</lic>
       </lg>
                   <mg>
          <tg xml:lang="fkv">
-            <t pos="V">olla lasta vasten</t>
+            <t pos="Phrase">olla lasta vasten</t>
               <xg>
                <x>Hun er gravid.</x>
                <xt>Hän oon lasta vasten.</xt>
@@ -213,7 +213,7 @@ For the full license text, see the link above.</lic>
       </mg>
         <mg>
          <tg xml:lang="fkv">
-            <t pos="V">olla raskhaana</t>
+            <t pos="Phrase">olla raskhaana</t>
               <xg>
                <x>Hun er gravid.</x>
                <xt>Hän oon raskhaana.</xt>
@@ -654,6 +654,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">siivo</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+	       <re>grundig, skikkelig</re>
+            <t pos="Adv">vasiten</t>
+              <xg>
+               <x>Det er ordentlig gjort.</x>
+               <xt>Se oon vasiten tehty.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2050,13 +2060,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ame">
       <lg>
          <l pos="A">ivrig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ahnet</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ankara</t>
+              <xg>
+               <x>Han er ivrig å jobbe.</x>
+               <xt>Hän oon ankara tekemhään työtä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
