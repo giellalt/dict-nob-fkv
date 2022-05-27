@@ -469,7 +469,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="Adv">aldrig</l>
+         <l pos="Adv">aldri</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -643,8 +643,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">ajosin</t>
             <xg>
-               <xt>De dro kjørende til Tromsø.</xt>
-               <x>Het menthiin ajosin Tromsshaan.</x>
+               <x>De dro kjørende til Tromsø.</x>
+               <xt>Het menthiin ajosin Tromsshaan.</xt>
             </xg>
          </tg>
       </mg>
@@ -657,8 +657,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">hihtosin</t>
             <xg>
-               <xt>Jeg gikk på ski til Karasjok.</xt>
-               <x>Menin hihtosin Kaaransjokheen.</x>
+               <x>Jeg gikk på ski til Karasjok.</x>
+               <xt>Menin hihtosin Kaaransjokheen.</xt>
             </xg>
          </tg>
       </mg>
@@ -681,8 +681,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">lentosin</t>
             <xg>
-               <xt>Vi dro med fly til Oslo.</xt>
-               <x>Met menimä lentosin Uslhuun.</x>
+               <x>Vi dro med fly til Oslo.</x>
+               <xt>Met menimä lentosin Uslhuun.</xt>
             </xg>
          </tg>
       </mg>
@@ -1065,7 +1065,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">lengere ned</l>
+         <l pos="Adv">lengre ned</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2668,7 +2668,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">lengere bort</l>
+         <l pos="Adv">lengre bort</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2688,7 +2688,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">lengere borte</l>
+         <l pos="Adv">lengre borte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2703,7 +2703,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">lengere bortefra</l>
+         <l pos="Adv">lengre bortefra</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2713,7 +2713,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">lengere</l>
+         <l pos="Adv">lengre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3115,14 +3115,14 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">koskhaan</t>
          </tg>
       </mg>
-   </e>
-   <e src="ai;ta">
+      </e>
+   <e src="ki">
       <lg>
-         <l pos="Adv">aldri</l>
+         <l pos="Adv">omtrent</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">koskhaan</t>
+            <t pos="Adv">suunale</t>
          </tg>
       </mg>
    </e>
@@ -3865,7 +3865,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">likikhään</t>
             <xg>
-               <x>Den er langt ifra så bra som den gamle bastua.</x>
+               <x>Den er langt ifra så bra som den gamle badstua.</x>
                <xt>Se ei ole likikhään niin hyvä ko se vanha sauna.</xt>
             </xg>
          </tg>
@@ -5877,7 +5877,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">lengere mot nord</l>
+         <l pos="Adv">lengre mot nord</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6728,7 +6728,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">lengere ut</l>
+         <l pos="Adv">lengre ut</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7053,6 +7053,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="mk">
+      <lg>
+         <l pos="Adv">innover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">sishäänpäin</t>
+            <xg>
+               <x>Negelen vokser innover.</x>
+               <xt>Kynsi kassuu sishäänpäin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="Adv">ved siden av</l>
@@ -7071,7 +7085,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Po">vieressä</t>
             <xg>
-               <x>Det er rogntre ved huset.</x>
+               <x>Det er ei rogn ved huset.</x>
                <xt>Huonheen vieressä oon pihlajapuu.</xt>
             </xg>
          </tg>

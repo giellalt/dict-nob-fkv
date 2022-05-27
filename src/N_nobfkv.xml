@@ -2328,7 +2328,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="kl">
       <lg>
-         <l pos="N">yogurt</l>
+         <l pos="N">yoghurt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3298,8 +3298,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">oorninki</t>
               <xg>
-               <x>Se oon oorningissa.</x>
-               <xt>Det er i orden.</xt>
+               <x>Det er i orden.</x>
+               <xt>Se oon oorningissa.</xt>
             </xg>
          </tg>
       </mg>
@@ -3722,8 +3722,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">kieliloova</t>
              <xg>
-               <x>Näjetkö sanakortit mikkä oon kieliloovassa?</x>
-               <xt>Ser du ordkortene som er i språkesken?</xt>
+               <x>Ser du ordkortene som er i språkesken?</x>
+               <xt>Näjetkö sanakortit mikkä oon kieliloovassa?</xt>
             </xg>
          </tg>
       </mg>
@@ -5255,7 +5255,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="N">shampo</l>
+         <l pos="N">sjampo</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5535,7 +5535,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="N">høstgjevndøgn</l>
+         <l pos="N">høstjevndøgn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -6377,7 +6377,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="rh">
       <lg>
-         <l pos="N">kanstspiller</l>
+         <l pos="N">kantspiller</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9470,7 +9470,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="bildetema">
       <lg>
-         <l pos="N">slalom</l>
+         <l pos="N">slalåm</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13997,7 +13997,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">hammas</t>
             <xg>
-               <x>Vaggtind ligger i Sør-Varanger.</x>
+               <x>Vaggetind ligger i Sør-Varanger.</x>
                <xt>Vaakahammas oon Etelä-Varengissa.</xt>
             </xg>
          </tg>
@@ -50362,11 +50362,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>anlegg for pressing og pakking (av høy el. likn.) til baller</re> 
+         <re>anlegg for pressing og pakking av høyballer</re> 
             <t pos="N">paalistašuuni</t>
               <xg>
-               <x>Paalistašuunissa tehđhään heinäpalloi.</x>
-               <xt>På ballestasjonen produseres det høyballer.</xt>
+               <x>På ballestasjonen produseres det høyballer.</x>
+               <xt>Paalistašuunissa tehđhään heinäpalloi.</xt>
             </xg>
          </tg>
       </mg>
@@ -56933,7 +56933,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">handicappet</l>
+         <l pos="N">handikappet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -67825,12 +67825,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>mellom to eller flere alternativer</re>
+            <t pos="N">valinta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>i politikken</re>
             <t pos="N">vaali</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">valinta</t>
+	         <re>det å velge</re>
+            <t pos="N">valitteminen</t>
          </tg>
       </mg>
    </e>
@@ -72992,7 +73000,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">grønsak</l>
+         <l pos="N">grønnsak</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -74078,16 +74086,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">omtent</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">suunale</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">opphold</l>
       </lg>
       <mg>
@@ -74168,7 +74166,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">passiivi</l>
+         <l pos="N">passiv</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -74849,16 +74847,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">stemmighet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">rankaisuus</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">stikkelsbær</l>
       </lg>
       <mg>
@@ -75099,31 +75087,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">tettsteddel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kvartteeri</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">tilfelle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tappaus</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">tostemmighet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kaksirankaisuus</t>
          </tg>
       </mg>
    </e>
@@ -75264,16 +75232,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">äänestäjä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">velging</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">valitteminen</t>
          </tg>
       </mg>
    </e>

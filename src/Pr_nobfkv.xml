@@ -247,19 +247,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">sishäänpäin, sisä- </t>
-<!--                <xg>
+            <t pos="Po">sisä- </t>
+                <xg>
                <x>Innover vidda vokser det mye bjørk.</x>
                <xt>Tunturin sisämaassa kassuu paljon koivvuu.</xt>
-            </xg> -->
-<!--             <xg>
+            </xg> 
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t type="expl">bruk illativ</t>
+             <xg>
                <x>Vannet flommer innover potetåkeren.</x>
                <xt>Vesi tulvaa puteettimaan.</xt>
-            </xg> -->
-            <xg>
-               <x>Negelen vokser innover.</x>
-               <xt>Kynsi kassuu sishäänpäin.</xt>
-            </xg>
+            </xg> 
          </tg>
       </mg>
    </e>
@@ -294,13 +295,9 @@ For the full license text, see the link above.</lic>
                <xt>Seissoot vaikkeuksen eđessä.</xt>
             </xg>
               <xg>
-               <x>Være ansvarlige ovefor noe.</x>
+               <x>Være ansvarlige overfor noe.</x>
                <xt>Olla eđesvastauksessa jostaki.</xt>
             </xg>
-         <!--    <xg>
-                 <x>Stå ovefor hverandre i en konkurranse.</x>
-            <xt>Olla toinen toista vasthaan kilppailussa.</xt>
-            </xg>  -->
          </tg>
       </mg>
    </e>
@@ -1184,7 +1181,7 @@ For the full license text, see the link above.</lic>
                <xt>Rangaistuksen uhala.</xt>
             </xg>
              <xg>
-               <x>Under hans komando.</x>
+               <x>Under hans kommando.</x>
                <xt>Hänen komenolla.</xt>
             </xg>
          </tg>
@@ -1655,8 +1652,8 @@ For the full license text, see the link above.</lic>
                <xt>Lapsi kiikkui puuhun.</xt>
             </xg>
              <xg>
-               <x>Hän otti sen kiini.</x>
-               <xt>Han tok tak i den.</xt>
+               <x>Han tok tak i den.</x>
+               <xt>Hän otti sen kiini.</xt>
             </xg>
          </tg>
       </mg>
@@ -1848,8 +1845,8 @@ For the full license text, see the link above.</lic>
 	          <re>sted eller flate der to sider eller flere er mot deg og du er i ro</re>
             <t pos="Po">välissä</t>
               <xg>
-             <x>Hyljet uipi jäitten välissä.</x>
-               <xt>Selen svømmer mellom isen.</xt>
+               <x>Selen svømmer mellom isen.</x>
+             <xt>Hyljet uipi jäitten välissä.</xt>
                    </xg>
          </tg>
       </mg>
@@ -2066,8 +2063,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Po">tähđen</t>
  <!--              <xg>
-               <x>Kirkon tähđen täälä ei ollu luppaa tanssiit.</x>
-               <xt>På grunn av kirka var det ikke lov å danse her.</xt>
+               <x>På grunn av kirka var det ikke lov å danse her.</x>
+               <xt>Kirkon tähđen täälä ei ollu luppaa tanssiit.</xt>
             </xg> -->
          </tg>
       </mg>
@@ -2263,8 +2260,8 @@ For the full license text, see the link above.</lic>
                <xt>Polku mennee yli vaaran.</xt>
             </xg>
             <xg>
-               <x>Mie asun tuola poikki joven.</x>
-               <xt>Jeg bor på den andre siden av elven.</xt>
+               <x>Jeg bor på den andre siden av elven.</x>
+               <xt>Mie asun tuola poikki joven.</xt>
             </xg>
          </tg>
       </mg>
