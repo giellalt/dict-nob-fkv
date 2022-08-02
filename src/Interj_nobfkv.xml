@@ -26,19 +26,82 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-         <e src="aht;ame">
+      <e src="ki">
       <lg>
-         <l pos="Interj">Vi høres</l>
+         <l pos="Interj">god helg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Interj">Kuulema</t>
+            <t pos="Interj">hyvvää viikonloppuu</t>
+               <t pos="Interj">hyvvää pyhhää</t>
+         </tg>
+      </mg>
+   </e>
+             <e src="ki">
+      <lg>
+         <l pos="Interj">sov godt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">nuku hyvin (til en)</t>
+               <t pos="Interj">nukukkaa hyvin (til flere)</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="ki">
+      <lg>
+         <l pos="Interj">god ettermiddag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">hyvvää iltapäivää</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="ki">
+      <lg>
+         <l pos="Interj">vi sees</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">näjettelemä</t>
+         </tg>
+      </mg>
+   </e>
+            <e src="ki">
+      <lg>
+         <l pos="Interj">vær så god</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">ole hyvä</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="ki">
+      <lg>
+         <l pos="Interj">ha det</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">piđä hyvvää (til en)</t>
+            <t pos="Interj">pitäkkää hyvvää (til flere)</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="aht;ame">
+      <lg>
+         <l pos="Interj">vi høres</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">kuulema</t>
          </tg>
       </mg>
    </e>
       <e src="aht">
       <lg>
-         <l pos="Interj">Oi, herregud</l>
+         <l pos="Interj">oi, herregud</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -312,11 +375,6 @@ For the full license text, see the link above.</lic>
             <t pos="Interj">näkemiin</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">näjemä</t>
-         </tg>
-      </mg>
       </e>
    <e src="ai">
       <lg>
@@ -374,6 +432,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Interj">hyvvää ilttaa</t>
+               <t pos="Interj">ilttaa</t>
          </tg>
       </mg>
    </e>
