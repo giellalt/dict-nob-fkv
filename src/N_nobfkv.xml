@@ -3300,7 +3300,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="grom">
+   <e src="grom;ame">
       <lg>
          <l pos="N">orden</l>
       </lg>
@@ -3310,6 +3310,15 @@ For the full license text, see the link above.</lic>
               <xg>
                <x>Det er i orden.</x>
                <xt>Se oon oorningissa.</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kunto</t>
+              <xg>
+               <x>Det er i orden.</x>
+               <xt>Se oon kunnossa.</xt>
             </xg>
          </tg>
       </mg>
@@ -35409,10 +35418,6 @@ For the full license text, see the link above.</lic>
                <x>De fikk hjelp av kontaktene sine.</x>
                <xt>Het saathiin appuu omilta kontaktiilta.</xt>
             </xg>
-               <xg>
-               <x>De var i kontakt med marsboere.</x>
-               <xt>Het olthiin kontaktissa marsiassuujiitten kans.</xt>
-            </xg>
          </tg>
       </mg>
             <mg>
@@ -35421,6 +35426,7 @@ For the full license text, see the link above.</lic>
              <xg>
                <x>Vi holder kontakten.</x>
                <xt>Olema yhtheyđessä.</xt>
+               <xt>Piđämä yhtheyttä.</xt>
             </xg>
          </tg>
       </mg>
