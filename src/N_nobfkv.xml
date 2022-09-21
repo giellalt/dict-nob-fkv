@@ -776,7 +776,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ae">
       <lg>
-         <l pos="N">oppholdsvær og østavind</l>
+         <l pos="N">oppholds> og østavind</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -26403,29 +26403,25 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">vær</l>
       </lg>
-      <mg>
+            <mg>
          <tg xml:lang="fkv">
-         <re>tilstand i atmosfæren med hensyn til temperatur, vind og skydekke</re>
+        <re>om værforhold</re>
+         <t pos="N">sää</t>
             <t pos="N">ilma</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>hanndyr av sau</re>
-            <t pos="N">jaara</t>
-             <xg>
-               <x>Væren står bak gjerdet.</x>
-               <xt>Jaara seissoo aiđan takana.</xt>
+            <xg>
+               <x>Nå er det fint vær ute.</x>
+               <xt>Nyt oon hyvä sää ulkkoo.</xt>
+               <xt>Nyt oon hyvä ilma ulkkoo.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-        <re>tilstand i atmosfæren med hensyn til temperatur, vind og skydekke</re>
-            <t pos="N">sää</t>
-            <xg>
-               <x>Nå er det fint vær ute.</x>
-               <xt>Nyt oon hyvä sää ulkkoo.</xt>
+         <re>hannsau</re>
+            <t pos="N">jaara</t>
+             <xg>
+               <x>Væren står bak gjerdet.</x>
+               <xt>Jaara seissoo aiđan takana.</xt>
             </xg>
          </tg>
       </mg>
@@ -35398,14 +35394,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>berøring, forbindelse eller personer man er i kontakt med</re> 
             <t pos="N">kontakti</t>
-            <xg>
-               <x>Regnbuer blir til når sollyset kommer i kontakt med en tett mengde regndråper.</x>
-               <xt>Vesikaaret tulhaan siitä ko auringonnäkö oon kontaktissa tihheen määrän vesinoppiin kans.</xt>
-            </xg>
-            <xg>
+          <xg>
                <x>Det er dårlig kontakt mellon ledningen og støpselet.</x>
                <xt>Oon huono kontakti leetningin ja töpselin välissä.</xt>
             </xg>
+                        <xg>
+               <x>Regnbuer blir til når sollyset kommer i kontakt med en tett mengde regndråper.</x>
+               <xt>Vesikaaret tulhaan siitä ko auringonnäkö oon kontaktissa tihheen määrän vesinoppiin kans.</xt>
+          </xg>
             <xg>
                <x>Hudkontakt er viktig for babyer.</x>
                <xt>Ihokontakti oon tärkkee pikkuisille.</xt>
