@@ -1626,17 +1626,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="kl">
       <lg>
-         <l pos="N">stoff</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-          <re>tøy</re>
-         <t pos="N">kangas</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="kl">
-      <lg>
          <l pos="N">vrangbord</l>
       </lg>
       <mg>
@@ -30281,13 +30270,33 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;kl">
       <lg>
          <l pos="N">stoff</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	       <re>om tekstil</re>
             <t pos="N" stem="kankhaa">kangas</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	       <re>om substans</re>
+            <t pos="N" stem="ainhee">ainet</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+	       <re>om emne</re>
+	       <t pos="N">teema</t>
+            <t pos="N" stem="ainhee">ainet</t>
+         </tg>
+      </mg>
+              <mg>
+         <tg xml:lang="fkv">
+	       <re>innsamlet informasjon</re>
+            <t pos="N">materiaali</t>
          </tg>
       </mg>
    </e>
