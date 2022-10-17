@@ -1413,16 +1413,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="V">ferdes</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">mennä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
-      <lg>
          <l pos="V">synes</l>
       </lg>
       <mg>
@@ -7240,6 +7230,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">kulkkuut</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">mennä</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -9339,12 +9334,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">kiskoot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">matkustaat</t>
+            <t pos="V">mennä</t>
             <xg>
                <x>Jeg må dra.</x>
                <xt>Minun oon pakko mennä.</xt>
@@ -9353,11 +9343,25 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+          <re>reise</re>
+            <t pos="V">matkustaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+          <re>trekke i</re>
+            <t pos="V">kiskoot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+          <re>trekke i</re>
             <t pos="V" stem="traakkaa;traakan">traakata</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+          <re>trekke i</re>
             <t pos="V" stem="veđä;vetä">vettäät</t>
          </tg>
       </mg>
@@ -10278,7 +10282,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>på to eller fire bein</re>
+	         <re>spasere</re>
             <t pos="V" stem="kävele;kävel">kävelä</t>
          </tg>
       </mg>
@@ -11164,11 +11168,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kävele;kävel">kävelä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="käve">käyđä</t>
          </tg>
       </mg>
    </e>
