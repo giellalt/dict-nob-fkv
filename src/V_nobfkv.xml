@@ -9345,6 +9345,15 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+           <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">lähteet</t>
+                 <xg>
+               <x>De dro til biblioteket.</x>
+               <xt>Het lähđethiin biblioteekkhiin.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
           <re>reise</re>
@@ -10288,8 +10297,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>spasere</re>
             <t pos="V" stem="kävele;kävel">kävelä</t>
+              <xg>
             <x>Det er ikke langt til fjellstuen. Man kan gå dit til fots</x>
             <xt>Se ei ole pitkä matka vaaratuphaan. Sinne saattaa kävelä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
