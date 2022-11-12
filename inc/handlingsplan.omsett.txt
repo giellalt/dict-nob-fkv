@@ -9,7 +9,7 @@ befolkning	N	väestö
 nordsamisk	N	pohjaissaame
 inkluderingsdepartement	N	inkluderingsdepartementti
 kunnskapsdepartement	N	kunnskapsdepartementti
-rekruttering	N	rekrytointi
+rekruttering	N	rekryteeraaminen
 læreplan	N	opetusplaana
 omsorg	N	välittäminen
 middel	N	väline
@@ -35,7 +35,7 @@ videreutdanning	N	jatkokoulutus
 personell	N	persunaali
 helsetjeneste	N	terveyspalvelu
 foretak	N	yritys
-barnehagetilbud	N	lastentarastarjous
+barnehagetilbud	N	lastentarastarjonta
 utredning	N	selvitys
 språkopplæring	N	kielenopetus
 evaluering	N	evalueerinki
@@ -83,7 +83,7 @@ dialog	N	dialoogi
 analysegruppe	N	analyysijoukko
 veg	N	tie
 vedtaksorgan	N	päätösorgaani
-tjenestetilbud	N	palvelutarjous
+tjenestetilbud	N	palvelutarjonta
 tilknytning	N	yhtheys
 stortingsmelding	N	isotinkamellinki
 språkteknologi	N	kieliteknologii
@@ -97,37 +97,31 @@ overgang	N	siirtyminen
 metode	N	metoodi
 kulturforståelse	N	kulttuurinymmärys
 krets	N	piiri
-konfliktråd	N	konfliktråd	N	+?
-justis	N	justis	N	+?
-hoved	N	hoved	N	+?
-gir	N	vaihde
-forutsetning	N	edellytys
-finansiering	N	rahoittaminen
-finansiering	N	rahoitus
-får	N	får	N	+?
-deltakelse	N	deltakelse	N	+?
-avisside	N	avisside	N	+?
-arbeidsgruppe	N	työryhmä
-vesen	N	olio
-tilrettelegging	N	tilrettelegging	N	+?
+konfliktråd	N	konfliktiraati
+justis	N	oikkeus
+forutsetning	N	eđelytys
+finansiering	N	rahoittaminen, finansieerinki
+deltakelse	N	osanottaaminen, osalistuminen
+avisside	N	aviisisivvu
+arbeidsgruppe	N	työjoukko, työroikka
+tilrettelegging	N	
 tilpasning	N	soveltaminen
 tilpasning	N	sovellus
-talesyntese	N	talesyntese	N	+?
-synliggjøring	N	synliggjøring	N	+?
-studietilbud	N	studietilbud	N	+?
-språksamfunn	N	språksamfunn	N	+?
-språkleir	N	språkleir	N	+?
-språkgruppe	N	kieliryhmä
-språkarbeid	N	språkarbeid	N	+?
-soning	N	soning	N	+?
-skoltesamisk	N	koltansaamelainen
-skjema	N	lomake
-sidemål	N	sidemål	N	+?
-satsing	N	satsing	N	+?
-samfunnsområde	N	samfunnsområde	N	+?
-samfunnsliv	N	yhteiskuntaelämä
-rekrutteringstiltak	N	rekrutteringstiltak	N	+?
-produksjon	N	tuotanto
+talesyntese	N	puhetsynteesi
+synliggjøring	N	näkkyyväksi tekeminen
+studietilbud	N	opintotarjonta
+språksamfunn	N	kielisamfynni
+språkleir	N	kielileiri
+språkgruppe	N	kieliroikka
+språkarbeid	N	kielityö
+skoltesamisk	N	koltansaame
+skjema	N	skeema
+sidemål	N	siidemooli
+satsing	N	satsaus
+samfunnsområde	N	samfynninala
+samfunnsliv	N	samfynninelämä
+rekrutteringstiltak	N	rekryteeraustoimi
+produksjon	N	produksuuni
 omfang	N	omfang	N	+?
 navnekonsulent	N	navnekonsulent	N	+?
 liturgi	N	liturgi	N	+?

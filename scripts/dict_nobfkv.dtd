@@ -41,6 +41,7 @@
 <!ELEMENT tg ( re?, t+, xg* ) >
 <!ATTLIST tg re CDATA #IMPLIED >
 <!ATTLIST tg xml:lang NMTOKEN #FIXED "fkv" >
+<!ATTLIST tg dial (p|j|v|pv|jv|pj) #IMPLIED >
 
 <!ELEMENT re  ( #PCDATA )>
 <!ATTLIST re
