@@ -94,6 +94,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">järjestäät</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">arransseerata</t>
+         </tg>
+      </mg>
       </e>
          <e src="ame">
       <lg>
@@ -1587,6 +1592,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">vajottaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">alenttaat</t>
          </tg>
       </mg>
    </e>
@@ -3746,6 +3756,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="aukaise;aukai">aukaista</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>flere ganger</re>
+            <t pos="V">aukkoot</t>
          </tg>
       </mg>
    </e>
@@ -10434,12 +10450,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="kunnioita">kunnioittaat</t>
+            <t pos="V">arvostaat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="värteeraa;värteeran">värteerata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>respektere, ære</re>
+            <t pos="V" stem="kunnioita">kunnioittaat</t>
          </tg>
       </mg>
    </e>
@@ -10735,6 +10757,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="pyyđä;pyytä">pyyttäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">annoot</t>
          </tg>
       </mg>
    </e>
@@ -22177,6 +22204,86 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">sittoot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">bølge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">aalota</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">fråtse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ahmiit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">understreke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">allepriimustaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">profesjonalisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ammatillistuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">øse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ammelttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">analysere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">analyseerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">innsette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">asettaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">vedta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">asettaat</t>
          </tg>
       </mg>
    </e>
