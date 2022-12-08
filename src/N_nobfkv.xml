@@ -57833,6 +57833,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hovedregel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pääreekeli</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N">sledemeie</l>
@@ -75705,7 +75715,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">väestö</t>
+            <t pos="N">väki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sivilbefolkning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">siviiliväki</t>
          </tg>
       </mg>
    </e>
