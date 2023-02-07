@@ -7750,16 +7750,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="bildetema">
       <lg>
-         <l pos="N">høyde</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">korkkeus</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="bildetema">
-      <lg>
          <l pos="N">høydehopp</l>
       </lg>
       <mg>
@@ -12320,17 +12310,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
-         <l pos="N">haug</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">sokka</t>
-            <t pos="N">tšokka</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
          <l pos="N">ør</l>
       </lg>
       <mg>
@@ -12392,16 +12371,6 @@ For the full license text, see the link above.</lic>
    <e src="ia">
       <lg>
          <l pos="N">elvefar</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">ronkka</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
-         <l pos="N">grop</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12618,13 +12587,41 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;ai;ta">
       <lg>
          <l pos="N">grop</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">purnu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ronkka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">holo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hautama</t>
+            <syng>
+               <syn>fordypning</syn>
+            </syng>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="kuopa">kuoppa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">monttu</t>
          </tg>
       </mg>
    </e>
@@ -13330,16 +13327,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
-         <l pos="N">haug</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kukkura</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
          <l pos="N">gjøk</l>
       </lg>
       <mg>
@@ -13479,16 +13466,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">keskipäivä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
-         <l pos="N">haug</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">keila</t>
          </tg>
       </mg>
    </e>
@@ -13790,16 +13767,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
-         <l pos="N">grop</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">holo</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
          <l pos="N">hengemyr</l>
       </lg>
       <mg>
@@ -13818,30 +13785,6 @@ For the full license text, see the link above.</lic>
             <syng>
                <syn>grop</syn>
             </syng>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
-         <l pos="N">grop</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">hautama</t>
-            <syng>
-               <syn>fordypning</syn>
-            </syng>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
-         <l pos="N">haug</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">harju</t>
-            <t pos="N">kelhä</t>
          </tg>
       </mg>
    </e>
@@ -31134,6 +31077,34 @@ For the full license text, see the link above.</lic>
             <t pos="N">tieva</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kukkura</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>åsrygg</re>
+            <t pos="N">harju</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kelhä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">keila</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>rund fjelltopp</re>
+            <t pos="N">sokka</t>
+            <t pos="N">tšokka</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -37978,21 +37949,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="laathaa">laatas</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="N">grop</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="kuopa">kuoppa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">monttu</t>
          </tg>
       </mg>
    </e>
@@ -78183,10 +78139,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">klype (målenhet)</l>
+         <l pos="N">klype</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>målenhet</re>
             <t pos="N">hypheelinen</t>
          </tg>
       </mg>
