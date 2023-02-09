@@ -4630,6 +4630,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kyndelsmesse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kynttilänpäivä</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ks">
       <lg>
          <l pos="N">flerspråklighet</l>
@@ -14107,6 +14117,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="N">tegnspråk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuuroinkieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">mengde</l>
       </lg>
       <mg>
@@ -23371,6 +23391,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sludd og vind</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuostet</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta;">
       <lg>
          <l pos="N">kant</l>
@@ -28661,6 +28691,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">gorrhyse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kurapaska</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">skitetrang</l>
@@ -31231,6 +31271,26 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
           <re>Det å vokse</re>
             <t pos="N" stem="kassuumise;kassumis">kassuuminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">høring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuuleminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">høringsrunde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuulemiskieros</t>
          </tg>
       </mg>
    </e>
@@ -56259,6 +56319,56 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>f.eks. for å ha vann i</re>
             <t pos="N">ämpäri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hjelm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kypäri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">spørring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kysely</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">spørreundersøkelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kyselytutkimus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">skjenkemester</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">känkkimestari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kärsivällisyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tålmodighet</t>
          </tg>
       </mg>
    </e>
