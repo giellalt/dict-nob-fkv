@@ -317,13 +317,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="na">
+   <e src="na;es">
       <lg>
          <l pos="N">fotballspiller</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
          <t pos="N">jalkapallopellaaja</t>
+         <t pos="N">jalkapallonpellaaja</t>
          </tg>
       </mg>
    </e>
@@ -4049,13 +4050,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks;kl">
+   <e src="ks;kl;es">
       <lg>
          <l pos="N">insekt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hyöntheinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">insekti</t>
          </tg>
       </mg>
           <mg>
@@ -22360,13 +22366,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">grågås</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hanhi</t>
+         </tg>
+      </mg>
+   </e>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">isohanhi</t>
          </tg>
       </mg>
    </e>
@@ -26343,13 +26355,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">melding</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="ilmotukse">ilmotus</t>
+            <t pos="N">ilmotus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ilmoitus</t>
          </tg>
       </mg>
       <mg>
@@ -26363,23 +26380,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="es">
       <lg>
          <l pos="N">kunngjøring</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="ilmotukse">ilmotus</t>
+            <t pos="N">ilmoitus</t>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="es">
       <lg>
          <l pos="N">opplysning</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="ilmotukse">ilmotus</t>
+            <t pos="N">ilmoitus</t>
          </tg>
       </mg>
       <mg>
@@ -26608,13 +26625,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">interesse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">intressi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">interesse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">interessi</t>
          </tg>
       </mg>
    </e>
@@ -40332,13 +40359,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">institusjon</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">laitos</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">institusuuni</t>
          </tg>
       </mg>
    </e>
@@ -55183,13 +55215,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">brems</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">prämssi</t>
+         </tg>
+      </mg>
+   </e>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jarru</t>
          </tg>
       </mg>
    </e>
@@ -56377,7 +56415,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">fangstmann</l>
       </lg>
@@ -56389,6 +56427,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pyytömies</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jahtimies</t>
          </tg>
       </mg>
    </e>
@@ -71650,6 +71693,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N" type="Prop">Isokarhu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="N" type="Prop">Isokarhuu</t>
          </tg>
       </mg>
@@ -78452,4 +78500,351 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">uttrykk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ilmisanoma</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ilmaisu</t>
+         </tg>
+      </mg>
+   </e>   
+   <e src="es">
+      <lg>
+         <l pos="N">kallenavn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">haukkumanimi</t>
+            <re>i negativ forstand</re>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">perlekjede</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">helmet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hemp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hemppa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">bispedømme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hippakunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">utrop</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">huuđattus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">mellommenneskelig forhold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ihmissuhđet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ilestein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">iilapuntti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">luftlag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ilmakerta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">luftvern</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ilmasuoja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tilsynekomst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ilmitulema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">mot kvelden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">iltapuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">imperium</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">imppeeriumi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">indeks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">indeksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">infrastruktur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">infrastruktuuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">instans</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">instansi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">løshund</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">irtokoira</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">skjære ansikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">irvistellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">gjøre grimaser</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">irvistellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">grine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">irvistellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">besteforeldre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">isovanhiimet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sitteunderlag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">istuma-alusta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">selvstyre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ittemäärääminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">selvskading</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ittetuho</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jager</l>
+         <re>trekantet stadseil foran klyverten</re>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jaakertti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tildelingsbrev</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jakopreivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jakt</l>
+         <re>seilbåt med en mast</re>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jakta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fotgjenger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jalankulkkiija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fotgjengerfelt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jalkapaana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fotballbane</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jalkapallopaana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fotskammel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jalkapenkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">den øverste deles av fotbladet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jalkapöytä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fotblad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jalkaterä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">en sekk med ca 150 kg. mel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jauhomatta</t>
+         </tg>
+      </mg>
 </r>
