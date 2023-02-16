@@ -447,6 +447,11 @@ For the full license text, see the link above.</lic>
          <t pos="N">raito</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">jono</t>
+         </tg>
+      </mg>
    </e>
    <e src="na">
       <lg>
@@ -833,6 +838,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>ledelse</re>
          <t pos="N">styyri</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ledelse</re>
+         <t pos="N">johto</t>
          </tg>
       </mg>
    </e>
@@ -27250,6 +27261,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>sykdom med smerter i musler og ledd. Også metaforisk om at det alltid er noe å klage over eller noe som ikke er bra</re>
             <t pos="N">jikta</t>
+            <t pos="N">jikti</t>
             <xg>
                <x>Hvordan går det? Gikta river!.</x>
                <xt>Kunka se mennee? Jikta rieppii!.</xt>
@@ -27578,6 +27590,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="joulupuki">joulupukki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">joulunissi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>ikke så godmodig</re>
+            <t pos="N">joulustaalo</t>
          </tg>
       </mg>
    </e>
@@ -49357,6 +49380,11 @@ For the full license text, see the link above.</lic>
             <t pos="N" stem="ohjaukse">ohjaus</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">johtaminen</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -58812,6 +58840,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="rivvi">rivi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jono</t>
          </tg>
       </mg>
    </e>
@@ -78857,6 +78890,37 @@ For the full license text, see the link above.</lic>
                <x>Han lagde grimaser.</x>
                <xt>Hän irvisteli.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+      <e src="es">
+      <lg>
+         <l pos="N">leder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>avisartikkel som gir uttrykk for redaksjonens oppfatning</re>
+            <t pos="N">johtokirjoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">elvegjel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jokikuru</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">førjulstid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">joulunetuaika</t>
          </tg>
       </mg>
    </e>
