@@ -15610,13 +15610,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;es">
       <lg>
          <l pos="N">snegle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">etana</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">liivamato</t>
          </tg>
       </mg>
    </e>
@@ -60046,13 +60051,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="es">
       <lg>
          <l pos="N">skitt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="ryöttyyđe;ryöttyyt">ryöttyys</t>
+            <t pos="N">lika</t>
          </tg>
       </mg>
    </e>
@@ -60198,13 +60203,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">slim</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="räämhee">räämet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">liiva</t>
          </tg>
       </mg>
    </e>
@@ -76166,13 +76176,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">nærhet</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">likheisyys</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">likinäisyys</t>
          </tg>
       </mg>
    </e>
