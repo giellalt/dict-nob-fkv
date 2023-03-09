@@ -12474,6 +12474,45 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
+         <l pos="N">haug</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kukkura</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">keila</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">harju</t>
+            <t pos="N">kelhä</t>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fkv">
+	  <re>haug av løse gjenstander</re>
+            <t pos="N">kasa</t>
+            <t pos="N" stem="läjjä">läjä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tieva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sokka</t>
+            <t pos="N">tšokka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">ør</l>
       </lg>
       <mg>
@@ -13197,6 +13236,13 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">nunni</t>
             <t pos="N">pirri</t>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fkv">
+	  <re>rund fjelltopp</re>
+            <t pos="N">tšokka</t>
+            <t pos="N">sokka</t>
          </tg>
       </mg>
    </e>
@@ -13967,6 +14013,19 @@ For the full license text, see the link above.</lic>
             <t pos="N">hautama</t>
             <syng>
                <syn>grop</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">grop</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hautama</t>
+            <syng>
+               <syn>fordypning</syn>
             </syng>
          </tg>
       </mg>
@@ -76979,6 +77038,86 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hybriidi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bagasje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">bagaasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bagasjerom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">bagaasiloma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gateselger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">katumyyjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">landsby</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kylä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lasting</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lastaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">plastpose</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">plastikkipussi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">snack</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">snäkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tuting</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tyyttäys</t>
          </tg>
       </mg>
    </e>
