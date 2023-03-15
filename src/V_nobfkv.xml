@@ -1197,6 +1197,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bli fornyet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">uuđistuut</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ks">
       <lg>
          <l pos="V">erobre</l>
@@ -2008,7 +2018,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">skade</l>
       </lg>
@@ -2025,6 +2035,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="pillaa;pilan">pilata</t>
+            <t pos="V">pillaat</t>
          </tg>
       </mg>
       <mg>
@@ -4701,7 +4712,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;ki">
+   <e src="ai;ta;ki;es">
       <lg>
          <l pos="V">ødelegge</l>
       </lg>
@@ -4718,6 +4729,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="pillaa;pilan">pilata</t>
+            <t pos="V">pillaat</t>
          </tg>
       </mg>
       <mg>
@@ -16997,7 +17009,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">piirustaa</t>
+            <t pos="V">piirustaat</t>
          </tg>
       </mg>
       <mg>
@@ -17026,13 +17038,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">skjemme</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="pillaa;pilan">pilata</t>
+            <t pos="V">pillaat</t>
          </tg>
       </mg>
    </e>
@@ -18574,13 +18587,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">korsfeste</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">risthiinnaulita</t>
+            <t pos="V">risthiinnaulittaat</t>
          </tg>
       </mg>
    </e>
