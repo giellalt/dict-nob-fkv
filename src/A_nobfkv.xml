@@ -2131,20 +2131,44 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">ahnet</t>
+            <t pos="A">innokas</t>
+              <xg>
+               <x>Studentene var ivrige.</x>
+               <xt>Studentit olthiin innokkhaat.</xt>
+            </xg>
+         </tg>
+               </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">virkku</t>
+              <xg>
+               <x>Hunden var så ivrig, fordi den ville ut på tur.</x>
+               <xt>Koira oli niin virkku ko halus ulos mukale.</xt>
+            </xg>
+               <xg>
+               <x>Mor er ivrig å plukke bær.</x>
+               <xt>Muori oon virkku kokkoomhaan marjoi.</xt>
+            </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">innokas</t>
-         </tg>
       </mg>
             <mg>
          <tg xml:lang="fkv">
+	         <re>særlig i Porsanger</re>
             <t pos="A">ankara</t>
               <xg>
                <x>Han er ivrig å jobbe.</x>
                <xt>Hän oon ankara tekemhään työtä.</xt>
+            </xg>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+	      <re>begjærlig i overført betydning</re>
+            <t pos="A">ahnet</t>
+            <xg>
+               <x>Jeg var ivrig å lese da jeg var ung.</x>
+               <xt>Mie olin nuorena ahnet lukemhaan.</xt>
             </xg>
          </tg>
       </mg>
@@ -2332,6 +2356,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ankara</t>
+                        <xg>
+               <x>Frøken var så streng at hun kommanderte alle til gangen.</x>
+               <xt>Fröökynä oli niin ankara ette käski kaikki kanghiin.</xt>
+            </xg>
+               <xg>
+               <x>Vinteren var streng.</x>
+               <xt>Talvi oli ankara.</xt>
+            </xg>
+              <xg>
+               <x>Dommerne var strenge, men rettferdige.</x>
+               <xt>Tuomarit olthiin ankarat, mutta reilut.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
