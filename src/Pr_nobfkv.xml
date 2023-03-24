@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e>
+   <e src="ki">
       <lg>
          <l pos="Adv">fram</l>
       </lg>
@@ -40,7 +40,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="ki">
       <lg>
          <l pos="Adv">hittil</l>
       </lg>
@@ -478,14 +478,14 @@ For the full license text, see the link above.</lic>
                <x>Tjenestepiken gikk forbi vinduet.</x>
                <xt>Piika käveli klasin sivvu.</xt>
             </xg>
-              <xg>
-         <!--       <x>Vi passerer nå Kirkenes.</x>
+<!--              <xg>
+           <x>Vi passerer nå Kirkenes.</x>
                <xt>Met menemä nyt Kirkkoniemen siutte.</xt>
             </xg> --> 
            <!--        <xg>
                <x>Slippe forbi.</x>
-               <xt>Anttaat toinen mennä etheen.</xt> --> 
-            </xg>
+               <xt>Anttaat toinen mennä etheen.</xt> 
+            </xg>-->
          </tg>
       </mg>
    </e>
@@ -733,7 +733,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Pr">mot</l>
       </lg>
-      <mg>
              <mg>
          <tg xml:lang="fkv">
 	           <re>i møte med, i retning fram til</re>
@@ -779,12 +778,13 @@ For the full license text, see the link above.</lic>
 	          <t pos="Po">vasthaan</t>
                 </tg>
       </mg>
-                            <mg>
+         <mg>
          <tg xml:lang="fkv">
 	           <re>innvende</re>
 	          <t pos="Po">vasthaan</t>
                 </tg>
-      </mg>
+    </mg>
+    <mg>
          <tg xml:lang="fkv">
 	           <re>i konkurranse med eller i uttrykk for motstand</re>
             <t pos="Po">vasthaan</t>
@@ -798,12 +798,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-            <mg>
+      <mg>
          <tg xml:lang="fkv">
 	           <re>i forhold til, sammenlignet med</re>
             <t pos="Po">vasthaan</t>
-
-                </tg>
+        </tg>
       </mg>
    </e>
    <e src="mk">
@@ -1870,9 +1869,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">seurhaan</t>
-             <t pos="Po">kans</t>
+            <t pos="Po">kans</t>
+	    <xg>
               <x>Han dro sammen med dem.</x>
-               <xt>Hän lähti yhđessä heiđän kans.</xt>
+              <xt>Hän lähti yhđessä heiđän kans.</xt>
+	    </xg>
          </tg>
       </mg>
             <mg>

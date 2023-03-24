@@ -370,11 +370,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">melkhein</t>
-         </tg>
 	 <xg>
 	   <x>Hun nesten døde i tida med fornorskingspolitikk.</x>
 	     <xt>He melkhein kuoli norjalaistamispolitikin aikana.</xt>
 	   </xg>
+         </tg>
       </mg>
    </e>
    <e src="mj">
@@ -3494,8 +3494,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">laihiin</t>
             <xg>
                <x>på den måten</x>
-               <xt>siihen laihiin</xt>
-               <xt>sillä laila</xt>
+               <xt>siihen laihiin / sillä laila</xt>
             </xg>
             <xg>
                <x>på denne måten</x>
@@ -7702,8 +7701,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>om tid</re>
             <t pos="Adv">aikhaan</t>
+            <xg>
                <x>Det skjedde rundt jul.</x>
                <xt>Se tapattui joulun aikhaan.</xt>
+               </xg>
          </tg>
       </mg>
    </e>
@@ -7932,8 +7933,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">alusta</t>
+            <xg>
             <x>Fra begynnelsen av.</x>
             <xt>Alusta saakka.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
