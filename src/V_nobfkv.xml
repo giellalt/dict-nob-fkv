@@ -10218,13 +10218,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Phrase">samle inn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="korjaa;korjan">korjata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">kovota korjhuun</t>
          </tg>
       </mg>
    </e>
@@ -10235,6 +10240,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="korjaa;korjan">korjata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">kovota korjhuun</t>
          </tg>
       </mg>
    </e>
