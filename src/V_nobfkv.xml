@@ -1709,6 +1709,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">våkne til bevissthet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">päästä tyrmästä</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mk;aht;es">
       <lg>
          <l pos="V">ryke</l>
@@ -12280,6 +12290,10 @@ For the full license text, see the link above.</lic>
                <x>legge i bløt</x>
                <xt>panna likhoon</xt>
             </xg>
+            <xg>
+               <x>legge til bleking</x>
+               <xt>panna pleekhiin</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -15827,7 +15841,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">ta</l>
       </lg>
@@ -15837,6 +15851,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>ta vare på</x>
                <xt>ottaat taltheen</xt>
+            </xg>
+            <xg>
+               <x>ta på seg ansvar</x>
+               <xt>ottaat kontolens</xt>
             </xg>
          </tg>
       </mg>
@@ -18071,13 +18089,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Phrase">bli full</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">päistyyt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">tulla päihin</t>
          </tg>
       </mg>
       <mg>
