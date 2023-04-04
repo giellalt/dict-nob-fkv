@@ -6343,13 +6343,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;ki">
       <lg>
          <l pos="N">halvbror</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">velipuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">halvsøsken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puoliveljet</t>
+            <t pos="N">puolisisaret</t>
          </tg>
       </mg>
    </e>

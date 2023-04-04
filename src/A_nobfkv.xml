@@ -223,7 +223,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="jaj;th;es;bs">
+      <e src="jaj;th;es;bs;es">
       <lg>
          <l pos="A">gravid</l>
       </lg>
@@ -249,6 +249,15 @@ For the full license text, see the link above.</lic>
               <xg>
                <x>Hun er gravid.</x>
                <xt>Hän oon raskhaana.</xt>
+            </xg>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">olla lapsesta</t>
+              <xg>
+               <x>Jeg er gravid.</x>
+               <xt>Mie olen lapsesta.</xt>
             </xg>
          </tg>
       </mg>
