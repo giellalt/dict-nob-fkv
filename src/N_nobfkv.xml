@@ -20368,7 +20368,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">elekriski</t>
+            <t pos="N">elektriski</t>
          </tg>
       </mg>
       <mg>
@@ -39804,6 +39804,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mensen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuukautiset</t>
+            <t pos="N">kuuntauđit</t>
+            <xg>
+            <x>Jeg har mensen.</x>
+            <xt>Minula oon kuukautiset.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">bilde</l>
@@ -54675,6 +54690,37 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">pillipiipari</t>
             <t pos="N">piipari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vulva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vittu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kåt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kiimhainen</t>
+            <t pos="N">halukas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">villig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">halukas</t>
          </tg>
       </mg>
    </e>

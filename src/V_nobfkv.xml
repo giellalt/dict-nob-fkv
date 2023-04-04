@@ -3715,7 +3715,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">klappe</l>
       </lg>
@@ -3726,7 +3726,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="klappaa;klapan">klapata</t>
+            <t pos="V">klapata</t>
+            <xg>
+            <x>Kan jeg klappe katten din?</x>
+            <xt>Saatanko klapata sinun kissaa?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -19503,7 +19507,7 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="pyhi">pyhkiit</t>
              <xg>
                <x>Jeg strøk katten.</x>
-               <xt>pyhin kissaa.</xt>
+               <xt>Mie pyhin kissaa.</xt>
             </xg>
          </tg>
       </mg>
