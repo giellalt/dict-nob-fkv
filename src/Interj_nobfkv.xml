@@ -57,6 +57,10 @@ For the full license text, see the link above.</lic>
                <x>Takk for at vi fikk komme.</x>
                <xt>Kiitos ette saima tulla.</xt>
             </xg>
+               <xg>
+               <x>Takk i like måte!</x>
+               <xt>Kiitos samoin!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -67,6 +71,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Interj">hyvvää muorinpäivää</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="ki">
+      <lg>
+         <l pos="Interj">OBS!</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">Huom!</t>
          </tg>
       </mg>
    </e>

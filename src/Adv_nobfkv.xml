@@ -4451,10 +4451,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ki;ta">
       <lg>
          <l pos="Adv">for øvrig</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">muutoin</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">muuten</t>
@@ -4468,6 +4473,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">muuvala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">forresten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">muutoin</t>
          </tg>
       </mg>
    </e>
