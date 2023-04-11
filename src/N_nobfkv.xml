@@ -28175,7 +28175,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">roikka</t>
-                        <xg>
+            <xg>
                <x>Som gruppe?</x>
                <xt>Roikkanako?</xt>
             </xg>
@@ -29049,11 +29049,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="jänikse">jänis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">jänes</t>
          </tg>
       </mg>
    </e>
@@ -45899,7 +45894,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">makrili</t>
             <t pos="N">makrelli</t>
          </tg>
       </mg>
@@ -53742,11 +53736,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vuononperä</t>
+            <t pos="N">vuononpörä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">perä</t>
+            <t pos="N">pörä</t>
          </tg>
       </mg>
    </e>
@@ -56247,11 +56243,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">brev</l>
       </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">preevi</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">preivi</t>
@@ -69326,6 +69317,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="umpusolme;umpusolme">umpusolmi</t>
+            <t pos="N">umpisolmi</t>
          </tg>
       </mg>
    </e>
@@ -76400,7 +76392,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">ympäripreevi</t>
+            <t pos="N">ympäripreivi</t>
          </tg>
       </mg>
       <mg>
@@ -82915,21 +82907,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">myötäpreevi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">myötäsukhaan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">i samsvar med</t>
-            <xg>
-            <x>Det er i samsvar med reglene, ja.</x>
-            <xt>Se kyllä oon myötäsukhaan reekeliitten kans.</xt>
-            </xg>
+            <t pos="N">myötäpreivi</t>
          </tg>
       </mg>
    </e>
@@ -82945,7 +82923,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">ansikstsmask</l>
+         <l pos="N">ansikstsmaske</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
