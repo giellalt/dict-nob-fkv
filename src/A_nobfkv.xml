@@ -2059,7 +2059,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;akr">
       <lg>
          <l pos="A">administrativ</l>
       </lg>
@@ -2071,6 +2071,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">hallitukselinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">hallinollinen</t>
          </tg>
       </mg>
    </e>
@@ -2585,13 +2590,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;akr">
       <lg>
          <l pos="A">økonomisk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ekonominen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ökonoominen</t>
          </tg>
       </mg>
    </e>
@@ -4797,7 +4807,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;akr">
       <lg>
          <l pos="A">allslags</l>
       </lg>
@@ -4808,7 +4818,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Pron">kaikenlainen</t>
+            <t pos="A">kaikensorttinen</t>
          </tg>
       </mg>
    </e>
@@ -8261,7 +8271,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">painava</t>
+            <t pos="A">painaava</t>
          </tg>
       </mg>
    </e>
@@ -8271,7 +8281,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">painava</t>
+            <t pos="A">painaava</t>
          </tg>
       </mg>
       <mg>
@@ -10023,23 +10033,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;akr">
       <lg>
          <l pos="A">sådan</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="semmoise;semmois">semmoinen</t>
+            <t pos="A">semmoinen</t>
+            <t pos="A">sellainen</t>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;akr">
       <lg>
          <l pos="A">sånn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="semmoise;semmois">semmoinen</t>
+            <t pos="A">semmoinen</t>
+            <t pos="A">sellainen</t>
          </tg>
       </mg>
       <mg>
@@ -10074,7 +10086,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="semmoise;semmois">semmoinen</t>
+            <t pos="A">semmoinen</t>
+            <t pos="A">sellainen</t>
          </tg>
       </mg>
       <mg>
@@ -15326,6 +15339,248 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">dokumentaarillinen</t>
+         </tg>
+      </mg>
+   </e>   
+   <e src="akr">
+      <lg>
+         <l pos="Phrase">noen/noe som gjør noe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tekkeevä</t>
+            <xg>
+            <x>Enhver som arbeider har rett på ferie.</x>
+            <xt>Jokhaisella työtä tekkeevällä oon oikkeus feerihään.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">uskyldig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">syytön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">skyldig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">syylinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">begrenset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rajattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">annenslags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">muunlainen</t>
+            <xg>
+            <x>Hvis det er nødvendig får du en annen form for beskyttelse.</x>
+            <xt>Jos oon tarvet niin saat muunlaisen suojan.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">moralsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">moraalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">materiell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">materiaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">ulovlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">laiton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">dugelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kelpoinen</t>
+            <xg>
+            <x>Alle har rett til dugelig og effektiv hjelp fra domstolene.</x>
+            <xt>Kaikila oon oikkeus kelpoisheen ja effektiivisheen aphuun tuomiotooliilta.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="Phrase">god nok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kelppaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">akseptabel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kelppaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">dugende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kelppaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">menneskeverdig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ihmisarvoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">rettslig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">hallinollinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">ikke-politisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ei-poliittinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">upartisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ei-partinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">umenneskelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ei-humaani</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">inhuman</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ei-humaani</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">demokratisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">demokraattinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">barbarisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">barbaarinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">nedverdigende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">alaspainaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">nedtrykkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">alaspainaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">personlin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">persoonallinen</t>
          </tg>
       </mg>
    </e>

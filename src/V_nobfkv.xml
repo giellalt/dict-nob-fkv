@@ -4941,7 +4941,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es;akr">
       <lg>
          <l pos="V">styre</l>
       </lg>
@@ -4968,7 +4968,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
 	         <re>spes. på ski, bil o.l.</re>
-            <t pos="V" stem="tyyrää;tyyrän">tyyrätä</t>
+            <t pos="V">styyrätä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>spes. på ski, bil o.l.</re>
+            <t pos="V">tyyrätä</t>
          </tg>
       </mg>
    </e>
@@ -19895,12 +19901,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;akr">
       <lg>
          <l pos="V">beskytte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">suojata</t>
             <t pos="V">suojela</t>
          </tg>
       </mg>
@@ -25422,6 +25429,34 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">shoppaila</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="V">gjelde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">jällätä</t>
+            <xg>
+            <x>Denne rettighetet gjelder ikke hvis du har begått en forbrytelse.</x>
+            <xt>Tämä oikkeus ei jällää silloin ko sie olet tehny rikoksen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="V">ryste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kauhistuttaat</t>
+            <xg>
+            <x>De barbariske handlingene hans rystet hele verden.</x>
+            <xt>Hänen barbaariset toimet kauhistutethiin koko mailmaa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
