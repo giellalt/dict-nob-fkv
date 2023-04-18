@@ -13580,13 +13580,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;ki;me">
       <lg>
          <l pos="N">naust</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">nausti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puura</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">venetkaja</t>
          </tg>
       </mg>
    </e>
@@ -56944,6 +56954,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="me;ta;es;ai">
+      <lg>
+         <l pos="N">bu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puoji</t>
+            <t pos="N">puohi</t>
+            <t pos="N">puođi</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;es">
       <lg>
          <l pos="N">bod</l>
@@ -75808,16 +75830,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">naust</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">puura</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">nektingsverb</l>
       </lg>
       <mg>
@@ -87085,6 +87097,267 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ihmisoikkeusdeklarasuuni</t>
+         </tg>
+      </mg>
+   </e>   
+   <e src="me">
+      <lg>
+         <l pos="N">sperretak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">orsikatto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">klave</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">klaavi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">plantefelt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kassuuma-ala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">labankdør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vinolautaovi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">villskiferstein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">villirahtukivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">skjelternaust</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">skeltterivenetkaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">skjeltervegg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">skeltteriseinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">reisverk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">runkorakenus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">byggemåte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rakentamatapa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">trelås</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puulukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">tverrbjelke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">poikkipelkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">sperrepar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">orsipari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">snekkerverksted</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nikkariverstas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">gulvås</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">laattiiharja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">byhus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kaupunkihuonet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">stornaust</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">isonausti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">isolasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">isolasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">tømmermannskledning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hirsipaneeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">erde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>engelskrød</re>
+            <t pos="N">erdefäri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">skjelter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">skeltteri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">vedskjå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puukaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">husmose</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">huonetsammalet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">fembøring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fempöörinki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">kledning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paneeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">åstak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">harjakatto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="N">hundehalsnov</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">koirankaulanurkka</t>
          </tg>
       </mg>
    </e>

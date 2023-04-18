@@ -15576,11 +15576,39 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="akr">
       <lg>
-         <l pos="A">personlin</l>
+         <l pos="A">personlig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">persoonallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="Phrase">ingen form for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">minkhäänlainen</t>
+            <xg>
+            <x>Han/hun ga meg ikke noen form for svar.</x>
+            <xt>Hän ei antanu minule minkhäänlaista vastausta.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="me">
+      <lg>
+         <l pos="Phrase">ikke av noe slag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">minkhäänlainen</t>
+            <xg>
+            <x>Han/hun ga meg ikke noe svar.</x>
+            <xt>Hän ei antanu minule minkhäänlaista vastausta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
