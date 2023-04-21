@@ -1812,13 +1812,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="kl">
+   <e src="kl;ai">
       <lg>
          <l pos="Phrase">garvet skinn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
          <t pos="N">sisti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>rein</re>
+            <t pos="N">sisna</t>
          </tg>
       </mg>
    </e>
@@ -2062,17 +2068,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
           <re>marigress</re>
          <t pos="N">haisuheinä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="kl">
-      <lg>
-         <l pos="N">vekst</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-          <re>vegetasjon, plante</re>
-         <t pos="N">kasvu</t>
          </tg>
       </mg>
    </e>
@@ -2714,13 +2709,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="kl">
+   <e src="kl;ai;ta">
       <lg>
          <l pos="N">ullsokk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">villalesta</t>
+            <t pos="N">lesta</t>
          </tg>
       </mg>
    </e>
@@ -8087,17 +8083,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="bildetema">
-      <lg>
-         <l pos="N">vogn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kärry</t>
-           <t pos="N">vaunu</t>
-         </tg>
-      </mg>
-   </e>
    <e src="bildetema;es">
       <lg>
          <l pos="N">håndledd</l>
@@ -9038,16 +9023,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">reddikki</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="bildetema">
-      <lg>
-         <l pos="N">trakt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">tratti</t>
          </tg>
       </mg>
    </e>
@@ -10455,16 +10430,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="bildetema">
       <lg>
-         <l pos="N">watt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">watti</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="bildetema">
-      <lg>
          <l pos="N">ohm</l>
       </lg>
       <mg>
@@ -10615,16 +10580,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N">ungkar</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">vanhapoika</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
-      <lg>
          <l pos="N">klesbutikk</l>
       </lg>
       <mg>
@@ -10690,16 +10645,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">T-paita</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
-      <lg>
-         <l pos="N">værmelding</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">säätieđotus</t>
          </tg>
       </mg>
    </e>
@@ -10780,26 +10725,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">saksa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
-      <lg>
-         <l pos="N">tur</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">reisu</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
-      <lg>
-         <l pos="N">ugle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">pöllö</t>
          </tg>
       </mg>
    </e>
@@ -10918,16 +10843,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">osa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
-      <lg>
-         <l pos="N">undervisningstime</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">oppitiima</t>
          </tg>
       </mg>
    </e>
@@ -11769,13 +11684,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;ta">
       <lg>
          <l pos="N">vinterstøing</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">talvikko</t>
+            <t pos="N">talvikka</t>
          </tg>
       </mg>
    </e>
@@ -11985,16 +11901,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
-         <l pos="N">yngel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">yngeli</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
          <l pos="N">drag</l>
       </lg>
       <mg>
@@ -12005,51 +11911,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
-         <l pos="N">trekk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">veto</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
-         <l pos="N">vatn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">vanni</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
          <l pos="N">veksling</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vaihetus</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
-         <l pos="N">uthus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">vaja</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
-         <l pos="N">våg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">vaaka</t>
          </tg>
       </mg>
    </e>
@@ -12272,16 +12138,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">aukkein</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
-         <l pos="N">vadested</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">reikä</t>
          </tg>
       </mg>
    </e>
@@ -12936,16 +12792,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
-         <l pos="N">tjærebrenner</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kolari</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
          <l pos="Phrase">midt på dagen</l>
       </lg>
       <mg>
@@ -13106,17 +12952,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia;es">
-      <lg>
-         <l pos="N">topp</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">huippu</t>
-            <t pos="N">lajet</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ia">
       <lg>
          <l pos="N">hole</l>
@@ -13194,20 +13029,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">taipalet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
-         <l pos="N">tind</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">hammas</t>
-            <xg>
-               <x>Vaggetind ligger i Sør-Varanger.</x>
-               <xt>Vaakahammas oon Etelä-Varengissa.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -13983,7 +13804,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ta">
       <lg>
          <l pos="N">trekk</l>
       </lg>
@@ -13994,6 +13815,11 @@ For the full license text, see the link above.</lic>
                <x>felles trekk</x>
                <xt>yhtheinen trekki</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">veto</t>
          </tg>
       </mg>
    </e>
@@ -15040,16 +14866,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kippa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mk">
-      <lg>
-         <l pos="N">trinn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">askel</t>
          </tg>
       </mg>
    </e>
@@ -17814,13 +17630,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;yr">
+   <e src="ai;mk;ta;yr">
       <lg>
          <l pos="N">trinn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="askelhee">askelet</t>
+            <t pos="N">askelet</t>
+            <t pos="N">askel</t>
          </tg>
       </mg>
       <mg>
@@ -19782,16 +19599,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;es">
-      <lg>
-         <l pos="N">varsel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="eđelise;eđelis">eđelinen</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">ansvar</l>
@@ -21599,22 +21406,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="N">tann</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="hampaa">hammas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>tind</re>
-            <t pos="N">pii</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="N">tannråte</l>
@@ -23160,11 +22951,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hevoinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="hevose;hevos">hevonen</t>
          </tg>
       </mg>
       <mg>
@@ -25409,6 +25195,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ihmet</t>
+            <xg>
+            <x>Det er et under at du overlevde.</x>
+            <xt>Se oon ihmet ette sie jäit henkhiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -28182,7 +27972,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ia">
       <lg>
          <l pos="N">vadested</l>
       </lg>
@@ -28199,6 +27989,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kaalamasija</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">reikä</t>
          </tg>
       </mg>
    </e>
@@ -28278,13 +28073,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;bildetema">
       <lg>
          <l pos="N">vogn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kaara</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kärry</t>
          </tg>
       </mg>
       <mg>
@@ -30778,14 +30578,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;kl">
       <lg>
          <l pos="N">vekst</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
           <re>Det å vokse</re>
-            <t pos="N" stem="kassuumise;kassumis">kassuuminen</t>
+            <t pos="N">kassuuminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+          <re>vegetasjon, plante</re>
+         <t pos="N">kasvu</t>
          </tg>
       </mg>
    </e>
@@ -34056,13 +33862,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;yr">
+   <e src="ai;ta;yr;ia;aes">
       <lg>
          <l pos="N">topp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="knupi">knuppi</t>
+            <t pos="N" stem="nupi">nuppi</t>
          </tg>
       </mg>
       <mg>
@@ -34072,13 +33879,14 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>ikke på fjell</re>
-            <t pos="N">toppi</t>
+            <t pos="N">huippu</t>
+            <t pos="N">lajet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="nupi">nuppi</t>
+         <re>ikke på fjell</re>
+            <t pos="N">toppi</t>
          </tg>
       </mg>
    </e>
@@ -39365,7 +39173,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;mj">
       <lg>
          <l pos="N">tur</l>
       </lg>
@@ -39397,6 +39205,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vuoro</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">reisu</t>
          </tg>
       </mg>
    </e>
@@ -41440,16 +41253,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="N">ullsokk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">lesta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
          <l pos="N">lest</l>
       </lg>
       <mg>
@@ -42529,7 +42332,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ia">
       <lg>
          <l pos="N">vatn</l>
       </lg>
@@ -42541,6 +42344,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">lompolo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vanni</t>
          </tg>
       </mg>
    </e>
@@ -47902,7 +47710,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">ting</l>
       </lg>
@@ -47914,6 +47722,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tinka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>en dings</re>
+            <t pos="N">kapistus</t>
          </tg>
       </mg>
    </e>
@@ -49661,13 +49475,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;mj">
       <lg>
          <l pos="N">undervisningstime</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">opetustiima</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">oppitiima</t>
          </tg>
       </mg>
    </e>
@@ -52715,7 +52534,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;yr">
+   <e src="ai;ta;yr;ia">
       <lg>
          <l pos="N">tind</l>
       </lg>
@@ -52727,6 +52546,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vaaranlaki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hammas</t>
+            <xg>
+               <x>Vaggetind ligger i Sør-Varanger.</x>
+               <xt>Vaakahammas oon Etelä-Varengissa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -53856,7 +53684,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;mj">
       <lg>
          <l pos="N">ungkar</l>
       </lg>
@@ -53867,7 +53695,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="vanhaan poja;vanhaata poikka">vanhaa poika</t>
+            <t pos="N">vanhapoika</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vanhaa poika</t>
          </tg>
       </mg>
    </e>
@@ -56098,16 +55931,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">pylly</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">taka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takana</t>
-         </tg>
-      </mg>
    </e>
    <e src="yr">
       <lg>
@@ -56781,7 +56604,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;grom">
+   <e src="ai;ta;grom;mj">
       <lg>
          <l pos="N">ugle</l>
       </lg>
@@ -56793,6 +56616,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ykla</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pöllö</t>
          </tg>
       </mg>
    </e>
@@ -59935,14 +59763,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ia">
       <lg>
          <l pos="N">våg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
          <re>i øyet</re>
-            <t pos="N" stem="räämhee">räämet</t>
+            <t pos="N">räämet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaaka</t>
          </tg>
       </mg>
    </e>
@@ -61741,17 +61574,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sisarukset</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">garvet skinn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>rein</re>
-            <t pos="N">sisna</t>
          </tg>
       </mg>
    </e>
@@ -63757,10 +63579,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;mj">
       <lg>
          <l pos="N">værmelding</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">säätieđotus</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sääntieto</t>
@@ -64180,16 +64007,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">talvifrakki</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">vinterstøing</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="talvika">talvikka</t>
          </tg>
       </mg>
    </e>
@@ -65027,13 +64844,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia">
       <lg>
          <l pos="N">tjærebrenner</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tervanpolttaaja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kolari</t>
          </tg>
       </mg>
    </e>
@@ -67681,13 +67503,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ia">
       <lg>
          <l pos="N">uthus</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="ulkohuonhee">ulkohuonet</t>
+            <t pos="N">ulkohuonet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaja</t>
          </tg>
       </mg>
    </e>
@@ -69171,13 +68998,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;bildetema">
       <lg>
          <l pos="N">watt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="vati">vatti</t>
+            <t pos="N">vatti</t>
+            <t pos="N">watti</t>
          </tg>
       </mg>
    </e>
@@ -69690,16 +69518,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vestaranta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">trekk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="veđo">veto</t>
          </tg>
       </mg>
    </e>
@@ -70934,13 +70752,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ia">
       <lg>
          <l pos="N">yngel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="vääjäkö">vääjäkkö</t>
+            <t pos="N">vääjäkkö</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yngeli</t>
          </tg>
       </mg>
    </e>
@@ -75490,16 +75313,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">tråd</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">lanka</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">finger</l>
       </lg>
       <mg>
@@ -79154,17 +78967,6 @@ For the full license text, see the link above.</lic>
    </e>   
    <e src="es">
       <lg>
-         <l pos="N">ting</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>en dings</re>
-            <t pos="N">kapistus</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">kavle</l>
       </lg>
       <mg>
@@ -80475,16 +80277,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">äkseerinki</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">utgivelse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">ulosanto</t>
          </tg>
       </mg>
    </e>
@@ -84447,16 +84239,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">turrute</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">vajelusruutta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">mellomgang</l>
       </lg>
       <mg>
@@ -84648,13 +84430,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ta">
       <lg>
          <l pos="N">varsel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">varraus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="eđelise;eđelis">eđelinen</t>
          </tg>
       </mg>
    </e>

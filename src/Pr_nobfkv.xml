@@ -56,16 +56,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="Pr">omkring</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">ympärille</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
-      <lg>
          <l pos="Pr">rundt</l>
       </lg>
       <mg>
@@ -96,30 +86,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">vieressä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
-      <lg>
-         <l pos="Pr">mot</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">vasten</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mk">
-      <lg>
-         <l pos="Pr">for ... siden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">aikkaa</t>
-            <xg>
-               <x>for tre år siden.</x>
-               <xt>kolme vuotta aikkaa</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -586,10 +552,10 @@ For the full license text, see the link above.</lic>
        <mg>
          <tg xml:lang="fkv">
 	            <re>om lag</re>
-            <t pos="Po">ympäri</t>
+            <t pos="Po">nuoin</t>
                   <xg>
                <x>Det er omkring null grader.</x>
-               <xt>Oon noin nolla graadii.</xt>
+               <xt>Oon nuoin nolla graadii.</xt>
             </xg>
               <xg>
                <x>Omkring år 1912.</x>
@@ -729,7 +695,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;mj">
       <lg>
          <l pos="Pr">mot</l>
       </lg>
@@ -800,9 +766,18 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	           <re>i forhold til, sammenlignet med</re>
+           <re>i forhold til, sammenlignet med</re>
             <t pos="Po">vasthaan</t>
         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">vasten</t>
+            <xg>
+            <x>Matti trykket Hanna mot brystet sitt og var lykkelig.</x>
+            <xt>Matti puristi Hannan ommaa rinttaa vasten ja oli onnelinen.</xt>
+            </xg>
+         </tg>
       </mg>
    </e>
    <e src="mk">
@@ -813,7 +788,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	          <re>i ro</re>
             <t pos="Po">jonku seassa</t>
-                          <xg>
+            <xg>
                <x>Blant folk.</x>
                <xt>Ihmisten seassa.</xt>
             </xg>
@@ -826,48 +801,25 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">taakse</t>
-              <!--     <xg>
-               <x>Reise tilbake i tiden.</x>
-               <xt>Reisata taakse aijassa.</xt>
-            </xg> -->
-         </tg>
-      </mg>
-   </e>
-   <e src="mk">
-      <lg>
-         <l pos="Pr">bak</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-	          <re>etter, bevegelse mot noe</re>
-            <t pos="Po">takkaa</t>
-                                <xg>
+          <re>etter, bevegelse mot noe</re>
+            <t pos="Po">taka</t>
+            <xg>
                <x>Gå bak fjellet.</x>
-               <xt>Mennä vaaran takkaa.</xt>
+               <xt>Mene vaaran taka.</xt>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e src="mk">
-      <lg>
-         <l pos="Pr">bak</l>
-      </lg>
       <mg>
          <tg xml:lang="fkv">
+          <re>etter, bevegelse mot noe</re>
             <t pos="Po">taakse</t>
          </tg>
       </mg>
-   </e>
-   <e src="mk">
-      <lg>
-         <l pos="Pr">bak</l>
-      </lg>
       <mg>
          <tg xml:lang="fkv">
 	           <re>etter, i ro</re>
             <t pos="Po">takana</t>
-                                      <xg>
+            <xg>
                <x>Han står bak deg.</x>
                <xt>Hän seissoo sinun takana.</xt>
             </xg>
@@ -877,15 +829,25 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	           <re>i abstrakt betydning og om tid</re>
             <t pos="Po">kans</t>
-                                       <xg>
+            <xg>
                <x>Han har hele folket bak seg.</x>
                <xt>Hänelä oon koko kansa ittensä takana.</xt>
             </xg>
-                                <xg>
+            <xg>
                <x>Rådmannen har bak seg mange år i politikken.</x>
                <xt>Raatimiehelä oon takana monta vuotta politikissa.</xt>
             </xg>
               </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+          <re>etter, bevegelse fra noe</re>
+            <t pos="Po">takkaa</t>
+            <xg>
+            <x>Solen titter så vidt frem (bak)fra skyene.</x>
+            <xt>Aurinko ittää juuri ja juuri pilviin takkaa.</xt>
+            </xg>
+         </tg>
       </mg>
    </e>
    <e src="mk">
@@ -896,14 +858,23 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	            <re>omkring, i sirkel</re>
             <t pos="Po">ympäri</t>
-        <!--                        <xg>
-               <x>Jordet roterer rundt sin egen akse</x>
+            <xg>
+               <x>Jorden roterer rundt sin egen akse</x>
                <xt>Maa pyörii oman akselin ympäri.</xt>
-            </xg> -->
-  <!--                           <xg>
+            </xg>
+            <xg>
                <x>Hjulene går rundt.</x>
                <xt>Ratthaat pyörithään ympäri.</xt>
-            </xg> -->
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">ympärille</t>
+            <xg>
+            <x>Leena ser seg rundt.</x>
+            <xt>Leena kattoo ympärille.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1070,26 +1041,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>bevegelse fra under noe</re>
-            <t pos="Po">alta</t>
-                 <xg>
-               <x>Kattungen kom fram under skapet.</x>
-               <xt>Kissanpenikkä laukkoi esile kaapin alta.</xt>
-            </xg>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">alitte</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mk">
-      <lg>
-         <l pos="Pr">under</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
 	          <re>bevegelse til under noe, lavere enn noe, noe som  pågår</re>
             <t pos="Po">alle</t>
                 <!--        <xg>
@@ -1136,17 +1087,18 @@ For the full license text, see the link above.</lic>
                <x>Boka er under trykking.</x>
                <xt>Kirja oon präntin alla.</xt>
             </xg>
-             <xg>
-               <x>Nye Rema 1000 er enda under bygging.</x>
-               <xt>Uusi Rema 1000-kauppaa pykäthään vielä.</xt>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>bevegelse fra under noe</re>
+            <t pos="Po">alta</t>
+                 <xg>
+               <x>Kattungen kom fram under skapet.</x>
+               <xt>Kissanpenikkä laukkoi esile kaapin alta.</xt>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e src="mk">
-      <lg>
-         <l pos="Pr">under</l>
-      </lg>
       <mg>
          <tg xml:lang="fkv">
 	         <re>i ro under noe, delvis skjult eller gjemt av noe</re>
@@ -1197,6 +1149,11 @@ For the full license text, see the link above.</lic>
                <x>Under tvil.</x>
                <xt>Epäilyksen alla.</xt>
             </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">alitte</t>
          </tg>
       </mg>
    </e>
@@ -1954,10 +1911,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="mk;ai">
       <lg>
          <l pos="Pr">for ... siden</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">aikkaa</t>
+            <xg>
+               <x>for tre år siden.</x>
+               <xt>kolme vuotta aikkaa</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">takaisin</t>
@@ -2052,20 +2018,6 @@ For the full license text, see the link above.</lic>
 <!--             <xg>
                <x>Jeg så dem ikke siden de kom bakfra.</x>
                <xt>Mie nähny heitä ko het tulthiin minun takkaa.</xt>
-            </xg> -->
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="Pr">på grunn av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">tähđen</t>
- <!--              <xg>
-               <x>På grunn av kirka var det ikke lov å danse her.</x>
-               <xt>Kirkon tähđen täälä ei ollu luppaa tanssiit.</xt>
             </xg> -->
          </tg>
       </mg>

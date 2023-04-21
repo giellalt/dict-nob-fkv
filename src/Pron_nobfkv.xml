@@ -36,13 +36,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="mj;es">
       <lg>
          <l pos="Pron">noen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pron">muutama</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">muutampi</t>
          </tg>
       </mg>
    </e>
@@ -73,16 +78,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pron">joka</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="Pron">noen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pron">muutamppi</t>
          </tg>
       </mg>
    </e>
