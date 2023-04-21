@@ -857,7 +857,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="na">
+   <e src="na;es">
       <lg>
          <l pos="N">jus</l>
       </lg>
@@ -865,6 +865,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>drikke</re>
          <t pos="N">juusi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">juridikki</t>
          </tg>
       </mg>
    </e>
@@ -9680,16 +9685,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="bildetema">
       <lg>
-         <l pos="N">traktor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">traktori</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="bildetema">
-      <lg>
          <l pos="N">spisestue</l>
       </lg>
       <mg>
@@ -12276,18 +12271,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">potko</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
-         <l pos="N">eng</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">plaana</t>
-            <t pos="N">vainio</t>
-            <t pos="N">kenttä</t>
          </tg>
       </mg>
    </e>
@@ -26113,13 +26096,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">jakt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="jahđi">jahti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>seilbåt med en mast</re>
+            <t pos="N">jakta</t>
          </tg>
       </mg>
    </e>
@@ -26417,7 +26406,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">leder</l>
       </lg>
@@ -26429,6 +26418,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">johđattaaja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>avisartikkel som gir uttrykk for redaksjonens oppfatning</re>
+            <t pos="N">johtokirjoitus</t>
          </tg>
       </mg>
    </e>
@@ -29960,16 +29955,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">harv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">karhii</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">bjørnehi</l>
@@ -30259,6 +30244,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vainio</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">plaana</t>
          </tg>
       </mg>
    </e>
@@ -65846,10 +65836,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="bildetema;ai;ta">
       <lg>
          <l pos="N">traktor</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">traktori</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">trakturi</t>
@@ -78533,17 +78528,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">jakt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>seilbåt med en mast</re>
-            <t pos="N">jakta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">fotgjenger</l>
       </lg>
       <mg>
@@ -78626,17 +78610,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="es">
-      <lg>
-         <l pos="N">leder</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>avisartikkel som gir uttrykk for redaksjonens oppfatning</re>
-            <t pos="N">johtokirjoitus</t>
-         </tg>
-      </mg>
-   </e>
    <e src="es">
       <lg>
          <l pos="N">elvegjel</l>
@@ -78713,16 +78686,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">juokseminen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">jus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">juridikki</t>
          </tg>
       </mg>
    </e>
