@@ -73216,7 +73216,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" type="Prop">Taana</t>
+            <t pos="N" type="Prop">Tenu</t>
          </tg>
       </mg>
    </e>
@@ -73472,6 +73472,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">Skjervøy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" type="Prop">Kierua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">Manndalen</l>
       </lg>
       <mg>
@@ -73482,11 +73492,41 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">Nesseby</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" type="Prop">Uuniemi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Nordreisa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" type="Prop">Raisi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">Storfjord</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" type="Prop">Omasvuono</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Balsfjord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" type="Prop">Paatsivuono</t>
          </tg>
       </mg>
    </e>
@@ -74515,7 +74555,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kieliplaana</t>
+            <t pos="N">toimiplaana</t>
          </tg>
       </mg>
    </e>
