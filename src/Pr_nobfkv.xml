@@ -756,7 +756,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;es">
       <lg>
          <l pos="Pr">blant</l>
       </lg>
@@ -767,6 +767,33 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Blant folk.</x>
                <xt>Ihmisten seassa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">sejassa</t>
+            <xg>
+            <x>Det var bark blandet i melet.</x>
+            <xt>Siinä oli parkkii jauhoin seassa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">sejasta</t>
+            <xg>
+            <x>Plukk ut larvene fra melet.</x>
+            <xt>Nouki toukat pois jauhoin sejasta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">sekhaan</t>
+            <xg>
+            <x>Bestemor blandet bark i melet.</x>
+            <xt>Ämmi pani parkkii jauhoin sekhaan.</xt>
             </xg>
          </tg>
       </mg>
@@ -2116,6 +2143,10 @@ For the full license text, see the link above.</lic>
               <xg>
                <x>De kom fra fjern og nær.</x>
                <xt>Het tulthiin kaukkaa ja likeltä.</xt>
+            </xg>
+              <xg>
+               <x>Stina er fra nærheten av Tromssø.</x>
+               <xt>Stiina oon likeltä Tromssaa.</xt>
             </xg>
          </tg>
       </mg>
