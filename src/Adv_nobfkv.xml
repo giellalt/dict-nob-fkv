@@ -711,6 +711,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">puolivälissä</t>
+            <xg>
+            <x>i midten av mai</x>
+            <xt>puolivälissä maikuuta</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1301,6 +1305,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">ensinä</t>
+            <t pos="Adv">ensinäki</t>
          </tg>
       </mg>
    </e>
@@ -2698,24 +2703,18 @@ For the full license text, see the link above.</lic>
             <t pos="Po">joukossa</t>
          </tg>
       </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">uferdig</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">seassa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sejassa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sejasta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">sekhaan</t>
+            <t pos="Adv">kesken</t>
+            <xg>
+               <x>Han/hun avbrøt studiene.</x>
+               <xt>Hän jätti opin kesken.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5636,9 +5635,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">sekaisin</t>
+            <t pos="Adv">sikin sokin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Adv">hujan hajan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Adv">mullin mällin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sekaisin</t>
          </tg>
       </mg>
    </e>
@@ -6100,13 +6112,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Adv">avsides</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">syrjässä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vieripuolessa</t>
          </tg>
       </mg>
    </e>
@@ -6890,20 +6907,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Adv">for sikkerhets skuld</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">varoiksi</t>
+            <xg>
+            <x>Vi får skru på radioen litt før for å være på den sikre siden.</x>
+            <xt>Saama varoiksi jo panna pääle raation vähän ennen.</xt>
+            </xg>
          </tg>
       </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="Adv">for sikkerhets skyld</l>
-      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">varoksi</t>
@@ -7046,6 +7062,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">rinnala</t>
+            <xg>
+            <x>Maija gikk ved siden av Matti.</x>
+            <xt>Maija käveli Matin rinnala.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -7393,11 +7413,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">väliltä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">välissä</t>
          </tg>
       </mg>
    </e>
@@ -8700,6 +8715,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">avojalkaisin</t>
+            <t pos="Adv">avvujalkaisin</t>
          </tg>
       </mg>
    </e>
@@ -8818,7 +8834,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>med posessiv suffix etter person, -ni, sti, nsa, mma, nna, nsa</re>
             <t pos="Adv">puolestani</t>
+            <xg>
+            <x>Mie puolestani olen Ruottin puolelta.</x>
+            <xt>Jeg for min del er fra Sverige.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
