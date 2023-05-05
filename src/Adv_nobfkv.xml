@@ -269,6 +269,35 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">paljon</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">isomasti</t>
+            <xg>
+               <x>ikke særskilt mye</x>
+               <xt>ei isomasti</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kivasti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kovasti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>veldig mye</re>
+            <t pos="Adv">julmasti</t>
+            <xg>
+            <x>Det var veldig mye fisk der.</x>
+            <xt>Sielä oli kallaa niin julmasti.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="mj">
       <lg>
@@ -329,23 +358,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
-      <lg>
-         <l pos="Adv">midt på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">keskelä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
+   <e src="mj;es">
       <lg>
          <l pos="Adv">etter</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">jälkhiin</t>
+            <xg>
+            <x>Det er avhengig av hvordan vi ønsker å gjøre det.</x>
+            <xt>Se oon sen jälkhiin kunka met halluuma tehđä sen.</xt>
+            </xg>
+            <xg>
+            <x>Han/hun flyttet hit etter krigen.</x>
+            <xt>Hän siirtyi tänne jälkhiin sođan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -494,13 +521,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ai;ta">
+      <e src="ai;ta;es">
       <lg>
          <l pos="Adv">fast</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kiini</t>
+            <xg>
+            <x>Fisken satt seg fast på kroken.</x>
+            <xt>Kala jäi kiini koukkhuun.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -905,6 +936,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">justhiinsa</t>
+            <xg>
+            <x>Det var aldeles ikke så sikkert</x>
+            <xt>Ei se ollu justhiinsa niin varmaa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -2335,6 +2370,10 @@ For the full license text, see the link above.</lic>
             <x>Det er ingenting igjen.</x>
             <xt>Ei ole mithään jäljelä.</xt>
             </xg>
+            <xg>
+            <x>Det er bare én igjen.</x>
+            <xt>Ei ole enämpi ko yski jäljelä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2660,23 +2699,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="Adv">en gang</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kerran</t>
+            <xg>
+               <x>En gang da jeg var i skogen, så jeg en bjørn der.</x>
+               <xt>Kerran ko mie olin mettässä, se mie näjin karhuun.</xt>
+            </xg>
+            <xg>
+               <x>Siden du nå er her nå, så må du vaske gulvene.</x>
+               <xt>Ko sie nyt kerran olet täälä, se sie häyđyt pestä laattiit.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;mj">
       <lg>
-         <l pos="Adv">midt i</l>
+         <l pos="Adv">midt i/på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">keskelä</t>
+            
          </tg>
       </mg>
    </e>
@@ -2773,13 +2821,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Adv">helt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">kiini</t>
+            <t pos="Adv">vallan</t>
          </tg>
       </mg>
       <mg>
@@ -2794,7 +2842,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">vallan</t>
+         <re>helt til, inntil</re>
+            <t pos="Adv">kiini</t>
+            <xg>
+            <x>Jeg bodde der helt til i fjor.</x>
+            <xt>Mie asuin sielä kiini viimi vuotheen asti.</xt>
+            </xg>
+            <xg>
+            <x>Lisa syklet helt til fjordstranden.</x>
+            <xt>Liisa syklas kiini vuonon ranthaan asti.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2926,13 +2983,36 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Adv">sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">yhđessä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">yhtheen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">yhtenä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Adv">kokhoon</t>
+            <xg>
+            <x>Klesplagget krympet sammen.</x>
+            <xt>Vaatet meni kokhoon.</xt>
+            </xg>
+            <xg>
+            <x>Pekka fikk samlet inn mye penger.</x>
+            <xt>Pekka sai paljon rahhaa kokhoon.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -2948,21 +3028,6 @@ For the full license text, see the link above.</lic>
                <x>Det er en stund siden dere har vært sammen i Nordreisa.</x>
                <xt>Oonki aikkaa ko tet oletta olheet molemin Raisissa.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">yhtenä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">yhtheen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">yhđessä</t>
          </tg>
       </mg>
    </e>

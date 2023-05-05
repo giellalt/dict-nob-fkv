@@ -1538,15 +1538,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">pörästä</t>
-          <!--  <xg>
-               <x>Den ene etter den andre.</x>
-               <xt>Yksi toinen toisen pörästä.</xt>
-            </xg> -->
+            <xg>
+            <x>Yksi toisensa pörästä.</x>
+            <xt>Den ene etter den andre.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Pr">jälkhiin</t>
+            <t pos="Po">jälkhiin</t>
              <xg>
                <x>Jeg kommer etter jobb.</x>
                <xt>Mie tulen töitten jälkhiin.</xt>
@@ -2129,6 +2129,10 @@ For the full license text, see the link above.</lic>
               <xg>
                <x>Låven står midt på jordet.</x>
                <xt>Lato seissoo keskelä kenttää.</xt>
+            </xg>
+            <xg>
+               <x>Jeg våknet midt på natta.</x>
+               <xt>Mie heräsin keskelä yötä.</xt>
             </xg>
          </tg>
       </mg>

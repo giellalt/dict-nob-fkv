@@ -24658,6 +24658,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hymööri</t>
+             <xg>
+               <x>Han/hun var i så godt humør.</x>
+               <xt>Se oli niin hyvälä hymöörillä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -27018,13 +27022,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;anb">
       <lg>
          <l pos="N">sankthans</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">juhanes</t>
+            <xg>
+            <x>Hvis det er pelsvær på Eriksmesse (18.5) så blir det skjortevær på santkhans. (gammelt ordtak)</x>
+            <xt>Jos Erkki tullee turkki päällä, silloin tullee Juhanes paita päällä.</xt>
+            </xg> 
          </tg>
       </mg>
       <mg>
@@ -27070,6 +27078,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">jumala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">gokk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">jumalan sölän takana</t>
+            <xg>
+            <x>Han/hun bor der borti i gokk.</x>
+            <xt>Se assuu sielä Jumalan sölän takana.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -29723,6 +29745,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kerra;kertta">kerta</t>
+            <xg>
+               <x>Jeg har vært i Finland mange ganger</x>
+               <xt>Mie olen käyny Suomessa monta kerttaa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -31733,7 +31759,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">klokke</l>
       </lg>
@@ -31741,6 +31767,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>apparat eller mekanisme som viser tiden</re>
             <t pos="N">kello</t>
+            <xg>
+            <x>Klokka er åtte.</x>
+            <xt>Kello oon kahđeksen.</xt>
+            </xg>
+            <xg>
+            <x>Der må en leve etter klokken.</x>
+            <xt>Sielä häyttyy elläät kellon pääle.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -34268,7 +34302,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">hundedagene</l>
       </lg>
@@ -34276,6 +34310,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>23.7.-23.8.</re>
             <t pos="N" nr="Pl">koiranpäivät</t>
+            <xg>
+            <x>Hundedagene, det er så dårlig vær da.</x>
+            <xt>Koiranpäivät, se oon niin pahasäinen aika.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -56481,18 +56519,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">hodepine</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="pääkivu;pääkippu">pääkipu</t>
+            <t pos="N">päänkipu</t>
+            <xg>
+               <x>Jeg har hodepine.</x>
+               <xt>Minula oon päänkipu.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">päänkipu</t>
+            <t pos="N">pääkipu</t>
          </tg>
       </mg>
       <mg>
@@ -56832,6 +56874,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pöräjalka</t>
+            <t pos="N">peräjalka</t>
          </tg>
       </mg>
       <mg>
@@ -64043,13 +64086,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">bakbein</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="takajala;takajalkka">takajalka</t>
+            <t pos="N">takajalka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">peräjalka</t>
+            <t pos="N">pöräjalka</t>
          </tg>
       </mg>
    </e>
@@ -65401,6 +65450,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="tilla">tila</t>
+            <xg>
+            <x>Ja, jeg har tid til det.</x>
+            <xt>Kyllä, minula oon tillaa siihen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -69491,13 +69544,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="es">
       <lg>
          <l pos="N">blemme</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">vesikello</t>
+            <t pos="N">kello</t>
          </tg>
       </mg>
    </e>
@@ -71711,13 +71764,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="N">Eriksmesse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" type="Prop">Erkinpäivä</t>
+            <xg>
+            <x>Hvis det er pelsvær på Eriksmesse (18.5) så blir det skjortevær på santkhans. (gammelt ordtak)</x>
+            <xt>Jos Erkki tullee turkki päällä, silloin tullee Juhanes paita päällä.</xt>
+            </xg> 
          </tg>
       </mg>
    </e>
@@ -77022,13 +77079,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">handel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kauppa</t>
+            <xg>
+            <x>ta en handletur</x>
+            <xt>käyđä kaupala</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -81702,6 +81763,17 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>uttrykk</re>
             <t pos="N">mene helsinkhiin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">dra til helsike</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>uttrykk</re>
+            <t pos="Phrase">mene keinhoosti</t>
          </tg>
       </mg>
    </e>

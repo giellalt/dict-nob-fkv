@@ -3396,6 +3396,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>motsatt av tung</re>
             <t pos="A">kevvee</t>
+            <xg>
+            <x>Et tørt tre er lett.</x>
+            <xt>Kuiva puu oon kevvee.</xt>
+            </xg>
+            <xg>
+            <x>Det er ikke lett å lære seg norsk.</x>
+            <xt>Ruijan kieli ei ole kevvee oppiit.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -5273,6 +5281,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="sairhaa">sairas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">vond</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kippee</t>
+            <xg>
+            <x>Det gjør vondt.</x>
+            <xt>Se tekkee kippeetä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8235,40 +8257,6 @@ For the full license text, see the link above.</lic>
 </e>
    <e src="ai;ta">
       <lg>
-         <l pos="A">mye</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">paljon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">isomasti</t>
-            <xg>
-               <x>ikke særskilt mye</x>
-               <xt>ei isomasti</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">kivasti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">kovasti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">paljon</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
          <l pos="A">best</l>
       </lg>
       <mg>
@@ -11214,6 +11202,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">umpunensa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kiini</t>
+            <xg>
+            <x>Lukk igjen vinduet!</x>
+            <xt>Pane klasin kiini!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
