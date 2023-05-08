@@ -4818,16 +4818,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
-      <lg>
-         <l pos="N">mikkelsmesse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">mikkelinpäivä</t>
-         </tg>
-      </mg>
-   </e>
    <e src="es">
       <lg>
          <l pos="N">kyndelsmesse</l>
@@ -46095,16 +46085,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">mikkelsmess 29. september</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">mikkeli</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">militær</l>
@@ -65890,11 +65870,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">tosi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="tottuuđe;tottuut">tottuus</t>
          </tg>
       </mg>
@@ -68206,7 +68181,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">valg</l>
       </lg>
@@ -72015,7 +71990,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>29.september</re>
             <t pos="N" type="Prop">Mikkelinpäivä</t>
+            <t pos="N" type="N">mikkeli</t>
          </tg>
       </mg>
    </e>

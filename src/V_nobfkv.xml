@@ -5872,13 +5872,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Phrase">komme på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">hoksata</t>
+            <xg>
+               <x>Hva skulle hun gjøre? Så kom hun på noe.</x>
+               <xt>Mitä hän piti tehđä? Sitte hän hoksas.</xt>
+            </xg>
+            <xg>
+               <x>Å søren, vi har vi ikke biletter! kommer Matti på.</x>
+               <xt>Voi pahus, meilä ei ole pilettii! hoksaa Matti.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -5887,6 +5895,20 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Jeg kom på det.</x>
                <xt>Se joukahti minule.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">tulla mielheen</t>
+            <t pos="Phrase">johtuut mielheen</t>
+            <xg>
+               <x>Jeg kom på at jeg nå vil begynne å lære kvensk.</x>
+               <xt>Minule tuli mielheen ette nyt mie alan oppimhaan kainun kieltä.</xt>
+            </xg>
+            <xg>
+               <x>Jeg kom på at jeg ville dra til Alta.</x>
+               <xt>Minule johtui mielheen ette lähteet Alattihoon.</xt>
             </xg>
          </tg>
       </mg>
@@ -14119,13 +14141,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">huske</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">muistaat</t>
+            <xg>
+               <x>Jeg husker at mor sang denne sangen til meg da jeg var liten.</x>
+               <xt>Mie muistan ette muori lauloi tämän laulun minule ko mie olin pieni.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">jääđä mielheen</t>
+            <xg>
+               <x>Jeg vil bare bli husket.</x>
+               <xt>Mie halluun tyhä jääđä muitten mielheen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24924,6 +24959,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">totteinuttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bli realisert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">tulla totheen</t>
+            <xg>
+               <x>Det er ikke godt å vite hvor bra de valgløftene kommer til å bli realisert.</x>
+               <xt>Ei ole hyvä tiettäät kunka hyvin net vaaliluppaukset tulhaan totheen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bli virkelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">tulla totheen</t>
          </tg>
       </mg>
    </e>
