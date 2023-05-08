@@ -221,6 +221,55 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="CS">som</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>når vi refererer til mennesker</re>
+            <t pos="Pron">joka</t>
+            <xg>
+               <x>Husker dere den jenta jeg snakket om?</x>
+               <xt>Muistattako sitä naista josta puhuin?</xt>
+            </xg>
+            <xg>
+               <x>Dette er mannen jeg elsker.</x>
+               <xt>Tämä oon se mies jota rakastan.</xt>
+            </xg>
+            <xg>
+               <x>Her har du en gutt som kan alt.</x>
+               <xt>Tässä sulla oon poika joka tiettää kaiken.</xt>
+            </xg>
+            <xg>
+               <x>Vi trenger folk som har gode språkkunnskaper til denne arbeidsoppgaven.</x>
+               <xt>Tähän työtehtävhään tarvittemma ihmissii joila oon hyvät kielitaiđot.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>når vi refererer til et dyr, en ting, et sted eller når vi bruker superlativ</re>
+            <t pos="Pron">mikä</t>
+            <xg>
+               <x>Si en ting som du er god på.</x>
+               <xt>Sano assiin missä olet hyvä.</xt>
+            </xg>
+            <xg>
+               <x>Det som vi forstår, det husker vi.</x>
+               <xt>Sen minkä ymmärämmä, sen met muistama.</xt>
+            </xg>
+            <xg>
+               <x>Han/hun skriver ned de fortellingene som folk fortelle nå for tida.</x>
+               <xt>Hän kirjoittaa ylös niitä muisteluksii, mitä ihmiset nyt muistelhaan.</xt>
+            </xg>
+            <xg>
+               <x>Sivva var den sterkeste mannen som noen gang har levd i Nordreisa.</x>
+               <xt>Sivva oli lujjiin mies, mikä koskhaan oon eläny Raisissa.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="Pron">all</l>
@@ -323,6 +372,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pron" stem="mi;mi">mikä</t>
+            <xg>
+               <x>Hva er favorittfargen din?</x>
+               <xt>Mikä oon sinun favorittifäri?</xt>
+            </xg>
+            <xg>
+               <x>Hva sa du? - Ingenting.</x>
+               <xt>Mitä sanoit? - En mithään.</xt>
+            </xg>
+            <xg>
+               <x>Hva har du lyst til å spise idag? - Det er det samme for meg.</x>
+               <xt>Mitä sinula oon mieli syöđä tääpänä? - No, vaikka mitäki.</xt>
+            </xg>
+            <xg>
+               <x>Si en ting du er god på.</x>
+               <xt>Sano assiin missä olet hyvä.</xt>
+            </xg>
+            <xg>
+               <x>på ingen som helst måte</x>
+               <xt>ei milhään tavala ~ laila</xt>
+            </xg>
          </tg>
       </mg>
       <mg>

@@ -24676,6 +24676,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="miele;miel">mieli</t>
+            <xg>
+               <x>Jeg er i dårlig humør.</x>
+               <xt>Minula oon huono mieli.</xt>
+            </xg>
+            <xg>
+               <x>Jeg er i dårlig humør.</x>
+               <xt>Mie olen huonossa mielessä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24973,13 +24981,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">skamfølelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">häpy</t>
+            <xg>
+               <x>Han/hun eier ikke skam.</x>
+               <xt>Sillä ei ole häppyy.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -45366,21 +45378,41 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="meiningi;meininkki">meininki</t>
+            <xg>
+               <x>Si din mening og stem!</x>
+               <xt>Sano sinun meiningin ja äänestä!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="miele;miel">mieli</t>
+            <xg>
+               <x>Er vi enige om det?</x>
+               <xt>Olemako yhtä mieltä siitä?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">mielipiđet</t>
+            <xg>
+               <x>Hva er din mening om dette forslaget?</x>
+               <xt>Mikä oon sinun mielipiđet tästä ehđotuksesta?</xt>
+            </xg>
+            <xg>
+               <x>Alle har rett til å ha sin egen mening.</x>
+               <xt>Kaikila oon oikkeus omhaan mielipitheesseen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="tarkoitukse">tarkoitus</t>
+            <xg>
+               <x>Hva er meningen med livet?</x>
+               <xt>Mikä oon elämän tarkoitus?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -57611,13 +57643,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">bakrus</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">rapukka</t>
+            <xg>
+               <x>Det er få som tar seg en trall i bakrus.</x>
+               <xt>Se oon harva joka rapukassa rallattaa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

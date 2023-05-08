@@ -398,6 +398,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">varhemin</t>
+            <xg>
+               <x>Det var lettere å lære seg kvensk før da det var flere som snakket det.</x>
+               <xt>Se oli varhemin kevveempi oppiit kväänii ko puhhuujiita oli enämen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -408,6 +412,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">ennen</t>
+            <xg>
+            <x>Han/hun hadde dratt for noen dager siden.</x>
+            <xt>Hän oli lähteny monta päivää ennen.</xt>
+            </xg>
+            <xg>
+            <x>før i verden, tidligere</x>
+            <xt>ennen mailmassa</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3489,13 +3501,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="es">
       <lg>
-         <l pos="Adv">både - og</l>
+         <l pos="Adv">jo - dess</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">sekä - että</t>
+            <t pos="Adv">mitä - sitä</t>
+            <xg>
+               <x>Jo mer jeg tenker på det, dess mer vil jeg ha det.</x>
+               <xt>Mitä enämen mie sitä ajattelen, sitä enämen mie sitä halluun.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
