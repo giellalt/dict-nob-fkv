@@ -34,23 +34,71 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	     <re>gi lov eller anledning</re>
             <t pos="V">anttaat</t>
+            <t type="expl">bruk 3.infinitiv i abessiv</t>
              <xg>
                <x>Og dere lot det bare skure!</x>
                <xt>Ja tet annoitta sen tyhä tapattuut!</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	     <re>gi lov eller anledning</re>
-            <t type="expl">bruk 3.infinitiv i abessiv</t>
+             <xg>
+               <x>La meg få lese hva du skriver!</x>
+               <xt>Anna minun nähđä mitä sie kirjoitat (til en)!</xt>
+            </xg>
+              <xg>
+               <x>Jeg lot henne forstå at dette går jeg ikke med på.</x>
+               <xt>Mie annoin hänen ymmärttäät etten mene myötä siihen.</xt>
+            </xg>
+             <xg>
+               <x>La dette bli mellom oss.</x>
+               <xt>Anna tämän olla meiđän kesken.</xt>
+            </xg>
+             <xg>
+               <x>De lot ikke noe være usagt.</x>
+               <xt>Het ei antanheet mithään olla sanomatta.</xt>
+            </xg>
              <xg>
                <x>Han kunne ikke la være å le.</x>
                <xt>Hän ei saattanu olla nauramatta.</xt>
             </xg>
               <xg>
-               <x>De lot være å reise til Spania.</x>
-               <xt>Het olthiin reissaamatta Spanihaan.</xt>
+               <x>De lot være å reise til Spania</x>
+               <xt>Het olthiin reissaamatta Spanihaan</xt>
+            </xg>
+         </tg>
+      </mg>
+              <mg>
+         <tg xml:lang="fkv">
+	     <re>med reflektivt pronomen</re>
+            <t pos="V">saattaat</t>
+            <t pos="V">anttaat</t>
+             <xg>
+               <x>Det lar seg ikke nekte.</x>
+               <xt>Sitä ei saata kielttäät.</xt>
+            </xg>
+             <xg>
+               <x>Døren lar seg ikke låse.</x>
+               <xt>Ovvee ei saata lukuttaat</xt>
+            </xg>
+             <xg>
+               <x>Det lar seg ikke forklare på noe vis.</x>
+               <xt>Sitä ei saata selittäät milhään tavala.</xt>
+            </xg>
+             <xg>
+               <x>De lar seg ikke lure.</x>
+               <xt>Het ei anna puijata itteensä.</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	     <re>oppfordring, forslag</re>
+            <t type="expl">bruk 3.pers. flertall</t>
+             <xg>
+               <x>La oss be.</x>
+               <xt>Rukkoilemma.</xt>
+            </xg>
+               <xg>
+               <x>La oss gå til stranden.</x>
+               <xt>Menemä rannale.</xt>
             </xg>
          </tg>
       </mg>
