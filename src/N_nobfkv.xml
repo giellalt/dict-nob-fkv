@@ -17499,13 +17499,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">verdi</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">arvo</t>
+            <xg>
+            <x>Husets faktiske verdi var lavere enn det jeg trodde.</x>
+            <xt>Huonheen tođelinen arvo oli matalampi ko mie luulin.</xt>
+            </xg>
+            <xg>
+            <x>Hvilke verdier er viktige for deg?</x>
+            <xt>Mikkä arvot oon sinule tärkkeet?</xt>
+            </xg>
+            <xg>
+            <x>Norske penger har dårlig verdig for tida.</x>
+            <xt>Norjan raha oon nykysin huonossa arvossa.</xt>
+            </xg>
+            <xg>
+            <x>Pekka verdsetter deg.</x>
+            <xt>Pekka pittää sinnuu arvossa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -58534,6 +58550,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">riita</t>
+            <xg>
+               <x>Det var krangel i Alta om den demninga.</x>
+               <xt>Alattiossa oli riita sen pađon päältä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -65759,13 +65779,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">håp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">toivo</t>
+            <xg>
+               <x>Pekka håper at han en gang skal få en skikkelig stor fisk.</x>
+               <xt>Pekka ellää siinä toivossa, ette kerran saapi oikhein ison kalan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
