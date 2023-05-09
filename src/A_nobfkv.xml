@@ -3891,7 +3891,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">gal</l>
       </lg>
@@ -3902,7 +3902,32 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>feil</re>
             <t pos="A">väärä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">uriktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">väärä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">feil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">väärä</t>
+            <xg>
+            <x>ta feil</x>
+            <xt>olla väärässä</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3948,6 +3973,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">yhđentekkeevä</t>
+            <xg>
+               <x>Det er likegyldig hva han/hun tenker.</x>
+               <xt>Se oon yhđentekkeevä mitä hän ajattellee.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -8905,6 +8934,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ymmyrkäinen</t>
+            <xg>
+               <x>enspråklig norsk</x>
+               <xt>ymmyrkäinen ruijalainen</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -12263,6 +12296,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>brukes vanligvis i flertall om gjensidige forhold</re>
             <t pos="A">yksituumainen</t>
+            <xg>
+               <x>De er ikke enige.</x>
+               <xt>Het ei ole yksituumaiset.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -12279,6 +12316,16 @@ For the full license text, see the link above.</lic>
    <e src="ai">
       <lg>
          <l pos="A">ensom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">yksinäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">enkeltstående</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">

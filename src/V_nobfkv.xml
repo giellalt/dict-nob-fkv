@@ -565,7 +565,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-          <e src="grom">
+          <e src="grom;es">
       <lg>
          <l pos="V">formidle</l>
       </lg>
@@ -577,6 +577,11 @@ For the full license text, see the link above.</lic>
         <mg>
          <tg xml:lang="fkv">
             <t pos="V">muistela</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">välittäät</t>
          </tg>
       </mg>
    </e>
@@ -13195,13 +13200,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">lese</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="luje;luke">lukkeet</t>
+            <xg>
+               <x>å lese høyt</x>
+               <xt>lukkeet äänheen</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -22837,17 +22846,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
-         <l pos="Phrase">være nok</l>
+         <l pos="Phrase">være bra nok</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="vältä">välttäät</t>
+            <xg>
+               <x>Den er nok bra nok for meg.</x>
+               <xt>Kyllä se minule välttää.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">unngå</l>
       </lg>
@@ -22855,8 +22868,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="vältä">välttäät</t>
             <xg>
-               <x>Alt som er unødvendig skal unngås.</x>
+               <x>Alt som er unødvendig kan unngås.</x>
                <xt>Kaikki mikä oon liiaksi saatethaan välttäät.</xt>
+            </xg>
+            <xg>
+               <x>Alt som er unødvendig skal unngås.</x>
+               <xt>Kaikkee jouttaavaa häyttyy välttäät.</xt>
             </xg>
          </tg>
       </mg>

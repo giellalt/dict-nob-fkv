@@ -7466,13 +7466,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">underveis</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">välimatkala</t>
+            <xg>
+               <x>Vi fikk medvind underveis.</x>
+               <xt>Met saima myötätuulen sielä välimatkala.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7667,13 +7671,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Adv">oppe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">ylhäälä</t>
+            <xg>
+               <x>Reinsdyrene er oppe på fjellet.</x>
+               <xt>Porot oon ylhäälä tunturissa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7695,8 +7703,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">yliniskoin</t>
             <xg>
-               <x>over ende</x>
-               <xt>yliniskoin</xt>
+               <x>Han/hun datt over ende.</x>
+               <xt>Se meni yliniskoin.</xt>
             </xg>
          </tg>
       </mg>
@@ -7737,6 +7745,10 @@ For the full license text, see the link above.</lic>
                <x>De har gjerde rundt huset.</x>
                <xt>Niilä oon aita talon ympäri.</xt>
             </xg>
+            <xg>
+               <x>Katten gikk rundt omkring i stua.</x>
+               <xt>Kissa käyskentli ympäri tuppaa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -7762,6 +7774,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">ympärillä</t>
+            <xg>
+               <x>Det vokste mye bjørker der omkring.</x>
+               <xt>Siinä kasus paljon koijui siinä ympärillä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -8922,8 +8938,23 @@ For the full license text, see the link above.</lic>
          <re>med posessiv suffix etter person, -ni, sti, nsa, mma, nna, nsa</re>
             <t pos="Adv">puolestani</t>
             <xg>
-            <x>Mie puolestani olen Ruottin puolelta.</x>
-            <xt>Jeg for min del er fra Sverige.</xt>
+            <x>Jeg for min del er fra Sverige.</x>
+            <xt>Mie puolestani olen Ruottin puolelta.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">imens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>mens</re>
+            <t pos="Adv">sillä vällii</t>
+            <xg>
+            <x>Mens de andre spiste, var vi i badstuen</x>
+            <xt>Sillä vällii ko toiset syöthiin, sillä vällii met olima saunassa</xt>
             </xg>
          </tg>
       </mg>
