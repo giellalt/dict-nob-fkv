@@ -3521,6 +3521,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">herraton</t>
+            <xg>
+               <x>Du store min tid!</x>
+               <xt>Voi herraton aika!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3578,21 +3582,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>om været</re>
             <t pos="A">vaisto</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">hiljain</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">vaiti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">ääneti</t>
          </tg>
       </mg>
    </e>
@@ -10424,11 +10413,6 @@ For the full license text, see the link above.</lic>
             <t pos="A" stem="vihaise;vihais">vihainen</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">vihaisesti</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -11902,6 +11886,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>f.eks betent finger</re>
             <t pos="A" stem="vihaise;vihais">vihainen</t>
          </tg>
       </mg>

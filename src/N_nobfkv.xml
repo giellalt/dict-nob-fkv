@@ -11116,13 +11116,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="mj;es">
       <lg>
          <l pos="N">bekymring</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">huoli</t>
+            <xg>
+            <x>å være bekymret, bekymre seg</x>
+            <xt>olla huolissa</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11133,6 +11137,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hoppu</t>
+            <xg>
+            <x>Jeg har det travelt</x>
+            <xt>Minula oon hoppu</xt>
+            </xg>
+            <xg>
+            <x>Nå får jeg det travelt</x>
+            <xt>Nyt minule tullee hoppu</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -19025,6 +19037,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="henge;henkke">henki</t>
+            <xg>
+               <x>(nesten) halvdød</x>
+               <xt>vähissä hengin</xt>
+            </xg>
+            <xg>
+               <x>å drepe</x>
+               <xt>ottaat hengiltä</xt>
+            </xg>
+            <xg>
+               <x>å flykte for livet</x>
+               <xt>pajeta hengen eđestä</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -21360,19 +21384,18 @@ For the full license text, see the link above.</lic>
             <t pos="N">haltija</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">halttija</t>
-         </tg>
-      </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">lyst</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="hallu">halu</t>
+            <xg>
+               <x>Gutten hadde lyst å se verden.</x>
+               <xt>Pojala oli halu nähđä mailmaa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -22699,6 +22722,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="henge;henkke">henki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ånde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">henki</t>
+            <xg>
+               <x>Isak har dårlig ånde.</x>
+               <xt>Iiskola haissee henki.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24312,6 +24349,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">humala</t>
+            <xg>
+            <x>være full</x>
+            <xt>olla humalassa</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24345,13 +24386,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="es">
+      <lg>
+         <l pos="N">påpekning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">huomhautus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
       <lg>
          <l pos="N">merknad</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">huomhaatus</t>
+            <t pos="N">huomhautus</t>
          </tg>
       </mg>
    </e>
@@ -40067,6 +40118,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N" stem="laji;lakki">laki</t>
             <xg>
+               <x>Loven trer i kraft kommende år.</x>
+               <xt>Laki tullee voimhaan ensi vuona.</xt>
+            </xg>
+            <xg>
                <x>Loven er fremdeles i kraft.</x>
                <xt>Laki oon vielä voimassa.</xt>
             </xg>
@@ -50870,7 +50925,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">svette</l>
       </lg>
@@ -62325,6 +62380,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sosialisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">glødebrann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>et bål som brenner uten flammer, kun glør</re>
+            <t pos="N">kytömävalkkee</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">glødebål</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>et bål som brenner uten flammer, kun glør</re>
+            <t pos="N">kytömävalkkee</t>
          </tg>
       </mg>
    </e>
@@ -79556,6 +79633,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">harhatie</t>
+            <xg>
+               <x>Jeg ser syner.</x>
+               <xt>Mie näjen harhoi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -86936,6 +87017,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tunkkii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">formidling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">välittäminen</t>
          </tg>
       </mg>
    </e>

@@ -1825,8 +1825,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="korjaa;korjan">korjata</t>
-            <t pos="Phrase">pittäät huolen</t>
-             <t pos="Phrase">ottaat vaarin</t>
+            <t pos="Phrase">ottaat vaarin</t>
+             <t pos="Phrase">pittäät huolen</t>
+            <xg>
+               <x>Ta vare på deg selv</x>
+               <xt>Piđä huolen ittestä</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4973,7 +4977,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">huvittaat</t>
             <xg>
                <x>Det hadde man ikke lyst til.</x>
-               <xt>Se ei huvita.</xt>
+               <xt>Se ei huvittannu.</xt>
             </xg>
          </tg>
       </mg>
@@ -6523,13 +6527,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Phrase">være bekymret</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="hättäile;hättäil">hättäilä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">olla huolissa</t>
          </tg>
       </mg>
    </e>
@@ -6550,6 +6559,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">hävettäät</t>
+            <xg>
+               <x>Jeg skjemmes av å tenke på det.</x>
+               <xt>Minnuu hävettää ajatella sitä.</xt>
+            </xg>
+            <xg>
+               <x>Jeg skjemmes av å snorke.</x>
+               <xt>Minnuu hävettää kuorsata.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -6558,6 +6575,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Folk behøver ikke å skjemmes over sitt eget språk.</x>
                <xt>Ei ihminen tarvitte hävetä hänen omasta kielestä/hänen ommaa kieltä.</xt>
+            </xg>
+            <xg>
+               <x>Pekka skjemmes over det han har sagt.</x>
+               <xt>Pekka häppee ittensä puhheitä.</xt>
             </xg>
          </tg>
       </mg>
@@ -9961,6 +9982,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kohtaa;kohđan">kohđata</t>
+            <xg>
+               <x>Det var hyggelig å treffe deg.</x>
+               <xt>Se oli soma kohđata sinun.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -9972,6 +9997,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>når man sikter</re>
             <t pos="V" stem="ossaa;osan">osata</t>
+            <xg>
+               <x>Jeg forsøkte å treffe målet fra hundre meters avstand.</x>
+               <xt>Mie freistasin osata moolhiin sađan meetterin päästä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -14107,6 +14136,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">pajeta</t>
+            <xg>
+               <x>å flykte for livet</x>
+               <xt>pajeta hengen eđestä</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14367,6 +14400,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">surmata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">ottaat hengiltä</t>
          </tg>
       </mg>
    </e>
@@ -14964,6 +15002,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Pekka tror på Gud.</x>
                <xt>Pekka uskoo Jumalhaan.</xt>
+            </xg>
+            <xg>
+               <x>Tror du meg ikke?</x>
+               <xt>Etkö usko minnuu?</xt>
             </xg>
          </tg>
       </mg>
@@ -15895,18 +15937,31 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>når man sikter</re>
+	         <re>ha evne til</re>
             <t pos="V" stem="ossaa;osan">osata</t>
+            <xg>
+               <x>Jeg kan svømme.</x>
+               <xt>Mie ossaan uiđa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="saata">saattaat</t>
+            <xg>
+               <x>De kunne ikke et ord norsk.</x>
+               <xt>Het ei saattanheet ruijaa halkaistuu sannaa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>sannsynligvis, visst, kanskje</re>
             <t pos="V" stem="taiđa">taittaat</t>
+            <xg>
+               <x>Det er visst vår.</x>
+               <xt>Taittaa olla kevät.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -16690,6 +16745,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">passata</t>
             <t pos="Phrase">pittäät huolen</t>
+            <xg>
+               <x>Pass på at stedet er i god stand når du drar</x>
+               <xt>Piđä huolen siitä, ette paikka jääpi hyvhään kunthoon ko lähđet</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -17547,7 +17606,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="porise;poris">porista</t>
+            <t pos="V" stem="puhu;puhu">puhhuut</t>
          </tg>
       </mg>
       <mg>
@@ -17562,7 +17621,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="puhu;puhu">puhhuut</t>
+            <t pos="V" stem="porise;poris">porista</t>
          </tg>
       </mg>
       <mg>
@@ -18252,7 +18311,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">pärjätä hengen</t>
+            <t pos="Phrase">pärjätä hengen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">være full</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">olla humalassa</t>
          </tg>
       </mg>
    </e>
@@ -22647,6 +22716,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">vistottaat</t>
+            <xg>
+               <x>Jeg ble kvalm av å se den gubben.</x>
+               <xt>Minnuu vistotti nähđä sen äijän.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -22657,6 +22730,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">vistottaat</t>
+            <xg>
+               <x>Jeg ble kvalm av å se den gubben.</x>
+               <xt>Minnuu vistotti nähđä sen äijän.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -22773,6 +22850,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="vähene;vähen">vähetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bli mindre av noe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="vähene;vähen">vähetä</t>
+            <xg>
+            <x>Det blir mindre og mindre av det.</x>
+            <xt>Se vähenee ette vähenee.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -25621,7 +25712,26 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">saađa aikhaan</t>
+            <t pos="Phrase">saađa aikhaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bli viet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">mennä vihile</t>
+            <t pos="Phrase">käyđä vihilä</t>
+            <xg>
+               <x>De ble viet.</x>
+               <xt>Het menthiin vihile.</xt>
+            </xg>
+            <xg>
+               <x>De ble viet.</x>
+               <xt>Het käythiin vihilä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -25727,6 +25837,16 @@ For the full license text, see the link above.</lic>
                <x>Jeg forsøkte å forhandle om lønna, slik at jeg skulle få mer.</x>
                <xt>Mie freistasin tingata palkan päältä ette saisin sen ylös.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bekymre seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">olla huolissa</t>
          </tg>
       </mg>
    </e>

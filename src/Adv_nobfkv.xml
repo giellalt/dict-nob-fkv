@@ -1824,16 +1824,47 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">hithaamin</t>
+            <xg>
+               <x>Vær så snill og snakk saktere så jeg forstår.</x>
+               <xt>Ole siivo ja puhu hithaamin ette ymmärän.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="Adv">langsomt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">hithaasti</t>
+            <xg>
+               <x>Vær så snill og snakk sakte så jeg forstår.</x>
+               <xt>Ole siivo ja puhu hithaasti ette ymmärän.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hiljolensa</t>
+            <xg>
+               <x>Bestefaren går langsomt langs veien.</x>
+               <xt>Äijä kulkkee tietä hiljolensa.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">i ro og fred</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hiljolensa</t>
+            <xg>
+               <x>Der levde Pekka og Hilda i ro og fred.</x>
+               <xt>Sielä Pekka ja Hilda hiljolensa elethiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3926,7 +3957,20 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">viimeksi</t>
+            <xg>
+               <x>Til slutt tenkte hun at denne mannen snakker alt for mye, og hun dro hjem.</x>
+               <xt>Viimeksi se ajatteli ette tämä mies puhhuu liijan paljon, ja lähti kothiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Adv">viimen</t>
+            <xg>
+               <x>til sjuende og sist</x>
+               <xt>viimen viimeksi</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5134,6 +5178,34 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">i livet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hengissä</t>
+            <xg>
+               <x>Han er i livet.</x>
+               <xt>Hän oon hengissä.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">spredt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">harvassa</t>
+            <xg>
+               <x>Det var få hus der.</x>
+               <xt>Sielä oli huonheita harvassa.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="Adv">dovna</l>
@@ -5461,6 +5533,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">vieritysten</t>
+            <xg>
+            <x>De sitter side om side.</x>
+            <xt>Het istuthaan vieritysten.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7201,6 +7277,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ai">
+      <lg>
+         <l pos="Adv">sint</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vihaisesti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vihassa</t>
+            <t pos="Adv">suutuksissa</t>
+            <xg>
+               <x>å være sint</x>
+               <xt>olla vihassa</xt>
+            </xg>
+            <xg>
+               <x>å være sint</x>
+               <xt>olla suutuksissa</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="Adv">til sist</l>
@@ -7208,6 +7308,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">viimen</t>
+            <xg>
+               <x>til sjuende og sist</x>
+               <xt>viimen viimeksi</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -7796,13 +7900,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Adv">for litt siden</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">äskön</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hiljan</t>
+            <t pos="Adv">hiljattain</t>
+            <xg>
+               <x>Mie kävin hiljan Uslussa.</x>
+               <xt>Jeg tok meg en tur til Oslo for en stund siden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8042,6 +8156,35 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">stille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hiljaa</t>
+            <xg>
+            <x>Hän puhhuu hiljaa.</x>
+            <xt>Han/hun snakker lavt, stille.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hiljain</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vaiti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">ääneti</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai;es">
       <lg>
          <l pos="Adv">borte</l>
@@ -8054,6 +8197,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">hukassa</t>
+            <xg>
+            <x>Jeg har mistet nøklene mine.</x>
+            <xt>Mulla oon avvaimet hukassa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8064,6 +8211,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">huolimatta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">til tross for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">huolimatta</t>
+            <xg>
+            <x>Jeg har lært meg å leve et lykkelig liv til tross for sykdommen.</x>
+            <xt>Mie olen oppinu elämhään onnelista elämää tauđista huolimatta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
