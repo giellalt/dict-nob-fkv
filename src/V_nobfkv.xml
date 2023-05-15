@@ -3898,7 +3898,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">åpne</l>
       </lg>
@@ -3911,6 +3911,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>flere ganger</re>
             <t pos="V">aukkoot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">avata</t>
          </tg>
       </mg>
    </e>
@@ -4092,7 +4097,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">skille</l>
       </lg>
@@ -4102,6 +4107,15 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Grensene skiller folk fra hverandre.</x>
                <xt>Rajat eristethään kansat toinen toisesta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">erkkainuttaat</t>
+            <xg>
+            <x>Ingenting kan skille oss fra hverandre.</x>
+            <xt>Ei mikhään saata erkkainuttaat meitä toisistamma.</xt>
             </xg>
          </tg>
       </mg>
@@ -24467,13 +24481,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Phrase">ordne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">oornaanttuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">tulla kunthoon</t>
          </tg>
       </mg>
    </e>
@@ -24503,7 +24522,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">painottaat</t>
+            <t pos="V">painoittaat</t>
          </tg>
       </mg>
    </e>
@@ -24513,7 +24532,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">painottaat</t>
+            <t pos="V">painoittaat</t>
          </tg>
       </mg>
    </e>
@@ -24523,7 +24542,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">painottaat</t>
+            <t pos="V">painoittaat</t>
+            <xg>
+            <x>Det er satt opp mange viktige punkter i dokumentet om hva vi må legge vekt på.</x>
+            <xt>Dokumentissa oon pantu ylös paljon tärkkeitä punktii siitä mitä met häyđymä painoittaat.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -25847,6 +25870,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">olla huolissa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">marginalisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">marginaliseerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">marginalisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">marginaliseerata</t>
          </tg>
       </mg>
    </e>
