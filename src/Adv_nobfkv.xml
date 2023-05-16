@@ -1034,7 +1034,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Adv">lengre ned</l>
       </lg>
@@ -1056,6 +1056,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">alempanna</t>
+            <xg>
+            <x>Du finner instruksene til oppgaven lengre ned i teksten</x>
+            <xt>Alempanna tekstissä oon tehtävän ohjheet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2160,13 +2164,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ki">
       <lg>
          <l pos="Adv">for evig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">iänkaikkisesti</t>
+            <t pos="Adv">ijänkaikkisesti</t>
          </tg>
       </mg>
    </e>
@@ -3343,7 +3347,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="Adv">opp ned</l>
       </lg>
@@ -3355,6 +3359,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kumossa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">alas-ylös</t>
          </tg>
       </mg>
    </e>

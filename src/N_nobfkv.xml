@@ -6005,13 +6005,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ki">
       <lg>
          <l pos="N">hilsen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">tervheissii</t>
+            <t pos="N">tervettely</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">tervheissii</t>
+            <xg>
+            <x>med vennlig hilsen</x>
+            <xt>ystävällissii tervheissii</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13140,16 +13149,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
-         <l pos="N">sted</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">plassi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
          <l pos="N">område</l>
       </lg>
       <mg>
@@ -13364,16 +13363,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">paiski</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ia">
-      <lg>
-         <l pos="N">sted</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">paikka</t>
          </tg>
       </mg>
    </e>
@@ -15109,6 +15098,569 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki;akr">
+      <lg>
+         <l pos="N">rettferdighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">oikkeuđenmyötäisyys</t>
+            <t pos="N">oikkeuđenmukaisuus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>relig.</re>
+            <t pos="N">vanhurskaus</t>
+            <xg>
+            <x>Jumala anttaa vanhurskauđen. Kuka silloin saattaa tuomita kađotuksheen?</x>
+            <xt>Gud er den som frikjenner. Hvem kan da fordømme?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gjenfødelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">uuđestisyntyminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">reinkarnasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">uuđestisyntyminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ukrainer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ukrainalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">himmelfart</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">taivhaasseennousu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">menighetsavis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">seurakunta-aviisi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pandemi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pandemii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">påskehilsen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">päässiistervettely</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">misjonskonferanse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">misuunikonferansi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">evangelium</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">evankeeliumi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">evangelist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">evangelisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">usikkerhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">epävarmuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fortvilelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">epätoivo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">babyloner</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">babylonilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nakenhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">alastommuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mismot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">alakuloisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nedtrykthet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">alakuloisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">Paulus' brev til romerne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Roomalaispreivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">inngangsbønn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">alkurukkous</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Nord-Hålogaland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Pohjais-Hålogaland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">jordpåkastelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>relig.</re>
+            <t pos="N">mullanheitto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">menneskebarn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ihmisenlapsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">skriftlesning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>relig.</re>
+            <t pos="Phrase">Jumalan sanat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fiendebilde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">viholiskuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kirkemøte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kirkonkokkous</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">visjonsdokument</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">visuunidokumentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">klimakrise</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kliimakriisi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">diakoni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">diakoni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">deklarasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">deklarasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">tyranni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tyranni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">arbeidsforhold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">työsuhđet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">arbeidsevne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">työkyky</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">toleranse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">toleransi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">meddelelsesmiddel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tietokanaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">informasjonskanal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tietokanaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">helseomsorg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tervheyđenhoito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">suverenitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suvereniteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">rase</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">raasa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">talefrihet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puhheenvaphaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">korrespondanse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">preivinvaihettaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">brevveksling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">preivinvaihettaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="Phrase">grunnleggende frihet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">perusvaphaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="Phrase">grunnleggende rettighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">perusoikkeus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">personlighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">persoonallisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">slaveri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">orjuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">moral</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">moraali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">individ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">indiviidi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">velvære</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hyvinvointi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">velferd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hyvinvoiminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">fagforening</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">faakiforeeninki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">fortrinnsrett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ensioikkeus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">levestandard</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">elämänstandardi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="Phrase">erklæring om menneskerettigheter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ihmisoikkeusdeklarasuuni</t>
+         </tg>
+      </mg>
+   </e>   
+   <e src="akr">
+      <lg>
+         <l pos="N">menneskerettighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ihmisoikkeus</t>
+         </tg>
+      </mg>
+   </e>   
+   <e src="akr">
+      <lg>
+         <l pos="N">deklarasjon om menneskerettigheter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ihmisoikkeusdeklarasuuni</t>
+         </tg>
+      </mg>
+   </e>   
    <e src="es">
       <lg>
          <l pos="N">meddelelse</l>
@@ -26727,13 +27279,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">evighet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ikuisuus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ijänkaikkisuus</t>
          </tg>
       </mg>
    </e>
@@ -26767,13 +27324,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">tristhet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="ikävyyđe;ikävyyt">ikävyys</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">alakuloisuus</t>
          </tg>
       </mg>
    </e>
@@ -35307,13 +35869,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ia">
       <lg>
          <l pos="N">sted</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kohta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paikka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">plassi</t>
          </tg>
       </mg>
       <mg>
@@ -42000,13 +42572,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">barmhjertighet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="lauppeuđe;lauppeut">lauppeus</t>
+            <t pos="N">lauppeus</t>
+            <t pos="N">laupheus</t>
          </tg>
       </mg>
    </e>
@@ -50326,10 +50899,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;akr">
       <lg>
          <l pos="N">domstol</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tuomioistuin</t>
+            <t pos="N">tuomiotooli</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="oikkeuđe;oikkeut">oikkeus</t>
@@ -54795,6 +55374,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">plaana</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suunitelma</t>
          </tg>
       </mg>
    </e>
@@ -64497,13 +65081,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">fødested</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">syntymäpaikka</t>
+            <t pos="N">synnyttämäpaikka</t>
          </tg>
       </mg>
    </e>
@@ -69758,13 +70343,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">makt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="valla;valtta">valta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mahti</t>
          </tg>
       </mg>
    </e>
@@ -69968,23 +70558,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">frelser</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vapahtaaja</t>
+            <t pos="N">vaphauttaaja</t>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">frigjører</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vapahtaaja</t>
+            <t pos="N">vapattaaja</t>
          </tg>
       </mg>
    </e>
@@ -71562,13 +72154,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">kraft</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">voima</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mahti</t>
          </tg>
       </mg>
    </e>
@@ -72214,13 +72811,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">fellesskap</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="yhtheyđe;yhtheyt">yhtheys</t>
+            <t pos="N">yhtheys</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yhtheiskuuluvaisuus</t>
          </tg>
       </mg>
    </e>
@@ -72330,13 +72932,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">oppstandelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ylösnouseminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">uuđestisyntyminen</t>
          </tg>
       </mg>
    </e>
@@ -78677,13 +79284,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;akt">
       <lg>
          <l pos="N">arrest</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">aarasti</t>
+            <t pos="N">arresti</t>
          </tg>
       </mg>
    </e>
@@ -82440,7 +83048,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="N">målestokk</l>
       </lg>
@@ -82451,6 +83059,11 @@ For the full license text, see the link above.</lic>
             <x>kart i liten målestokk</x>
             <xt>pienimittapuinen kartta</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mitta</t>
          </tg>
       </mg>
    </e>
@@ -84807,13 +85420,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;akr">
       <lg>
          <l pos="N">statsborgerskap</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">staatinporvaruus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kansalaisuus</t>
          </tg>
       </mg>
    </e>
@@ -86363,13 +86981,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;akr">
       <lg>
          <l pos="N">oppdragelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ylöskasutus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ylöskassuuttaminen</t>
          </tg>
       </mg>
    </e>

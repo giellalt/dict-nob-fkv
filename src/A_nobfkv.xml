@@ -4216,7 +4216,112 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ki">
+      <lg>
+         <l pos="A">overforbruk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">ylimäärätön pito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">lidende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kärsiivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">fortvilt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">epätoivoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">nattlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>natt-</re>
+            <t pos="A">öinen</t>
+            <xg>
+            <x>natthimmel</x>
+            <xt>öinen taivas</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">utvalgt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">valittu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">valgt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">valittu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">vellykket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">menestynny</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">velsignet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">siunattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ukrainsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ukrainalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">babylonsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">babylonilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;ki">
       <lg>
          <l pos="A">evig</l>
       </lg>
@@ -4227,7 +4332,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">iänkaikkinen</t>
+            <t pos="A">ijänkaikkinen</t>
          </tg>
       </mg>
    </e>
@@ -13953,10 +14058,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>å ferdes i</re>
             <t pos="A">maisematon</t>
             <xg>
-            <x>Å ferdes i dårlig terreng var vanskelig i nattmørket.</x>
+            <x>Det var vanskelig å gå i det dårlige terrenget i nattmørket.</x>
             <xt>Yöpimmeessä oli huono kävelä maisematonta maata.</xt>
             </xg>
          </tg>
@@ -13968,7 +14072,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>å ferdes i</re>
             <t pos="A">maisseeva</t>
          </tg>
       </mg>
