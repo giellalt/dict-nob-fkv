@@ -6547,6 +6547,12 @@ For the full license text, see the link above.</lic>
             <t pos="A">lievä</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>om person, en varm person</re>
+            <t pos="A">lämminsyđäminen</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -15560,6 +15566,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">persoonallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">varmhjertet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">lämminsyđäminen</t>
          </tg>
       </mg>
    </e>

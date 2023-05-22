@@ -15305,7 +15305,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Pohjais-Hålogaland</t>
+            <t pos="N">Pohjais-Hålogalanti</t>
          </tg>
       </mg>
    </e>
@@ -48834,7 +48834,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;ki">
       <lg>
          <l pos="N">medfølelse</l>
       </lg>
@@ -48876,6 +48876,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">mähättäjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vigselsliturgi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vihkimäliturgii</t>
          </tg>
       </mg>
    </e>

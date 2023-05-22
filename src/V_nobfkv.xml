@@ -3898,7 +3898,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="V">åpne</l>
       </lg>
@@ -12926,16 +12926,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">nærme seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">lijetä</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;es">
       <lg>
          <l pos="Phrase">bli skitten</l>
@@ -13562,7 +13552,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">lijetä</t>
             <t pos="V">lähetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">komme nærmere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">likenttyyt</t>
+            <xg>
+            <x>La ditt rike komme.</x>
+            <xt>Likenytkhöön sinun valtakunta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21689,7 +21694,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="V">forsterke</l>
       </lg>
@@ -25873,7 +25878,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="V">marginalisere</l>
       </lg>
@@ -25883,13 +25888,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
-         <l pos="V">marginalisere</l>
+         <l pos="V">juble</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">marginaliseerata</t>
+            <t pos="V">riemuita</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">styrke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">lujittaat</t>
+            <xg>
+            <x>Styrk dem med din Ånd, så de i gode og onde dager setter sin lit til deg, holder trofast sammen og hjelper hverandre fram mot det evige liv.</x>
+            <xt>Lujita heitä sinun Hengelä, niin ette het hyvinä ja pahoina päivinä luottaava sinhuun, pysyyvä uskolisesti yhđessä ja auttaava toinen toista matkala kohđi ikuista elämää.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
