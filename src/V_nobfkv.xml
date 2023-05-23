@@ -13550,7 +13550,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Phrase">nærme seg</l>
       </lg>
@@ -13558,6 +13558,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">lijetä</t>
             <t pos="V">lähetä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">likenttyyt</t>
          </tg>
       </mg>
    </e>
@@ -25890,6 +25895,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="Phrase">komme nærmere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">likenttyyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="V">styrke</l>
       </lg>
       <mg>
@@ -25897,7 +25912,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">lujittaat</t>
             <xg>
             <x>Styrk dem med din Ånd, så de i gode og onde dager setter sin lit til deg, holder trofast sammen og hjelper hverandre fram mot det evige liv.</x>
-            <xt>Lujita heitä sinun Hengelä, niin ette het hyvinä ja pahoina päivinä luottaava sinhuun, pysyyvä uskolisesti yhđessä ja auttaava toinen toista matkala kohđi ikuista elämää.</xt>
+            <xt>Lujita heitä sinun Hengelä, niin ette het hyvinä ja pahoina päivinä luottaava sinhuun, pyssyyvä uskolisesti yhđessä ja auttaava toinen toista matkala kohđi ikuista elämää.</xt>
             </xg>
          </tg>
       </mg>
