@@ -13326,16 +13326,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">gi opp</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">luoppuut</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="V">skape</l>
@@ -14558,7 +14548,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Phrase">gi etter</l>
       </lg>
@@ -14570,6 +14560,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="myöttää;myöđän">myöđätä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">anttaat pörhään</t>
+            <xg>
+            <x>Jeg gir ikke etter.</x>
+            <xt>Mie en anna pörhään.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -25772,21 +25771,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
-      <lg>
-         <l pos="Phrase">gi etter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Phrase">anttaat pörhään</t>
-            <xg>
-            <x>Jeg gir ikke etter.</x>
-            <xt>Mie en anna pörhään.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
+   <e src="es;ai">
       <lg>
          <l pos="Phrase">gi opp</l>
       </lg>
@@ -25798,6 +25783,11 @@ For the full license text, see the link above.</lic>
             <x>Bare ikke gi opp, dette kommer til å bli bra.</x>
             <xt>Älä vain anna ylös, kyllä tästä vielä hyvä tullee.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">luoppuut</t>
          </tg>
       </mg>
    </e>
