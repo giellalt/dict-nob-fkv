@@ -1532,26 +1532,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Adv">sør</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">etelä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">etelä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">orja</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
          <l pos="Adv">framover</l>
       </lg>
       <mg>
@@ -4931,6 +4911,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">perilä</t>
+            <xg>
+               <x>Er vi framme snart?</x>
+               <xt>Olemako kohta perilä?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">esilä</t>
+            <xg>
+               <x>Det kvenske språket er oftere synlig i samfunnet idag.</x>
+               <xt>Kväänin kieli oon usheemasti esilä samfynnissa tääpänä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4943,7 +4936,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">perrää</t>
             <xg>
                <x>Jeg vet ikke om det er sant.</x>
-               <xt>Tieđä, oonko siinä perrää.</xt>
+               <xt>En tieđä, oonko siinä perrää.</xt>
             </xg>
          </tg>
       </mg>
@@ -8551,6 +8544,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">öystemäksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">lenger sør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">etelämpänä</t>
          </tg>
       </mg>
    </e>

@@ -12344,12 +12344,18 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;ai;ta">
       <lg>
          <l pos="N">sør</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">etelä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">orja</t>
             <t pos="N">orjapuoli</t>
          </tg>
       </mg>
@@ -78942,6 +78948,9 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">etelämaa</t>
+            <xg>
+            <x>De drar ned til syden.</x>
+            <xt>Het menhään sinne etelämaile.</xt>
          </tg>
       </mg>
    </e>
