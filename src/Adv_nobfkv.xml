@@ -6150,7 +6150,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">sisälä</t>
-                        <xg>
+            <xg>
                <x>Kreeta bor inne i skogen.</x>
                <xt>Kreeta assuu mettän sisälä.</xt>
             </xg>
@@ -6162,13 +6162,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">på innsiden</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">sisäpuolela</t>
+            <xg>
+               <x>på innsiden av huset, inne i huset</x>
+               <xt>huonheen sisäpuolela</xt>
+            </xg>
          </tg>
       </mg>
    </e>

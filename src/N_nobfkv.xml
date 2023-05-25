@@ -754,6 +754,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">SoMe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>forkortelse</re>
+         <t pos="N">SoMe</t>
+         <xg>
+         <x>sosiale medier</x>
+         <xt>sosiaaliset meediat</xt>
+         </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="na">
       <lg>
          <l pos="N">rødvin</l>
@@ -61644,7 +61659,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">øyeblikk</l>
       </lg>
@@ -61656,6 +61671,10 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">silmänväli</t>
+            <xg>
+            <x>Vent et øyeblikk.</x>
+            <xt>Ođota silmänvälin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -62418,13 +62437,18 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">fordragelighet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="sovino;sovintto">sovinto</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sopimus</t>
          </tg>
       </mg>
    </e>
