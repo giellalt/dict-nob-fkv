@@ -25154,13 +25154,14 @@ kuohukkoon.</xt>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="hythee">hyđet</t>
+         <re>insekt</re>
+            <t pos="N">mäkärä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>insekt</re>
-            <t pos="N">mäkärä</t>
+	         <re>mäkärä større enn hyđet</re>
+            <t pos="N" stem="hythee">hyđet</t>
          </tg>
       </mg>
    </e>
@@ -46707,6 +46708,10 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">muutti</t>
+            <xg>
+            <x>være på mote</x>
+            <xt>olla muutissa</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -47002,16 +47007,6 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="muuttumise;muuttumis">muuttuminen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">være på mote</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">muutti</t>
          </tg>
       </mg>
    </e>
@@ -47431,6 +47426,14 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">naama</t>
+            <xg>
+               <x>Hun/han er stor i kjeften.</x>
+               <xt>Hänelä oon kyllä iso naama.</xt>
+            </xg>
+            <xg>
+               <x>å rive kjeft</x>
+               <xt>reppiit naamaa</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -47826,38 +47829,49 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">søskenbarn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">neppain</t>
+            <t pos="Phrase">ensimäiset neppaimet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="nepu;neppu">nepu</t>
+            <t pos="Phrase">ensimäiset neput</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">serkku</t>
+            <t pos="Phrase">ensimäiset serkut</t>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">tremenninger</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">neppain</t>
+            <t pos="Phrase">toiset neppaimet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">serkku</t>
+            <t pos="Phrase">toiset serkut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">neppu</t>
+            <t pos="Phrase">toiset neput</t>
          </tg>
       </mg>
    </e>
