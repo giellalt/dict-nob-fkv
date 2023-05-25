@@ -45395,7 +45395,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">mening</l>
       </lg>
@@ -45407,16 +45407,28 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="miele;miel">mieli</t>
+            <xg>
+               <x>Det er mange meninger om det.</x>
+               <xt>Siitä oon monta mieltä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">mielipiđet</t>
+            <xg>
+               <x>Alle har rett til å ha sin egen mening.</x>
+               <xt>Kaikila oon oikkeus omhaan mielipitheesseen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="tarkoitukse">tarkoitus</t>
+            <xg>
+               <x>Hva er meningen med livet?</x>
+               <xt>Mikä oon elämän tarkoitus?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -63990,7 +64002,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">trolldom</l>
       </lg>
@@ -64000,6 +64012,10 @@ kuohukkoon.</xt>
             <xg>
                <x>Det er ikke noe trolldom i det.</x>
                <xt>Ei siinä ole taikkaa.</xt>
+            </xg>
+            <xg>
+               <x>De er ikke til noen hjelp.</x>
+               <xt>Ei niistä ole taikkaa.</xt>
             </xg>
          </tg>
       </mg>
@@ -64592,13 +64608,17 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">behov</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="tarpee">tarvet</t>
+            <xg>
+            <x>etter behov</x>
+            <xt>tarpheen jälkhiin</xt>
+            </xg>
          </tg>
       </mg>
    </e>

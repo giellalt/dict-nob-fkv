@@ -3775,11 +3775,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">hirvee</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A" stem="isso">iso</t>
          </tg>
       </mg>
@@ -3810,6 +3805,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">melkoinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">hirvee</t>
          </tg>
       </mg>
    </e>
@@ -3965,6 +3965,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">perustamaton</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="A">yhđentekkeevä</t>
             <xg>
                <x>Det er likegyldig hva han/hun tenker.</x>
@@ -3974,7 +3979,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">perustamaton</t>
+            <t pos="Adv">tasan</t>
+            <xg>
+               <x>Det er meg likegyldig hva folk tenker om meg.</x>
+               <xt>Se tekkee mulle tasan mitä ihmiset ajatelhaan minusta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

@@ -6404,6 +6404,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
+         <l pos="Adv">ta i bevaring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">ottaat taltheen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
          <l pos="Adv">ta vare på</l>
       </lg>
       <mg>
@@ -6413,16 +6423,15 @@ For the full license text, see the link above.</lic>
                <x>ta vare på</x>
                <xt>ottaat taltheen</xt>
             </xg>
+            <xg>
+               <x>ta i bevaring</x>
+               <xt>ottaat taltheen</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="korjaa;korjan">korjata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">ottaat taltheen</t>
          </tg>
       </mg>
    </e>
@@ -7458,6 +7467,21 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>ikke engang</x>
                <xt>ei eđes</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">ikke engang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">ei eđes</t>
+            <t pos="Adv">ei koko</t>
+            <xg>
+               <x>Han ville ikke turt å komme en gang.</x>
+               <xt>Ei se koko tohtiskhaan tulla.</xt>
             </xg>
          </tg>
       </mg>
