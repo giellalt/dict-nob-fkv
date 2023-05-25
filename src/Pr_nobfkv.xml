@@ -1864,7 +1864,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Pr">i stedet for</l>
       </lg>
@@ -1880,6 +1880,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">sijasta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sen sijhaan</t>
+            <t pos="Po">sijhaan</t>
+            <xg>
+               <x>Jeg må ta bort de gamle bordene og ha nye i stedet.</x>
+               <xt>Häyđyn ottaat pois vanhaat lauđat ja panna uutta sijhaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

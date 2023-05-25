@@ -1184,6 +1184,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">derimot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">puolesthaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">såpass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">siksi</t>
+            <xg>
+            <x>Han/hun er såpass gammel at hen forstår.</x>
+            <xt>Se on jo siksi vanhaa ette ymmärttää.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="Adv">på hverdager</l>
@@ -2670,6 +2694,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">sikemäksi</t>
+            <xg>
+            <x>lengere mot nord</x>
+            <xt>sikemäksi pohjaisheen</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -6023,16 +6051,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">siitä saakka</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Adv">lengre mot nord</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">sikemäksi</t>
          </tg>
       </mg>
    </e>
