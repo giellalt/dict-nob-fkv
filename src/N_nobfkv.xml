@@ -63675,13 +63675,17 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">spising</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">syöminen</t>
+            <xg>
+            <x>Det fins ingenting å spise her.</x>
+            <xt>Ei ole mithään syömistä täälä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -63751,13 +63755,17 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta;kl;es">
       <lg>
          <l pos="N">hjerte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="syđäme">syđän</t>
+            <xg>
+            <x>Jeg er kvalm.</x>
+            <xt>Minula oon syđän huono.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

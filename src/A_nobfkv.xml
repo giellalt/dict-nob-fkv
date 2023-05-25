@@ -3785,6 +3785,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A" stem="suure;suur">suuri</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="A">kokoinen</t>
             <xg>
                <x>fem øre stor, stor som en femøring</x>
@@ -3794,18 +3799,17 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="suure;suur">suuri</t>
+	         <re>om omfang</re>
+            <t pos="A">suurukainen</t>
+            <xg>
+            <x>En stokk som er en kubikkmeter stor.</x>
+            <xt>Kypiikin suurukainen hirsi.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">melkoinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>om omfang</re>
-            <t pos="A">suurukainen</t>
          </tg>
       </mg>
    </e>
