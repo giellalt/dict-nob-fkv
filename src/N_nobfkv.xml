@@ -71481,13 +71481,19 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">overnattingssted</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="yösijja">yösija</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>i marka</re>
+            <t pos="N">asento</t>
          </tg>
       </mg>
    </e>
@@ -77627,6 +77633,10 @@ kuohukkoon.</xt>
          <tg xml:lang="fkv">
          <re>måte som en holder kroppen på</re>
             <t pos="N">asema</t>
+            <xg>
+               <x>Jeg satt i en så dårlig stilling at jeg fikk ondt i ryggen.</x>
+               <xt>Mie istuin niin huonossa asemassa, ette sölkä tuli kippeeksi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -77783,6 +77793,16 @@ kuohukkoon.</xt>
    <e src="es">
       <lg>
          <l pos="N">forgjenger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">eđeläkulkkkiija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pådriver</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
