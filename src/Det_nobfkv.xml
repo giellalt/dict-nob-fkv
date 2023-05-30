@@ -196,13 +196,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Det">halvannen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Qu">puolitoista</t>
+            <xg>
+               <x>Min sønn var halvannet år gammel når jeg dro.</x>
+               <xt>Minun poika oli silloin puolitoista vuotta ko mie lähđin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
