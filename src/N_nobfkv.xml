@@ -10747,6 +10747,10 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pusero</t>
+            <xg>
+            <x>Er det helg idag siden du har skjorte på deg?</x>
+            <xt>Oonko se pyhä tääpänä ko sinula oon pusero päälä?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -19045,6 +19049,10 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="ripi">rippi</t>
+              <xg>
+               <x>Presten delte ut nattverden.</x>
+               <xt>Pappi antoi ripit.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23801,7 +23809,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">ro</l>
       </lg>
@@ -23813,6 +23821,14 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">rauha</t>
+              <xg>
+               <x>være i fred og ro</x>
+               <xt>olla rauhassa</xt>
+            </xg>
+              <xg>
+               <x>La meg være i fred!</x>
+               <xt>Jätä minun rauhaan!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -31007,13 +31023,22 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">dåp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kasthee">kastet</t>
+            <t pos="N">kastet</t>
+            <t pos="N">risti</t>
+              <xg>
+               <x>Jeg ble døpt.</x>
+               <xt>Mie olin ristilä.</xt>
+            </xg>
+              <xg>
+               <x>Barnet ble døpt.</x>
+               <xt>Lapsen viethiin ristile.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -42718,6 +42743,10 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pää</t>
+              <xg>
+               <x>fra den ene enden til den andre</x>
+               <xt>päästä päähän</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -42758,6 +42787,16 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="loppukessä">loppukesä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tillekniv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puukko</t>
          </tg>
       </mg>
    </e>
@@ -56255,7 +56294,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">bygning</l>
       </lg>
@@ -56267,6 +56306,10 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="rakenukse">rakenus</t>
+              <xg>
+               <x>jobbe som bygningsarbeider</x>
+               <xt>työtelä rakenuksila</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -57810,13 +57853,21 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">fred</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">rauha</t>
+              <xg>
+               <x>være i fred og ro</x>
+               <xt>olla rauhassa</xt>
+            </xg>
+              <xg>
+               <x>La meg være i fred!</x>
+               <xt>Jätä minun rauhaan!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -58707,6 +58758,10 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">risti</t>
+              <xg>
+               <x>Mange ber med hendene i kors.</x>
+               <xt>Paljot rukkoilhaan käđet ristissä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
