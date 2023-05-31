@@ -40844,7 +40844,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ta;rh">
+   <e src="ta;rh;es">
       <lg>
          <l pos="N">skudd</l>
       </lg>
@@ -40855,6 +40855,12 @@ kuohukkoon.</xt>
                <x>Begge lag hadde en rekke skudd på mål.</x>
                <xt>Molemila laakila oli usseita laukhausta moolin pääle.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>planteskudd</re>
+            <t pos="N">vesa</t>
          </tg>
       </mg>
    </e>
@@ -55532,16 +55538,6 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">på formiddagen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">puolipäivä</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="N">halvveien</l>
@@ -58777,6 +58773,10 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ristiriita</t>
+              <xg>
+               <x>Det oppsto konflikt mellom partene på Stortinget.</x>
+               <xt>Isotingan osapuolten välille syntyi ristiriittaa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -58787,6 +58787,10 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ristiriita</t>
+              <xg>
+               <x>Det oppsto en uoverensstemmelse mellom partene på Stortinget.</x>
+               <xt>Isotingan osapuolten välille syntyi ristiriittaa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -69410,13 +69414,17 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">gjeld</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="vela;velkka">velka</t>
+            <xg>
+            <x>Pekka kjøpte seg bil på kreditt.</x>
+            <xt>Pekka osti piilin velaksi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -69470,13 +69478,17 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">blodtrykk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">verenpaino</t>
+            <xg>
+            <x>høyt blodtrykk</x>
+            <xt>korkkee verenpaino</xt>
+            </xg>
          </tg>
       </mg>
    </e>

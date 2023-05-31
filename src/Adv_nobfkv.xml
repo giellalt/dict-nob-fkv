@@ -2481,7 +2481,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">på ettermiddagen</l>
       </lg>
@@ -2492,7 +2492,17 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">puolipäivä</t>
+            <t pos="Phrase">jälkhiin puolenpäivän</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Adv">på formiddagen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">ennen puoltapäivää</t>
          </tg>
       </mg>
    </e>
@@ -2503,6 +2513,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kahđen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Adv">på grunnlag av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">pohjalta</t>
+            <xg>
+               <x>Forskningen er gjort på grunnlag av ny informasjon.</x>
+               <xt>Tutkimuksen oon tehty uuđen tieđon pohjalta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
