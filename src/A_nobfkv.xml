@@ -76,13 +76,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-       <e src="na">
+       <e src="na;ki">
       <lg>
          <l pos="A">oval</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ovaali</t>
+            <t pos="A">ovaalinen</t>
          </tg>
       </mg>
    </e>
@@ -805,17 +806,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;ki">
       <lg>
          <l pos="A">øverste</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ylimäinen</t>
+            <t pos="A">ylin</t>
+            <xg>
+            <x>Den øvre delen av Stabbursdalen er et svært viktig trekkområde.</x>
+            <xt>Rautusvuoman ylin osa oon hirmu tärkkee jutoala.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;ki">
       <lg>
          <l pos="A">øvre</l>
       </lg>
@@ -1374,6 +1380,16 @@ For the full license text, see the link above.</lic>
    <e src="ks">
       <lg>
          <l pos="A">krevende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vaattiiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kravstor</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -3828,7 +3844,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;mj">
+   <e src="ai;mj;ki">
       <lg>
          <l pos="A">historisk</l>
       </lg>
@@ -3836,6 +3852,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">histoorialinen</t>
             <t pos="A">historialinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">histoorinen</t>
          </tg>
       </mg>
    </e>
@@ -4454,13 +4475,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;k">
       <lg>
          <l pos="A">interessant</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">interesantti</t>
+            <t pos="A">interessantinen</t>
          </tg>
       </mg>
    </e>
@@ -6650,6 +6672,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">lihava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">variert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">monenpuolinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">grunn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">matala</t>
+            <xg>
+            <x>Det meste av sjøene i Luoppal/Lompola er forholdsvis grunne.</x>
+            <xt>Usheemat Lompolan järvet oon joksiki matalat.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10717,13 +10763,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="A">teknisk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">teknilinen</t>
+            <t pos="A">tekninen</t>
          </tg>
       </mg>
    </e>
@@ -13081,13 +13128,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="fkvnob">
+   <e src="fkvnob;ki">
       <lg>
          <l pos="A">tradisjonell</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">tradittiinaalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tradisunelli</t>
          </tg>
       </mg>
    </e>
@@ -15392,10 +15444,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="akr">
+   <e src="akr;ki">
       <lg>
          <l pos="A">begrenset</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rajalinen</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">rajattu</t>
@@ -15625,6 +15682,385 @@ For the full license text, see the link above.</lic>
             <x>Han/hun ga meg ikke noe svar.</x>
             <xt>Hän ei antanu minule minkhäänlaista vastausta.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">avgrenset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rajattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">mest interessant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">interessantissiin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kaledonsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kaledonilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kartlagt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kartoitettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">oppvarmet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">lämmitetty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">gjennomsnittlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">keskimääräinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">høytvoksende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">korkkeeksikassuuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tredelt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kolmiosainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">merket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">merkitty</t>
+            <t pos="A">merkattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">markert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">merkattu</t>
+            <t pos="A">merkitty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">variert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">monenpuolinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">organisert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">orgaaniseerattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">nordligst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pohjaissiin</t>
+            <xg>
+            <x>Det er mange arter som har sitt nordligste leveområde i Stabbursdalens furuskog.</x>
+            <xt>Monila lajila oon pohjaissiin elämänala Rautusvuoman pötäjämettässä.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ovalformet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ovaalihaamuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">geologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">geolooginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ettertraktet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tahđottu</t>
+            <xg>
+            <x>Kvann var også en plante som var ettertraktet som mat tidlig på sommeren.</x>
+            <xt>Raasi oli kans paljon tahđottu ruoka varhaiskesälä.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">mer krevende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vaattiivampi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">mer kravstor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vaattiivampi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">dagens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tääpälinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">dykkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sukelttaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">fredet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rauhoitettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tidligst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">varhaissiin</t>
+            <xg>
+            <x>Det tidligste jordbruket i Stabbursdalen var basert på overflatedyrking, gress- og lavsanking.</x>
+            <xt>Rautusvuoman varhaissiiman maanpruukin pohja oli pintaviljely, ruuhon- ja jäkälän kokkoominen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">fuktigere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kosteempi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">godkjent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">hyväksytty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">mytisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">myyttinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">lavest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">mataliin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">nevnt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">mainittu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sistnevnt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">viimi mainittu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">bedervet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">määntyny</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">festet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>fastlåst</re>
+            <t pos="A">kiinitetty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kommersiell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kommersielli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">etnografisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">etnograafinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">arkeologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">arkeolooginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">lavere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">matalampi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">lenger nede</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">alhaisempi</t>
+            <xg>
+            <x>I landskapsverneområdet  i nedre deler av Stabbursdalen, er det gode sopp- og bær områder.</x>
+            <xt>Rautusvuoman alhaisemissa osissa, maisemansuojelualala, oon hyvät sieni- ja marjapaikat.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">karakteristisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">karakteristinen</t>
          </tg>
       </mg>
    </e>
