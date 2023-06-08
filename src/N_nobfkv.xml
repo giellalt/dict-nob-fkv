@@ -3115,7 +3115,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="grom;th;es">
+   <e src="grom;th;es;ki">
       <lg>
          <l pos="N">spasertur</l>
       </lg>
@@ -3126,7 +3126,22 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">kävelymukka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="N">käimämukka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>ved måling av avstand til fots</re>
+            <t pos="N">kävelymatka</t>
+            <xg>
+            <x>Det er omtrent en 3 kilometers spasertur fra Tromsø sentrum til Ishavskatedralen.</x>
+            <xt>Tromssan keskuksesta kiini Jäämerenkatedraalhiin saakka oon nuoin 3 kilomeetterin kävelymatka.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13324,13 +13339,18 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">periode</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">jakso</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">periuudi</t>
          </tg>
       </mg>
    </e>
@@ -26862,13 +26882,18 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">elvedal</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="jokivarre;jokivart">jokivarsi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">runkko</t>
          </tg>
       </mg>
    </e>
@@ -39505,6 +39530,12 @@ kuohukkoon.</xt>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>tur til fots</re>
+            <t pos="N">kävelymukka</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -45943,13 +45974,18 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">storfugl</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">metto</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">isolintu</t>
          </tg>
       </mg>
    </e>
@@ -51577,7 +51613,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="yr">
+   <e src="yr;ki">
       <lg>
          <l pos="N">parkeringsplass</l>
       </lg>
@@ -51585,6 +51621,11 @@ kuohukkoon.</xt>
          <tg xml:lang="fkv">
             <t pos="N">parkeerinkipaikka</t>
             <t pos="N">parkkeerinkipaikka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">parkkeerauspaikka</t>
          </tg>
       </mg>
    </e>
@@ -66565,7 +66606,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="N">resultat</l>
       </lg>
@@ -66577,6 +66618,7 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">resultaatti</t>
+            <t pos="N">resyltaatti</t>
          </tg>
       </mg>
    </e>
@@ -69853,10 +69895,15 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">nordvest</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pohjaisvesta</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vestapohjainen</t>
@@ -71552,13 +71599,18 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="N">overnattingssted</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="yösijja">yösija</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yöttymispaikka</t>
          </tg>
       </mg>
       <mg>
@@ -77261,7 +77313,7 @@ kuohukkoon.</xt>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N"></t>
+            <t pos="N">sovittelu</t>
          </tg>
       </mg>
    </e>
@@ -78629,13 +78681,14 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">fluefiske</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">höyhenfisku</t>
+            <t pos="N">höyhenonki</t>
          </tg>
       </mg>
    </e>
@@ -82035,13 +82088,18 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">småvilt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pikkuriista</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pikkuelläävä</t>
          </tg>
       </mg>
    </e>
@@ -85053,6 +85111,590 @@ kuohukkoon.</xt>
          <tg xml:lang="fkv">
             <t pos="N">kesu</t>
             <t pos="N">kesy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tyrived</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tervaspuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">porøs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">poröösi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">flommark</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tulvimaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">redskapsbruk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kalupito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nordside</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pohjaispuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">funn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">löytö</t>
+            <xg>
+            <x>Stabbursdalen er rik på kulturminner og funnene strekker seg over en tidsperiode på nesten 10 000 år.</x>
+            <xt>Rautusvuomassa oon viljasti kylttyyrimuistoi, ja löđyöt oon kiini 10 000-vuotiset.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">teltboplass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">teltta-asumapaika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">siida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">siida</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fottur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kävelymukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gangavstand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ved måling av avstand til fots</re>
+            <t pos="N">kävelymatka</t>
+            <xg>
+            <x>Det er omtrent en 3 kilometers spasertur fra Tromsø sentrum til Ishavskatedralen.</x>
+            <xt>Tromssan keskuksesta kiini Jäämerenkatedraalhiin saakka oon nuoin 3 kilomeetterin kävelymatka.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gammetufte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kamminsija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fellesgamme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yhtheiskammi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">informant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">informantti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">geologi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">geologii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">oppsummering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yhtheenpanema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">villrips</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">villiruottukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vassdragsnatur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vesikköluonto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vannflora</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vesifloora</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tidlig sommer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">varhaiskesä</t>
+            <xg>
+            <x>tidlig på sommeren</x>
+            <xt>varhaiskesälä</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tilsynsmann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">valvooja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">forvalter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">valvooja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fjellmassiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaaramassiivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">offerritual</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">uhrimarituaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">flommarkområde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tulvimaa-ala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lekeplass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tieraamapaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">telegrafstue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">telegraafintupa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">inngrep</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sekkaintuminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vinteraktivitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">talviaktiviteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">verneforskrift</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suojelumääräys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">and</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suorsa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">steinsetting</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kiviymmyräinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gressand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ruuhosuorsa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gressart</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ruuhosortti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dykkand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">skuelttaava suorsa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sportsfisker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sporttionkkiija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">slukfiske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sluukanonki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sitrusfrykt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sitrysfryktti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">innvandrer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">siirtolainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rypejeger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">riekonpyyttääjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">næringsrik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ravintorikas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">næringsfattig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ravintoköyhä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">trekors</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puuristi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">treslag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puulaji</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vedovn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puu-uuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bestand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">populasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gjeddebestand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">haukipopulasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">overflatedyrking</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pintaviljely</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">siland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pikkukoskelo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gråværsdag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>en dag med dårlig vær</re>
+            <t pos="N">huonosääpäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">laksand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lehmäkoskelo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">naturgrunnlag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">luontopohja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">naturområde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">luontoala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">naturmangfoldlov</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">luononmonipuolisuuslaki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">snøleie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lumiuoma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lokalitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lukaliteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">utvidelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lajeneminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">barmark</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pälvimaa</t>
          </tg>
       </mg>
    </e>
