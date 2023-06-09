@@ -4487,6 +4487,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="A">sårbar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">heikkoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="A">næringsrik</l>
       </lg>
       <mg>
@@ -15141,6 +15151,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">tyly</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">lun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>i ly</re>
+            <t pos="A">suojainen</t>
          </tg>
       </mg>
    </e>
