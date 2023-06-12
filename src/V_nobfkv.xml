@@ -15431,7 +15431,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">nappe</l>
       </lg>
@@ -15443,6 +15443,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="näppää;näpän">näpätä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">näppiit</t>
+            <xg>
+            <x>Mange reiser dit for å se om fisken napper.</x>
+            <xt>Monet reisathaan sinne ja freistathaan näppiikö kala.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
