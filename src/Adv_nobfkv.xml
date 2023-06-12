@@ -557,14 +557,106 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
+      <lg>
+         <l pos="Adv">i snitt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">keskimääräisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">sammenlignet med</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">verrattunna</t>
+            <xg>
+            <x>Norge er et lite land sammenlignet med USA.</x>
+            <xt>Norja oon pieni maa verrattunna USA:han.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">nordvestover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">pohjaisvesthaan käsin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">verre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">huonomin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">dårligere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">huonomin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">botanisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">botaanisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">som mulig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>brukes i setninger som: så ~noe~ som mulig</re>
+            <t pos="Adv">mahđolissiiman</t>
+            <xg>
+            <x>Les kvensk så ofte som mulig sånn at dere lærer fortere!</x>
+            <xt>Lukekkaa kväänii mahđolissiiman ushein niin ette tet opitta noppeemin!</x>
+            </xg>
+            <xg>
+            <x>så mye som mulig</x>
+            <xt>mahđolissiiman paljon</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ki">
       <lg>
          <l pos="Adv">opprinnelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">alun alkkain</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Adv">vanhaastansa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">alkuperäisesti</t>
          </tg>
       </mg>
    </e>
@@ -1044,7 +1136,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="Adv">lenger nede</l>
       </lg>
@@ -1060,6 +1152,11 @@ For the full license text, see the link above.</lic>
             <x>Du finner instruksene til oppgaven lengre ned i teksten</x>
             <xt>Alempanna tekstissä oon tehtävän ohjheet.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">alemalla</t>
          </tg>
       </mg>
    </e>
@@ -7001,7 +7098,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="Adv">oftere</l>
       </lg>
@@ -7013,6 +7110,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">usseemasti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">usheemin</t>
          </tg>
       </mg>
    </e>
@@ -7525,7 +7627,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;es">
+   <e src="ta;es;ki">
       <lg>
          <l pos="Adv">minst</l>
       </lg>
@@ -7537,6 +7639,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">vähhiiten</t>
+            <xg>
+            <x>Hvorfor blir jeg alltid syk når jeg minst venter det!</x>
+            <xt>Miksi mie aina sairastun ko mie sitä vähhiiten ođotan!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vähhiinthään</t>
+            <xg>
+            <x>Pese hamphaat vähhiinthään kaksi kerttaa päivässä!</x>
+            <xt>Puss tennene minst to ganger om dagen!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8444,13 +8559,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Adv">gjennomsnittlig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">keskimäärältä</t>
+            <t pos="Adv">keskimääräisesti</t>
          </tg>
       </mg>
    </e>
@@ -9195,13 +9311,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Adv">forholdsvis</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">joksheenki</t>
+            <t pos="Adv">joksiki</t>
          </tg>
       </mg>
    </e>
