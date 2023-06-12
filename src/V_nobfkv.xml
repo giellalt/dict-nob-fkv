@@ -1312,6 +1312,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">temme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kesyttäät</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ks">
       <lg>
          <l pos="V">uttale</l>
@@ -3720,6 +3730,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">slå seg ned</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">asettuut</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="V">skyte</l>
@@ -4036,6 +4056,16 @@ For the full license text, see the link above.</lic>
                <x>Tjernet tørka inn.</x>
                <xt>Lampi kuivettui.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">tørke ut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kuivuut</t>
          </tg>
       </mg>
    </e>
@@ -7807,6 +7837,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">järjestäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">orgaaniseerata</t>
          </tg>
       </mg>
    </e>
@@ -12153,13 +12188,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">utvide</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="laajena;laajenta">laajenttaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">laajeta</t>
          </tg>
       </mg>
    </e>
@@ -12183,7 +12223,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">råtne</l>
       </lg>
@@ -12197,6 +12237,11 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="mätäne;mäđän">mäđätä</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">määnttyyt</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -12205,6 +12250,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="lahhoo;lahon">lahota</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">bli bedervet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">määnttyyt</t>
          </tg>
       </mg>
    </e>
@@ -19419,13 +19474,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">si</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="sano;sano">sannoot</t>
+            <xg>
+            <x>For å si det mildt.</x>
+            <xt>Kevveesti sanottunna.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -19525,7 +19584,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">blande</l>
       </lg>
@@ -19538,6 +19597,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>blande sammen</re>
             <t pos="V" stem="sekkainu;sekkaintu">sekkainttuut</t>
+            <t pos="V">sekhaanttuut</t>
          </tg>
       </mg>
       <mg>
@@ -21096,6 +21156,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">påvise</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tođeta</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="V">konstatere</l>
@@ -21636,13 +21706,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">ofre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="uhraa;uhran">uhrata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">uhriit</t>
          </tg>
       </mg>
    </e>
@@ -22207,13 +22282,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">variere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="varieeraa;varieeran">varieerata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vaihetella</t>
          </tg>
       </mg>
    </e>
@@ -22224,6 +22304,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">varjela</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">kartlegge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kartoittaat</t>
          </tg>
       </mg>
    </e>
@@ -22373,6 +22463,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">vekslata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">veksle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vaihetella</t>
          </tg>
       </mg>
    </e>
@@ -24675,13 +24775,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="V">hekke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">pessiit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">hauttoot</t>
          </tg>
       </mg>
    </e>
@@ -24803,7 +24908,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Phrase">sette opp</l>
       </lg>
@@ -24814,6 +24919,11 @@ For the full license text, see the link above.</lic>
             <x>Statens vegvesen satt opp et nytt skilt på E6.</x>
             <xt>Staatin tiehomma pystötti uuđen tiekyltin E6:le.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">panna ylös</t>
          </tg>
       </mg>
    </e>
@@ -26000,6 +26110,16 @@ For the full license text, see the link above.</lic>
             <x>Styrk dem med din Ånd, så de i gode og onde dager setter sin lit til deg, holder trofast sammen og hjelper hverandre fram mot det evige liv.</x>
             <xt>Lujita heitä sinun Hengelä, niin ette het hyvinä ja pahoina päivinä luottaava sinhuun, pyssyyvä uskolisesti yhđessä ja auttaava toinen toista matkala kohđi ikuista elämää.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">finansiere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">rahoittaat</t>
          </tg>
       </mg>
    </e>
