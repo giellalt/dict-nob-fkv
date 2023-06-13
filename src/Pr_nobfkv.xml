@@ -525,6 +525,14 @@ For the full license text, see the link above.</lic>
             </xg> -->
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	            <re>rundt</re>
+            <t pos="Po">ympärillä</t>
+            <t pos="Po">ympärille</t>
+            <t pos="Po">ympäriltä</t>
+         </tg>
+      </mg>
        <mg>
          <tg xml:lang="fkv">
 	            <re>om lag</re>
@@ -853,7 +861,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;ki">
       <lg>
          <l pos="Pr">rundt</l>
       </lg>
@@ -878,6 +886,12 @@ For the full license text, see the link above.</lic>
             <x>Leena ser seg rundt.</x>
             <xt>Leena kattoo ympärille.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">ympärillä</t>
+            <t pos="Po">ympäriltä</t>
          </tg>
       </mg>
    </e>
