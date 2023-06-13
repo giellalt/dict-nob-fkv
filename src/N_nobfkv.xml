@@ -24419,7 +24419,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">tømmerstokk</l>
       </lg>
@@ -24430,12 +24430,17 @@ kuohukkoon.</xt>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N" stem="tuki">tukki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="N" stem="pölky">pölkky</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="tuki">tukki</t>
+            <t pos="N">hirsitukki</t>
          </tg>
       </mg>
    </e>
@@ -29844,7 +29849,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;ia">
+   <e src="ai;ta;ia;ki">
       <lg>
          <l pos="N">skalle</l>
       </lg>
@@ -29868,6 +29873,7 @@ kuohukkoon.</xt>
          <tg xml:lang="fkv">
          <re>fottøy, til hverdags</re>
             <t pos="N" stem="nutuka">nutukka</t>
+            <t pos="N">nutukas</t>
          </tg>
       </mg>
    </e>
@@ -29893,7 +29899,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">skaller</l>
       </lg>
@@ -29911,6 +29917,7 @@ kuohukkoon.</xt>
          <tg xml:lang="fkv">
          <re>til daglig bruk</re>
             <t pos="N" stem="nutukoitte;nutukoi">nutukat</t>
+            <t pos="N">nutukkhaat</t>
          </tg>
       </mg>
         <mg>
@@ -40652,6 +40659,12 @@ kuohukkoon.</xt>
          <tg xml:lang="fkv">
          <re>hodeplagg</re>
             <t pos="N" stem="laki">lakki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>hodeplagg</re>
+            <t pos="N" stem="laki">myssy</t>
          </tg>
       </mg>
        <mg>
@@ -68139,12 +68152,13 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="yr">
+   <e src="yr;ki">
       <lg>
          <l pos="N">offersted</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">uhrauspaikka</t>
             <t pos="N">uhripaikka</t>
          </tg>
       </mg>
@@ -73019,6 +73033,302 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">Lemmijokilakso</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">natursti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">luononpolku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">furufrø</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pötäjäsiemen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">furutre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pötäjäpuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">furukvist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pötäjäoksa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">furugren</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pötäjäoksa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nedbryter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hajoittaaja</t>
+            <xg>
+            <x>Larvene til soppmyggen utvikler seg i sopp, råtnende treverk eller under bark og er derfor viktige nedbrytere i skogen.</x>
+            <xt>Sienisääsken toukat kehitythään sienissä, lahhoovissa puissa tahi parkin alla ja oon sen tähđen tärkkeet mettän hajoittaajat.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">furugadd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>furu som har dødd stående</re>
+            <t pos="N">pysthöönkuolu pötäjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">skytsånd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suojeluhenki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ritual</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rituaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">furustokk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pötäjätukki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">furukongle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pötäjäkäpy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">paringstid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paritteluaika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">parasitt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">parasitti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lokalbefolkning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paikalisväki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nektar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nektari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">elvelon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jokisuvanto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">merkeforsøk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">merkkaamisfreistaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">malaria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">malaria</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">malariamygg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">malariasääski</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">benrester</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">luurästit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kumarin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kumariini</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kjuke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kääppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">barksopp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">parkkisieni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lavart</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>art av lav</re>
+            <t pos="N">jäkälälaji</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">storlaks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">isolohi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fjærmygg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">höyhänsääski</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">soppmygg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sienisääski</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dyreofring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">elläinuhraus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">anadrom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">anadromi</t>
          </tg>
       </mg>
    </e>
@@ -85448,13 +85758,14 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">vassdrag</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vesikkö</t>
+            <t pos="N">vesistö</t>
          </tg>
       </mg>
    </e>
@@ -85966,6 +86277,7 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tulvimaa-ala</t>
+            <t pos="N">tulva-ala</t>
          </tg>
       </mg>
    </e>
