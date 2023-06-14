@@ -6753,6 +6753,16 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">matalavesinen</t>
+            <re>lavvann</re>
+            <xg>
+            <x>Eggene er lagt i vann, gjerne i grunne dammer, hvor larvene utvikler seg til voksne mygg.</x>
+            <xt>Munat oon pantu vetheen, mielelä matalavesishiin lantthoin, missä toukat kehitythään raavhaiksi sääskiksi.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -7364,6 +7374,80 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="vähäise;vähäis">vähäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">frøspisende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">siemeniitäsyöpä</t>
+            <xg>
+            <x>frøspisende fugler</x>
+            <xt>siemeniitäsyövät linnut</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kileformet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kiilanhaamuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">fjærlignende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">höyhänmäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">råtnende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">lahhoova</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">flerårlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">monivuotinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">rødlistet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">punalistattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">relativ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">suhtheelinen</t>
          </tg>
       </mg>
    </e>

@@ -386,7 +386,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj;es">
+   <e src="mj;es;ki">
       <lg>
          <l pos="Adv">tidligere</l>
       </lg>
@@ -402,6 +402,11 @@ For the full license text, see the link above.</lic>
                <x>Det var lettere å lære seg kvensk før da det var flere som snakket det.</x>
                <xt>Se oli varhemin kevveempi oppiit kväänii ko puhhuujiita oli enämen.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">aikaisemmin</t>
          </tg>
       </mg>
    </e>
@@ -4657,6 +4662,74 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="Adv">oppstrøms</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">ylävirthaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">på sitt mest utbredte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">laajimilhaan</t>
+            <xg>
+            <x>Furuskogen i Finnmark innvandret tidlig etter siste istid og hadde sin største utbredelse for ca. 8000 år siden.</x>
+            <xt>Finmarkun pötäjämettä oon vajeltannu tänne varhain viimi jääkauđen jälkhiin ja oli laajimilhaan nuoin 8000 vuotta aikkaa.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">på sitt største</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">laajimilhaan</t>
+            <xg>
+            <x>Furuskogen i Finnmark innvandret tidlig etter siste istid og hadde sin største utbredelse for ca. 8000 år siden.</x>
+            <xt>Finmarkun pötäjämettä oon vajeltannu tänne varhain viimi jääkauđen jälkhiin ja oli laajimilhaan nuoin 8000 vuotta aikkaa.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">relativt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">suhtheelisen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">roligere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">rauhalisemin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">fredsommeligere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">rauhalisemin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="Adv">til midten av</l>
       </lg>
       <mg>
@@ -8809,13 +8882,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Adv">hovedsakelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">päänänsä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">pääassiilisesti</t>
          </tg>
       </mg>
    </e>
@@ -9329,6 +9407,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">joksheenki</t>
             <t pos="Adv">joksiki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">suhtheelisen</t>
          </tg>
       </mg>
    </e>
