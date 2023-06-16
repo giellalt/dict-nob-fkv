@@ -310,12 +310,12 @@ For the full license text, see the link above.</lic>
 	           <re>på forsiden av, lenger fram</re>
             <t pos="Po">eđessä</t>
               <xg>
-               <x>Foran treet.</x>
-               <xt>Puun eđessä.</xt>
+               <x>Hun står foran treet.</x>
+               <xt>Hän seissoo puun eđessä.</xt>
             </xg>
              <xg>
-               <x>I tiden foran oss.</x>
-               <xt>Siinä aijassa joka oon meiđän eđessä.</xt>
+               <x>I tiden foran oss vil det skje mange forandringer.</x>
+               <xt>Siinä aijassa joka oon meiđän eđessä tapattuu paljon muutoksii.</xt>
             </xg>
          </tg>
       </mg>
@@ -324,8 +324,8 @@ For the full license text, see the link above.</lic>
 	           <re>overfor</re>
             <t pos="Po">eđessä</t>
               <xg>
-               <x>Stå overfor et valg.</x>
-               <xt>Seissoot valinnan eđessä.</xt>
+               <x>Nå står dere overfor et valg.</x>
+               <xt>Nyt seisotta valinnan eđessä.</xt>
             </xg>
          </tg>
       </mg>
@@ -516,8 +516,8 @@ For the full license text, see the link above.</lic>
 	            <re>rundt</re>
             <t pos="Po">ympäri</t>
                   <xg>
-               <x>Se seg omkring.</x>
-               <xt>Kattela ympäri.</xt>
+               <x>Jeg vil se meg omkring.</x>
+               <xt>Mie halluun kattela ympäri.</xt>
             </xg>
  <!--                <xg>
                <x>Snakke omkring problemet.</x>
@@ -542,8 +542,8 @@ For the full license text, see the link above.</lic>
                <xt>Oon nuoin nolla graadii.</xt>
             </xg>
               <xg>
-               <x>Omkring år 1912.</x>
-               <xt>Nuoin vuona 1912.</xt>
+               <x>Det skjedde omkring år 1912.</x>
+               <xt>se tapattui nuoin vuona 1912.</xt>
             </xg>
          </tg>
       </mg>
@@ -555,10 +555,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">sisälä</t>
- <!--                <xg>
-               <x>Innen en viss tid.</x>
-               <xt>Vissin aijan sisälä.</xt>
-            </xg> -->
+               <xg>
+               <x>Det må skje innen en viss tid.</x>
+               <xt>Se häyttyy tapattuut vissin aijan sisälä.</xt>
+            </xg>
              <xg>
                <x>Det skjedde innen en uke.</x>
                <xt>Se tapattui viikon sisälä.</xt>
@@ -575,16 +575,16 @@ For the full license text, see the link above.</lic>
 	          <re>snakke om noe eller noen</re>
             <t pos="Po">(jonku) ympäri</t>
                        <xg>
-               <x>Prate om været.</x>
-               <xt>Puhhuut sään ympäri.</xt>
+               <x>Vi prater om været.</x>
+               <xt>Met puhuma sään ympäri.</xt>
             </xg>
                      <xg>
-               <x>Prate om været.</x>
-               <xt>Puhhuut säästä.</xt>
+               <x>De prater om været.</x>
+               <xt>Het puhhuuvat säästä.</xt>
             </xg>
               <xg>
-               <x>Spørre om noe.</x>
-               <xt>Kyssyyt jostaki.</xt>
+               <x>Han spør om noe.</x>
+               <xt>Hän kyssyy jostaki.</xt>
             </xg>
          </tg>
       </mg>
@@ -593,12 +593,12 @@ For the full license text, see the link above.</lic>
 	          <re>omsluttet av noe</re>
             <t pos="Po">(jonku) ympäri</t>
                        <xg>
-               <x>Ha belte om livet.</x>
-               <xt>Pittäät beltin vyötärälä.</xt>
+               <x>Jeg har belte om livet.</x>
+               <xt>Mie piđän beltin vyötärälä.</xt>
             </xg>
                  <xg>
-               <x>Ha belte om livet.</x>
-               <xt>Pittäät vyön vyötärän ympärilä.</xt>
+               <x>De har belte om livet.</x>
+               <xt>Het pittäävät vyön vyötärän ympärilä.</xt>
             </xg>
               </tg>
       </mg>
@@ -607,26 +607,35 @@ For the full license text, see the link above.</lic>
 	          <re>om tid</re>
 	          <t type="expl">bruk inessiv, adessiv eller genitiv</t>
                        <xg>
-               <x>Spise eple to ganger om dagen.</x>
-               <xt>Syöđä äpylii kaksi kerttaa päivässä.</xt>
+               <x>Han spiste et eple to ganger om dagen.</x>
+               <xt>Hän söi äpylin kaksi kerttaa päivässä.</xt>
             </xg>
-<!--                   <xg>
-               <x>Om dagen pleier vi å gå på ski</x>
-               <xt>Päivän aikana met pruukkaama hihđata.</xt>
-            </xg> -->
+                <xg>
+               <x>Vi å gå på ski om dagen.</x>
+               <xt>Met pruukkaama hihđata päivän aikana.</xt>
+            </xg> 
                </tg>
       </mg>
        <mg>
          <tg xml:lang="fkv">
 	          <re>om tidspunkt</re>
-	          <t pos="Po">päässä</t>
+	          <t pos="Po">päästä</t>
                        <xg>
                <x>Jeg kommer om en time.</x>
                <xt>Mie tulen tiiman päästä.</xt>
             </xg>
-                </tg>
+         </tg>
       </mg>
              <mg>
+         <tg xml:lang="fkv">
+	          <re>om avstand</re>
+	          <t pos="Po">päästä</t>
+                       <xg>
+               <x>Det er to kilometer til museet.</x>
+               <xt>Museumi oon kahđen kilometrin päästä.</xt>
+            </xg>
+                </tg>
+      </mg>             <mg>
          <tg xml:lang="fkv">
 	          <re>om sted</re>
 	          <t pos="Po">kautta</t>
