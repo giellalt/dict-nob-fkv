@@ -829,13 +829,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ks">
+      <e src="ks;ki">
       <lg>
          <l pos="Phrase">bli interessert</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">innostuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kiinostuut</t>
          </tg>
       </mg>
    </e>
@@ -1291,13 +1296,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;ki">
       <lg>
          <l pos="Phrase">se ned på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">vähäksyyt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ylönkattoot</t>
          </tg>
       </mg>
    </e>
@@ -16123,13 +16133,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Phrase">peke på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">osoittaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">peekata</t>
          </tg>
       </mg>
    </e>
@@ -20049,13 +20064,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">tilpasse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">sovitella</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sovittaat</t>
          </tg>
       </mg>
       <mg>
@@ -23046,13 +23066,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">minske</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="vähenä;vähentä">vähenttäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vähenttyyt</t>
          </tg>
       </mg>
    </e>
@@ -26144,6 +26169,197 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">rahoittaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">stereotypifisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">stereotypifiseerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">protestere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">protesteerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">anonymisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">anonymiseerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">bli styrket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">lujittuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">befeste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">lujittuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">vise til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">peekata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">markere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">markkeerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">demonisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">demoniseerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">regulere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">rekyleerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">rettferdigjøre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">oikkeuttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">bli redusert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vähenttyyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">undervurdere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">aliarvela</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">tvangsflytte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">pakkosiirttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">nedvurdere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ylönkattoot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">forsømme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ylönkattoot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">opprettholde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">pittäät yllä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">inkorporerte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">inkorporeerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">prøve på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>f.eks. klær</re>
+            <t pos="V">sovittaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">bøte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sovittaat</t>
          </tg>
       </mg>
    </e>
