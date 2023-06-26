@@ -1992,13 +1992,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;ki">
       <lg>
          <l pos="A">aktuell</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">aijankohthainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">aktuelli</t>
          </tg>
       </mg>
    </e>
@@ -2442,7 +2447,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="A">åpen</l>
       </lg>
@@ -2465,6 +2470,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">laaja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">avvoin</t>
+            <xg>
+            <x>Det var også andre tiltak, både åpne og skjulte, for å fremme språkskiftet og assimileringen.</x>
+            <xt>Olthiin kans muut toimet, niin avvoimet ko lymmytyt, joitten avula eđistethiin kielenvaihetusta ja assimileerausta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2588,7 +2602,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="A">tidligere</l>
       </lg>
@@ -2604,12 +2618,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">ennemin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">ennen</t>
+            <t pos="A">aijempi</t>
          </tg>
       </mg>
    </e>
@@ -4497,6 +4506,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">heikkoinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">haavoittuuva</t>
          </tg>
       </mg>
    </e>
@@ -6679,13 +6693,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="A">liberal</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">liberaali</t>
+            <t pos="A">liberaalinen</t>
          </tg>
       </mg>
    </e>
@@ -7096,13 +7111,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="A">lovlig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="luvalise;luvalis">luvalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">lajilinen</t>
          </tg>
       </mg>
    </e>
@@ -8967,7 +8987,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta;kl;ki">
       <lg>
          <l pos="A">lang</l>
       </lg>
@@ -8990,6 +9010,12 @@ For the full license text, see the link above.</lic>
                <x>Båten er to meter lang.</x>
                <xt>Venet oon kahđen meetterin pitukainen.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>noe som varer lenge</re>
+            <t pos="A">pitkäaikainen</t>
          </tg>
       </mg>
    </e>
@@ -9742,13 +9768,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="A">regional</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">rekiunaali</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">regiunaalinen</t>
          </tg>
       </mg>
    </e>
@@ -10000,11 +10031,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">saamilainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">saame</t>
          </tg>
       </mg>
    </e>
@@ -13751,13 +13777,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">engasjert</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">innokas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">engaseerattu</t>
          </tg>
       </mg>
    </e>
@@ -14666,13 +14697,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">grenseoverskridende</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">poikkirajalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rajanylittäävä</t>
          </tg>
       </mg>
    </e>
@@ -15633,13 +15669,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="akr">
+   <e src="akr;ki">
       <lg>
          <l pos="A">materiell</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">materiaalinen</t>
+            <t pos="A">materiellinen</t>
          </tg>
       </mg>
    </e>
@@ -15767,10 +15804,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="akr">
+   <e src="ki;akr">
       <lg>
          <l pos="A">nedverdigende</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vähättäävä</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">alaspainaava</t>
@@ -16211,6 +16253,835 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">karakteristinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">vedrørende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">koskeeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">komparativ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">komparatiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">traumatisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">traumaattinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">matrikulert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">matrikuleerattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">provoserende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">provoseeraava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">utsatt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">uhattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">truet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">uhattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kommunal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">komuunaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sørsamisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">eteläsaamelainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kritisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kriittinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">samepolitisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">saamelaispoliittinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">parlamentarisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">parlamentaarinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">mistet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">menetetty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tapt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>mistet</re>
+            <t pos="A">menetetty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">eneste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ainua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sovjetisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sovjettilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">utflyttet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">poissiirtyny</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">fysisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">fyysinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">mental</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">mentaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">militær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">militäärinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">akademisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">akadeeminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">gjensidig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">molemanpuolinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">helsemessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tervheyđellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">fortsettende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">jatkuuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kontinuerlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">jatkuuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">videre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>fortsettende, kontinuerlig</re>
+            <t pos="A">jatkuuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kommunal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kommunaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">relevant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">relevantti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">muntlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">suulinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">demografisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">demograafinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">innholdsmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sisälykselinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">gjentakende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">toistuuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">frekvent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">toistuuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sammenlignbar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">verrattava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">juridisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">juriidinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">etnisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">etninen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kronologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kronolooginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sosialpolitisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sosiaalipoliittinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">forsonet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">soviteltu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">flerkulturell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">monikulttuurinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">økende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">lissäänttyyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kongelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kuninkhaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">arvet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">peritty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">velkommen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tervetullu</t>
+            <xg>
+            <x>å ønske velkommen</x>
+            <xt>toivottaat tervetulheeksi</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">eneveldig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">yksinhallitteeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">antikvarisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">antikvaarinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">detaljert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">detaljeerattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">etablert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">etableerattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">næringsmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">elämänkeinolinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">eksklusiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">yksinomainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">rettsideologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">oikkeusideolooginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">nylig vedtatt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>nylig innsatt</re>
+            <t pos="A">vasta-asetettu</t>
+            <xg>
+            <x>I tillegg ble det argumentert med at grenseområdene i nord var særlig sårbare og utsatte med sine ferske grenser.</x>
+            <xt>Lisäksi argumenteerathiin, ette pohjaisen raja-alat olthiin eriliikaisen haavoittuvat, ko sielä olthiin vasta-asetetut rajat.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">grunnleggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pohjananttaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">forventet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ođotettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">selvklar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ittesthäänselvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sivil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">siviilinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">mekanisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">mekaninen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tilhørende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>som hører til, som inngår i</re>
+            <t pos="A">kuuluuva</t>
+            <xg>
+            <x>Likeså at offentlige myndigheter erkjenner at det har vært begått urett overfor de gruppene som inngår i mandatet.</x>
+            <xt>Lisäksi ette viraliset esivallat tunnustethaan ette oon tehty vääryyttä mandaatthiin kuuluuville roikile.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">samlet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">yhtheenkovottu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">folkerettslig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kansanoikkeuđellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">snakkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>som snakker</re>
+            <t pos="A">puhhuuva</t>
+            <xg>
+            <x>Antallet som snakket kvensk ble sterkt redusert utover 1900-tallet.</x>
+            <xt>Kväänii puhhuuviitten määrä vähentyi kovasti 1900-luvun aikana.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">stabil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">stabiili</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">fungerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">toimiiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">innvevd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sishäänväävätty</t>
+            <xg>
+            <x>Disse uttrykksformene var dypt innvevd i kulturene.</x>
+            <xt>Nämät ilmaisuformut olthiin sishäänväävätyt syväle kulttuurhiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">bevisst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tietoinen</t>
+            <xg>
+            <x>å bevisstgjøre</x>
+            <xt>tehđä tietoiseksi</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">etnopolitisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">etnopoliittinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">gjeldende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">jälläävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">reservert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">varrautunnu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tilbakevendende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">takaisintulleeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">avventende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ođottaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">fornorskende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">norjalaistaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kystnær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rannikonlikinäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">fiskepolitisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">fiskupoliittinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">territoriell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">territoriaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">symbolsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">symboolinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">dramatisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">dramaatinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">folkevalgt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kansanvalittema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">representativ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">representatiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">årlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">jokavuotinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">minoritetspolitisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">minoriteettipoliittinen</t>
          </tg>
       </mg>
    </e>
