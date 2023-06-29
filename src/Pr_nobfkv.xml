@@ -743,20 +743,6 @@ For the full license text, see the link above.</lic>
 	          <t pos="Po">vasthaan</t>
                 </tg>
     </mg>
-    <mg>
-         <tg xml:lang="fkv">
-	           <re>i konkurranse med eller i uttrykk for motstand</re>
-            <t pos="Po">vasthaan</t>
-                      <xg>
-               <x>De røde mot de hvite.</x>
-               <xt>Punaset vasthaan valkkeita.</xt>
-            </xg>
-                   <xg>
-               <x>Det ene laget mot det andre.</x>
-               <xt>Yksi laaki toista vasthaan.</xt>
-            </xg>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="fkv">
            <re>i forhold til, sammenlignet med</re>
@@ -769,6 +755,16 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Matti trykket Hanna mot brystet sitt og var lykkelig.</x>
             <xt>Matti puristi Hannan ommaa rinttaa vasten ja oli onnelinen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pr">kohđi</t>
+            <t pos="Pr">kohti</t>
+            <xg>
+            <x>De sniker seg etter arbeidskarene langs fjellsida ned mot bygda.</x>
+            <xt>Het naakithaan työmiesten pörhään vaaran laittaa alas kohđi kyllää.</xt>
             </xg>
          </tg>
       </mg>
