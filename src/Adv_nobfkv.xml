@@ -4417,13 +4417,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Adv">hvordan</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv" stem="millaise;millais">millainen</t>
+            <t pos="Adv">kunka</t>
          </tg>
       </mg>
       <mg>
@@ -4431,18 +4431,19 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">millä laila</t>
             <xg>
             <x>Hvordan tenker du å reise til Alta?</x>
-            <xt>Millä laila sie aiot matkustaat Alattihoon?</xt>
+            <xt>Millä laila sie aijot matkustaat Alattihoon?</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv" stem="minkälaise;minkälais">minkälainen</t>
+            <t pos="Adj" stem="minkälaise;minkälais">minkälainen</t>
+            <t pos="Adj" stem="millaise;millais">millainen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">kunka</t>
+            <t pos="Adv">kunkalaihiin</t>
          </tg>
       </mg>
    </e>
@@ -4452,7 +4453,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv" stem="millaise;millais">millainen</t>
+            <t pos="Adj" stem="millaise;millais">millainen</t>
          </tg>
       </mg>
    </e>
@@ -4464,8 +4465,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">millä laila</t>
             <xg>
-            <x>På hvilken måte tenker du å reise til Alta? Pyssilä vain flyyilä?</x>
-            <xt>Millä laila sie aiot matkustaat Alattihoon? Med buss eller fly?</xt>
+            <x>På hvilken måte tenker du å reise til Alta? Med buss eller fly?</x>
+            <xt>Millä laila sie aijot matkustaat Alattihoon? Pyssilä vain flyyilä?</xt>
             </xg>
          </tg>
       </mg>
