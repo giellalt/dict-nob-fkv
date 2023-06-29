@@ -802,7 +802,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Interj">oi</l>
       </lg>
@@ -820,6 +820,10 @@ For the full license text, see the link above.</lic>
              <xg>
                <x>Oi, så fryktelig mange biler!</x>
                <xt>Voi, kauheesti piilii!</xt>
+            </xg>
+             <xg>
+               <x>Oi stakkars!</x>
+               <xt>Voi veikkonen!</xt>
             </xg>
          </tg>
       </mg>
@@ -846,6 +850,16 @@ For the full license text, see the link above.</lic>
                <x>Kjære Pekka!</x>
                <xt>Pekka kulta!</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Interj">jøss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Interj">Herra siunakhoon</t>
          </tg>
       </mg>
    </e>
