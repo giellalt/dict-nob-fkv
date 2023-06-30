@@ -789,7 +789,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ks">
+      <e src="ks;ki">
       <lg>
          <l pos="V">lokke</l>
       </lg>
@@ -798,14 +798,24 @@ For the full license text, see the link above.</lic>
             <t pos="V">houkutella</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">houkuttaat</t>
+         </tg>
+      </mg>
    </e>
-      <e src="ks">
+      <e src="ks;ki">
       <lg>
          <l pos="V">friste</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">houkutella</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">houkuttaat</t>
          </tg>
       </mg>
    </e>
@@ -13654,7 +13664,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ki;ai">
+      <lg>
+         <l pos="Phrase">stabilisere seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tassaanttuut</t>
+            <t pos="V">tassainttuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">verve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">värvätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ki">
       <lg>
          <l pos="V">dytte</l>
       </lg>
@@ -13671,6 +13702,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="tölmää;tölmän">tölmätä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="tölmää;tölmän">työnttäät</t>
          </tg>
       </mg>
    </e>
@@ -20935,13 +20971,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Phrase">jevne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="IV">tassainttuut</t>
+            <t pos="V" val="IV">tassaanttuut</t>
          </tg>
       </mg>
    </e>
@@ -23984,13 +24021,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="V">påpeke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">huomhauttaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">osoittaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">intensivere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vahvistaat</t>
          </tg>
       </mg>
    </e>
