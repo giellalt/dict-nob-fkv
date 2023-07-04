@@ -4507,16 +4507,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="A">populær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">populääri</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="A">sårbar</l>
       </lg>
       <mg>
@@ -9130,13 +9120,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="A">populær</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">populaarinen</t>
+            <t pos="A">populääri</t>
          </tg>
       </mg>
    </e>
@@ -15543,13 +15534,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">sistnevnt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">viimestimainittu</t>
+            <t pos="A">viimi mainittu</t>
          </tg>
       </mg>
    </e>
@@ -16002,16 +15994,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="A">variert</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">monipuolinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="A">organisert</l>
       </lg>
       <mg>
@@ -16179,16 +16161,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">mainittu</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">sistnevnt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">viimi mainittu</t>
          </tg>
       </mg>
    </e>
