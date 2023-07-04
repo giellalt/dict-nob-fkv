@@ -13323,6 +13323,11 @@ For the full license text, see the link above.</lic>
             <t pos="A">tradisunelli</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">perintheinen</t>
+         </tg>
+      </mg>
    </e>
    <e src="fkvnob">
       <lg>
@@ -17088,6 +17093,90 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">minoriteettipoliittinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">skiftende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vaihettelleeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">teknologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">teknolooginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">storpolitisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">suurpoliittinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">en med finsk kulturbakgrunn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">suomenkulttuurinen</t>
+         <xg>
+         <x>Kvener og norskfinner er etterkommere etter folk med finsk språk og kulturbakgrunn.</x>
+         <xt>Kväänit ja norjansuomalaiset oon suomenkielisten ja suomenkulttuuristen jälkeläissii.</xt>
+         </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">norsk-russisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">norjalais-ryssäläinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">gjenværende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">jäljelejääny</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">islandsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">islantilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">fortidig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">esiaikainen</t>
          </tg>
       </mg>
    </e>
