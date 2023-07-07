@@ -1369,7 +1369,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="Adv">for det meste</l>
       </lg>
@@ -1386,11 +1386,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">enniimiten</t>
+            <t pos="Adv">enniimitten</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">enniimitten</t>
+            <t pos="Adv">enimäksheen</t>
          </tg>
       </mg>
    </e>
@@ -2563,6 +2564,15 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Det er bare én igjen.</x>
             <xt>Ei ole enämpi ko yski jäljelä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">jälleen</t>
+            <xg>
+            <x>Potetlandet vokser fram igjen, like gjerne i blomsterkasser og bøtter på en veranda i Tromsø som på et jordstykke i Vestre-Jakobselv.</x>
+            <xt>Jälleen kukkiiva pottumaat, yhtä ushein kukkakassoissa ja ämpärissä Tromssassa ko pellola Annijovessa.</xt>
             </xg>
          </tg>
       </mg>
@@ -5916,10 +5926,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ki;ai;ta">
       <lg>
          <l pos="Adv">fra gammelt av</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vanhaasthaan</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">saakka</t>
@@ -8691,13 +8706,111 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Adv">pyntet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">korreissa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>+lla/llä</re>
+            <t pos="Adv">koristeltuna</t>
+            <xg>
+            <x>Pyntet med dombjeller og sedolk fraktet hestene mennesker til julegudstjeneste, til dåp, bryllup og begravelse.</x>
+            <xt>Koristeltuna setolkkakulkusella kuljetethiin hevoiset ihmissii joulujumalanpalveluksheen, ristiäishiin, häihin ja kraviaishiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">dekorert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>+lla/llä</re>
+            <t pos="Adv">koristeltuna</t>
+            <xg>
+            <x>Dekorert med dombjeller og sedolk fraktet hestene mennesker til julegudstjeneste, til dåp, bryllup og begravelse.</x>
+            <xt>Koristeltuna setolkkakulkusella kuljetethiin hevoiset ihmissii joulujumalanpalveluksheen, ristiäishiin, häihin ja kraviaishiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">dagens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">tämänpäivän</t>
+            <xg>
+            <x>Dagens mennesker er en del av et globalt handelsnettverk.</x>
+            <xt>Tämänpäivän ihmiset oon osa globaalia kauppaverkkoo.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">trinnvis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>i faser</re>
+            <t pos="Adv">faasittain</t>
+            <xg>
+            <x>Overgangen til frihandel gikk i flere faser.</x>
+            <xt>Siirto vapaakaupphaan meni faasittain.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">i flere perioder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">jaskottain</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">periodisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">jaskottain</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">i praksis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">praksissa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">i flere faser</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">faasittain</t>
+            <xg>
+            <x>Overgangen til frihandel gikk i flere faser.</x>
+            <xt>Siirto vapaakaupphaan meni faasittain.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
