@@ -75684,7 +75684,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ki;es">
+   <e src="ki;es;ki">
       <lg>
          <l pos="N">kommentar</l>
       </lg>
@@ -75692,6 +75692,14 @@ kuohukkoon.</xt>
          <tg xml:lang="fkv">
             <t pos="N">kommentaari</t>
             <t pos="N">kommentti</t>
+            <xg>
+            <x>spydig kommentar</x>
+            <xt>pistäävä kommentaari</xt>
+            </xg>
+            <xg>
+            <x>I utgangspunktet var potetdyrking ansett som umulig i det høye nord, og det manglet ikke på spydige bemerkninger da Marie Poikila som den første satte poteter i jorda.</x>
+            <xt>Poteettiitten kylväämistä piđethiin lähtökohtaisesti mahđottomana ylhäälä pohjaisessa, eikä vailunu pistäävii kommentaariita silloin ko Marie Poikila ensimäisenä kylväs poteettii maahan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

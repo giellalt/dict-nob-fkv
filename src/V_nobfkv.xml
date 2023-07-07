@@ -4016,13 +4016,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">hjelpe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="auta;autta">auttaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">avustaat</t>
          </tg>
       </mg>
    </e>
@@ -6756,7 +6761,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Pekka skjemmes over det han har sagt.</x>
-               <xt>Pekka häppee ittensä puhheitä.</xt>
+               <xt>Pekka häppee ittensä puhheita.</xt>
             </xg>
          </tg>
       </mg>
@@ -6909,7 +6914,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">dampe</l>
       </lg>
@@ -6918,14 +6923,24 @@ For the full license text, see the link above.</lic>
             <t pos="V">höyryyt</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">höyryttäät</t>
+         </tg>
+      </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">ose</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">höyryyt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">höyryttäät</t>
          </tg>
       </mg>
    </e>
@@ -12095,7 +12110,7 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="käytä">käyttäät</t>
              <xg>
                <x>Han vil bruke den.</x>
-               <xt> Hän halluu käyttäät sitä.</xt>
+               <xt>Hän halluu käyttäät sitä.</xt>
             </xg>
          </tg>
       </mg>
@@ -12114,7 +12129,7 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="pruukkaa;pruukan">pruukata</t>
                  <xg>
                <x>Det bruker å være slik.</x>
-               <xt> Se pruukkaa olla niin.</xt>
+               <xt>Se pruukkaa olla niin.</xt>
             </xg>
          </tg>
       </mg>
@@ -22428,6 +22443,16 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>renne av seg</re>
+            <t pos="V">valluut</t>
+            <xg>
+               <x>Torva ble stukket i ca. 30 x 30 x 10 cm tjukke skiver, kalt «lomper» og lagt for renne av seg.</x>
+               <xt>Turpheen leikathiin nuoin 30 x 30 x 10 cm:in paksuiksi kiivuiksi, eli turvetlimpuiksi, ja panthiin valumhaan.</xt>
+            </xg>
+         </tg>
+      </mg>
     </e>
     <e src="ai;ta">
       <lg>
@@ -26568,6 +26593,89 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">sovittaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">bli slengt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vatkauttuut</t>
+            <xg>
+            <x>I tillegg sanket man fjæraved, det vil si rekved eller drivved, som har drevet i sjøen og blitt kastet på land.</x>
+            <xt>Lisäksi kovothiin fieruapuita, eli riekkipuita, jokka olthiin kulkunheet meressä ja vatkautunheet rannale.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">bli kastet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vatkauttuut</t>
+            <xg>
+            <x>I tillegg sanket man fjæraved, det vil si rekved eller drivved, som har drevet i sjøen og blitt kastet på land.</x>
+            <xt>Lisäksi kovothiin fieruapuita, eli riekkipuita, jokka olthiin kulkunheet meressä ja vatkautunheet rannale.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">være begrenset til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">rajoittuut</t>
+            <xg>
+            <x>Jordbruket var begrenset til fedrift og potetdyrking.</x>
+            <xt>Maanpruuki rajoittui karjanhoithoon ja poteetiitten kylväämisheen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">tilpasse seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">passauttuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">motorisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">motooriseerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">oppføre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>å føre opp noe</re>
+            <t pos="V">kirjata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">innskrive</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kirjata</t>
          </tg>
       </mg>
    </e>
