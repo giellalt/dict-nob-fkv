@@ -5159,10 +5159,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="viino;viintto">viinto</t>
+            <t pos="A">vino</t>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="A">skrå</l>
       </lg>
@@ -5174,6 +5175,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="viino;viintto">viinto</t>
+            <t pos="A">vino</t>
          </tg>
       </mg>
    </e>
@@ -12686,13 +12688,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">enkeltstående</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">yksinäinen</t>
+            <t pos="A">yksittäinen</t>
          </tg>
       </mg>
    </e>
@@ -17430,6 +17433,80 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kumhoonpantu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">enkelt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">yksittäinen</t>
+            <xg>
+            <x>Byggeskikken utfoldet seg på flere måter: det kunne være enkeltbygg som saunaer og bakerovner, eller boliger og kombinasjonshus.</x>
+            <xt>Rakentamistapa eđistyi usheela tavala: se saattoi olla yksittäiset pytingit niin ko saunat ja paakariuunit, tahi asumapaikat ja kombinasuunitalot.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">rettstripet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">suoraraitainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">minimal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">minimaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kvenskinspirert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kvääni-inspireerattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kompetent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kompetentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">egendesignet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ittedesignattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">horisontal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">horisontaali</t>
          </tg>
       </mg>
    </e>
