@@ -10796,7 +10796,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="mj;ai">
+   <e src="mj;ai;ki">
       <lg>
          <l pos="N">baderom</l>
       </lg>
@@ -10808,6 +10808,7 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">saunomaloma</t>
+            <t pos="N">saunomahuonet</t>
          </tg>
       </mg>
    </e>
@@ -18359,11 +18360,12 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">asumahuonet</t>
+            <t pos="N">asumatalo</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">asumatalo</t>
+            <t pos="N">asumarakenus</t>
          </tg>
       </mg>
    </e>
@@ -19834,7 +19836,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="N">liv</l>
       </lg>
@@ -19845,6 +19847,16 @@ kuohukkoon.</xt>
                <x>Lever de?</x>
                <xt>Oonko net elämässä?</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>midje</re>
+            <t pos="N">vyötärö</t>
+            <xg>
+               <x>Vestene var åpne i brystet og trange i livet.</x>
+               <xt>Västit olthiin aukkeet rinnasta ja ahthaat vyötäröstä.</xt>
+               </xg>
          </tg>
       </mg>
       <mg>
@@ -20330,7 +20342,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">forside</l>
       </lg>
@@ -20342,6 +20354,11 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">etusivu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">etuosa</t>
          </tg>
       </mg>
    </e>
@@ -24258,13 +24275,14 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">erme</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="hijja">hija</t>
+            <t pos="N">hija</t>
+            <t pos="N">hiha</t>
          </tg>
       </mg>
    </e>
@@ -30341,13 +30359,18 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">vadmel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kankhaa">kangas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaatmaali</t>
          </tg>
       </mg>
    </e>
@@ -36558,13 +36581,18 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">barndomshjem</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kotitallo">kotitalo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lapsuuđenkoti</t>
          </tg>
       </mg>
    </e>
@@ -36826,18 +36854,19 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">skredder</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kraatari</t>
+            <t pos="N">skraatari</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">skraatari</t>
+            <t pos="N">ompeliija</t>
          </tg>
       </mg>
    </e>
@@ -42448,13 +42477,18 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">lin</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">liina</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pellava</t>
          </tg>
       </mg>
    </e>
@@ -52708,13 +52742,18 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">pledd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="peito">peitto</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">filtti</t>
          </tg>
       </mg>
    </e>
@@ -57661,7 +57700,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ia;es">
+   <e src="ai;ia;es;ki">
       <lg>
          <l pos="N">bakende</l>
       </lg>
@@ -57674,6 +57713,11 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">takapää</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">takaosa</t>
          </tg>
       </mg>
    </e>
@@ -71634,7 +71678,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">midje</l>
       </lg>
@@ -71646,6 +71690,11 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vyötärä</t>
+            <t pos="N">vyötärö</t>
+            <xg>
+               <x>Vestene var åpne i brystet og trange i livet.</x>
+               <xt>Västit olthiin aukkeet rinnasta ja ahthaat vyötäröstä.</xt>
+               </xg>
          </tg>
       </mg>
    </e>
@@ -74728,6 +74777,12 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">taittaaja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>en som bærer</re>
+            <t pos="N">kanttaaja</t>
          </tg>
       </mg>
    </e>
@@ -83176,13 +83231,18 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">bunad</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">nasunaalipuku</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">bunaadi</t>
          </tg>
       </mg>
    </e>
@@ -89296,6 +89356,7 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">venheenrakenttaaja</t>
+            <t pos="N">venheittenrakenttaaja</t>
          </tg>
       </mg>
    </e>
@@ -90152,6 +90213,598 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">Paattivuono</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gjenbruk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">uuđestipitäminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dyd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hyvet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">overgangstid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ylittemenoaika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">labanker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vinolauta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ullsko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">villakenkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">knapphet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaanuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">yttertøy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ulkovaattheet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">jobbmulighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">työmahđolisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dobbellås</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tupulttilukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">topografi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">topograafii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">front</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">etuosa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sinklaft</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sinkkisalvaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">røykovnstue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">savvu-uunitupa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">badedag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">saunomapäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rekonstruksjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rekonstruksuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bygningsdetalj</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rakenusdeltaji</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">trehus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puutalo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">klesskikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pukemistradisuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nordtromsing</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pohjaistromssalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hovedtype</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">päätyyppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">skuldersjal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">olkapäähuivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">norm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">normi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">firskaft</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nelivartinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kvinner</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">naisväki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">museumsanlegg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">museumipytinki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">minoritetsmiljø</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">minoriteettimiljöö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">herrejakke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">miestenjakki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kvenknute</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kväänisolmu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kvenlaft</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kväänisalvaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kvenkjole</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kväänikleninki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kvenflagg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kvääniflaku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">kvensk identitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kvääni-identiteeti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">smykke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">koru</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kondens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kondensi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">treromsstue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kolmenhuonheentupa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">midtgangsbolig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">keskikangitalo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kjelleretasje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kellarikerros</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lobber</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>av ull</re>
+            <t pos="N">katankat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lapper</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>av ull</re>
+            <t pos="N">katankat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">håndtein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">käsivärttinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">håndtverker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">käsityöläinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nasjonalromantikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kansalisromantikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">toromsstue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kahđenhuonheentupa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vindusbrett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ikkunaprättä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tømmerskog</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hirsimettä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">erme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hiha</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">massasje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hieronta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">frierireplikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">friiausrepliikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">frierferd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">friiausmatka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">finnmarking</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">finmarkkulainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">eldre tider</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">entisaika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">emissærbolig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">emissääritalo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">divan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">divani</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">solrose</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">aurinkoruusu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kreativitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">luovuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">trondheimer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">trondheimilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">trondhjemmer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">trondheimilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lafteteknikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">salvausteknikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fjøsgamme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">navettakammi</t>
          </tg>
       </mg>
    </e>
