@@ -13068,7 +13068,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ia;ai">
+   <e src="ia;ai;ki">
       <lg>
          <l pos="N">brygge</l>
       </lg>
@@ -32979,7 +32979,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="N">sentrum</l>
       </lg>
@@ -32991,6 +32991,11 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">keskus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sentrumi</t>
          </tg>
       </mg>
    </e>
@@ -55354,13 +55359,14 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">postill</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">postila</t>
+            <t pos="N">postilli</t>
          </tg>
       </mg>
    </e>
@@ -61912,7 +61918,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;ki">
       <lg>
          <l pos="N">senter</l>
       </lg>
@@ -61924,6 +61930,11 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">keskus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sentrumi</t>
          </tg>
       </mg>
    </e>
@@ -65026,13 +65037,14 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">byrde</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="taka">takka</t>
+            <t pos="N">takka</t>
+            <t pos="N">taakka</t>
          </tg>
       </mg>
    </e>
@@ -75145,8 +75157,13 @@ kuohukkoon.</xt>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">fornorskningstid</l>
+         <l pos="N">fornorskningspolitikk</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">norjalaistamispolitikki</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ruijalaistamispolitikki</t>
@@ -75436,16 +75453,6 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">histooriilaaki</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">historikk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">historiikki</t>
          </tg>
       </mg>
    </e>
@@ -78347,6 +78354,7 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">alkupöräiskansa</t>
+            <t pos="N">alkuperäiskansa</t>
          </tg>
       </mg>
    </e>
@@ -89002,6 +89010,11 @@ kuohukkoon.</xt>
             <t pos="N">moderniseeraus</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">uuđistaminen</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -90805,6 +90818,427 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">navettakammi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Varangerhus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Varengintalo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Varangerhalvøya</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Varenginniemi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Ytrebyen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Ulkopää</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Krampenes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Kramppinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Kiberg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Kiiperi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Arkhangelsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Arkangeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Pasvik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Paatsjoki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">læstadianisme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lestaadianismi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">votisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">votja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vepsisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vepsä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ungarsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">unkari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">arbeidsvane</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">työtapa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">arbeidsmåte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">työtapa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hemsko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">taakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">binæring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sivuelämänkeino</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">likhetstrekk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">samankaltaisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">reaksjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">reaksuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">primærnæring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">primäärielämänkeino</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lokalhistorie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paikalishistoorii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hovedgruppe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pääroikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">overlevelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pärjääminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hovedretning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">päähaara</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hovedansvar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pääeđesvastaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mobilitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mobiliteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">majoritetsspråk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">majoriteettikieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">jordbruksbygd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">maanpruukikylä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">en som kjøper land</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">maanostaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">kvensk samfunn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kväänisamfynni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kulturbærer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulttuurikanttaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kapital</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kapitaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gjenoppbygging</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jälleenrakentaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">interesseforening</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">interessiforeeninki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ingrisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">inkeri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fraksjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fraksuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sør-estisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">etelä-eesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">estisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">eesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dialektinndeling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">dialektijako</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">historikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">historikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">de førstefødte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>rel.</re>
+            <t pos="N">ensisyntynheet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fornyelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">uuđistaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Gällivare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Jällivaara</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Kemielvedalen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Kemijokilakso</t>
          </tg>
       </mg>
    </e>
