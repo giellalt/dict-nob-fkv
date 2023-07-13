@@ -315,7 +315,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ame">
+   <e src="ame;ki">
       <lg>
          <l pos="V">plassere</l>
       </lg>
@@ -326,6 +326,11 @@ For the full license text, see the link above.</lic>
                <x>Jeg plasserte boka på bordet.</x>
                <xt>Mie panin kirjan pöyđän pääle.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sijoittaat</t>
          </tg>
       </mg>
    </e>
@@ -26566,7 +26571,42 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">ylläpittäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Phrase">pittäät yllä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">nyansere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">nyanseerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">svekke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">heikenttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">vedlikeholde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ylläpittäät</t>
          </tg>
       </mg>
    </e>
