@@ -9920,8 +9920,37 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="Adv">til tider</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">ajoittain</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">tidvis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">ajoittain</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="Adv">bevisst</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">tietoisesti</t>
+            <xg>
+            <x>De har bevisst valgt å føre den kvenske arven videre.</x>
+            <xt>Het oon tietoisesti valinheet vieđä kväänin perinön etheenpäin.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
          <re>med vilje</re>
