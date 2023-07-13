@@ -4219,13 +4219,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Adv">massevis</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">läjittäin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">massoittain</t>
          </tg>
       </mg>
    </e>
@@ -9935,6 +9940,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">ajoittain</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">forsiktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">varroovasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">i stort omfang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">massoittain</t>
          </tg>
       </mg>
    </e>

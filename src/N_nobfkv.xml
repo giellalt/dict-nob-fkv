@@ -51473,10 +51473,15 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">smed</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">seppä</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pajamies</t>
@@ -51485,11 +51490,7 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">rauttii</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="sepä">seppä</t>
+            <t pos="N">rauttiimies</t>
          </tg>
       </mg>
    </e>
@@ -53945,13 +53946,14 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">småfe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pikkukarja</t>
+            <t pos="N">pienkarja</t>
          </tg>
       </mg>
    </e>
@@ -91330,6 +91332,56 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">Bottenvika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">snøtung</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lumiraskas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ødeskog</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">auttiimettä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">improvisasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">improvisasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">designtradisjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">designtradisuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Maanselkäryggen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Maanselkä</t>
          </tg>
       </mg>
    </e>
