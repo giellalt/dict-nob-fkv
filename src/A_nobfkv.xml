@@ -15528,7 +15528,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">motsatt</l>
       </lg>
@@ -15536,6 +15536,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">vastakohtainen</t>
             <t pos="A">vastakkainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">päinvastainen</t>
          </tg>
       </mg>
    </e>
@@ -17517,6 +17522,100 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">steril</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">knyttet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">siđottu</t>
+            <xg>
+            <x>Moderniseringa tok bort grunnlaget for det gamle jordbruket, binæringene og dermed språket, som var nært knyttet til primærnæringene.</x>
+            <xt>Moderniseeraus vei pohjan vanhaalta maanpruukilta, sivuelämäkeinoilta ja sitte kans kieleltä, joka oli likheisesti siđottunna primäärielämänkeinhoin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">vanskeligere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vaikkeempi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">mest truet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">uhatuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">stabiliserende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">stabiliseeraava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">nordfinsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pohjaissuomalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">pietistisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pietistinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">luthersk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">lutherinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sydlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">eteläinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sørlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">eteläinen</t>
          </tg>
       </mg>
    </e>
