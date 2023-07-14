@@ -335,7 +335,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ae">
       <lg>
-         <l pos="N">åpning i gjerdet</l>
+         <l pos="Phrase">åpning i gjerdet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12537,7 +12537,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;ki">
       <lg>
          <l pos="N">åpning</l>
       </lg>
@@ -12554,6 +12554,11 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">aukkein</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">aukaiseminen</t>
          </tg>
       </mg>
    </e>
@@ -91372,6 +91377,96 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">Maanselkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">filmskaper</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">filmintekkiijä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">jazzmusiker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jazzmuusikkeri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">popmusiker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">poppimuusikkeri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">info</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">info</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">påmelding</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">päälemellaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">arkitekt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">arkkitekti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">snorklipping</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nauhanleikkaaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">emeritus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">emeritus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">amanuensis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">amanuensis</t>
          </tg>
       </mg>
    </e>
