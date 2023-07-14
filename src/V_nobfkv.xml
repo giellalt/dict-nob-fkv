@@ -10248,7 +10248,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;ki">
       <lg>
          <l pos="V">behandle</l>
       </lg>
@@ -10259,6 +10259,11 @@ For the full license text, see the link above.</lic>
             <x>Mor var snill mot far.</x>
             <xt>Muori kohteli faarii hyvin.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">käsitellä</t>
          </tg>
       </mg>
    </e>
@@ -10541,6 +10546,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="V">bearbeide</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">käsitellä</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">työstäät</t>
@@ -20524,13 +20534,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;ki">
       <lg>
          <l pos="V">planlegge</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">suunitella</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">plaanata</t>
          </tg>
       </mg>
       <mg>
@@ -26854,6 +26869,51 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Andre kilder tyder heller på det motsatte, at kvenene kledde seg som den øvrige befolkninga i nord.</x>
             <xt>Muista kalttiista saattaa kuitenki päätelä ette assii saattoi olla päinvastoin, ette kväänit vaatithiin ittensä niin ko muuki pohjaisen väki.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">forurense</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ryötätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">kondemnere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kondemneerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">rekvirere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">rekvireerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">videreforedle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>bearbeide råmateriale eller havfabrikat til ferdigvare</re>
+            <t pos="V">käsitellä</t>
+            <xg>
+            <x>Fisken videreforedles ikke lokalt, men sendes til Kina for produksjon.</x>
+            <xt>Kalloi ei käsitellä paikalisesti, mutta net lähätethään Kiinhaan produksuunii varten.</xt>
             </xg>
          </tg>
       </mg>
