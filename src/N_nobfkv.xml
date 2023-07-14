@@ -27839,13 +27839,14 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">sankthans</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">juhanes</t>
+            <t pos="N">juhanus</t>
          </tg>
       </mg>
       <mg>
@@ -36218,7 +36219,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">mål</l>
       </lg>
@@ -36237,6 +36238,16 @@ kuohukkoon.</xt>
          <tg xml:lang="fkv">
          <re>f.eks. i spill</re>
             <t pos="N">mooli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>det noe er rettet mot</re>
+            <t pos="N">kohđet</t>
+            <xg>
+            <x>Det var stor sjanse for å bli utsatt for flyangrep og ubåtangrep.</x>
+            <xt>Se oli suuri mahđolisuus jouttuut flyyin ja sukelusvenheen hyökkäyksen kohtheeksi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -45732,13 +45743,14 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">mast</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">masto</t>
+            <t pos="N">masta</t>
          </tg>
       </mg>
    </e>
@@ -67059,13 +67071,14 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">tråler</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">troolari</t>
+            <t pos="N">trooleri</t>
          </tg>
       </mg>
       <mg>
@@ -67139,7 +67152,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="N">fokk</l>
       </lg>
@@ -67151,6 +67164,12 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">fokka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>seil</re>
+            <t pos="N">keulaseili</t>
          </tg>
       </mg>
    </e>
@@ -80238,13 +80257,22 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">forvaltning</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hallinta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">valvonta</t>
+            <xg>
+            <x>forvaltning av fiske</x>
+            <xt>kalapyyđön valvonta</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -91467,6 +91495,240 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">amanuensis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">miljøbevegelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">miljööliiket</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fjordfisker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vuonopyyttääjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">villfisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">villikala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tropp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">troppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">trålerreder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">troolinomistaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">toppseil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">toppseili</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ubåt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sukelusvenet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sjark</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sjarkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">restaurering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">restaureerinki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">miljøverner</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">miljöönsuojeliija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mesan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mesaani</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">klyver</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kliivertti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vårfiske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kevätpyytö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">feststeming</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">juhlahenki</t>
+            <xg>
+            <x>Båten ble sjøsatt 19. mai 1919 med byen i feststemning.</x>
+            <xt>Venheen laskethiin vesile 19. maikuuta 1919 ja kaupunki oli juhlahengessä.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">storseil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">isoseili</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">storklyver</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">isokliiverti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fiskepinne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kalatikku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">blokkfisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pakkaskala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">trålerfiske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">troolaaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tråling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">troolaaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">miljøhensyn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">miljöönperustaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fiskeoppdrett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kalankasutus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fjordbunn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vuononpohja</t>
          </tg>
       </mg>
    </e>
