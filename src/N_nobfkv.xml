@@ -12675,7 +12675,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;ki">
       <lg>
          <l pos="N">spiss</l>
       </lg>
@@ -12687,6 +12687,10 @@ kuohukkoon.</xt>
             <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kärje;kärkke">kärki</t>
+            <xg>
+            <x>Handelen økte og slutten av 1400- og 1500-tallet kalles «den gode tid» i Finnmark, en oppgangstid, da Finnmark lå på topp i Norden.</x>
+            <xt>Kauppa lissäintyi, ja 1400- ja 1500-luvun lopussa oli Finmarkussa “hyvä aika”, nousun aika, ko Finmarkku oli kärjessä Pohjaismaissa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -12697,6 +12701,16 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">syypää</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">oppgangstid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">nousun aika</t>
          </tg>
       </mg>
    </e>
@@ -87111,6 +87125,16 @@ kuohukkoon.</xt>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">fuglefanger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">linnunfangittaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">funn</l>
       </lg>
       <mg>
@@ -88383,6 +88407,7 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kansanryhmä</t>
+            <t pos="N">kansanjoukko</t>
          </tg>
       </mg>
    </e>
@@ -90087,6 +90112,17 @@ kuohukkoon.</xt>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">nordlandilainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>en fra Nordland</re>
+            <t pos="N">nordlending</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">småbruker</l>
       </lg>
       <mg>
@@ -91750,6 +91786,56 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">Tenovuono</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">jekt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jekti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hvalrosstann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mursunhammas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fastedag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paastopäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">utpost</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puolustuslinja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">forsvarslinje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puolustuslinja</t>
          </tg>
       </mg>
    </e>

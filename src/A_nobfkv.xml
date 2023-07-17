@@ -11437,13 +11437,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
-         <l pos="A">viktigste</l>
+         <l pos="A">viktigst</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">tärkkein</t>
+            <t pos="A">tähelissiin</t>
          </tg>
       </mg>
    </e>
@@ -17746,6 +17747,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">seppä käsistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">katolsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">katoolinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ressursrik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">resursirikas</t>
          </tg>
       </mg>
    </e>

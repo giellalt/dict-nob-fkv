@@ -6138,6 +6138,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">tuske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">puuhaila</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="Phrase">ha det travelt</l>
@@ -9648,7 +9658,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">dreie</l>
       </lg>
@@ -9660,6 +9670,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="väänä;vääntä">väänttäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">pyöriit</t>
+            <xg>
+            <x>De store handelshusene i Bergen og Trondheim styrte virksomheten, som i hovedsak dreide seg om fisk.</x>
+            <xt>Perunan ja Trondheimin isot kauppahuonheet styyräthiin toimii, mikkä enniimiten pyörithiin kalan ympäri.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
