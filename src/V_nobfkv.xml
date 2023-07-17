@@ -5627,13 +5627,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">lette</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="helpota">helpottaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">keventtäät</t>
+            <xg>
+            <x>lette på hjertet</x>
+            <xt>keventtäät syđämen</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -26933,6 +26942,40 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Fisken videreforedles ikke lokalt, men sendes til Kina for produksjon.</x>
             <xt>Kalloi ei käsitellä paikalisesti, mutta net lähätethään Kiinhaan produksuunii varten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">spore</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">jäljittäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">massere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">masseerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">bli presset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">puristuut</t>
+            <xg>
+            <x>Høy temperatur får porene i huden til å åpne seg slik at gammel svette presses ut.</x>
+            <xt>Korkkee temperatuuri saapi ihon pikku aukeimet aukenemhaan, ja vanhaa palava puristuu ulos.</xt>
             </xg>
          </tg>
       </mg>

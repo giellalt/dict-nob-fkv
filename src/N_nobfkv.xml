@@ -26111,7 +26111,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">folkemengde</l>
       </lg>
@@ -26123,6 +26123,12 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">väkijoukko</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>stor</re>
+            <t pos="N">väjenpaljous</t>
          </tg>
       </mg>
    </e>
@@ -63077,13 +63083,14 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">loppe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="sonsari;sonsari">sonsari</t>
+            <t pos="N">sonsari</t>
+            <t pos="N">sonsara</t>
          </tg>
       </mg>
    </e>
@@ -64247,7 +64254,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ta;es">
+   <e src="ta;es;ki">
       <lg>
          <l pos="N">fødsel</l>
       </lg>
@@ -64259,6 +64266,11 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">syntymä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">synnytys</t>
          </tg>
       </mg>
    </e>
@@ -64600,7 +64612,7 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl;es">
+   <e src="ai;ta;kl;es;ki">
       <lg>
          <l pos="N">hjerte</l>
       </lg>
@@ -64610,6 +64622,10 @@ kuohukkoon.</xt>
             <xg>
             <x>Jeg er kvalm.</x>
             <xt>Minula oon syđän huono.</xt>
+            </xg>
+            <xg>
+            <x>å lette på hjertet</x>
+            <xt>keventtäät syđämen</xt>
             </xg>
          </tg>
       </mg>
@@ -71005,13 +71021,14 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">virus</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="viirykse">viirys</t>
+            <t pos="N">viirus</t>
          </tg>
       </mg>
    </e>
@@ -89190,16 +89207,6 @@ kuohukkoon.</xt>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">bosettingsmønster</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">asumamönsteri</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">sentralisering</l>
       </lg>
       <mg>
@@ -91836,6 +91843,168 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">puolustuslinja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vakuumkopp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vakuumikuppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vakuum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vakuumi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">yrkestittel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">työtitteli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">syklus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sykluusi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bindevev</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sitomaväävi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">badstuplass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>en plass en kan ta badstu</re>
+            <t pos="N">saunomapaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">massasjeteknikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">masseeraamisteknikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lymfesirkulasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lymfisirkulasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">blodsirkulasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">verisirkulasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">karbading</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kaarasaunominen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bakterie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">bakteeria</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fødestue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">synnytystupa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">stellerom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hoitotupa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hjerteplage</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">syđänvika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kuhorn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lehmänsarvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bosetningsmønster</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">asutusmönsteri</t>
+            <t pos="N">asumamönsteri</t>
          </tg>
       </mg>
    </e>
