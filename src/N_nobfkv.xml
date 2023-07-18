@@ -64931,18 +64931,19 @@ kuohukkoon.</xt>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">vandring</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">taipalet</t>
+            <t pos="N">taival</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="taipalhe">taival</t>
+            <t pos="N">vajelus</t>
          </tg>
       </mg>
    </e>
@@ -71979,6 +71980,11 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ylikansoitus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">väjenpaljous</t>
          </tg>
       </mg>
    </e>
@@ -92005,6 +92011,66 @@ kuohukkoon.</xt>
          <tg xml:lang="fkv">
             <t pos="N">asutusmönsteri</t>
             <t pos="N">asumamönsteri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tamiler</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tamililainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">singaleser</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">singalilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">matmangel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ruovanvaanuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">naturkatastrofe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">luononkatastroofi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">miljøarbeider</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">miljöötyöteliijä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Sri Lanka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Sri Lanka</t>
          </tg>
       </mg>
    </e>
