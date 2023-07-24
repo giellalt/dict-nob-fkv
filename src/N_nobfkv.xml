@@ -88175,6 +88175,12 @@ kuohukkoon.</xt>
             <t pos="N">pohjaisnorjalainen</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>en fra Nordland</re>
+            <t pos="N">nordlandilainen</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -90095,7 +90101,7 @@ kuohukkoon.</xt>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">byggemateriale</l>
+         <l pos="N">trevirke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -90120,17 +90126,6 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pomoorikauppa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">nordlending</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>en fra Nordland</re>
-            <t pos="N">nordlandilainen</t>
          </tg>
       </mg>
    </e>
@@ -90764,16 +90759,6 @@ kuohukkoon.</xt>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hirsimettä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">erme</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">hiha</t>
          </tg>
       </mg>
    </e>
