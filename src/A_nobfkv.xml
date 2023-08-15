@@ -4650,6 +4650,15 @@ For the full license text, see the link above.</lic>
             <t pos="A" stem="sinnikkhää">sinnikäs</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">erilinen</t>
+            <xg>
+            <x>Räkingin rakenusmaksoista lähätethään erilisessä preivissä.</x>
+            <xt>Faktura på byggesaksgebyr følger i eget brev.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -13812,6 +13821,11 @@ For the full license text, see the link above.</lic>
             <t pos="A">engaseerattu</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">engaseeraantunnu</t>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -15230,13 +15244,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">foreløpig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">toistainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">alustava</t>
          </tg>
       </mg>
    </e>
@@ -17760,6 +17779,86 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">auktoriseerattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tilfeldig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sattumainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">byggansvarlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pykkäämäeđesvastulinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">nazistisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">nazistinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sølv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">hoppeinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">markant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">huomattava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">separat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">erilinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tinglyst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">lakihuuđettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">pålagt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">määrätty</t>
          </tg>
       </mg>
    </e>
