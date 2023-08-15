@@ -14544,13 +14544,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">snarest</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>raskest</re>
             <t pos="A">noppein</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>med en gang</re>
+            <t pos="A">varsin</t>
          </tg>
       </mg>
    </e>
