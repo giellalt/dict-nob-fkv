@@ -543,7 +543,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ai;ta;es">
+      <e src="ai;ta;es;ki">
       <lg>
          <l pos="Adv">fast</l>
       </lg>
@@ -564,6 +564,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">pyssyyvästi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>regelmessig</re>
+            <t pos="Adv">fastasti</t>
          </tg>
       </mg>
    </e>
@@ -9225,13 +9231,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Adv">regelmessig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">tasavälin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">fastasti</t>
          </tg>
       </mg>
    </e>
@@ -10029,6 +10040,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">paikalisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">internt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sisälisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">eksternt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">ulkopuolisesti</t>
          </tg>
       </mg>
    </e>
