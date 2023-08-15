@@ -5716,7 +5716,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;es">
+   <e src="ta;es;ki">
       <lg>
          <l pos="A">klein</l>
       </lg>
@@ -5728,6 +5728,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kleini</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kiusalinen</t>
          </tg>
       </mg>
    </e>
@@ -6910,7 +6915,7 @@ For the full license text, see the link above.</lic>
            <t pos="Adv">liki</t>
           <xg>
            <x>Selve høgskolen var nær Kurravaara.</x>
-           <xt>Itte korkeakoulu oli liki Kurravaaraa.</xt>
+           <xt>Itte korkkeekoulu oli liki Kurravaaraa.</xt>
           </xg>
          </tg>
       </mg>
@@ -6920,7 +6925,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-     <e src="ai">
+     <e src="ai;ki">
       <lg>
          <l pos="A">nærmere</l>
       </lg>
@@ -6928,6 +6933,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>den eller det som er</re> 
             <t pos="A">likempi</t>
+          <xg>
+           <x>Her finner du nærmere opplysninger om hvorfor saken ikke kan avgjøres med en gang.</x>
+           <xt>Tässä likemppii tiettoi miksi assiita ei saateta ratkaista varsin.</xt>
+          </xg>
          </tg>
       </mg>
    </e>
@@ -13424,13 +13433,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">underliggende</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">alainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">taustala olleeva</t>
          </tg>
       </mg>
    </e>
@@ -17873,6 +17887,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">nöitraali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">gyldig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">luvalinen</t>
          </tg>
       </mg>
    </e>
