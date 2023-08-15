@@ -18007,7 +18007,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">sparke</l>
       </lg>
@@ -18025,6 +18025,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">potkiit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>gi sparken</re>
+            <t pos="V">irtisannoot</t>
          </tg>
       </mg>
    </e>
@@ -27079,17 +27085,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">irtisannoot</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="V">sparke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>gi sparken</re>
             <t pos="V">irtisannoot</t>
          </tg>
       </mg>
