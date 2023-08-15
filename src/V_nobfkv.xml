@@ -2833,13 +2833,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">boble</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">kiehuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kupliit</t>
          </tg>
       </mg>
    </e>
@@ -10563,6 +10568,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">lymmyttäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">piilottaat</t>
          </tg>
       </mg>
    </e>
@@ -23470,7 +23480,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="V">unngå</l>
       </lg>
@@ -23484,6 +23494,15 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Alt som er unødvendig skal unngås.</x>
                <xt>Kaikkee jouttaavaa häyttyy välttäät.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vieroot</t>
+            <xg>
+               <x>NRK skulle være nøytral og styre mest mulig unna politikk og religion.</x>
+               <xt>NRK piti olla nöitraali ja vieroot politikkii ja uskontoo.</xt>
             </xg>
          </tg>
       </mg>
@@ -26103,7 +26122,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="akr">
+   <e src="akr;ki">
       <lg>
          <l pos="V">gjelde</l>
       </lg>
@@ -26113,6 +26132,15 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Denne rettighetet gjelder ikke hvis du har begått en forbrytelse.</x>
             <xt>Tämä oikkeus ei jällää silloin ko sie olet tehny rikoksen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">koskeet</t>
+            <xg>
+            <x>Følgende tidsfrist gjelder for din sak: Tolv uker.</x>
+            <xt>Tämä määräaika koskee sinun assiita: Kaksitoista viikkoo.</xt>
             </xg>
          </tg>
       </mg>
@@ -26524,6 +26552,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">peekata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">viitata</t>
+            <xg>
+            <x>Det vises til byggesaksforskriften (ASIA10) § 7-1 ja 7-2.</x>
+            <xt>Viitathaan rakentamisassiimääräyksheen 2010 (ASIA10) § 7-1 ja 7-2.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -26991,6 +27028,159 @@ For the full license text, see the link above.</lic>
             <x>Folk har vandret til alle tider og blandet seg med hverandre.</x>
             <xt>Ihmiset oon vajeltanheet kaikkina aikoina ja sekoittunheet toinen toisen kans.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">rette mot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">suunittaat</t>
+            <xg>
+            <x>rette seg mot</x>
+            <xt>suunittaat ittensä</xt>
+            </xg>
+            <xg>
+            <x>I 1997 kom programmet Migrapolis som rettet seg mot nye minoritetsgrupper.</x>
+            <xt>Vuona 1997 tuli programi Migrapolis, mikä suunitti ittensä uushiin minoriteettijoukkhoin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">styre unna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vieroot</t>
+            <xg>
+               <x>NRK skulle være nøytral og styre mest mulig unna politikk og religion.</x>
+               <xt>NRK piti olla nöitraali ja vieroot politikkii ja uskontoo.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">bli sagt opp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">irtisannoot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">gi sparken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">irtisannoot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">sparke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gi sparken</re>
+            <t pos="V">irtisannoot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">oppfinne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">hoksata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">moderere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">modereerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">motta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vasthaanottaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">utfylle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">täyđenttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">supplere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">täyđenttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">motregne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vastaräknätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">datere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">dateerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">ta hensyn til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">ottaat huomihoon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">saksbehandle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">käsitellä</t>
          </tg>
       </mg>
    </e>
