@@ -35738,6 +35738,15 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yhtheyđenotto</t>
+             <xg>
+               <x>Din henvendelse vil bli videresendt til en saksbehandler for videre oppfølging.</x>
+               <xt>Sinun yhtheyđenoton lähätethään etheenpäin assiinkäsitteliijälle kuka hantteeraa assiin.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="yr">
       <lg>
@@ -93065,6 +93074,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maatilanumero</t>
+            <t pos="N">talonumero</t>
          </tg>
       </mg>
    </e>
@@ -93075,6 +93085,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">käyttönumero</t>
+            <t pos="N">pitonumero</t>
          </tg>
       </mg>
    </e>
@@ -93355,6 +93366,76 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">päätös</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nasjonalparkforvalter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kansalistarhaanvalvooja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hytteregel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mökkireekeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">personlig informasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">privaattitieto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">postmottak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">postivasthaanotto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">turgåer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mukkakävviijä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kulturmøte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulttuurikohđattelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bygningsarv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rakentama-arvo</t>
          </tg>
       </mg>
    </e>
