@@ -25465,17 +25465,35 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ai;ta">
       <lg>
          <l pos="V">nå</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">saavuttaat</t>
+            <t pos="V">sauttaat</t>
             <xg>
             <x>Ettei yksikhään minnuu saavuta.</x>
             <xt>Slik at ingen når meg.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>rekke å gjøre noe</re>
+            <t pos="V">keritä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	     <re>få tak i eller strekke seg</re> 
+            <t pos="V">ulettuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">räkätä</t>
          </tg>
       </mg>
    </e>
@@ -27195,6 +27213,16 @@ For the full license text, see the link above.</lic>
             <x>En saksbehandler vil så snart som mulig gå gjennom saken.</x>
             <xt>Assiinkäsitteliijä tarkistaa assiin niin hopusti ko mahđolista.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">videresende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">lähättäät etheenpäin</t>
          </tg>
       </mg>
    </e>

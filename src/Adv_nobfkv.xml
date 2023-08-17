@@ -1348,11 +1348,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta;ki">
       <lg>
-         <l pos="Adv">åpent</l>
+         <l pos="Adv">åpen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">auki</t>
+            <xg>
+            <x>Hytta er åpen/holdes åpen fra september til mai.</x>
+            <xt>Mökki oon auki septemberikuusta kiini maikuuhun saakka.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -1634,7 +1638,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="Adv">fram</l>
       </lg>
@@ -1653,6 +1657,15 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Vi kom fram allerede.</x>
                <xt>Met pääsimä jo perile.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">framile</t>
+            <xg>
+               <x>Dette er en automatisk bekfreftelse på at e-posten er mottatt/kommet fram.</x>
+               <xt>Tämä automaattinen mellinki vahvistaa ette sinun e-posti oon tullu framile.</xt>
             </xg>
          </tg>
       </mg>
@@ -4933,31 +4946,6 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">nyt</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Interj">noh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="kerkkii;kerin">keritä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="räkkää;räkän">räkätä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" val="TV" stem="sauta">sauttaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="uletu;ulettu">ulettuut</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -6619,7 +6607,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">takaisinkäsin</t>
             <xg>
-            <x>Handel med Russland går flere hundre år tilbake.</x>
+            <x>Handelen med Russland går flere hundre år tilbake i tid.</x>
             <xt>Kauppa Ryssän kans mennee monta sattaa vuotta aijassa takaisinkäsin.</xt>
             </xg>
          </tg>
@@ -10060,6 +10048,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">ulkopuolisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">fornuftig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">järkkeevästi</t>
+            <xg>
+            <x>Bruk hytta med sunn fornuft.</x>
+            <xt>Piđä mökkii järkkeevästi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
