@@ -26148,13 +26148,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">befolkningsgruppe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="ihmisjouko">ihmisjoukko</t>
+            <t pos="N">ihmisjoukko</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">väkiroikka</t>
          </tg>
       </mg>
    </e>
@@ -47536,7 +47541,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">figur</l>
       </lg>
@@ -47548,6 +47553,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">myösteri</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">figuuri</t>
          </tg>
       </mg>
    </e>
@@ -78861,6 +78871,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">raavhaittenkoulutus</t>
+            <t pos="N">raavhaittenopetus</t>
          </tg>
       </mg>
    </e>
@@ -81339,13 +81350,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">helleristning</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kalliopiirustus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pahtapriimustus</t>
          </tg>
       </mg>
    </e>
@@ -83229,13 +83245,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
-         <l pos="N">motorisert kjøretøy</l>
+         <l pos="Phrase">motorisert kjøretøy</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">motorineuvo</t>
+            <t pos="N">motorikulkuneuvo</t>
          </tg>
       </mg>
    </e>
@@ -93450,6 +93467,429 @@ For the full license text, see the link above.</lic>
             <x>Fjøset fredes som eksempel på den kvenske befolkningens bygningsarv og innflytelse på jordbruket i Troms og Finnmark.</x>
             <xt>Navetan rauhoitethaan esimerkkinä rakentama-arvoista ja maanpruukin vaikutuksesta Tromssassa ja Finmarkussa.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">jodtablett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">juuttatabletti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">stoffskiftesykdom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ainetvaihetustauti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">risiko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">riski</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">graviditetsuke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">raskhausviikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">svangerskapsuke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">raskhausviikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">graviditet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">raskhaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kaliumjodid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kaliumjodiidi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">jod</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">juutta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dosering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">doseeraus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">stoffskifte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ainetvaihetus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">stoffskifteprøve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ainetvaihetuspröövi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">doseringssprøyte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">doseerausspröittä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fruktjus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fruktijuusi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">helsetilstand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tervheyđentila</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hudsykdom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ihotauti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">anleggsdrift</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">työmaatriivaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">varelevering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tavaratoimitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rusmiddel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">päihđet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">IT-avdeling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">IT-osasto</t>
+            <t pos="N">IT-avdeelinki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kulturskole</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulttuurikoulu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">servicekontor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">palvelukontturi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">helseenhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tervheysosasto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">atomulykke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">atoomivahinko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">skjoldbrukskjertelkreft</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kilpirauhaskräftä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">skjoldbruskkjertel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kilpirauhanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">forstyrrelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">häiritys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dose</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">doosa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">infoark</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">infoarkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kosttilskudd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>tabletter</re>
+            <t pos="N">ruvanlisätabletti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bergflate</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pahtapinta</t>
+            <t pos="N">pahtalaatas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">helleristningsfelt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pahtapriimustusala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vegetasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vegetasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kalkering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kalkkeerinki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">menneskefigur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ihmisfiguuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">strandsone</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fierva-ala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bjørnemor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">karfuumuori</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">verdensarv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mailmanperintö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kulturminnelov</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulttuurimuistolaki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ferdselsregel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulkureekeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">verdensarvområde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mailmanperintöala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bålbrenning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">valkkeenpoltaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">camping</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">camping</t>
          </tg>
       </mg>
    </e>
