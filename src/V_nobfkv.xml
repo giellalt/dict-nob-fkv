@@ -14963,13 +14963,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="V">justere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">säättäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">justeerata</t>
          </tg>
       </mg>
    </e>
@@ -19891,6 +19896,19 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Vi blandet sort ull med hvit ull.</x>
             <xt>Met panima mustaa villaa valkkeen villan seurhaan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sekhaanuttaat</t>
+            <xg>
+            <x>Bland ut tabletten i fruktjuice, syltetøy, melk eller lignende.</x>
+            <xt>Sekhaanuta tabletin fruktijuushiin, marmelaathiin, maithoon tahi johonki sellaisheen.</xt>
+            </xg>
+            <xg>
+            <x>Ved behov kan den tygges eller knuses og gis på en skje med yoghurt, syltetøy eller annen halvfast mat, eller blandes ut i vann.</x>
+            <xt>Tabletin saattaa pureskella tahi särkkeet ja anttaat lusikalla yoghurtin, marmelaatin tahi muun puolikovan ruvan kans, tahi sekhaanuttaat vetheen.</xt>
             </xg>
          </tg>
       </mg>
@@ -26976,6 +26994,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">ryötätä</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ryötyttäät</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -27223,6 +27246,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">lähättäät etheenpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">operere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">opereerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">ripe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">krapata</t>
          </tg>
       </mg>
    </e>
