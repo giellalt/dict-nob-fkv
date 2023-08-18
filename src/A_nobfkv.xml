@@ -213,7 +213,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="jaj;th;es;bs;es">
+      <e src="jaj;th;es;bs;es;ki">
       <lg>
          <l pos="A">gravid</l>
       </lg>
@@ -248,6 +248,10 @@ For the full license text, see the link above.</lic>
               <xg>
                <x>Jeg er gravid.</x>
                <xt>Mie olen lapsesta.</xt>
+            </xg>
+              <xg>
+               <x>Alle over 12 år, gravide og ammende kan ta to tabletter.</x>
+               <xt>Kaikki yli 12-vuotiset, lapsesta olleevat ja imettäävät saattaava ottaat 2 tablettii.</xt>
             </xg>
          </tg>
       </mg>
@@ -4788,7 +4792,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta;kl;ki">
       <lg>
          <l pos="A">unødvendig</l>
       </lg>
@@ -4800,6 +4804,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">turha</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tarpheeton</t>
          </tg>
       </mg>
    </e>
@@ -17911,6 +17920,84 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">luvalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">halvfast</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">puolikova</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">allergisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">allerginen</t>
+            <xg>
+            <x>å være allergisk mot noe</x>
+            <xt>olla allerginen jotaki vasthaan</xt>
+            </xg>
+            <xg>
+            <x>Ikke ta jodtabletter dersom du er allergisk mot kaliumjodid eller noen av de andre innholdsstoffene i legemidlet.</x>
+            <xt>Älä ota juuttatablettiita jos sie olet allerginen kaliumjodiidii tahi muita ainheita vasthaan, mikkä tässä metesiinissä oon.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ammende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">imettäävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">psykisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">psyykkinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">radioaktiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">raadioaktiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">forurenset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ryötytetty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">forhistorisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">esihistorialinen</t>
          </tg>
       </mg>
    </e>
