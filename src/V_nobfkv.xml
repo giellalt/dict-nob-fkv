@@ -15890,7 +15890,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="V">overrekke</l>
       </lg>
@@ -22882,13 +22882,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">strekke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV" stem="venytä">venyttäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ojenttaat</t>
+            <xg>
+            <x>De strekker armene frem og løytnantshjerter vokser ut av håndflatene deres.</x>
+            <xt>Het ojenethaan käđet esile ja löitnaninsyđämet kasuthaan heiđän kämmenistä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
