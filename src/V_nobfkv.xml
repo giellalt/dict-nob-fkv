@@ -855,13 +855,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ks">
+      <e src="ks;ki">
       <lg>
          <l pos="V">amme</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">imettäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">immeet</t>
+            <xg>
+            <x>Lapsile annethaan saman doseerauksen, immeekö lapsi tahi ei.</x>
+            <xt>Det gis samme dose uavhengig av om barnet ammes eller ikke.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7366,13 +7375,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">dele</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="jaa;jaka">jakkaat</t>
+            <xg>
+            <x>dele i to</x>
+            <xt>jakkaat kahtheen</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7844,7 +7857,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">ferdes</l>
       </lg>
@@ -7857,6 +7870,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kulje">kulkkeet</t>
+            <xg>
+            <x>Trå varsomt i området!</x>
+            <xt>Kulje alassa varovaisesti!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -11125,13 +11142,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">vandre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kulje">kulkkeet</t>
+            <xg>
+            <x>Trå varsomt i området!</x>
+            <xt>Kulje alassa varovaisesti!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -15159,14 +15180,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">neuvoot</t>
-            <xg>
-            <x>Presten rådet Nils til å dra på ei reise.</x>
-            <xt>Pappi neuvoi Nillan lähteet reishuun.</xt>
-            </xg>
-            <xg>
-            <x>Læreren anbefalte/rådet elevene til å gjøre leksene.</x>
-            <xt>Opettaaja neuvoi koululapset lukkeet läksyt.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -27266,6 +27279,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">krapata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">gå i oppløsning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">hajota</t>
+            <xg>
+            <x>Rør rundt i ca. 2 minutter, tabletten løser seg ikke helt, men det er greit.</x>
+            <xt>Liikuta nuoin 2 minuttii. Tabletti ei hajjoo kokonhansa vetheen, mutta se mennee hyvin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

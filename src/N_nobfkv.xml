@@ -83656,13 +83656,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">seksjon</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">osakunta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">osasto</t>
          </tg>
       </mg>
    </e>
@@ -87077,13 +87082,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">enhet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">yksyys</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>avdeling</re>
+            <t pos="N">osasto</t>
          </tg>
       </mg>
    </e>
@@ -93757,6 +93768,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">ruvanlisä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
          <re>tabletter</re>
             <t pos="N">ruvanlisätabletti</t>
          </tg>
@@ -93875,6 +93891,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">camping</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">camping</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">bålbrenning</l>
       </lg>
       <mg>
@@ -93885,11 +93911,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">camping</l>
+         <l pos="N">Apanes</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">camping</t>
+            <t pos="N">Aapana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Hjemmeluft</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Jiemulahti</t>
          </tg>
       </mg>
    </e>
