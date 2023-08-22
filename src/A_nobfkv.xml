@@ -17200,6 +17200,11 @@ For the full license text, see the link above.</lic>
             <t pos="A">jäljelejääny</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">jäljelä olleeva</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -17998,6 +18003,80 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">esihistorialinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">innsendt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sisälelähätetty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">planlagt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">plaanattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">geografisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">geograafinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ufullstendig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">epätäyđelinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tidsbegrenset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">aikarajattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">gjenstående</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">jäljelä olleeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">saklig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">assiilinen</t>
+            <xg>
+            <x>Søkere som blir tildelt støtte skal sende faktura til fylkeskommunen etter at vedtaksbrevet er mottat uten ugrunnet/saklig opphold, og senest innen tidsfristen som er satt i vedtaksbrevet.</x>
+            <xt>Hakkiijat jokka saađhaan kuurttoo, lähätethään räkingin fylkinkommuunille jälkhiin ko het oon ottanheet vasthaan päätöspreivin ilman assiilista viivyttellyy, ja viimisthään päätöspreivin aikafristin sisälä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
