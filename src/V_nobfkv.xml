@@ -2035,13 +2035,22 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
 
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">tre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV">pujettaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">astuut</t>
+            <xg>
+            <x>Retningslinjene trer i kraft fra 1. februar 2023.</x>
+            <xt>Suuntalinjat astuthaan voimhaan alkkain 1. fepruaarikuuta 2023.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -27302,6 +27311,64 @@ For the full license text, see the link above.</lic>
             <x>Rør rundt i ca. 2 minutter, tabletten løser seg ikke helt, men det er greit.</x>
             <xt>Liikuta nuoin 2 minuttii. Tabletti ei hajjoo kokonhansa vetheen, mutta se mennee hyvin.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">samsvare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">vastata yhtheen</t>
+            <xg>
+            <x>Søknaden må innholde budsjett i samsvar med aktiviteter.</x>
+            <xt>Hakemuksessa häyttyy olla budsetti mikä vastaa yhtheen aktiviteetiitten kans.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">utbetale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">maksaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">gjennomføre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">vieđä läpi</t>
+            <xg>
+            <x>Som hovedregel støttes kun tiltak som gjennomføres og finner sted i Finnmark.</x>
+            <xt>Pääreekelinnä oon ette tyhä toimet jokka viđehään läpi Finmarkussa, saađhaan kuurttoo.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ae">
+      <lg>
+         <l pos="V">sperre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sulkkeet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">tilsvare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vastata</t>
          </tg>
       </mg>
    </e>
