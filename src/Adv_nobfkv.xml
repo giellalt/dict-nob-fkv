@@ -97,10 +97,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="ai;ta;mj">
       <lg>
          <l pos="Adv">endelig</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">lopulta</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">viimen</t>
@@ -344,16 +349,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
-         <l pos="Adv">myötäsukhaan</l>
+         <l pos="Phrase">samsvar med</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">i samsvar med</t>
+            <t pos="Adv">myötäsukhaan</t>
             <xg>
             <x>Det er i samsvar med reglene, ja.</x>
             <xt>Se kyllä oon myötäsukhaan reekeliitten kans.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">myötäisesti</t>
+            <xg>
+            <x>Dersom tilskuddsmidlene ikke blir benyttet etter forutsetningene, eller at tilskuddet er gitt på grunnlag av uriktige opplysninger fra søker, kan det være aktuelt å kreve midlene tilbakebetalt.</x>
+            <xt>Jos lisärahhaa ei käytetä ehtoin myötäisesti, tahi jos lisärahan oon annettu hakkiijan vääriin tiettoin pohjalta, se saattaa olla ette sie piđät maksaat lisärahan takaisin.</xt>
             </xg>
          </tg>
       </mg>
@@ -366,12 +380,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">jälkhiin</t>
             <xg>
-            <x>Det er avhengig av hvordan vi ønsker å gjøre det.</x>
-            <xt>Se oon sen jälkhiin kunka met halluuma tehđä sen.</xt>
-            </xg>
-            <xg>
             <x>Han/hun flyttet hit etter krigen.</x>
             <xt>Hän siirtyi tänne jälkhiin sođan.</xt>
+            </xg>
+            <xg>
+            <x>Det er avhengig av hvordan vi ønsker å gjøre det.</x>
+            <xt>Se oon sen jälkhiin kunka met halluuma tehđä sen.</xt>
             </xg>
          </tg>
       </mg>
@@ -2671,7 +2685,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Adv">på grunnlag av</l>
       </lg>
@@ -2681,6 +2695,15 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Forskningen er gjort på grunnlag av ny informasjon.</x>
                <xt>Tutkimuksen oon tehty uuđen tieđon pohjalta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">perustheela</t>
+            <xg>
+               <x>Søknadene vurderes skjønnsmessig i henhold til fastsatte kriterier og ut fra et helhetlig perspektiv.</x>
+               <xt>Hakemukset käsitelhään järjenmyötäisesti määrätyitten kriteeriitten jälkhiin ja kokonhaisen perspektiivin perustheela.</xt>
             </xg>
          </tg>
       </mg>
@@ -9383,13 +9406,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Adv">senest</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">viimistäki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">viimisthään</t>
          </tg>
       </mg>
    </e>
@@ -10107,6 +10135,16 @@ For the full license text, see the link above.</lic>
             <x>Råd om å ta tablettene vil ofte bli gitt sammen med et råd om å oppholde seg innendørs i opptil 2 døgn.</x>
             <xt>Ko esivallat neuvothaan ette ottaat tabletit, niin het ushein kans samala neuvothaan ette ihmiset piđethään olla sisälä eninthään 2 janturii.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">skjønnsmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">järjenmyötäisesti</t>
          </tg>
       </mg>
    </e>

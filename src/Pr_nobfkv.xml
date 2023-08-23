@@ -1254,7 +1254,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="Pr">fra</l>
       </lg>
@@ -1288,6 +1288,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">tyköä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>om tid</re>
+            <t pos="Po">alkkain</t>
+            <xg>
+            <x>Retningslinjene trer i kraft fra 1. februar 2023.</x>
+            <xt>Suuntalinjat astuuva voimhaan alkkain 1. fepruaarikuuta vuona 2023.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
