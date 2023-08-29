@@ -9998,7 +9998,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ruuđulinen</t>
-             <t pos="A">ristiraitanen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ristiraiđalinen</t>
+             <t pos="A">ristiraitainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
              <t pos="A">ruuttanen</t>
          </tg>
       </mg>
@@ -16371,13 +16380,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="A">utsatt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">uhattu</t>
+         <re>som er i en farlig, truet stilling</re>
+            <t pos="A">vaaranalainen</t>
+            <xg>
+            <x>Styresmaktene så på kvenene som en sikkerhetstrussel i utsatte grensestrøk.</x>
+            <xt>Esivallat piđethiin ette kväänit olthiin maan vaaranalaisilla raja-aloila turvalisuusuhka.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16391,13 +16405,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="A">kommunal</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">komunaalinen</t>
+            <t pos="A">kommunaalinen</t>
          </tg>
       </mg>
    </e>
@@ -18029,13 +18043,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="A">geografisk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">geograafinen</t>
+            <t pos="A">geograafilinen</t>
          </tg>
       </mg>
    </e>
@@ -18150,11 +18165,96 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">väärti</t>
+            <xg>
+            <x>Disse elevane jobbar hardt og dei har ein kritisk tenking som er gull verdt.</x>
+            <xt>Nämät oppiijat tehđhään kovasti työtä ja het ajatelhaan kriittisesti. Se oon kullan väärti.</xt>
+            </xg>
          </tg>
       </mg>
-         <xg>
-         <x>Disse elevane jobbar hardt og dei har ein kritisk tenking som er gull verdt.</x>
-         <xt>Nämät oppiijat tehđhään kovasti työtä ja het ajatelhaan kriittisesti. Se oon kullan väärti.</xt>
-         </xg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">samfunnsmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>samfunns-</re>
+            <t pos="A">yhtheiskunnalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">bakerst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">takimainen</t>
+            <xg>
+            <x>Vi i bakerste klarte ikke svare rett på det læreren spurte om.</x>
+            <xt>Met takimaiset emmä vastanheet oikhein opettaajan kysymyksheen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">minst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pienimys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">fleretninsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">monenetnilinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">hjemløs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kođiton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">geografisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">geograafilinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">livslang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">elämänikhäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">livsvarig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">elämänikhäinen</t>
+         </tg>
+      </mg>
    </e>
 </r>
