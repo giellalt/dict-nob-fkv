@@ -5534,6 +5534,15 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hajala</t>
+            <xg>
+               <x>I Nord-Norge bor folk spredt og avstandene er store.</x>
+               <xt>Pohjais-Norjassa ihmiset asuthaan hajala ja välimatkat oon pitkät.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -9841,13 +9850,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es;ki">
       <lg>
          <l pos="Adv">formelt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">viralisesti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Adv">formellisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">offisielt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">viralisesti</t>
          </tg>
       </mg>
    </e>
@@ -9921,7 +9945,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="Adv">i gang</l>
       </lg>
@@ -9931,6 +9955,15 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>I dag pågår det prosesser for å revitalisere kvensk og samiske språk.</x>
             <xt>Tääpänä oon käynissä prosessiita kväänin ja saamen kielten revitaliseeraamista varten.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">menossa</t>
+            <xg>
+            <x>Forskningssenteret er i gang med sitt tredje forskningsprosjekt.</x>
+            <xt>Tutkimussenterillä oon menossa kolmas tutkimusprosekti.</xt>
             </xg>
          </tg>
       </mg>
@@ -10191,8 +10224,22 @@ For the full license text, see the link above.</lic>
          <re>i negative setninger</re>
             <t pos="Adv">välttämättä</t>
             <xg>
-            <x>Jeg ville bli lærer da jeg oppdaget at lærerens sannheter ikke nødvendigvis var sannheter.</x>
+            <x>Jeg ville bli lærer når jeg oppdaget at lærerens sannheter ikke nødvendigvis var sannheter.</x>
             <xt>Mie halluisin tulla opettaajaksi ko mie havaittin, ette opettaajan tottuuđet ei välttämättä olheet tottuuđet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">nedbøyd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kumarassa</t>
+            <xg>
+            <x>Jeg satt som en munk i klasserommet, helt stille og med hodet bøyd ned mot boka.</x>
+            <xt>Mie istuin klassihuonheessa ko munkki, aivan hiljaa ja pää kumarassa kirjaa vasten.</xt>
             </xg>
          </tg>
       </mg>
