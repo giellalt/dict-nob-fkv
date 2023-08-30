@@ -14059,13 +14059,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Phrase">legge seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="makkaa;maan">maata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">panna maata</t>
+            <xg>
+            <x>Lekselesing før kvelds, så gikk alle til sengs</x>
+            <xt>Illala piti lukkeet läksyi, sitte kaikki panthiin maata.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -20001,6 +20010,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">selvittäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">finne ut av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">selvittäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">få bank</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">saađa sölkhään</t>
          </tg>
       </mg>
    </e>
@@ -27399,6 +27428,50 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">haastaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">intervjue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">intervjuuata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">screene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">skriinata</t>
+            <xg>
+            <x>Informantene vil få et spørreskjema og bli målt i høyde, vekt, og få hjerte- og lunge screening og blodprøver.</x>
+            <xt>Informantit vastathaan kysymykshiin ja heiltä mitathaan pittuuđen ja painon, ja heiltä skriinathaan syđän ja kepposet ja otethaan veripröövii.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">vurdere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">arvela</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">konsentrere seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">keskittyyt</t>
          </tg>
       </mg>
    </e>

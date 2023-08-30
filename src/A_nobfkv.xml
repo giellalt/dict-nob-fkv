@@ -11785,7 +11785,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl;ki">
+   <e src="ai;ta;kl;ki;es">
       <lg>
          <l pos="A">vanskelig</l>
       </lg>
@@ -11802,6 +11802,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">haastaava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">huono</t>
          </tg>
       </mg>
    </e>
@@ -18254,6 +18259,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">elämänikhäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">underlegen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">alhainen</t>
          </tg>
       </mg>
    </e>
