@@ -3071,13 +3071,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="V">kjempe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="taistele;taistel">taistela</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kamppaila</t>
          </tg>
       </mg>
    </e>
@@ -3364,13 +3369,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>   
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">fange</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="pyyđä;pyytä">pyyttäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">fangittaat</t>
+            <xg>
+            <x>Det er han som må løpe etter kalven for å fange den med et tau.</x>
+            <xt>Se oon hän joka häyttyy laukkoot vasikan pörhään ja fangittaat sen narula.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5029,13 +5043,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">søke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="hae;hake">hakkeet</t>
+            <xg>
+            <x>søke tilflukt</x>
+            <xt>hakkeet turvhaan</xt>
+            </xg>
+            <xg>
+            <x>Olav den hellige søkte tilflukt i Novgorod før han dro hjem og mistet livet i slaget på Stiklestad.</x>
+            <xt>Pyhä Olav haki tänne Novgorodhiin turvhaan ennen ko hän meni kothiin ja menetti hengen Stiklestadin taistelussa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11846,13 +11868,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">skildre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">kuvata</t>
+            <t pos="V">kuvvaila</t>
          </tg>
       </mg>
       <mg>
@@ -11975,7 +11998,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">besøke</l>
       </lg>
@@ -11989,9 +12012,14 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="käve">käyđä</t>
          </tg>
       </mg>
-            <mg>
+      <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">mennä kylhään</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kyläilä</t>
          </tg>
       </mg>
    </e>
@@ -20025,6 +20053,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="Phrase">gå opp for en</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">selvitä</t>
+            <xg>
+            <x>Etter hvert gikk det opp for meg at jeg ikke bare var norsk jeg heller.</x>
+            <xt>Aijan myöten minulle selvis ette en miekhään ollu tyhä norjalainen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="Phrase">få bank</l>
       </lg>
       <mg>
@@ -25294,6 +25336,15 @@ For the full license text, see the link above.</lic>
             <t pos="V">plaađata</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">plaarata</t>
+            <xg>
+            <x>Hun finner noen bøker som de blar gjennom.</x>
+            <xt>Hän löyttää joitaki kirjoi mikkä het plaarathaan läpitte.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -27472,6 +27523,54 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">keskittyyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">smelte sammen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sulauttuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bli assimilert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sulauttuut</t>
+            <xg>
+            <x>Mens det kvenske etter hvert ble oppslukt av det samiske i Karasjok, ble Børselv en levende kvensk bygd der kulturen og språket blomstret helt opp til våre dager.</x>
+            <xt>Ko kväänit aijan myötä sulaututhiin Kaarasjoven saamelaisuutheen, niin Pyssyjovesta tuli elläävä kväänikylä missä kulttuuri ja kieli kukithaan aivan meän päivhiin saakka.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bli oppslukt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sulauttuut</t>
+            <xg>
+            <x>Mens det kvenske etter hvert ble oppslukt av det samiske i Karasjok, ble Børselv en levende kvensk bygd der kulturen og språket blomstret helt opp til våre dager.</x>
+            <xt>Ko kväänit aijan myötä sulaututhiin Kaarasjoven saamelaisuutheen, niin Pyssyjovesta tuli elläävä kväänikylä missä kulttuuri ja kieli kukithaan aivan meän päivhiin saakka.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">stritte imot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">kamppaila vasthaan</t>
          </tg>
       </mg>
    </e>

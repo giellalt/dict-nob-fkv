@@ -179,13 +179,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="mj;es">
       <lg>
          <l pos="Adv">nøye</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">tarkasti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">tarkkhaan</t>
+            <xg>
+            <x>Men da var hun yngre, og hørte ikke så nøye etter.</x>
+            <xt>Mutta silloin hän oli nuorempi, eikä kuuntelu niin tarkkhaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10217,6 +10226,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="Adv">religiøst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">uskonollisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="Adv">nødvendigvis</l>
       </lg>
       <mg>
@@ -10240,6 +10259,20 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Jeg satt som en munk i klasserommet, helt stille og med hodet bøyd ned mot boka.</x>
             <xt>Mie istuin klassihuonheessa ko munkki, aivan hiljaa ja pää kumarassa kirjaa vasten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">grovt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">krouvisti</t>
+            <xg>
+            <x>Grovt sett er kvenene de som bor lengst vest, mens karelerne er de som bor lengst øst.</x>
+            <xt>Krouvisti kattottunna se oon kväänit kekkä asuthaan vestassa, ko karjalaiset asuthaan kaukana öystässä.</xt>
             </xg>
          </tg>
       </mg>
