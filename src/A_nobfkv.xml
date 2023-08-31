@@ -15768,14 +15768,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="akr;ki">
+   <e src="akr;es">
       <lg>
          <l pos="A">materiell</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">materiaalinen</t>
-            <t pos="A">materiellinen</t>
+            <t pos="A">materielinen</t>
          </tg>
       </mg>
    </e>
@@ -16722,13 +16722,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="A">flerkulturell</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">monikulttuurinen</t>
+            <t pos="A">monikulttuurillinen</t>
          </tg>
       </mg>
    </e>
@@ -18269,6 +18270,86 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">alhainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">norrøn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vanhaanorjalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">eventyrlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">satumainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">ortodoks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ortodoksinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">skogkledd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">mettäpeitetty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">materiell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">materielinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">lutherdom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">lutherilaisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">konsekvent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">konsekventti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kommunistisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kommunistinen</t>
          </tg>
       </mg>
    </e>
