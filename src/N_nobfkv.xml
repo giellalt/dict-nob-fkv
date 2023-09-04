@@ -5394,18 +5394,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks;es">
-      <lg>
-         <l pos="N">rap</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>musikk</re>
-            <t pos="N">räppi</t>
-            <t pos="N">rappi</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ks">
       <lg>
          <l pos="N">rapper</l>
@@ -61036,13 +61024,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ks;es">
       <lg>
          <l pos="N">rap</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">röhtely</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>musikk</re>
+            <t pos="N">räppi</t>
+            <t pos="N">rappi</t>
          </tg>
       </mg>
    </e>
@@ -78681,6 +78676,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">terveyspalvelu</t>
+            <t pos="N">tervheystienasti</t>
          </tg>
       </mg>
    </e>
@@ -88588,16 +88584,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">helsetjeneste</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">tervheystienasti</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">initativi</l>
       </lg>
       <mg>
@@ -94373,16 +94359,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">lisärahaoorninki</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">studiereise</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">opintoreisu</t>
          </tg>
       </mg>
    </e>
