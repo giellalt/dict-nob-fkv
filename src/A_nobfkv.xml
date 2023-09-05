@@ -2715,13 +2715,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="A">ubestemt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">epävissi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">määrätön</t>
+            <xg>
+            <x>Dine opplysninger vil lagres i ubestemt tid.</x>
+            <xt>Sinun tieđot laakrathaan määrättömäksi aijaksi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7813,22 +7822,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="A">viss</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">määrätty</t>
-            <xg>
-            <x>en viss tid</x>
-            <xt>määrätyn aijan</xt>
-            </xg>
+            <t pos="A">vissi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">vissi</t>
+            <t pos="A">määrätty</t>
          </tg>
       </mg>
    </e>
