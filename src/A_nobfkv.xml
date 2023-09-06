@@ -13448,13 +13448,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">oppdatert</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">aijantasainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ylösdateerattu</t>
          </tg>
       </mg>
    </e>
@@ -18311,6 +18316,174 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kommunistinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">etisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">eettinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">klinisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kliininen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">oppdatert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ylösdateerattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sannsynlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tođennäköinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">innsamlet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sisälekovottu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">jernrik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rautarikas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">arvelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">perinöllinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">fleretnisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">monietninen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kronisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">krooninen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kollektiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kollektiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">på forhånd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">etukätheinen</t>
+            <xg>
+            <x>Det vil kun bli gitt tilbakemelding ja tilhørende veiledning hvis forebygging eller behandlig er mulig.</x>
+            <xt>Takaisinmellingin ja siihen kuuluuvan opastuksen annethaan tyhä jos etukätheinen estäminen tahi hoito oon mahđolista.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">forhånds-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">etukätheinen</t>
+            <xg>
+            <x>Det vil kun bli gitt tilbakemelding ja tilhørende veiledning hvis forebygging eller behandlig er mulig.</x>
+            <xt>Takaisinmellingin ja siihen kuuluuvan opastuksen annethaan tyhä jos etukätheinen estäminen tahi hoito oon mahđolista.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">emosjonell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">emosunaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">anonym</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">anonyyminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">anonymisert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">anonyymiseerattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kvalitativ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kvalitatiivinen</t>
          </tg>
       </mg>
    </e>
