@@ -15261,7 +15261,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">hamphaittenhoitopalvelus</t>
+            <t pos="N">hamphaittenhoitopalvelu</t>
          </tg>
       </mg>
    </e>
@@ -63156,13 +63156,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">diabetes</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="sokkeritauđi;sokkeritautti">sokkeritauti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">diabetes</t>
          </tg>
       </mg>
    </e>
@@ -72194,6 +72199,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">väjenlaskeminen</t>
+            <t pos="N">väjenräknääminen</t>
          </tg>
       </mg>
    </e>
@@ -74264,6 +74270,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">forsøk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">freistaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">malaria</l>
       </lg>
       <mg>
@@ -75429,16 +75445,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">forskingsprosjekt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">tutkimisprosekti</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">forsterkning</l>
       </lg>
       <mg>
@@ -76373,7 +76379,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="N">markør</l>
       </lg>
@@ -76480,6 +76486,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kiussaaminen</t>
+            <t pos="N">kiussailu</t>
          </tg>
       </mg>
       <mg>
@@ -78675,7 +78682,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">terveyspalvelu</t>
+            <t pos="N">tervheyspalvelu</t>
             <t pos="N">tervheystienasti</t>
          </tg>
       </mg>
@@ -78930,6 +78937,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hoitopalvelu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">huolenpitopalvelu</t>
          </tg>
       </mg>
    </e>
@@ -82091,6 +82103,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">konsentreeraus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">konsentrasuuni</t>
          </tg>
       </mg>
    </e>
@@ -88581,6 +88598,11 @@ For the full license text, see the link above.</lic>
             <t pos="N">sosiaalitienasti</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sosiaalipalvelus</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -93765,7 +93787,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">tervheyđentila</t>
+            <t pos="N">tervheystila</t>
          </tg>
       </mg>
    </e>
@@ -93803,6 +93825,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">rusmiddel</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ryysiainet</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">päihđet</t>
@@ -95903,6 +95930,697 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">Suomenlahti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">blodprøveanalyse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">veripröövianalyysi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">treningsklokke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">träänäyskello</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">helsetjenestetilbud</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tervheyspalvelustarjous</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gripestyrke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tarttumavoima</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">oppmerksomhetsevne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">huomiokyky</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">prøvelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">freistaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">balanse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">balansi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hårprøve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hyksipröövi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tilleggsundersøkelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lisätutkimus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">helseplage</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tervheysvaiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">helseopplysning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tervheystieto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">forskningsresultat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tutkimusresultaatti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">helsetilstand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tervheystila</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">forskningsprosjekt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tutkimusprosekti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">godkjenning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hyväksyminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">samtykke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suostumus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">data</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">daatta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hvilepuls</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lepopulsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">database</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">daattabaasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">databehandler</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">daatankäsitteliijä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">faktaboks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">faktaloova</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">antistoff</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vasta-ainet</t>
+            <t pos="N">antistoffi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">overgrep</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">väärinkäyttö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">forskningsspørsmål</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tutkimuskysymys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">forskningsbiobank</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tutkimusbiopankko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tilbakemelding</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">takaisinmellinki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tilbakeføring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">takaisinantaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">munnhelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suutervheys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">slekthet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sukulaisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fettstoff</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rasva-ainet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">prosjektleder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">prosektinjohtaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">prøvemateriale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pröövimateriaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">personvernombud</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">persoonansuojeluvalvooja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">personvernsordning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">persoonansuojelunoorninki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hovedveileder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pääohjaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">laboratorium</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">laboratooriumi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">konsentrasjonstest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">konsentrasuunitesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kapasitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kapasiteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dagligrøyker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jokapäivä-polttaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">indikator</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">indikaattori</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">uhelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">epätervheys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">livshendelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">elämäntapattuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">diagnoseregister</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">diagnoosirekisteri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">depresjonsplage</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">depresuunivaiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">datagrunnlag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">daattapohja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">databehandling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">daatankäsittely</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">biobank</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">biopankko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">balansetest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">balansitesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hjerneslag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">aivohalvaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kontaktperson</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yhtheyspersoona</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">personvern</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">persoonansuojelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">spørreskjemaundersøkelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kysymäskeematutkimus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fokusgruppe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fookusroikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">levekårsundersøkelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">elämänolotutkimus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">helsemyndighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tervheysesivalta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">medisinbruk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">metesiinikäyttö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">funksjonsnedsettelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">funksuuniestet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">omsorgstjeneste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">huolenpitopalvelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">livskvalitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">elämänkvaliteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hjerterytme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">syđänrytmi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kroppsmasseindeks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kropinmittausindeksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">legebehandling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lääkihoito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">folkemøte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kansanmöötti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kodenøkkel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">koodiavvain</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">doktorgrad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tohturigraadi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">forskningsinstitusjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tutkimusinstitusuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">forsikringsselskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">asuransiselskaappi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">prosjektstyre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">prosektistyyri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nytteverdi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hyötyarvo</t>
          </tg>
       </mg>
    </e>
