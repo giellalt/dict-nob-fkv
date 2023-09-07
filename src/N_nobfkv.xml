@@ -7258,7 +7258,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">daattašärmi</t>
+            <t pos="N">daattasärmi</t>
          </tg>
       </mg>
    </e>
@@ -8562,7 +8562,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">pantaaši</t>
+            <t pos="N">pantaasi</t>
          </tg>
       </mg>
    </e>
@@ -9007,7 +9007,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">raakamašiini</t>
+            <t pos="N">raakamasiini</t>
          </tg>
       </mg>
    </e>
@@ -9072,7 +9072,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">reikämašiini</t>
+            <t pos="N">reikämasiini</t>
          </tg>
       </mg>
       <mg>
@@ -10412,7 +10412,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">letku</t>
-            <t pos="N">vesišlangi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vesislanki</t>
          </tg>
       </mg>
    </e>
@@ -15535,7 +15539,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">etaaši</t>
+            <t pos="N">etaasi</t>
          </tg>
       </mg>
    </e>
@@ -19119,7 +19123,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">banaaniplantaaši</t>
+            <t pos="N">banaaniplantaasi</t>
          </tg>
       </mg>
    </e>
@@ -19193,7 +19197,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">bolševiikki</t>
+            <t pos="N">bolseviikki</t>
          </tg>
       </mg>
    </e>
@@ -33547,13 +33551,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">dreining</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kiero;kiertto">kierto</t>
+            <t pos="N">kieros</t>
          </tg>
       </mg>
    </e>
@@ -38252,7 +38257,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kumiplantaaši</t>
+            <t pos="N">kumiplantaasi</t>
          </tg>
       </mg>
    </e>
@@ -56337,7 +56342,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">pumpuliplantaaši</t>
+            <t pos="N">pumpuliplantaasi</t>
          </tg>
       </mg>
    </e>
@@ -62765,7 +62770,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">sisalplantaaši</t>
+            <t pos="N">sisalplantaasi</t>
          </tg>
       </mg>
    </e>
@@ -63159,7 +63164,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">sokkeriplantaaši</t>
+            <t pos="N">sokkeriplantaasi</t>
          </tg>
       </mg>
    </e>
@@ -65759,7 +65764,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">teeplantaaši</t>
+            <t pos="N">teeplantaasi</t>
          </tg>
       </mg>
    </e>
@@ -73309,7 +73314,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">öljypuuplantaaši</t>
+            <t pos="N">öljypuuplantaasi</t>
          </tg>
       </mg>
    </e>
@@ -96662,6 +96667,16 @@ For the full license text, see the link above.</lic>
             <x>Alle medarbeidere har taushetsplikt.</x>
             <xt>Kaikki työntekkiijät oon velvoliset olemhaan vaiti.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">runde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kieros</t>
          </tg>
       </mg>
    </e>
