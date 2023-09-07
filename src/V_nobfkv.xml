@@ -27564,13 +27564,43 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
-         <l pos="Phrase">stritte imot</l>
+         <l pos="V">gjenkjenne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">kamppaila vasthaan</t>
+            <t pos="V">tunnistaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">kjenne igjen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tunnistaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">bidra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">eđesauttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">samtykke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">suostuut</t>
          </tg>
       </mg>
    </e>
