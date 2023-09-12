@@ -3751,6 +3751,11 @@ For the full license text, see the link above.</lic>
                <x>på den måten</x>
                <xt>siihen laihiin / sillä laila</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">laila</t>
             <xg>
                <x>på denne måten</x>
                <xt>tällä laila</xt>
@@ -5129,7 +5134,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="Adv">på plass</l>
       </lg>
@@ -5145,6 +5150,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">sijalensa</t>
+            <xg>
+               <x>Palaiset menthiin sijalensa.</x>
+               <xt>Brikkene falt på plass.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10273,6 +10282,20 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Grovt sett er kvenene de som bor lengst vest, mens karelerne er de som bor lengst øst.</x>
             <xt>Krouvisti kattottunna se oon kväänit kekkä asuthaan vestassa, ko karjalaiset asuthaan kaukana öystässä.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">dumt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">tollosti</t>
+            <xg>
+            <x>Hen gjorde det ikke, og det var dumt gjort.</x>
+            <xt>Hän ei tehny sitä, ja se oli tollosti tehty.</xt>
             </xg>
          </tg>
       </mg>
