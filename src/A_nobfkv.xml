@@ -2285,13 +2285,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="A">nederst</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">alimainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">alin</t>
          </tg>
       </mg>
    </e>
@@ -8207,7 +8212,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="A">praktisk</l>
       </lg>
@@ -8219,6 +8224,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">praktilinen</t>
+            <t pos="A">praktinen</t>
          </tg>
       </mg>
    </e>
@@ -15384,7 +15390,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">arbeidsom</l>
       </lg>
@@ -15396,6 +15402,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">työtyri</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">työtelinen</t>
          </tg>
       </mg>
    </e>
@@ -18484,6 +18495,146 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kvalitatiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">pensjonert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pensuneerattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">forståelsesfull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ymmärttääväinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">innfødt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">syntypöräinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">medfødt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">syntypöräinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">lignende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">samannäköinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">rekonstruert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rekonstrueerattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">pessimistisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pessimistinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">pedagogisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pedagooginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">museal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">museaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kontrollert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kontrolleerattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">trekulturell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kolmenkulttuurinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">germansk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">germaaninen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">levedyktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">elämänkelpoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">attraktiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">attraktiivinen</t>
          </tg>
       </mg>
    </e>
