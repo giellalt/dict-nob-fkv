@@ -1424,13 +1424,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="kt">
+   <e src="kt;ki">
       <lg>
          <l pos="N">diskriminering</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
          <t pos="N">diskrimineerinki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">vähättely</t>
          </tg>
       </mg>
    </e>
@@ -97423,6 +97428,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">myllykivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bagatellisering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vähättely</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">underdrivelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vähättely</t>
          </tg>
       </mg>
    </e>
