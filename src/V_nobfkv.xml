@@ -4089,7 +4089,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;ki">
       <lg>
          <l pos="V">diskriminere</l>
       </lg>
@@ -4101,6 +4101,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">ulostaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vähätellä</t>
          </tg>
       </mg>
    </e>
@@ -26821,6 +26826,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">aliarvela</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vähätellä</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -27541,7 +27551,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">skriinata</t>
             <xg>
             <x>Informantene vil få et spørreskjema og bli målt i høyde, vekt, og få hjerte- og lunge screening og blodprøver.</x>
-            <xt>Informantit vastathaan kysymykshiin ja heiltä mitathaan pittuuđen ja painon, ja heiltä skriinathaan syđän ja kepposet ja otethaan veripröövii.</xt>
+            <xt>Informantit vastathaan kysymykshiin ja heiltä mitathaan pittuuđen ja painon, ja heiltä skriinathaan syđämen ja kepposet ja otethaan veripröövii.</xt>
             </xg>
          </tg>
       </mg>
@@ -27692,6 +27702,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">markkinoita</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">bagatellisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vähätellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">rakke ned på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vähätellä</t>
          </tg>
       </mg>
    </e>
