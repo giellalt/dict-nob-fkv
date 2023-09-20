@@ -3509,13 +3509,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="grom">
+   <e src="grom;ki">
       <lg>
          <l pos="N">refleksjon</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hunteeraus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">refleksuuni</t>
          </tg>
       </mg>
    </e>
@@ -97699,6 +97704,276 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">Repokoski</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sesjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sesuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">naturalisering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">naturaliseerinki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">majoritetssamfunn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">majoriteettisamfynni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kanader</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kanadalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">selvforståelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">itteymmärys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">historieforskning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">histooriitutkimus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hierarki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hierarkii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">herrefolknarrativ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">herrakansanarratiivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sørafrikaner</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">eteläafrikkalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">avkolonisering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">dekoloniseeraaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dekan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">dekaani</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">underordning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">alistaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">storsamfunn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suursamfynni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">stipendiat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">stipendiaatti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">øyeåpner</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">silmänaukaistaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">registrering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">registreeraus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pilegrimsvandring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pilegrimivajelus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lunsj</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">päiväruoka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">konferansedag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">konferansipäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kaffepause</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kaffipausi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">studenttipappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">studentprest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sametingsråd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">saametinganraati</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kveldsgudstjeneste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">iltajumalanpalvelus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">debattinnlegg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">debattikirjoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kunnskapsinstitusjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tietoinstitusuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">situerthet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">situeeraus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">innsikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ymmärys</t>
          </tg>
       </mg>
    </e>
