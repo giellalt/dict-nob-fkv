@@ -961,13 +961,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">parallell</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">paralellinen</t>
+            <t pos="A">parallelli</t>
          </tg>
       </mg>
    </e>
@@ -18766,6 +18767,86 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kokemuspohjainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ideologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ideolooginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">styrkebasert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kykypohjainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">teoretisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">teoreettinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">deltakende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">osanottaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">metodologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">metodolooginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">matematisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">matemaattinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">empirisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">empiirinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">verdimessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">arvopohjainen</t>
          </tg>
       </mg>
    </e>
