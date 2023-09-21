@@ -7255,6 +7255,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">halveksuut</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">pittäät lastheela</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -26962,7 +26967,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="V">undervurdere</l>
       </lg>
@@ -26974,6 +26979,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">vähätellä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">pittäät lastheela</t>
          </tg>
       </mg>
    </e>
