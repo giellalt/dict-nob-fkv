@@ -7169,13 +7169,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="Adv">totalt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">täyđesti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>til sammen</re>
+            <t pos="Adv">yhtheensä</t>
          </tg>
       </mg>
    </e>
@@ -9654,13 +9660,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Adv">kort</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">lyhykäisesti</t>
+            <t pos="Adv">lyhkäisesti</t>
          </tg>
       </mg>
    </e>
@@ -10321,6 +10328,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">teoloogisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">motorisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">motoorisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">sportslig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sportilisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">mentalt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">mentaalisesti</t>
          </tg>
       </mg>
    </e>
