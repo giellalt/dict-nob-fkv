@@ -46010,7 +46010,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="N">avstand</l>
       </lg>
@@ -46027,6 +46027,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ethäisyys</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>sikkerhetsavstand</re>
+            <t pos="N">turvaväli</t>
+            <xg>
+            <x>Husk en meters avstand!</x>
+            <xt>Muista meetterin turvavälin!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -53721,18 +53731,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">furuskog</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">petäjämettä</t>
+            <t pos="N">pötäjämettä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">pötäjämettä</t>
+            <t pos="N">mäntymettä</t>
          </tg>
       </mg>
    </e>
@@ -98640,6 +98651,157 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>språk</re>
             <t pos="N">daari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">daler</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>penger</re>
+            <t pos="N">taaleri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">sørlig del</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">eteläosa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">smittevern</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tarttumasuoja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">smittevernsregel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tarttumasuojareekeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kransnedlegging</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kransinlaskeminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">korps</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">korpsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">flaggborg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">flakulinna</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sansehage</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sansihaaki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sans</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sansi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nasjonalsang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nasunaalilaulu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bilkortesje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">piilikorteesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">oppstilling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ylöställäys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">utrykningskjøretøy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hätäkulkuneuvo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">russepresident</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ryssepresidentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">russebil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ryssepiili</t>
          </tg>
       </mg>
    </e>
