@@ -6777,6 +6777,11 @@ For the full license text, see the link above.</lic>
             <t pos="A">monipuolinen</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">varieerattu</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -12155,7 +12160,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="A">ansvarlig</l>
       </lg>
@@ -12167,6 +12172,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">velvolisesti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">eđesvastauksellinen</t>
          </tg>
       </mg>
    </e>
@@ -18862,16 +18872,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="A">variert</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">varieerattu</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="A">solidaritetsansvarlig</l>
       </lg>
       <mg>
@@ -18947,16 +18947,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ihmheelinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">ansvarlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">eđesvastauksellinen</t>
          </tg>
       </mg>
    </e>
