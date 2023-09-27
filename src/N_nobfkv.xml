@@ -8100,7 +8100,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="bildetema;es">
+   <e src="bildetema;es;ki">
       <lg>
          <l pos="N">håndledd</l>
       </lg>
@@ -8112,6 +8112,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kalvoin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rannet</t>
          </tg>
       </mg>
    </e>
@@ -29276,13 +29281,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">felling</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kaađo;kaatto">kaato</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>strikking</re>
+            <t pos="N">fellinki</t>
          </tg>
       </mg>
    </e>
@@ -71533,7 +71544,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">villavanthuut</t>
+            <t pos="N">villavantthuut</t>
          </tg>
       </mg>
    </e>
@@ -98812,6 +98823,150 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">Enontekiö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kjedemaske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>håndarbeid</re>
+            <t pos="N">ketjusilmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fastmaske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>håndarbeid</re>
+            <t pos="N">fastasilmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kronblad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ruusunlehti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vottegarn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vantutlanka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">luftmaske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>håndarbeid</re>
+            <t pos="N">löysäsilmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">heklekrok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">häkläkoukku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">finull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fiinivilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">strikkefasthet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kutomatihheys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">strikkeoppskrift</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kutomaresepti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">eksempelvott</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">eksemppelivantut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">settpinner</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>strikking</re>
+            <t pos="N">sukkatikut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">grunnfarge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pohjafäri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">merketråd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">merkkilanka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ferdigstilling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">valmistaminen</t>
          </tg>
       </mg>
    </e>

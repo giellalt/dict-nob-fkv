@@ -3145,7 +3145,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">klippe</l>
       </lg>
@@ -3163,6 +3163,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>i stykker</re>
             <t pos="V" stem="leiko">leikkoot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="leiko">klipata</t>
          </tg>
       </mg>
    </e>
@@ -3434,7 +3439,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">felle</l>
       </lg> <mg>
@@ -3448,6 +3453,16 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>felle dom</x>
                <xt>langettaat tuomion</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>strikking</re>
+            <t pos="V" stem="langeta">fellata</t>
+            <xg>
+               <x>Det skal felles 4 masker per omgang.</x>
+               <xt>Joka kerta pittää fellata 4 silmää.</xt>
             </xg>
          </tg>
       </mg>
