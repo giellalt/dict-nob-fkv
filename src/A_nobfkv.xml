@@ -8332,13 +8332,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="A">særegen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">omituinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">erikoinen</t>
          </tg>
       </mg>
    </e>
@@ -19005,6 +19010,56 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">opastaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kulturhistorisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kulttuurihistorialinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">hullete</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">reikäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">artsrik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">lajirikas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">av forskjellig type</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">erityyppinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tørrskodd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">kuivin kengin</t>
          </tg>
       </mg>
    </e>
