@@ -37398,7 +37398,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="grom;jaj">
+   <e src="grom;jaj;es">
       <lg>
          <l pos="N">utfordring</l>
       </lg>
@@ -37410,6 +37410,11 @@ For the full license text, see the link above.</lic>
             <mg>
          <tg xml:lang="fkv">
             <t pos="N">freistaus</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hankaluus</t>
          </tg>
       </mg>
    </e>
@@ -50726,6 +50731,11 @@ For the full license text, see the link above.</lic>
             <t pos="N">neuvominen</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ohjaus</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -59731,13 +59741,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">overtredelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="rikkomukse">rikkomus</t>
+            <t pos="N">rikkominen</t>
          </tg>
       </mg>
    </e>
@@ -69670,13 +69681,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">vanskelighet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vaikkeus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hankaluus</t>
          </tg>
       </mg>
    </e>
@@ -69750,12 +69766,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="yr">
+   <e src="es;yr">
       <lg>
          <l pos="N">gjennomgang</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">läpikäyminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>geografi</re>
             <t pos="N">vajjooma</t>
          </tg>
       </mg>
@@ -74446,6 +74468,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">freistaus</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>eksperiment</re>
+            <t pos="N">kokkeilu</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -75403,7 +75431,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">fagmiljø</l>
       </lg>
@@ -76179,7 +76207,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki;es;ki">
+   <e src="es;ki">
       <lg>
          <l pos="N">kommentar</l>
       </lg>
@@ -76503,7 +76531,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">mangfold</l>
       </lg>
@@ -76515,6 +76543,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">monipuolisuus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">monenlaisuus</t>
          </tg>
       </mg>
    </e>
@@ -77171,10 +77204,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es;ki">
       <lg>
          <l pos="N">representant</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">eđustaaja</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">representantti</t>
@@ -83897,6 +83935,16 @@ For the full license text, see the link above.</lic>
             <t pos="N">oiko</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>det å rette opp feil, skader e.l.</re>
+            <t pos="N">oikaiseminen</t>
+            <xg>
+            <x>Regjeringen ønsker å heve strafferammen for overtredelse av motorferdselloven samt vurdere å innføre hjemmel for retting.</x>
+            <xt>Hallituksela oon halu nostaat motorikulkulajin rikkomisesta seuraavan rangaistuksen ylirajjaa ja kehittäät lakipohjaa assiintilan oikaisemista varten.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -87280,6 +87328,11 @@ For the full license text, see the link above.</lic>
             <t pos="N">vesistö</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vesiala</t>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -87471,7 +87524,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">voksende måne</l>
+         <l pos="Phrase">voksende måne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -87481,7 +87534,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">øvre ende</l>
+         <l pos="Phrase">øvre ende</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -89782,10 +89835,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es;ki">
       <lg>
          <l pos="N">implementering</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">totheenpaneminen</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">implementeeraus</t>
@@ -90099,10 +90157,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">rekreasjon</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">virkistys</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">rekreasuuni</t>
@@ -99169,6 +99232,331 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">haamu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">byråkrati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">byrokratii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">rekreasjonskjøring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">virkistysajo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">naturmangfoldslov</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">luonon monenlaisuuslaki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">miljøkriminalitetsmelding</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ympäristökriminaliteetti-ilmoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">miljøkriminalitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ympäristökriminaliteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">øvre grense</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yliraja</t>
+            <xg>
+            <x>Regjeringen ønsker å heve strafferammen for overtredelse av motorferdselloven samt vurdere å innføre hjemmel for retting.</x>
+            <xt>Hallituksela oon halu nostaat motorikulkulajin rikkomisesta seuraavan rangaistuksen ylirajjaa ja kehittäät lakipohjaa assiintilan oikaisemista varten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hjemmel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lakipohja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">retting</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">oikaiseminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">føre-var-prinsippet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">varovaisuusprinsippi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">vakthold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vahđinpito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">moderniseringsdepartement</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">uuđistusdepartementti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">referansegruppe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">referansijoukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">grunntanke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pohja-ajatus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">motorferdselregelverk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">motorikulkumääräys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">forsøk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kokkeilu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">isfiske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jääfisku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">søknadsbehandling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hakemustenhoito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kommunal- og moderniseringsdepartement</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kommunaali- ja uuđistusdepartementti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">nyttekjøring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hyötykulku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">slitasje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuluminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">arealplanlegging</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">alasuunittelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">skjønnsrom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ymmärystila</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">selvstyringsrett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ittemääräämisoikkeus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">klima- og miljødirektorat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kliima- ja ympäristödepartementti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">brudd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rikkominen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tolkning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tulkitteminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">utredningsinstruks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">selvitysneuvo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">regelendring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">reekelinmuutos</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fagmiljø</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">faakijoukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">utvalgsarbeid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lautakuntatyö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">skjønn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>vurdering</re>
+            <t pos="N">ymmärys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">strafferamme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">rangaistuksen yliraja</t>
          </tg>
       </mg>
    </e>
