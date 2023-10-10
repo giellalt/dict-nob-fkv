@@ -2973,7 +2973,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Adv">lengre</l>
       </lg>
@@ -2981,6 +2981,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>om tid</re>
             <t pos="Adv">kauvoimin</t>
+            <t pos="Adv">kauvemin</t>
          </tg>
       </mg>
    </e>
@@ -10394,6 +10395,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">mentaalisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">systematisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">systemaattisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">selvstendig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">ittenäisesti</t>
          </tg>
       </mg>
    </e>
