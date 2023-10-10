@@ -240,7 +240,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-             <e src="ki">
+      <e src="ki">
         <lg>
          <l pos="N">livssituasjon</l>
       </lg>
@@ -13830,13 +13830,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;ki">
       <lg>
          <l pos="N">fase</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">jakso</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">faasi</t>
          </tg>
       </mg>
    </e>
@@ -15671,6 +15676,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sähköposti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">maili</t>
          </tg>
       </mg>
    </e>
@@ -44648,13 +44658,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">utgangspunkt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">lähtökohta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">alkupunkti</t>
          </tg>
       </mg>
    </e>
@@ -52840,13 +52855,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">batteri</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">patteri</t>
+            <t pos="N">batteri</t>
          </tg>
       </mg>
    </e>
@@ -75914,6 +75930,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">kotilaita</t>
             <t pos="N">kotisivvu</t>
          </tg>
       </mg>
@@ -79879,13 +79896,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">tidsbruk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">aijankäyttö</t>
+            <t pos="N">aijanpito</t>
          </tg>
       </mg>
    </e>
@@ -99566,6 +99584,361 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">rangaistuksen yliraja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">notat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nutaatti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hovedgrunnlag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pääpohja</t>
+            <xg>
+            <x>Dette danner hovedgrunnlaget til kommisjonens rapport.</x>
+            <xt>Tämä luopi pääpohjan kommisuunin raportille.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kildemateriale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kalttiimateriaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hoveddokument</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">valtadokumentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">arbeidsperiode</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">työperiuudi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tekstdokument</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tekstidokumentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">enkeltperson</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">privaattihenki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">samtykkeskjema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">myöntymäskeema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">metadataskjema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">metadaattaskeema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">intervjusituasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">intervjyyisituasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">arkiveringsprosess</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">arkiveeraamisprosessi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">analysefase</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">analyysifaasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lydopptaker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ääniylösottaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sivilstatus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">siviilistatus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">intervjuer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kyseliijä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">intervjyguide</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">intervjyyiopastus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fagperson</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">faaki-ihminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kunnskapshull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tietoreikä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">grunnlagsmateriale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pohjamateriaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">maktforhold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">valtasuhđet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">støttesamtale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">apupraatti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">livsverden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">elämänmailma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fokusgruppeintervju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fookusjoukkointervjyyi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bakgrunnsinformasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tavustieto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lydnivå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">äänitasa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">granskningsarbeid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tutkimustyö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">datainnhold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">daattasisälys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">informasjonsmengde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">daattamäärä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">søkemulighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hakemismahđolisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nøkkelordliste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">avvainsanalista</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">arkivnummer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">arkiivinumero</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">terapeut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">terapeutti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">årsverk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vuosivärkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">spesialisthelsetjeneste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">erikoistervheyspalvelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mobil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>telefon</re>
+            <t pos="N">mobiili</t>
          </tg>
       </mg>
    </e>
