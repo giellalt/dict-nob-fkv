@@ -78584,6 +78584,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">lulesame</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">luulajansaamelainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">språkregel</l>
       </lg>
       <mg>
@@ -88837,12 +88847,32 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">umesame</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">uumajansaamelainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">pitesamisk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
 	         <re>språk</re>
             <t pos="N">piitimensaame</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pitesame</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">piitimensaamelainen</t>
          </tg>
       </mg>
    </e>
@@ -96913,9 +96943,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">velvolinen olemhaan vaiti</t>
+            <t pos="Phrase">velvolisuus olla vaiti</t>
             <xg>
             <x>Alle medarbeidere har taushetsplikt.</x>
             <xt>Kaikki työntekkiijät oon velvoliset olemhaan vaiti.</xt>
+            </xg>
+            <xg>
+            <x>Vi har taushetsplikt.</x>
+            <xt>Meilä oon velvolisuus olla vaiti</xt>
             </xg>
          </tg>
       </mg>
