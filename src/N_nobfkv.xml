@@ -4941,6 +4941,46 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
+         <l pos="N">keeper</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">moolivahti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="bildetema">
+      <lg>
+         <l pos="N">herregård</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">herraskartano</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="bildetema">
+      <lg>
+         <l pos="N">ishockey</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jäähockey</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="bildetema">
+      <lg>
+         <l pos="N">forkortelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lyhenys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ks">
+      <lg>
          <l pos="N">eggeskall</l>
       </lg>
       <mg>
@@ -8247,7 +8287,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="bildetema">
       <lg>
-         <l pos="N">skittentøykurv</l>
+         <l pos="N">skittentøyskurv</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -45190,7 +45230,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">bondegard</l>
+         <l pos="N">bondegård</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -76679,6 +76719,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">turné</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">turnaus</t>
+         <t pos="N">reisu</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+       <lg>
+         <l pos="N">spesialeffekt</l>
+       </lg>
+       <mg>
+          <tg xml:lang="fkv">
+            <t pos="N">spesiaalieffekti</t>
+            <t pos="N">erikoiseffekti</t>
+          </tg>
+       </mg>
+    </e>
    <e src="ki">
       <lg>
          <l pos="N">mensen</l>
