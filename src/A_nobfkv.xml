@@ -7748,7 +7748,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Phrase">en slags</l>
       </lg>
@@ -7765,6 +7765,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="jonkulaise;jonkulais">jonkulainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">yhđenlainen</t>
          </tg>
       </mg>
    </e>
