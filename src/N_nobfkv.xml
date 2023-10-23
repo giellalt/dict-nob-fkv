@@ -4828,7 +4828,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;es">
       <lg>
          <l pos="N">lenke</l>
       </lg>
@@ -4836,6 +4836,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>kjede</re>
             <t pos="N">länkki</t>
+            <t pos="N">lenkki</t>
          </tg>
       </mg>
    </e>
@@ -10693,13 +10694,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="mj;es">
       <lg>
          <l pos="N">drosje</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">taksi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">drossi</t>
          </tg>
       </mg>
    </e>
@@ -24767,7 +24773,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">historie</l>
       </lg>
@@ -24779,6 +24785,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">muistelus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tarina</t>
          </tg>
       </mg>
    </e>
@@ -27387,10 +27398,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="es;ai">
       <lg>
          <l pos="N">løve</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">leijona</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">jalopeura</t>
@@ -37093,7 +37109,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">uvær</l>
       </lg>
@@ -37110,6 +37126,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">rajuilma</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pahasää</t>
          </tg>
       </mg>
    </e>
@@ -40509,13 +40530,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">kjøl</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kööli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>bunnkonstruksjonen på et fartøys midtlinje</re>
+            <t pos="N">köli</t>
          </tg>
       </mg>
    </e>
@@ -47535,6 +47562,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">muistelus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tarina</t>
          </tg>
       </mg>
       <mg>
@@ -87414,6 +87446,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">rossa</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>brå, plutselig</re>
+            <t pos="N">tuulenrossa</t>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -95498,7 +95536,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">forfall</l>
       </lg>
@@ -95506,6 +95544,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>fravær</re>
             <t pos="N">poissaoleminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>det å bli falleferdig og slitt</re>
+            <t pos="N">raappii</t>
          </tg>
       </mg>
    </e>
@@ -101921,6 +101965,241 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>telefon</re>
             <t pos="N">mobiili</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">styrbord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">styyrpuuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lettmatros</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pikkumatruusi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">orkan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hirmumyrsky</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">berg-og-dalbane</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaara-ja-vankkapaana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pakkenelliker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tavarapakit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tilbakeslag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">takaisku</t>
+            <xg>
+            <x>Den lokale gudstroen gikk på en skrell, sånn var det bare.</x>
+            <xt>Paikan ihmisten usko Jumalan pääle kärsi pahan takaiskun, niin se vain oli.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">speilbåt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">peilivenet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">babor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paapuuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>åpen munn (og svelg)</re>
+            <t pos="N">kita</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kamel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kameeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gasshendel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">gassihantaaki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">skipskatt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">laivakissa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuljetuskassi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">motbør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vastahanka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dødslast</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuolemanlasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">havsnød</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">merihätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bølgedal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paarovankka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dumphuske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">keijulauta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">barnesko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lapsenkenkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">uværsrygg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pahansäänseinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bølgekam</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paarotörmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bølgevegg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paaroseinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">munnkurv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuonokoppa</t>
          </tg>
       </mg>
    </e>
