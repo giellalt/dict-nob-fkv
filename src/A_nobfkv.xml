@@ -5244,16 +5244,6 @@ For the full license text, see the link above.</lic>
             <t pos="A" stem="kummalise;kummalis">kummalinen</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">kamalasti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">kummasti</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -6471,7 +6461,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg> -->
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">flat</l>
       </lg>
@@ -6492,6 +6482,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">latuska</t>
             <t pos="A">latuskainen</t>
          </tg>
       </mg>
@@ -14931,6 +14922,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">ahvoittunnu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="A">säänkova</t>
          </tg>
       </mg>
@@ -19296,6 +19292,111 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">uumajansaamelainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">uoverstigelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ylipääsemätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">værbitt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ahvoittunnu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">säänpurema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">uredd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pölvötön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">blygrå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">plyijynharmaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">meteorologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">meteorolooginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">dødsskummel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kuolemankamala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">dyrebar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kallisarvoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">umistelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kallisarvoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">himmelsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">taivhaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">diskutabel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">riiđanalainen</t>
          </tg>
       </mg>
    </e>
