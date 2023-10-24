@@ -4,7 +4,7 @@
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l comment CDATA #IMPLIED >
 <!ATTLIST l nr NMTOKEN #IMPLIED >
-<!ATTLIST l pos ( A | Adv | CC | CS | Det | Interj | N | Num | Po | Pr | Pron | V ) #REQUIRED >
+<!ATTLIST l pos ( A | Adv | CC | CS | Det | Interj | N | Num | Phrase | Po | Pr | Pron | V ) #REQUIRED >
 <!ATTLIST l t_type NMTOKEN #IMPLIED >
 <!ATTLIST l type NMTOKEN #IMPLIED >
 
