@@ -2511,13 +2511,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">øde</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">auttii</t>
+            <t pos="A">auttiin</t>
          </tg>
       </mg>
    </e>
@@ -7340,6 +7341,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>om smak</re>
             <t pos="A">makkee</t>
          </tg>
       </mg>
@@ -7351,6 +7353,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">suloinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">söötti</t>
          </tg>
       </mg>
    </e>
@@ -8266,11 +8273,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">oikheen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
 	     <re>f.eks. rett svar</re>
             <t pos="A" stem="oikkee">oikkee</t>
          </tg>
@@ -8281,16 +8283,6 @@ For the full license text, see the link above.</lic>
             <t pos="A">suora</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">oikhein</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">suorhaan</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -8298,17 +8290,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">oikheen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A" stem="oikkee">oikkee</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">oikhein</t>
          </tg>
       </mg>
    </e>
@@ -8318,7 +8300,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">oikheen</t>
+            <t pos="A">oikkee</t>
          </tg>
       </mg>
    </e>
@@ -20139,6 +20121,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">täppitäysi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">dekorert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">koristeltu</t>
+            <xg>
+            <x>Pyntet med dombjeller og sedolk fraktet hestene mennesker til julegudstjeneste, til dåp, bryllup og begravelse.</x>
+            <xt>Koristeltuna setolkkakulkusella kuljetethiin hevoiset ihmissii joulujumalanpalveluksheen, ristiäishiin, häihin ja kraviaishiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

@@ -2728,7 +2728,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">tapattuut</t>
-            <t pos="V">tapahtuut</t>
          </tg>
       </mg>
       <mg>
@@ -6925,7 +6924,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V" stem="kattoo;kađon">kađota</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="V" stem="hävvii;hävin">hävitä</t>
+            <xg>
+            <xt>forsvinne i løse luften, forsvinne sporløst</xt>
+               <xt>hävitä jäljettömhiin</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -6941,11 +6949,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">lappuut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="kattoo;kađon">kađota</t>
          </tg>
       </mg>
    </e>
@@ -16944,12 +16947,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="pränttää;präntän">präntätä</t>
+            <t pos="V">puristaat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">puristaat</t>
+	         <re>f.eks. aviser, bøker</re>
+            <t pos="V" stem="pränttää;präntän">präntätä</t>
          </tg>
       </mg>
    </e>
@@ -24175,7 +24179,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="ylpeile;ylpeil">ylpeilä</t>
+            <t pos="V">ylppeilä</t>
          </tg>
       </mg>
    </e>

@@ -30341,7 +30341,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kamphee">kampet</t>
+            <t pos="N">kampet</t>
          </tg>
       </mg>
       <mg>
@@ -30481,7 +30481,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kamphee">kampet</t>
+            <t pos="N">kampet</t>
          </tg>
       </mg>
       <mg>
@@ -30531,7 +30531,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" nr="Pl">vaatheet</t>
+            <t pos="N" nr="Pl">vaattheet</t>
          </tg>
       </mg>
    </e>
@@ -40960,6 +40960,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ta">
+      <lg>
+         <l pos="Phrase">avsidesliggende sted</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">enturi</t>
+            <xg>
+               <x>Dra dit peppern gror!</x>
+               <xt>Mene enturhiin!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">skråning</l>
@@ -40995,18 +41009,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">verk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">laitos</t>
+	         <re>smerte</re>
+            <t pos="N">särky</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="särvy;särkky">särky</t>
+	         <re>stykke arbeid, f.eks. kunstverk</re>
+            <t pos="N">värkki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>foretak</re>
+            <t pos="N">laitos</t>
          </tg>
       </mg>
    </e>
@@ -63617,6 +63639,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">sisälys</t>
             <t pos="N">sisältö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N">feil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">feili</t>
          </tg>
       </mg>
    </e>
