@@ -34768,7 +34768,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="yr">
+   <e src="yr;es">
       <lg>
          <l pos="N">varde</l>
       </lg>
@@ -34780,6 +34780,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">merkkikivi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kiviura</t>
          </tg>
       </mg>
    </e>
@@ -57886,13 +57891,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">isse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="päälaje;päälakke">päälaki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kiiret</t>
+            <xg>
+            <x>fra topp til tå</x>
+            <xt>kiirheestä kantapäähän</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -77608,13 +77622,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">flate</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">laatas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>flatt land</re>
+            <t pos="N">tasamaa</t>
          </tg>
       </mg>
    </e>
