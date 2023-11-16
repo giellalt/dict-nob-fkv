@@ -3674,7 +3674,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">veldig</l>
       </lg>
@@ -3686,11 +3686,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">hirmu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">hirmuinen</t>
          </tg>
       </mg>
       <mg>
@@ -3724,6 +3719,26 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Hun var veldig flink til å skrive.</x>
                <xt>Se oli mailman hyvä kirjoittamhaan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>forsterkningsord</re>
+            <t pos="A">upoton</t>
+            <xg>
+            <x>Pappas utstrakte bruk av sånn olje på sart barnehud var ei skikkelig blemme.</x>
+            <xt>Se papan upoton semmoisen öljyn käyttö arkhaan lapsenihhoon oli tođelinen feili.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>forsterkningsord</re>
+            <t pos="Adv">upottoman</t>
+            <xg>
+            <x>Hæ? Nei, den er fra apoteket, så den er kjempesunn.</x>
+            <xt>Häh? Ei, sehän oon apoteekista, kyllä se oon upottoman tervheelinen.</xt>
             </xg>
          </tg>
       </mg>
@@ -13819,6 +13834,11 @@ For the full license text, see the link above.</lic>
             <t pos="A">hyvänuskoova</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">hyväuskoinen</t>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -19742,6 +19762,11 @@ For the full license text, see the link above.</lic>
             <t pos="A">pikkuruinen</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pikkuriikkinen</t>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -20135,6 +20160,107 @@ For the full license text, see the link above.</lic>
             <x>Pyntet med dombjeller og sedolk fraktet hestene mennesker til julegudstjeneste, til dåp, bryllup og begravelse.</x>
             <xt>Koristeltuna setolkkakulkusella kuljetethiin hevoiset ihmissii joulujumalanpalveluksheen, ristiäishiin, häihin ja kraviaishiin.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">innsmurt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">voiđeltu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">vindfull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tuulinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">forblåst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tuulinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">høstfarget</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">syysfärinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">logisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">loogilinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kobberbrun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kuparinpruuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">stivnet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>av skrekk eller i hat, hån, forakt</re>
+            <t pos="A">jähmettynny</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">bekymringsløs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">huoleton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">melkehvit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">maiđonvalkkee</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">solbrun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">aurinkopruuni</t>
          </tg>
       </mg>
    </e>
