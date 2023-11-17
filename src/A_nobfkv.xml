@@ -3674,7 +3674,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta">
       <lg>
          <l pos="A">veldig</l>
       </lg>
@@ -3738,7 +3738,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">upottoman</t>
             <xg>
             <x>Hæ? Nei, den er fra apoteket, så den er kjempesunn.</x>
-            <xt>Häh? Ei, sehän oon apoteekista, kyllä se oon upottoman tervheelinen.</xt>
+            <xt>Häh? Ei, sehän oon apoteekista, kyllä se oon upottoman tervheelinen</xt>
             </xg>
          </tg>
       </mg>
@@ -20163,7 +20163,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="A">innsmurt</l>
       </lg>
@@ -20173,7 +20173,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="A">vindfull</l>
       </lg>
@@ -20183,7 +20183,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="A">forblåst</l>
       </lg>
@@ -20193,7 +20193,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="A">høstfarget</l>
       </lg>
@@ -20203,7 +20203,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="A">logisk</l>
       </lg>
@@ -20213,7 +20213,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="A">kobberbrun</l>
       </lg>
@@ -20223,7 +20223,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
+      <lg>
+         <l pos="A">forsteinet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>av skrekk eller i hat, hån, forakt</re>
+            <t pos="A">jähmettynny</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
       <lg>
          <l pos="A">stivnet</l>
       </lg>
@@ -20234,7 +20245,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="A">bekymringsløs</l>
       </lg>
@@ -20244,7 +20255,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="A">melkehvit</l>
       </lg>
@@ -20254,7 +20265,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="A">solbrun</l>
       </lg>
