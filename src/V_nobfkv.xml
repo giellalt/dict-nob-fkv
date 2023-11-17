@@ -3666,6 +3666,17 @@ For the full license text, see the link above.</lic>
             <t pos="V">keijuila</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">huojuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>frek.</re>
+            <t pos="V">huojuskella</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta;es">
       <lg>
@@ -6710,7 +6721,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">stivne</l>
       </lg>
@@ -6727,6 +6738,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kovetu">kovettuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>av skrekk eller i hat, hån forakt</re>
+            <t pos="V">jähmettyyt</t>
          </tg>
       </mg>
    </e>
@@ -17082,13 +17099,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">steke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">paistaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>steke ganske lett, så overflaten blir brun</re>
+            <t pos="V">kärystäät</t>
          </tg>
       </mg>
    </e>
@@ -18496,13 +18519,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">brune</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">pruunata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>matlaging</re>
+            <t pos="V">kärystäät</t>
          </tg>
       </mg>
    </e>
@@ -25301,6 +25330,12 @@ For the full license text, see the link above.</lic>
             <t pos="V">lappaanttuut</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>av skrekk eller i hat, hån forakt</re>
+            <t pos="V">jähmettyyt</t>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -27057,6 +27092,11 @@ For the full license text, see the link above.</lic>
             <t pos="Phrase">olla huolissa</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">murettiit</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -28105,13 +28145,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="Phrase">skamme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">olla häppeissä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>litt eller tidvis</re>
+            <t pos="V">häppeilä</t>
          </tg>
       </mg>
    </e>
@@ -28730,6 +28776,47 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">inhoittaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">blyges</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">häppeilä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">rusle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tallustella</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">boikotte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">boikotteerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">stusse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>komme i tvil</re>
+            <t pos="V">eppäilä</t>
          </tg>
       </mg>
    </e>
