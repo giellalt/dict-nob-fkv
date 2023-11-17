@@ -3522,6 +3522,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ai">
+      <lg>
+         <l pos="A">ømfintlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">herkkä</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="A">snar</l>
@@ -3674,7 +3684,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">veldig</l>
       </lg>
@@ -10762,11 +10772,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">suora</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">suorhaan</t>
          </tg>
       </mg>
    </e>
@@ -18226,13 +18231,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="A">sensitiv</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">sensitiivinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">arka</t>
          </tg>
       </mg>
    </e>
@@ -20017,6 +20027,11 @@ For the full license text, see the link above.</lic>
             <t pos="A">kauhistunnu</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">pölvöstä höpertynny</t>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -20163,7 +20178,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="A">innsmurt</l>
       </lg>
@@ -20173,7 +20188,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="A">vindfull</l>
       </lg>
@@ -20183,7 +20198,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="A">forblåst</l>
       </lg>
@@ -20193,7 +20208,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="A">høstfarget</l>
       </lg>
@@ -20203,7 +20218,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="A">logisk</l>
       </lg>
@@ -20213,7 +20228,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="A">kobberbrun</l>
       </lg>
@@ -20223,7 +20238,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="A">forsteinet</l>
       </lg>
@@ -20234,7 +20249,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="A">stivnet</l>
       </lg>
@@ -20245,7 +20260,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="A">bekymringsløs</l>
       </lg>
@@ -20255,7 +20270,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="A">melkehvit</l>
       </lg>
@@ -20265,13 +20280,98 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="A">solbrun</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">aurinkopruuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">ben</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">suora</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">stivnakket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>overført betydning, sta, stri, stivsinnet</re>
+            <t pos="A">ittepäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">bekymringsfull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">huolestuttaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">urovekkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">huolestuttaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">sart</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">arka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">øm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">arka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">gråtkvalt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">tukettumaisilla itkhuun</t>
+            <xg>
+            <x>Gråtkvalt gjennom stormen hørte jeg mamma be.</x>
+            <xt>Myrskyn läpi mie kuulin ko mamma tukettumaisilla itkhuun rukkoili.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">sjøvant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">harjaintunnu merheen</t>
          </tg>
       </mg>
    </e>
