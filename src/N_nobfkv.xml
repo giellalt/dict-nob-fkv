@@ -24851,7 +24851,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">smule</l>
       </lg>
@@ -24878,6 +24878,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">silmä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">murunen</t>
          </tg>
       </mg>
    </e>
@@ -65190,13 +65195,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">synder</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="syntise;syntis">syntinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">syntisäkki</t>
          </tg>
       </mg>
    </e>
@@ -67341,6 +67351,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="tilla">tila</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tillaisuus</t>
          </tg>
       </mg>
       <mg>
@@ -81750,6 +81765,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">finansieerinki</t>
+            <t pos="N">finansieeraus</t>
          </tg>
       </mg>
    </e>
@@ -95420,13 +95436,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">konklusjon</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">konklusuuni</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">johtopäätös</t>
          </tg>
       </mg>
    </e>
@@ -104061,6 +104082,127 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">haaksirikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">begivenhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tillaisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">veikart</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tiekartta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">blindhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sokkeus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">begrunnelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">perustelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">lunsjbuffè</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">murkinabuffetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sluttoppgjør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>det å gjøre opp, bringe klarhet i et motsetningsforhold, en konflikt</re>
+            <t pos="N">loppuselvittely</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">elendighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kurjuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ettermæle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jälkimainet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sannhetsår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tottuusvuosi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">forbedringstiltak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paranustoimi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">lureri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">petos</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">underfinansiering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">alamittainen finansieeraus</t>
          </tg>
       </mg>
    </e>
