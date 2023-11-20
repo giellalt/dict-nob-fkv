@@ -17362,7 +17362,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">sette</l>
       </lg>
@@ -17376,6 +17376,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>legge i bløt</x>
                <xt>panna likhoon</xt>
+            </xg>
+            <xg>
+               <x>Det koster ingen ting å sette livet på spill.</x>
+               <xt>Se ei maksa mithään ette pannee elämän pelhiin.</xt>
             </xg>
          </tg>
       </mg>
@@ -28818,6 +28822,40 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">selvittäät</t>
             <t pos="V">selvitellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">blafre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">huiskuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">mistenke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">eppäilä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">ha på lur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">varala</t>
+            <xg>
+            <x>Pappa er kreativ i møte med livets mange utfordringer, han kunne typisk ha sånne diskutable ordtak på lur.</x>
+            <xt>Pappa kyllä oon kreatiivinen elämän vaaroin kansa kohtaamisissa, sillä pruukas olla varala semmoissii vähä riiđanalaissii sananparssii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
