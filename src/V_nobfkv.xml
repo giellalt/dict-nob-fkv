@@ -5175,13 +5175,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Phrase">klemme flat</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">painaat lähjään</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">litistäät</t>
          </tg>
       </mg>
    </e>
@@ -28856,6 +28861,37 @@ For the full license text, see the link above.</lic>
             <x>Pappa er kreativ i møte med livets mange utfordringer, han kunne typisk ha sånne diskutable ordtak på lur.</x>
             <xt>Pappa kyllä oon kreatiivinen elämän vaaroin kansa kohtaamisissa, sillä pruukas olla varala semmoissii vähä riiđanalaissii sananparssii.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">avlyse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">perruuttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">kansellere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">perruuttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">flate</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>gjøre flat</re>
+            <t pos="V">litistäät</t>
          </tg>
       </mg>
    </e>
