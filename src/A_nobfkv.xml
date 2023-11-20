@@ -4076,7 +4076,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">dårlig</l>
       </lg>
@@ -4104,6 +4104,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>bli dårligere</re>
             <t pos="V">huonota</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">alamittainen</t>
          </tg>
       </mg>
    </e>
@@ -20400,6 +20405,86 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kiukkuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">ufølsom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tuntheeton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">følelsesløs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tuntheeton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">innerst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sissiin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">paradoksal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">paradoksaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kortsynt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">lyhynäköinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kynisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kyynilinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">uklok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">epäviisas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">indirekte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">epäsuora</t>
          </tg>
       </mg>
    </e>
