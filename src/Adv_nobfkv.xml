@@ -1096,7 +1096,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">i alle fall</l>
       </lg>
@@ -1104,6 +1104,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">ainaki</t>
             <t pos="Adv">ainaski</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">joka taphauksessa</t>
          </tg>
       </mg>
    </e>
@@ -1380,13 +1385,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="Adv">derimot</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">puolesthaan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sitä vastoin</t>
          </tg>
       </mg>
    </e>
@@ -6780,6 +6790,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">sideveis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>til side</re>
+            <t pos="Adv">syrjälensä</t>
+            <xg>
+               <x>Da pisket hun sjøen med masta si, la seg sideveis over og smakket til sjøen både på babord og styrbord side.</x>
+               <xt>Silloin se piiskas mertä mastola, meni syrjälensä ja läiskytti mertä sekä paapuurin ette styyrpuurin puolelta.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="Adv">på kant</l>
@@ -8207,13 +8232,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Adv">galt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>uriktig</re>
             <t pos="Adv">väärin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hullusti</t>
+            <xg>
+            <x>å gå galt</x>
+            <xt>käyđä hullusti</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10691,6 +10726,76 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">supussa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">stundom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">muutamisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">vilt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">villisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">voldsomt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">villisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">dagevis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">päivätolkula</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">biskt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kiukkuisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">fortvilt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">epätoivoisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">uansett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">joka taphauksessa</t>
          </tg>
       </mg>
    </e>
