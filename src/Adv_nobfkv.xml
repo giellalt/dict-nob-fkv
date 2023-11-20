@@ -9236,6 +9236,11 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">myötäräknättynnä</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">myötälukkiin</t>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -10796,6 +10801,41 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">joka taphauksessa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">inkludert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>medregnet</re>
+            <t pos="Adv">myötälukkiin</t>
+            <xg>
+            <x>Etter vår oppfatning er svaret – sannhetskommisjonen og rapporten inkludert – at fornorskningen med viten og vilje pågår.</x>
+            <xt>Niin ko met sen näjemä, vastaus oon – tottuuskommisuunin ja raportin myötälukkiin – ette ruijalaistaminen tiettäin ja tahtoin aina oon toimessa.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">emosjonelt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">tuntheelisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">med viten og vilje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tiettäin ja tahtoin</t>
          </tg>
       </mg>
    </e>
