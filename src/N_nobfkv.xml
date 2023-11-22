@@ -13819,6 +13819,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tunnet</t>
+            <xg>
+            <x>å fremkalle følelser</x>
+            <xt>nostaat tuntheita</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -22692,13 +22696,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">hanske</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hanska</t>
+            <xg>
+            <x>å ha kontroll</x>
+            <xt>olla homma hanskassa</xt>
+            </xg>
+            <xg>
+            <x>Mammaene våre fikk raskt kontroll.</x>
+            <xt>Meiđän mammoila oli heti homma hanskassa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -35884,6 +35896,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ugang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">konnankonsti</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N">konsert</l>
@@ -36101,13 +36123,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">kontroll</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kontrolli</t>
+            <xg>
+            <x>å ha kontroll</x>
+            <xt>olla homma hanskassa</xt>
+            </xg>
+            <xg>
+            <x>Mammaene våre fikk raskt kontroll.</x>
+            <xt>Meiđän mammoila oli heti homma hanskassa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -101082,10 +101112,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es;ki">
       <lg>
          <l pos="N">sans</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vainu</t>
+            <xg>
+            <x>Til alt hell hadde mammaene våre en syvende sans for når ungene deres stelte i stand trøbbel.</x>
+            <xt>Onneksi meiđän mammoila oli seittemäs vainu sen suhtheen jos heiđän kläpit jouđuthiin vaikkeukshiin.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sansi</t>
@@ -104203,6 +104242,38 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">alamittainen finansieeraus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">forheng</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>klede som henger foran noe</re>
+            <t pos="N">vaatet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">finstas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hervavaattheet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">betrakter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>person som betrakter noe, iakttager</re>
+            <t pos="N">kattooja</t>
          </tg>
       </mg>
    </e>

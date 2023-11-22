@@ -4634,7 +4634,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">diger</l>
       </lg>
@@ -4646,6 +4646,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="vanka">vankka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">valttaavan iso</t>
          </tg>
       </mg>
    </e>
@@ -5241,7 +5246,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta;kl;es">
       <lg>
          <l pos="A">rar</l>
       </lg>
@@ -5268,6 +5273,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="viekkhaa">viekas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">merkilinen</t>
          </tg>
       </mg>
    </e>
@@ -20490,6 +20500,27 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">epäsuora</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">seriøs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vaka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">dempet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>særlig om lyd</re>
+            <t pos="A">vaimee</t>
          </tg>
       </mg>
    </e>
