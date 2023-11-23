@@ -65792,13 +65792,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">lureri</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">taajominen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>bedrag</re>
+            <t pos="N">petos</t>
          </tg>
       </mg>
    </e>
@@ -76087,6 +76093,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" type="Prop">Lähi-öystä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" type="Prop">Keski-itä</t>
          </tg>
       </mg>
    </e>
@@ -93080,16 +93091,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">Midtøsten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">Keski-itä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">Nordkapp</l>
       </lg>
       <mg>
@@ -99750,16 +99751,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">Tallinn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">Tallinna</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">Jukkasjärvi</l>
       </lg>
       <mg>
@@ -102486,26 +102477,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">arvegods</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">perintökapinheet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">arvestykke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">perintökapine</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">overkant</l>
       </lg>
       <mg>
@@ -104222,16 +104193,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">paranustoimi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">lureri</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">petos</t>
          </tg>
       </mg>
    </e>
