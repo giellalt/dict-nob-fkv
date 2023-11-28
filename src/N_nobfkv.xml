@@ -582,13 +582,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="na">
+   <e src="na;es">
       <lg>
          <l pos="N">respekt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
          <t pos="N">kunnioitus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">respekti</t>
          </tg>
       </mg>
    </e>
@@ -20675,6 +20680,11 @@ For the full license text, see the link above.</lic>
             <t pos="N" stem="velvolisuuđe;velvolisuut">velvolisuus</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vastuu</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -22470,13 +22480,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">tannpine</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="hammastauđi;hammastautti">hammastauti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hammaspiina</t>
          </tg>
       </mg>
    </e>
@@ -26986,6 +27001,11 @@ For the full license text, see the link above.</lic>
             <t pos="N">intressi</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kiinostus</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -27604,6 +27624,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">johđattaaja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>politisk, mannlig</re>
+            <t pos="N">valtaherra</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>politisk, kvinnelig</re>
+            <t pos="N">valtavaimo</t>
          </tg>
       </mg>
       <mg>
@@ -50866,7 +50898,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ki">
+   <e src="ta;ki;es">
       <lg>
          <l pos="N">organisering</l>
       </lg>
@@ -50884,6 +50916,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">organiseerinki</t>
             <t pos="N">organiseeraus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">järjestäminen</t>
          </tg>
       </mg>
    </e>
@@ -54525,13 +54562,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">lillesøster</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="pikkusisare">pikkusisar</t>
+            <t pos="N">pikkusisko</t>
          </tg>
       </mg>
    </e>
@@ -73544,13 +73582,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">urett</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vääryys</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">epäoikkeus</t>
          </tg>
       </mg>
    </e>
@@ -78507,6 +78550,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">seuraus</t>
+            <t pos="N">seuraamus</t>
          </tg>
       </mg>
       <mg>
@@ -80567,8 +80611,23 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">följy</t>
+            <xg>
+            <x>Får jeg slå følge?</x>
+            <xt>Saanko tulla följhyyn?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
          <re>lik</re>
             <t pos="N">saatto</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>konsekvens</re>
+            <t pos="N">seuraamus</t>
          </tg>
       </mg>
    </e>
@@ -80837,21 +80896,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">inkluderingsdepartement</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">inkluderingsdepartementti</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">kunnskapsdepartement</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kunnskapsdepartementti</t>
+            <t pos="N">tietodepartementti</t>
          </tg>
       </mg>
    </e>
@@ -81304,13 +81353,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">håndbok</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">käsikirja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">opaskirja</t>
          </tg>
       </mg>
    </e>
@@ -102987,7 +103041,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>om en person</re>
             <t pos="N">pikkuihminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>om flere personer</re>
+            <t pos="N">pikkuväki</t>
          </tg>
       </mg>
    </e>
@@ -104235,6 +104296,277 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>person som betrakter noe, iakttager</re>
             <t pos="N">kattooja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kommisjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kommisuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sammenslåing</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yhtheenliittäminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sannhetskommisjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tottuuskommisuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">strategiplan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">strategiiplaana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">spesialist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">spesialisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">redaksjonskomité</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">redaksuunikomitee</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">plenumsleder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pleenumijohtaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">studiegjeld</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">opiskeluvelka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">miljødepartement</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">miljöödepartementti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">merkeklær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">merkkivaattheet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">majoritet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">majoriteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kulturarv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulttuuriperintö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kulturkomité</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulttuurikomitee</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sommerarrangement</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kesätapattuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">integreringsdeparttementti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">integreerinkidepartementti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fundament</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fundamentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">flaggdag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">flakupäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fanfare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fanfaari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">abort</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">abortti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">stedsnavnkonsulent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paikannimikonsulentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">forhandler</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>person som diskuterer for å komme fram til en avgjørelse</re>
+            <t pos="N">neuvonpittääjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">rettsvitenskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">oikkeustieđet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kulturbuss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulttuuribussi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">festivalstemning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">festivaalitunnet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">bursdagskake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">syntymäpäiväkakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fagfolk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">faakiväki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kulturaktivist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulttuuriaktivisti</t>
          </tg>
       </mg>
    </e>
