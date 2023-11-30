@@ -18450,13 +18450,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="A">sannsynlig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">tođennäköinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>trolig</re>
+            <t pos="A">luultava</t>
          </tg>
       </mg>
    </e>
@@ -20541,6 +20547,96 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>særlig om lyd</re>
             <t pos="A">vaimee</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">tvilende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">eppäileevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">femårig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">viisivuotinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">polar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">polaari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">grundigere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">perustheelisempi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">trolig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">luultava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">respektfull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kunnioittaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">immateriell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ainheeton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">permanent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pyssyyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">samiskspråklig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">saamenkielinen</t>
          </tg>
       </mg>
    </e>
