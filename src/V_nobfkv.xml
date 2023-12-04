@@ -3779,12 +3779,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="ajele;ajel">ajela</t>
+            <t pos="V" stem="aja;aja">ajjaat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="aja;aja">ajjaat</t>
+            <t pos="V" stem="ajele;ajel">ajela</t>
          </tg>
       </mg>
    </e>
@@ -9135,8 +9135,17 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="näje;näh">nähđä</t>
             <xg>
-               <x>Hun ser.</x>
-               <xt>Hän näkkee.</xt>
+               <x>Hun ser den allerede.</x>
+               <xt>Hän näkkee sen jo.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="katto">kattoot</t>
+           <xg>
+               <x>De ser på tv.</x>
+               <xt>Het kattothaan teeveetä.</xt>
             </xg>
          </tg>
       </mg>
@@ -11969,6 +11978,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kuule">kuula</t>
+            <xg>
+               <x>Hun hører den allerede.</x>
+               <xt>Hän kuulee sen jo.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	     <re>høre på</re>
+            <t pos="V" stem="kuunnele;kuuntel">kuunela</t>
+            <xg>
+               <x>Hun hører på musikk.</x>
+               <xt>Hän kuuntelee musikkii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16223,8 +16246,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>om utseende</re>
             <t pos="V" stem="näytä">näyttäät</t>
+          <xg>
+             <x>Det ser bra ut.</x>
+             <xt>Se näyttää hyvältä.</xt>
+           </xg>
          </tg>
       </mg>
    </e>
@@ -19807,12 +19833,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="ruokkaile;ruokkail">ruokkaila</t>
+            <t pos="V" stem="syö;syön">syöđä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="syö;syön">syöđä</t>
+            <t pos="V" stem="ruokkaile;ruokkail">ruokkaila</t>
          </tg>
       </mg>
    </e>
@@ -22192,17 +22218,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="koje;koke">kokkeet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">freistata</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">koitela</t>
+            <t pos="V">yrittäät</t>
+            <xg>
+               <x>De prøver å dra.</x>
+               <xt>Het yritethään lähteet.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="koje;koke">kokkeet</t>
          </tg>
       </mg>
       <mg>
@@ -22212,7 +22242,21 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">koitela</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="V">kojettaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kojetella</t>
+            <xg>
+               <x>utfordre skjebnen</x>
+               <xt>kojetella kohtaloo</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -22231,30 +22275,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">sovitella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">pyrkkiit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">yrittäät</t>
-            <xg>
-               <x>De prøver å dra.</x>
-               <xt>Het yritethään lähteet.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">kojetella</t>
-            <xg>
-               <x>utfordre skjebnen</x>
-               <xt>kojetella kohtaloo</xt>
-            </xg>
+            <t pos="V">sovitella</t>
          </tg>
       </mg>
  </e>
