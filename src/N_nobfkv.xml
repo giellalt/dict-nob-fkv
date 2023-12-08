@@ -10760,6 +10760,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ai">
+      <lg>
+         <l pos="N">nordreisaværing</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">raisilainen</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mj">
       <lg>
          <l pos="N">dansemusikk</l>
@@ -57948,7 +57958,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">Bygøynes-væring</l>
+         <l pos="N">bygøynesværing</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -58038,6 +58048,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pyssyjokilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N">olderdaling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">talosvankkalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">reisadalværing</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">raisinvankkalainen</t>
          </tg>
       </mg>
    </e>
