@@ -1375,7 +1375,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="kt">
+   <e src="kt;ki">
       <lg>
          <l pos="N">transkvinne</l>
       </lg>
@@ -1387,16 +1387,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
          <t pos="N">transnainen</t>
+         <t pos="N">transinainen</t>
          </tg>
       </mg>
    </e>
-   <e src="kt">
+   <e src="kt;ki">
       <lg>
          <l pos="N">transmann</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
          <t pos="N">transmies</t>
+         <t pos="N">transimies</t>
          </tg>
       </mg>
    </e>
@@ -26874,6 +26876,10 @@ For the full license text, see the link above.</lic>
                <x>Nå er det fint vær ute.</x>
                <xt>Nyt oon hyvä sää ulkkoo.</xt>
             </xg>
+            <xg>
+               <x>For et vær!</x>
+               <xt>Voi, mikä sää!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -34945,12 +34951,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kiukhaa">kiukas</t>
+            <t pos="N" stem="kiukhaa">kiuvas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kiukhaa">kiuvas</t>
+            <t pos="N" stem="kiukhaa">kiukas</t>
          </tg>
       </mg>
    </e>
@@ -35789,16 +35795,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>det å sette sammen</re>
             <t pos="N">kokhoonpaneminen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="N">kokk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="koki">kokki</t>
          </tg>
       </mg>
    </e>
@@ -51078,13 +51074,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;bildetema;na">
+   <e src="ai;ta;bildetema;na;ki">
       <lg>
          <l pos="N">øl</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">olu</t>
+            <t pos="N">olut</t>
          </tg>
       </mg>
       <mg>
@@ -54150,16 +54147,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">rævhull</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="persetreijä;persetreikkä">persetreikä</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta;grom">
       <lg>
          <l pos="N">personale</l>
@@ -55293,13 +55280,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">faen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="pirru">piru</t>
+            <t pos="N">perkelet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;ki">
+      <lg>
+         <l pos="N">fanden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="pirru">piru</t>
+            <t pos="N">perkelet</t>
+            <t pos="N">rietas</t>
+            <xg>
+            <x>fandens oldemor</x>
+            <xt>rietthaan ämmi</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -79702,6 +79706,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>forsinkelse</re>
             <t pos="N">viivyttely</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>om vær</re>
+            <t pos="N">pouta</t>
+            <xg>
+            <x>Det er opphold.</x>
+            <xt>Se oon pouta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -105339,6 +105353,272 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">hoppeeteipi</t>
             <t pos="N">kahviteipi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ikke-binær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">epäbinääri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">frasebok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fraasikirja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">morsdag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">muorinpäivä</t>
+            <t pos="N">äitinpäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">farsdag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">isänpäivä</t>
+            <t pos="N">faarinpäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">id</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>muslimsk høytid som markerer slutten på ramadan</re>
+            <t pos="N">iid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">valentinsdag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ystävänpäivä</t>
+            <t pos="N">kaverinpäivä</t>
+            <t pos="N">rakkhauđenpäivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">prevensjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">prevensuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">klamydia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">klamyydia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">ytre kjønnslepper</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ulkopillunhuulet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">indre kjønnslepper</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sisäpillunhuulet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kjønnsleppe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pillunhuuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">skjedeinngang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pillunreikä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">anus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">persetreikä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">penishode</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kullinpää</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">forhud</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">etunahka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fiskekort</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kalakortti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vindpust</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tuulenhenki</t>
+            <xg>
+            <x>Ikke et vindpust engang.</x>
+            <xt>Ei tuulenhenkkeekhään.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">drittvær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paskasää</t>
+            <xg>
+            <x>Det er skikkelig drittvær.</x>
+            <xt>Se oon oikkee paskasää.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pissregn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kusisađet</t>
+            <xg>
+            <x>Det pissregner.</x>
+            <xt>Nyt oon kusisađet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kraftuttrykk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">voimailmaisu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hestkuk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hevoskulli</t>
+            <xg>
+            <x>Satans hestkuk!</x>
+            <xt>Saatanan hevoskulli!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ki">
+      <lg>
+         <l pos="N">rævhull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">persetreikä</t>
+            <t pos="N">paskareikä</t>
+            <xg>
+            <x>Du ditt rævhull!</x>
+            <xt>Sie paskareikä!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">balsam</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">balsami</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vaskekar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pesofati</t>
          </tg>
       </mg>
    </e>

@@ -3030,7 +3030,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">snø</l>
       </lg>
@@ -3046,6 +3046,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="lumita">lumittaat</t>
+            <xg>
+               <x>Det snør tettpakka.</x>
+               <xt>Se lumittaa sakkeesti.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -17446,16 +17450,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="tällää;tällän">tällätä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="Phrase">det snør</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="pane">panna</t>
          </tg>
       </mg>
    </e>
