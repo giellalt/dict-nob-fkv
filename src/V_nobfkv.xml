@@ -15626,13 +15626,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta;kl;es">
       <lg>
          <l pos="V">sy</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">neuloot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ommela</t>
          </tg>
       </mg>
    </e>
@@ -26144,8 +26149,8 @@ For the full license text, see the link above.</lic>
             <t pos="V">saavuttaat</t>
             <t pos="V">sauttaat</t>
             <xg>
-            <x>Ettei yksikhään minnuu saavuta.</x>
-            <xt>Slik at ingen når meg.</xt>
+            <x>Slik at ingen når meg.</x>
+            <xt>Niin ettei yksikhään saavuta minnuu.</xt>
             </xg>
          </tg>
       </mg>
@@ -26159,6 +26164,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	     <re>få tak i eller strekke seg</re> 
             <t pos="V">ulettuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>å nå noen, nå ut til noen</re>
+            <t pos="V">tavoittaat</t>
+            <xg>
+            <x>Kvenene har likevel følt det viktig med et forarbeid, men man ikke har nådd ut til alle.</x>
+            <xt>Kainulaiset oon kuitenki pitänheet esityötä tärkkeenä, mutta piian het ei ole tavoittanheet kaikkii.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -29030,6 +29045,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>oppfatte, merke</re>
             <t pos="V">havaita</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">tøfle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tossutella</t>
          </tg>
       </mg>
    </e>

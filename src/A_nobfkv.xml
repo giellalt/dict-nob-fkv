@@ -2797,13 +2797,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">ulik</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="erilaise">erilainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>av ulik verdi</re>
+            <t pos="A">eriarvoinen</t>
          </tg>
       </mg>
    </e>
@@ -5992,7 +5998,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta;kl;es">
       <lg>
          <l pos="A">sterk</l>
       </lg>
@@ -6026,6 +6032,11 @@ For the full license text, see the link above.</lic>
                <x>Mannen er sterk.</x>
                <xt>Mies oon väkkeevä.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">voimalinen</t>
          </tg>
       </mg>
    </e>
@@ -13366,13 +13377,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="fkvnob">
+   <e src="fkvnob;es">
       <lg>
          <l pos="A">kraftig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">voimakas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">voimalinen</t>
          </tg>
       </mg>
    </e>

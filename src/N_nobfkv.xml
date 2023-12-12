@@ -35520,7 +35520,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">punkt</l>
       </lg>
@@ -35532,6 +35532,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">punkti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>i f.eks. en avtale</re>
+            <t pos="N">pykälä</t>
          </tg>
       </mg>
    </e>
@@ -71940,6 +71946,10 @@ For the full license text, see the link above.</lic>
             <x>Pekka kjøpte seg bil på kreditt.</x>
             <xt>Pekka osti piilin velaksi.</xt>
             </xg>
+            <xg>
+            <x>Hvis en student velger kvensk i sin lærerutdanning vil vedkommende få ettergitt 50.000 kroner av studielånet.</x>
+            <xt>Jos opettaajastudentti valittee kainun kielen, hänen opiskeluvelasta pyhithään poijes 50.000 kruunuu.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -99282,10 +99292,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es;ki">
       <lg>
          <l pos="N">balanse</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tasapaino</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">balansi</t>
