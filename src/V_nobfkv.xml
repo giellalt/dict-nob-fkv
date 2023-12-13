@@ -20576,8 +20576,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">serveerata</t>
             <t pos="V">kuossuttaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">serveerata</t>
          </tg>
       </mg>
       <mg>
@@ -23797,7 +23801,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="V">heise</l>
       </lg>
@@ -23815,6 +23819,11 @@ For the full license text, see the link above.</lic>
                <x>De heiste flagget.</x>
                <xt>Het nostethiin flavun.</xt>
             </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">heisata</t>
          </tg>
       </mg>
    </e>
@@ -29055,6 +29064,31 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">tossutella</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">kortslutte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">lyhytsulkkeet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">ta av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>overført, om plan, prosjekt, forestilling e.l.</re>
+            <t pos="Phrase">nousta lenthoon</t>
+            <xg>
+            <x>Mange trodde at 2020 var året da satsingen på det kvenske skulle ta av.</x>
+            <xt>Usheet uskothiin ette vuosi 2020 olis se vuosi, ko satsaus kainun assiisseen nousis lenthoon.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

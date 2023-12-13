@@ -53064,13 +53064,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">papir</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">paperi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>av papir, papir-</re>
+            <t pos="A">paperinen</t>
+            <xg>
+            <x>I anledning Ruijan Kaikus 25-årsjubileum vil papirversjonen av Ruijan Kaiku bli gitt ut i ny drakt.</x>
+            <xt>Ruijan Kaijun 25-vuotisjuhlan kunniaksi paperinen Ruijan Kaiku alkkaa tulemhaan ulos uuđen näköisennä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
