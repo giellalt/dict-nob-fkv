@@ -1116,13 +1116,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">årsmøte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
          <t pos="N">vuosimöötti</t>
+         <t pos="N">vuosikokkous</t>
          </tg>
       </mg>
    </e>
@@ -77970,6 +77971,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">autoriteetti</t>
+            <t pos="N">auktoriteetti</t>
          </tg>
       </mg>
    </e>
@@ -80546,6 +80548,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vahvistaminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">voimistaminen</t>
          </tg>
       </mg>
    </e>
@@ -83348,6 +83355,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>annerledeshet, forskjellighet</re>
+            <t pos="N">erilaisuus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>av ulik verdi, ikke-likestilt</re>
             <t pos="N">eriarvoisuus</t>
          </tg>
       </mg>
@@ -105911,6 +105925,179 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ruohonjuuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">samhold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yhtheishenki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">knusing</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">murskaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">salmehefte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">virsihäfti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ildflue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">valkkeekärpänen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">taksidermi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">taksidermii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">indre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sisus</t>
+            <xg>
+            <x>Det betyr at vi har områder med lavere temperatur i vårt indre, saker vi ikke brenner, som vi er uengasjerte i.</x>
+            <xt>Se meinaa sitä, ette meilä oon sisuksessa kaalomppii paikkoi, semmoissii assiita minkä eđestä emmä pala, mistä emmä perusta.</xt>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">forvirring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sekkaanus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">nestekjærlighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lähimäisenrakkhaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">gnål</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">marina</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kriterium</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kriteeriumi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">empatievne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">empatiitaito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">anarki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">anarkkii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">adopsjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">adopsuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">empati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">empatii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kremkake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kräämikakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">skolepolitikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">koulupolitikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kulturminnepolitikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulttuurimuistopolitikki</t>
          </tg>
       </mg>
    </e>
