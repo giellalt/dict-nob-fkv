@@ -3482,10 +3482,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>om to</re>
             <t pos="Adv">molemin</t>
-                        <xg>
+            <xg>
                <x>Det er en stund siden dere har vært sammen i Nordreisa.</x>
                <xt>Oonki aikkaa ko tet oletta olheet molemin Raisissa.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>i samarbeid med, med felles krefter</re>
+            <t pos="Adv">yhtheisvoimin</t>
          </tg>
       </mg>
    </e>
@@ -4086,7 +4092,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;es">
       <lg>
          <l pos="Adv">våken</l>
       </lg>
@@ -10874,6 +10880,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">aggressiivisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">bokstavelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">pukstaavillisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">langsiktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">pitkämielisesti</t>
          </tg>
       </mg>
    </e>

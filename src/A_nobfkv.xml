@@ -14009,21 +14009,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">innokas</t>
-            <xg>
-            <x>Maija er engasjert i politikken.</x>
-            <xt>Maija oon innokas politikkhiin.</xt>
-            </xg>
+            <t pos="A">toimenankara</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">engaseerattu</t>
+            <t pos="A">engaseeraantunnu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">engaseeraantunnu</t>
+            <t pos="A">innokas</t>
+            <xg>
+            <x>Maija er engasjert i politikken.</x>
+            <xt>Maija oon innokas politikkhiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -20837,6 +20838,56 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">debateerattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">skuffet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pettyny</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">diakritisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">diakriittinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">undertrykt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sorrettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">ønskelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">toivottava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">verbal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">verbaalinen</t>
          </tg>
       </mg>
    </e>
