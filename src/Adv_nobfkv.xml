@@ -2543,7 +2543,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Adv">alt</l>
+         <l pos="Adv">allerede</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -2553,11 +2553,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Adv">allerede</l>
+         <l pos="Adv">alt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv" src="fkv">jo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">om kapp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kilppaa</t>
          </tg>
       </mg>
    </e>
