@@ -14101,6 +14101,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">päivänselvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>selvklar</re>
             <t pos="A">ittestänselvä</t>
          </tg>
       </mg>
@@ -16077,13 +16083,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="akr">
+   <e src="akr;es">
       <lg>
          <l pos="A">demokratisk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">demokraattinen</t>
+            <t pos="A">demokraatilinen</t>
          </tg>
       </mg>
    </e>

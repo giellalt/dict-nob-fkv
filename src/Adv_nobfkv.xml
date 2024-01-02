@@ -9079,7 +9079,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="Adv">dagens</l>
       </lg>
@@ -9090,6 +9090,12 @@ For the full license text, see the link above.</lic>
             <x>Dagens mennesker er en del av et globalt handelsnettverk.</x>
             <xt>Tämänpäivän ihmiset oon osa globaalia kauppaverkkoo.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>nåtidens</re>
+            <t pos="Adv">nykypäivän</t>
          </tg>
       </mg>
    </e>
@@ -9105,6 +9111,16 @@ For the full license text, see the link above.</lic>
             <x>Overgangen til frihandel gikk i flere faser.</x>
             <xt>Siirto vapaakaupphaan meni faasittain.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">nåtidens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">nykypäivän</t>
          </tg>
       </mg>
    </e>
@@ -10915,6 +10931,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">pitkämielisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">etter alt og dømme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">kaikesta päätelen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">småmorsomt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">pikkusomasti</t>
          </tg>
       </mg>
    </e>

@@ -6849,13 +6849,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Phrase">engste seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="hättäile;hättäil">hättäilä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">murettiit</t>
          </tg>
       </mg>
    </e>
@@ -6909,6 +6914,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">olla huolissa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">murettiit</t>
          </tg>
       </mg>
    </e>
@@ -15913,7 +15923,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="V">fornorskes</l>
       </lg>
@@ -15924,6 +15934,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">ruijalaistuut</t>
             <t pos="V">ruiđalaistuut</t>
          </tg>
       </mg>
@@ -27175,6 +27186,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">uroe seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">murettiit</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ki">
       <lg>
          <l pos="V">marginalisere</l>
@@ -28834,6 +28855,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">köyhtyyt</t>
+            <t pos="V">köyhetä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bli fattigere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">köyhtyyt</t>
+            <t pos="V">köyhetä</t>
          </tg>
       </mg>
    </e>
@@ -29089,6 +29122,96 @@ For the full license text, see the link above.</lic>
             <x>Mange trodde at 2020 var året da satsingen på det kvenske skulle ta av.</x>
             <xt>Usheet uskothiin ette vuosi 2020 olis se vuosi, ko satsaus kainun assiisseen nousis lenthoon.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bli integrert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">integreeraanttuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">dele ut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">jajela</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">dele opp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">osittaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">klekkes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kuoriinttuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">nominere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">nomineerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">vikle seg inn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sotkeenttuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bli viklet inn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sotkeenttuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bli rotet inn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sotkeenttuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">floke seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sotkeenttuut</t>
          </tg>
       </mg>
    </e>
