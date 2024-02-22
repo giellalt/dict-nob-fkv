@@ -1253,11 +1253,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="kt">
       <lg>
-         <l pos="N">seksuell legning</l>
+         <l pos="Phrase">seksuell legning</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <t pos="N">seksuaalinen suunta</t>
+         <t pos="Phrase">seksuaalinen suunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">legning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t pos="N">suunta</t>
          </tg>
       </mg>
    </e>
