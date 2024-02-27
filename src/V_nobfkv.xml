@@ -878,15 +878,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">imettäät</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">immeet</t>
-            <xg>
-            <x>Lapsile annethaan saman doseerauksen, immeekö lapsi tahi ei.</x>
-            <xt>Det gis samme dose uavhengig av om barnet ammes eller ikke.</xt>
-            </xg>
-         </tg>
-      </mg>
    </e>
       <e src="ks">
       <lg>
@@ -7328,7 +7319,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="ime;ime">immeet</t>
+            <t pos="V">immeet</t>
+            <xg>
+            <x>Lapsile annethaan saman doseerauksen, immeekö lapsi tahi ei.</x>
+            <xt>Det gis samme dose uavhengig av om barnet ammes eller ikke.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
