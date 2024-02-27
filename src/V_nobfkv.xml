@@ -3562,9 +3562,26 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">livattaat</t>
-            <t pos="V">pistelä</t>
             <t pos="V">pistäät</t>
+            <t pos="V">pistelä</t>
+	 </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	    <re>dra</re>
+            <t pos="V">lähteet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	    <re>stikke av</re>
+            <t pos="V">karata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	    <re>stikke seg unna</re>
+            <t pos="V">livattaat</t>
          </tg>
       </mg>
    </e>
