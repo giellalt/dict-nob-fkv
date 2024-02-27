@@ -10241,53 +10241,35 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>f.eks. skog</re>
             <t pos="A">sakkee</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">taaja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>f.eks. skog</re>
             <t pos="A">tihhee</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>f.eks. en kar</re>
-            <t pos="A" stem="tivhii">tivis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">taajhaan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">ummessa</t>
+            <t pos="A">taaja</t>
             <xg>
-               <x>Veien er stengt.</x>
-               <xt>Tie oon ummessa.</xt>
+            <x>Skogen har vokst seg tett.</x>
+            <xt>Mettä oon kasunu sakkeeksi.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">umpheen</t>
+            <t pos="A">tivis</t>
             <xg>
-               <x>Veien ble stengt.</x>
-               <xt>Tie meni umpheen.</xt>
+            <x>Bøtten er tett.</x>
+            <xt>Ämpäri oon tivis.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">sakea</t>
+            <t pos="Adv">tukossa</t>
+            <xg>
+            <x>Nesen min er tett.</x>
+            <xt>Minula oon nenä tukossa.</xt>
+            </xg>
+            <xg>
+            <x>Vasken er tett.</x>
+            <xt>Vaski oon tukossa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10297,17 +10279,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="saksalaise;saksalais">saksalainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">tuiskalainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">tyskälainen</t>
+            <t pos="A">saksalainen</t>
+            <t pos="A">tuiskalainen</t>
          </tg>
       </mg>
    </e>
