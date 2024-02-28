@@ -27,6 +27,7 @@
 
 <!ELEMENT syng ( syn+ ) >
 <!ELEMENT syn ( #PCDATA ) >
+<!ELEMENT xhtml:script ( #PCDATA ) >
 
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t comment CDATA #IMPLIED >
