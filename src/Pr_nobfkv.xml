@@ -680,48 +680,53 @@ For the full license text, see the link above.</lic>
       </lg>
              <mg>
          <tg xml:lang="fkv">
-	           <re>i møte med, i retning fram til</re>
+	           <re>om retninger konkret og abstrakt</re>
             <t pos="Po">vasthaan</t>
-
+	    <t pos="Po">vasten</t>
+             <xg>
+            <x>Hunden løp mot oss.</x>
+            <xt>Koira laukkoi meitä vasthaan</xt>
+            </xg>
+	      <xg>
+            <x>De var imot forslaget.</x>
+            <xt>Het olthiin ehđotusta vasthaan.</xt>
+            </xg>
+	   <xg>
+            <x>Alta spiller i dag kamp mot Tromsø.</x>
+            <xt>Alattiola oon tääpänä jalkapallomatsi Tromssaa vasthaan.</xt>
+            </xg>
                 </tg>
+            </mg>
+          <mg>
       </mg>
           <mg>
          <tg xml:lang="fkv">
-	           <re>i motsatt retning som</re>
-            <t pos="Po">vasthaan</t>
-
-                </tg>
+               <t pos="Po">kohti</t>
+	  <xg>
+            <x>Vi kjører mot byen.</x>
+            <xt>Met ajama kaupunkiita kohti.</xt>
+            </xg>
+		   <xg>
+            <x>Det går mot bedre tider.</x>
+            <xt>Se mennee paremppii aikkoi kohti.</xt>
+            </xg>
+         </tg>
       </mg>
-          <mg>
-         <tg xml:lang="fkv">
-	           <re>om tid</re>
-            <t pos="Po">vasthaan</t>
-
-                </tg>
-      </mg>
-          <mg>
+	   <mg>
          <tg xml:lang="fkv">
 	           <re>om forhold til noe eller noen</re>
 	           <t type="expl">bruk allativ</t>
-                </tg>
+		   <xg>
+            <x>Vær grei med søsteren din.</x>
+            <xt>Ole siivo sinun sisarelle.</xt>
+            </xg>
+             <xg>
+            <x>Trenger du medisin mot hodepinen?</x>
+            <xt>Tarvittetko metisiinin pääkivule?</xt>
+            </xg>
+            </tg>
       </mg>
-                <mg>
-         <tg xml:lang="fkv">
-	           <re>for å rette på eller forebygge</re>
-	           <t type="expl">bruk allativ</t>
-                </tg>
       </mg>
-                <mg>
-         <tg xml:lang="fkv">
-	           <re>om forholdsregler</re>
-	           <t type="expl">bruk allativ</t>
-                </tg>
-      </mg>
-                      <mg>
-         <tg xml:lang="fkv">
-	           <re>motsatt for</re>
-	          <t pos="Po">vasthaan</t>
-                </tg>
       </mg>
          <mg>
          <tg xml:lang="fkv">
@@ -729,12 +734,6 @@ For the full license text, see the link above.</lic>
 	          <t pos="Po">vasthaan</t>
                 </tg>
     </mg>
-      <mg>
-         <tg xml:lang="fkv">
-           <re>i forhold til, sammenlignet med</re>
-            <t pos="Po">vasthaan</t>
-        </tg>
-      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">vasten</t>
