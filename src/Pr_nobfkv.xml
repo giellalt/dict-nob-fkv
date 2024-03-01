@@ -1324,54 +1324,49 @@ For the full license text, see the link above.</lic>
       </lg>
        <mg>
          <tg xml:lang="fkv">
-       <t pos="suff">-haan/hään</t>
-        <t pos="suff">-lle</t>
-       <t type="grammar" href="https://nn.wikipedia.org/wiki/Allativ">allativ</t>
-       <t type="grammar" href="https://nn.wikipedia.org/wiki/Illativ">illativ</t>
-             <xg>
+       <t type="grammar" href="https://press.nordicopenaccess.no/index.php/noasp/catalog/view/24/101/531#sec5.3.5.2">illativ</t>
+       <t pos="suff">-hVn, -hVVn, sseen</t>
+            <xg>
                <x>Jeg kjører til Børselv i morgen.</x>
                <xt>Mie ajan Pyssyjokheen huomena.</xt>
             </xg>
+            <xg>
+	       <x>Det ligger til slekta.</x>
+	       <xt>Se kuuluu sukhuun.</xt>
+            </xg>
+            <xg>
+	       <x>De er bundet til jobben.</x>
+	       <xt>Het oon siđottu työhön.</xt>
+            </xg>
+            <xg>
+	       <x>Jeg hører til her.</x>
+	       <xt>Mie kuulun tänne.</xt>
+            </xg>
          </tg>
       </mg> 
+      <mg>
+         <tg xml:lang="fkv">
+       <t type="grammar" href="https://press.nordicopenaccess.no/index.php/noasp/catalog/view/24/101/531#sec5.3.6">allativ</t>
+       <t pos="suff">-le, -lle</t>
+             <xg>
+               <x>Jeg gir den til ham.</x>
+               <xt>Mie annan sen hänele.</xt>
+            </xg>
+         </tg>
+      </mg>
         <mg>
          <tg xml:lang="fkv">
-	 <re>om forbindelse, tilhørighet</re>
-	     <t pos="suff">-haan/hään</t>
-        <t pos="suff">-lle</t>
-       <t type="grammar" href="https://nn.wikipedia.org/wiki/Allativ">allativ</t>
-       <t type="grammar" href="https://nn.wikipedia.org/wiki/Illativ">illativ</t>  
+       <t type="grammar" href="https://press.nordicopenaccess.no/index.php/noasp/catalog/view/24/101/531#sec5.3.2">genitiv</t>
+        <t pos="suff">-n</t>
            <xg>
                <x>Hunden til naboen.</x>
                <xt>Krannin koira.</xt>
             </xg>
              <xg>
-               <x>Vi har ikke sett noe til henne.</x>
-               <xt>Met emmä ole nänheet häntä.</xt>
-            </xg>
-         <xg>
-          <x>Det ligger til slekten.</x>
-               <xt>Se kuuluu sukhuun.</xt>
-            </xg>
-              <xg>
-          <x>Jeg hører til her.</x>
-               <xt>Mie kuulun tänne.</xt>
-            </xg>
-             <xg>
-          <x>Vi drakk kaffe til frokosten.</x>
+               <x>Vi drakk kaffe til frokosten.</x>
                <xt>Met joima kaffii aamuruovan kans.</xt>
             </xg>
-               <xg>
-          <x>De er bundet til jobben.</x>
-               <xt>Het oon siđottu työhön.</xt>
-            </xg>
          </tg>
-      </mg> 
-        <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">-lle</t>
-         </tg>
-      </mg>  
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">asti</t>
