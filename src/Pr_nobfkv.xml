@@ -682,18 +682,17 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	           <re>om retninger konkret og abstrakt</re>
             <t pos="Po">vasthaan</t>
-	    <t pos="Po">vasten</t>
              <xg>
             <x>Hunden løp mot oss.</x>
             <xt>Koira laukkoi meitä vasthaan</xt>
             </xg>
 	      <xg>
-            <x>De var imot forslaget.</x>
+            <x>De var mot forslaget.</x>
             <xt>Het olthiin ehđotusta vasthaan.</xt>
             </xg>
 	   <xg>
             <x>Alta spiller i dag kamp mot Tromsø.</x>
-            <xt>Alattiola oon tääpänä jalkapallomatsi Tromssaa vasthaan.</xt>
+            <xt>Alattio pellaa tääpänä jalkapallomatsi Tromssaa vasthaan.</xt>
             </xg>
                 </tg>
             </mg>
@@ -702,6 +701,7 @@ For the full license text, see the link above.</lic>
           <mg>
          <tg xml:lang="fkv">
                <t pos="Po">kohti</t>
+               <t pos="Pr">kohđi</t>
 	  <xg>
             <x>Vi kjører mot byen.</x>
             <xt>Met ajama kaupunkiita kohti.</xt>
@@ -709,6 +709,10 @@ For the full license text, see the link above.</lic>
 		   <xg>
             <x>Det går mot bedre tider.</x>
             <xt>Se mennee paremppii aikkoi kohti.</xt>
+            </xg>
+              <xg>
+            <x>De sniker seg etter arbeidskarene langs fjellsida ned mot bygda.</x>
+            <xt>Het naakithaan työmiesten pörhään vaaran laittaa alas kohđi kyllää.</xt>
             </xg>
          </tg>
       </mg>
@@ -730,7 +734,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	           <re>innvende</re>
 	          <t pos="Po">vasthaan</t>
-                </tg>
+         </tg>
     </mg>
       <mg>
          <tg xml:lang="fkv">
@@ -738,16 +742,6 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Matti trykket Hanna mot brystet sitt og var lykkelig.</x>
             <xt>Matti puristi Hannan ommaa rinttaa vasten ja oli onnelinen.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">kohđi</t>
-            <t pos="Pr">kohti</t>
-            <xg>
-            <x>De sniker seg etter arbeidskarene langs fjellsida ned mot bygda.</x>
-            <xt>Het naakithaan työmiesten pörhään vaaran laittaa alas kohđi kyllää.</xt>
             </xg>
          </tg>
       </mg>
