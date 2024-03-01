@@ -126,22 +126,30 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>som mot, både i overført og i konkret betydning</re>
+	         <re>rett fremfor noe både i overført og i konkret betydning</re>
             <t pos="Po">vasthaan</t>
-            <t pos="Po">kohti</t>
-            <t pos="Po">kohđi</t>
               <xg>
-               <x>De har ikke noe imot litt kattehår i sofaen.</x>
-               <xt>Heilä ei ole mithään sitä vasthaan, ette soffassa oon vähän kissakarvoi.</xt>
+               <x>De har ikke noe imot hunder.</x>
+               <xt>Heilä ei ole mithään koirii vasthaan.</xt>
             </xg>
              <xg>
                <x>Ingenting ble sagt imot forslaget.</x>
                <xt>Mithään ei sanottu ehđotusta vasthaan.</xt>
             </xg>
-      <!--       <xg>
+	     <xg>
+               <x>Gjestene ble tatt godt imot.</x>
+               <xt>Vierhaita otethiin hyvin vasthaan.</xt>
+                 </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="fkv">
+	<t pos="Po">kohti</t>
+            <t pos="Po">kohđi</t>
+		  <xg>
                <x>De gikk rett imot horisonten.</x>
                <xt>Het kävelthiin kohđi horisonttii.</xt>
-            </xg> -->
+            </xg>
          </tg>
       </mg>
    </e>
@@ -700,13 +708,14 @@ For the full license text, see the link above.</lic>
       </mg>
           <mg>
          <tg xml:lang="fkv">
+          <re>om retninger som går rett frem</re>
                <t pos="Po">kohti</t>
                <t pos="Pr">kohđi</t>
 	  <xg>
             <x>Vi kjører mot byen.</x>
             <xt>Met ajama kaupunkiita kohti.</xt>
             </xg>
-		   <xg>
+	      <xg>
             <x>Det går mot bedre tider.</x>
             <xt>Se mennee paremppii aikkoi kohti.</xt>
             </xg>
@@ -721,7 +730,7 @@ For the full license text, see the link above.</lic>
 	           <re>om forhold til noe eller noen</re>
 	           <t type="expl">bruk allativ</t>
 		   <xg>
-            <x>Vær grei med søsteren din.</x>
+            <x>Vær snill med søsteren din.</x>
             <xt>Ole siivo sinun sisarelle.</xt>
             </xg>
            <!--  <xg>
