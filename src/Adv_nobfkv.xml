@@ -10013,7 +10013,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ai;ta">
       <lg>
          <l pos="Adv">lukket</l>
       </lg>
@@ -10021,6 +10021,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">umpinensa</t>
             <t pos="Adv">umpinansa</t>
+            <t pos="Adv">umpunensa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kiini</t>
+            <xg>
+            <x>Lukk igjen vinduet!</x>
+            <xt>Pane klasin kiini!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
