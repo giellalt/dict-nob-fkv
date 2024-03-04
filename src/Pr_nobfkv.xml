@@ -2262,7 +2262,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg> -->
-<!--               <mg>
+               <mg>
          <tg xml:lang="fkv">
             <re>langs, på overflaten av</re>
             <t pos="suff">-Vn</t>
@@ -2275,7 +2275,7 @@ For the full license text, see the link above.</lic>
                <xt>Koko Pohjais-Norjassa oon tormi.</xt>
             </xg>
          </tg>
-      </mg> -->
+      </mg>
                <mg>
          <tg xml:lang="fkv">
             <re>på eller til den andre siden av</re>
@@ -2293,11 +2293,15 @@ For the full license text, see the link above.</lic>
       </mg>
           <mg>
          <tg xml:lang="fkv">
-            <re>om klokka</re>
+            <re>mer enn</re>
             <t pos="Pr">yli</t>
             <xg>
                <x>Klokken er fem over seks.</x>
                <xt>Kello oon viisi yli kuusi.</xt>
+            </xg>
+            <xg>
+               <x>Tromssasta Uslhuun oon yli tuhat kilomeetterii.</x>
+               <xt>Det over tusen kilometer fra Tromsø til Oslo.</xt>
             </xg>
          </tg>
       </mg>
@@ -2345,11 +2349,11 @@ For the full license text, see the link above.</lic>
             <mg>
          <tg xml:lang="fkv">
             <re>via</re>
-            <t pos="suff">-Vn</t>
-<!--            <xg>
-               <x>Vi reiser via Tromsø.</x>
-               <xt>Met reissaama Tromssan kautta.</xt>
-            </xg> -->
+            <t pos="Po">kautta</t>
+            <xg>
+               <x>Prosjektet får støtte over statsbudsjettet.</x>
+               <xt>Prosekti saapi kuurttoo staatinbusetin kautta.</xt>
+            </xg>
          </tg>
       </mg>
            <mg>
