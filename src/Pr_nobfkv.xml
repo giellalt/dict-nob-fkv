@@ -401,7 +401,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;ai">
       <lg>
          <l pos="Pr">forbi</l>
       </lg>
@@ -2248,7 +2248,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-         <mg>
+<!--         <mg>
          <tg xml:lang="fkv">
             <re>ovenfra og ned på</re>
             <t pos="suff">-Vn</t>
@@ -2261,8 +2261,8 @@ For the full license text, see the link above.</lic>
                <xt>Katto pään yli.</xt>
             </xg>
          </tg>
-      </mg>
-               <mg>
+      </mg> -->
+<!--               <mg>
          <tg xml:lang="fkv">
             <re>langs, på overflaten av</re>
             <t pos="suff">-Vn</t>
@@ -2275,7 +2275,7 @@ For the full license text, see the link above.</lic>
                <xt>Koko Pohjais-Norjassa oon tormi.</xt>
             </xg>
          </tg>
-      </mg>
+      </mg> -->
                <mg>
          <tg xml:lang="fkv">
             <re>på eller til den andre siden av</re>
@@ -2294,10 +2294,21 @@ For the full license text, see the link above.</lic>
           <mg>
          <tg xml:lang="fkv">
             <re>om klokka</re>
-            <t pos="suff">-Vn</t>
+            <t pos="Pr">yli</t>
             <xg>
                <x>Klokken er fem over seks.</x>
                <xt>Kello oon viisi yli kuusi.</xt>
+            </xg>
+         </tg>
+      </mg>
+          <mg>
+         <tg xml:lang="fkv">
+            <re>om klokka</re>
+            <t pos="Pr">sivvu</t>
+            <t pos="Pr">siutte</t>
+            <xg>
+               <x>Klokken er over midnatt.</x>
+               <xt>Kello oon sivvu keskiyön.</xt>
             </xg>
          </tg>
       </mg>
@@ -2314,7 +2325,7 @@ For the full license text, see the link above.</lic>
          <mg>
          <tg xml:lang="fkv">
             <re>i løpet av en bestemt tid</re>
-            <t pos="suff">-Vn</t>
+            <t pos="Po">aikana</t>
             <xg>
                <x>Det hendte over natten.</x>
                <xt>Se tapattui yön aikana.</xt>
