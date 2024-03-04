@@ -31610,19 +31610,30 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">strand</l>
       </lg>
-      <mg>
+            <mg>
          <tg xml:lang="fkv">
-            <t pos="N">karikko</t>
+            <t pos="N" stem="ranna;rantta">ranta</t>
          </tg>
       </mg>
-      <mg>
+   </e>
+      <e src="ai;ta;yr">
+      <lg>
+         <l pos="N">grusstrand</l>
+      </lg>
+            <mg>
          <tg xml:lang="fkv">
             <t pos="N">kariranta</t>
          </tg>
       </mg>
+   </e>
+         <e src="ai;ta;yr">
+      <lg>
+         <l pos="N">grunne</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="ranna;rantta">ranta</t>
+	        <re>grunt sted i vannet</re>
+            <t pos="N">karikko</t>
          </tg>
       </mg>
    </e>
