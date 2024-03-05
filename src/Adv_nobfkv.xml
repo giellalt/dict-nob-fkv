@@ -307,8 +307,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">isomasti</t>
             <xg>
-               <x>ikke særskilt mye</x>
-               <xt>ei isomasti</xt>
+               <x>Det var ikke så særskilt mye fisk der.</x>
+               <xt>Sielä ei ollu niin isomasti kallaa.</xt>
             </xg>
          </tg>
       </mg>
@@ -332,26 +332,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>veldig, forsterkningsord</re>
-            <t pos="Adv">upottoman</t>
-            <xg>
-            <x>Hæ? Nei, den er fra apoteket, så den er kjempesunn.</x>
-            <xt>Häh? Ei, sehän oon apoteekista, kyllä se oon upottoman tervheelinen.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>veldig, forsterkningsord</re>
-            <t pos="A">upoton</t>
-            <xg>
-            <x>Pappas utstrakte bruk av sånn olje på sart barnehud var ei skikkelig blemme.</x>
-            <xt>Se papan upoton semmoisen öljyn käyttö arkhaan lapsenihhoon oli tođelinen feili.</xt>
-            </xg>
-         </tg>
-      </mg>
    </e>
    <e src="mj">
       <lg>
@@ -365,6 +345,48 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">suorhaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;es">
+      <lg>
+         <l pos="Adv">veldig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hirmu</t>
+            <t pos="Adv">hirmuisen</t>
+            <t pos="Adv">hirmuisesti</t>
+            <t pos="A">hirmuinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>enormt</re>
+            <t pos="Adv">kauheen</t>
+            <t pos="Adv">mahđottoman</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>særdeles</re>
+            <t pos="Adv">sangen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">mailman</t>
+            <xg>
+               <x>Hun var veldig flink til å skrive.</x>
+               <xt>Se oli mailman hyvä kirjoittamhaan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>forsterkningsord</re>
+            <t pos="A">upoton</t>
+            <t pos="Adv">upottoman</t>
          </tg>
       </mg>
    </e>
