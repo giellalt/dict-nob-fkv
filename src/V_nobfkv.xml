@@ -4355,15 +4355,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">eristäät</t>
+            <t pos="V">eroittaat</t>
+            <t pos="V">eroitella</t>
             <xg>
-               <x>Grensene skiller folk fra hverandre.</x>
-               <xt>Rajat eristethään kansat toinen toisesta.</xt>
+            <x>Det er ikke alltid lett å skille mellom rett og galt.</x>
+            <xt>Ei se aina helppo ole eroittaat oikkeen väärästä.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>få til å skilles</re>
             <t pos="V">erkkainuttaat</t>
             <xg>
             <x>Ingenting kan skille oss fra hverandre.</x>
@@ -4373,12 +4375,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="erottele;erotel">erotella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="erota">eroittaat</t>
+	         <re>isolere, separere</re>
+            <t pos="V">eristäät</t>
+            <xg>
+               <x>Grensene skiller folk fra hverandre.</x>
+               <xt>Rajat eristethään kansat toinen toisesta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
