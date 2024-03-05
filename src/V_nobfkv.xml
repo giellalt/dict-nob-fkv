@@ -7293,7 +7293,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="V">utgi</l>
+         <l pos="V">meddele</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7301,6 +7301,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+<!--   <e src="ai;ta">
+      <lg>
+         <l pos="V">utgi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="ilmoita">ilmoittaat</t>
+         </tg>
+      </mg>
+   </e> -->
    <e src="ai;ta">
       <lg>
          <l pos="Phrase">si fra</l>
@@ -7341,7 +7351,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">immeet</t>
             <xg>
             <x>Lapsile annethaan saman doseerauksen, immeekö lapsi tahi ei.</x>
-            <xt>Det gis samme dose uavhengig av om barnet ammes eller ikke.</xt>
+            <xt>Det gis samme dose uavhengig av om barnet dier eller ikke.</xt>
             </xg>
          </tg>
       </mg>
@@ -27162,6 +27172,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">ilmoittaat</t>
             <t pos="Phrase">anttaat ilmi</t>
             <xg>
                <x>Han/hun anmeldte meg til politiet.</x>
