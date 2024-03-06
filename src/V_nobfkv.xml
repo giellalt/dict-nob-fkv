@@ -8801,13 +8801,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="kantele;kannel">kannela</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>kalve, lamme</re>
-            <t pos="V" stem="kanna;kanta">kanttaat</t>
+            <t pos="V">kanttaat</t>
+            <t pos="V">kannela</t>
          </tg>
       </mg>
    </e>
@@ -25093,6 +25088,21 @@ For the full license text, see the link above.</lic>
             <x>Sauene får lam.</x>
             <xt>Lamphaat karitoitteeva.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kanttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">kalve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kanttaat</t>
          </tg>
       </mg>
    </e>
