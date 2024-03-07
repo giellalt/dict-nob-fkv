@@ -14254,12 +14254,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="lykkäile;lykkäil">lykkäilä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="lykkää;lykän">lykätä</t>
+            <t pos="V">lykätä</t>
+            <t pos="V">lykkäilä</t>
          </tg>
       </mg>
       <mg>
@@ -14279,17 +14275,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="lykkäile;lykkäil">lykkäilä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="lykkää;lykän">lykätä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="V">lykätä</t>
             <t pos="V">lykästäät</t>
+            <t pos="V">lykkäilä</t>
          </tg>
       </mg>
       <mg>
@@ -14304,22 +14292,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="lymmyile;lymmyile">lymmyilä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="lymmyttele;lymmytel">lymmytellä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">piilotella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">lymmyyt</t>
+            <t pos="V">lymmyilä</t>
+            <t pos="V">lymmytellä</t>
             <xg>
                <x>Guttene gjemte seg under senga.</x>
                <xt>Pojat lymythiin sängyn alle.</xt>
@@ -14329,6 +14304,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">piiloot</t>
+            <t pos="V">piilotella</t>
             <xg>
                <x>Guttene gjemte seg under senga.</x>
                <xt>Pojat piilothiin sängyn alle.</xt>
@@ -14836,20 +14812,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">menestyyt</t>
+            <t pos="V">lykästyyt</t>
+            <t pos="V">onnistuut</t>
             <xg>
                <x>Det går ikke an å gjøre på den måten.</x>
                <xt>Se ei menesty tehhä sillä laila.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">lykästyyt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">onnistuut</t>
          </tg>
       </mg>
    </e>
@@ -25576,8 +25544,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">lykästäät</t>
             <xg>
-            <x>Stiina har vært heldig.</x>
-            <xt>Stiina oon lykästynny.</xt>
+            <x>Jeg var heldig da jeg fikk denne jobben.</x>
+            <xt>Minnuu lykästi ko mie sain tämän työn.</xt>
             </xg>
          </tg>
       </mg>
