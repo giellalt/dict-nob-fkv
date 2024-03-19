@@ -2776,6 +2776,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">taas</t>
             <t pos="Adv">taasen</t>
+            <xg>
+            <x>Jeg har glemt det igjen.</x>
+            <xt>Mie unheettin taas.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -2785,39 +2789,41 @@ For the full license text, see the link above.</lic>
             <x>Det er ingenting igjen.</x>
             <xt>Ei ole mithään jäljelä.</xt>
             </xg>
-            <xg>
-            <x>Det er bare én igjen.</x>
-            <xt>Ei ole enämpi ko yski jäljelä.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>nok en gang, på nytt</re>
             <t pos="Adv">jälleen</t>
             <xg>
-            <x>Potetlandet vokser fram igjen, like gjerne i blomsterkasser og bøtter på en veranda i Tromsø som på et jordstykke i Vestre-Jakobselv.</x>
-            <xt>Jälleen kukkiiva pottumaat, yhtä ushein kukkakassoissa ja ämpärissä Tromssassa ko pellola Annijovessa.</xt>
+            <x>Hen mislyktes igjen.</x>
+            <xt>Jälleen hän epäonnistui.</xt>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Adv">bli igjen</l>
-      </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">jäljelä</t>
+	         <re>lukket, stengt</re>
+            <t pos="Adv">kiini</t>
+            <xg>
+            <x>Lukk igjen vinduet!</x>
+            <xt>Pane klasin kiini!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">jääđä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" val="IV">pyssäänttyyt</t>
+	         <re>sperret, stengt</re>
+            <t pos="Adv">ummessa</t>
+            <t pos="Adv">umpheen</t>
+            <xg>
+            <x>Veien har føket igjen.</x>
+            <xt>Tie oon ummessa.</xt>
+            </xg>
+<!--            <xg>
+            <x>Stien har grodd igjen.</x>
+            <xt>Polku oon menny umpheen.</xt>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -7505,7 +7511,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;aht">
+   <e src="ai;ta;aht;ki">
       <lg>
          <l pos="Adv">ut</l>
       </lg>
@@ -7516,6 +7522,21 @@ For the full license text, see the link above.</lic>
               <xg>
                <x>Jeg går ut!</x>
                <xt>Mie lähđen ulos!</xt>
+            </xg>
+         </tg>
+         </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>om tidsfrist</re>
+            <t pos="Adv">ummessa</t>
+            <t pos="Adv">umpheen</t>
+              <xg>
+               <x>Søknadsfristen går ut i morgen.</x>
+               <xt>Hakema-aika mennee umpheen huomena.</xt>
+            </xg>
+              <xg>
+               <x>Søknadsfristen har allerede gått ut.</x>
+               <xt>Hakema-aika oon jo ummessa.</xt>
             </xg>
          </tg>
          </mg>
