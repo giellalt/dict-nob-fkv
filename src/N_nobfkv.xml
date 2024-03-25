@@ -28750,6 +28750,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vading</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kaalaminen</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta;kl">
       <lg>
          <l pos="N">ost</l>
@@ -89822,12 +89832,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">friluftsliv</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">ulkoilmaelämä</t>
             <t pos="N">ulkoilmavirkistys</t>
          </tg>
       </mg>
