@@ -2165,15 +2165,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="kl">
+   <e src="ai;es;kl">
       <lg>
          <l pos="N">kålrabi</l>
       </lg>
-      <mg>
-         <tg xml:lang="fkv">
-         <t pos="N">koleraapi</t>
-         </tg>
-      </mg>
+            <t pos="N">räätikkä</t>
+            <t pos="N">juurikaali</t>
+            <t pos="N">koleraapis</t>
+            <t pos="N">koleraapi</t>
+<!--        <t pos="N">lanttu</t> -->
    </e>
    <e src="kl">
       <lg>
@@ -28726,23 +28726,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;kl">
       <lg>
          <l pos="N">kålrot</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">juurikaali</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">koleraapis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">räätikkä</t>
+            <t pos="N">juurikaali</t>
+            <t pos="N">koleraapis</t>
+            <t pos="N">koleraapi</t>
+<!--        <t pos="N">lanttu</t> --> 
          </tg>
       </mg>
    </e>
