@@ -2548,17 +2548,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">ehhee</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">ehyt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">kokonhainen</t>
+            <xg>
+            <x>Arbeidet tok en hel dag.</x>
+            <xt>Työhön meni kokonhainen päivä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ehhee</t>
+            <t pos="A">ehjä</t>
+            <t pos="A">ehyt</t>
+            <xg>
+            <x>Han svelgte den hel.</x>
+            <xt>Hän nielaisi sen ehheenä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
