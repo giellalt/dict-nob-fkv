@@ -3320,29 +3320,53 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">vallan</t>
+            <xg>
+            <x>Det har skjedd noe helt forferdelig.</x>
+            <xt>Oon tapattunnu jotaki vallan kauheeta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">aivan</t>
+            <xg>
+            <x>Det var en helt ny opplevelse for henne.</x>
+            <xt>Se oli aivan uusi kokemus hänele.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kokonhansa</t>
+            <xg>
+            <x>Det er en helt annen sak.</x>
+            <xt>Se oon kokonhansa toinen assii.</xt>
+            </xg>
+            <xg>
+            <x>I mange land er disse bøkene helt eller delvis forbudt.</x>
+            <xt>Usheissa maissa nämät kirjat oon kokonhansa tahi osittain kieletyt.</xt>
+            </xg>
          </tg>
       </mg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">läpitte</t>
          </tg>
-      </mg>
+      </mg> -->
       <mg>
          <tg xml:lang="fkv">
-         <re>helt til, inntil</re>
             <t pos="Adv">kiini</t>
             <xg>
-            <x>Jeg bodde der helt til i fjor.</x>
-            <xt>Mie asuin sielä kiini viimi vuotheen asti.</xt>
+            <x>Kvensk er blitt snakket i Nord-Norge helt frem til i dag.</x>
+            <xt>Kväänin kieltä oon kiini tähän päivhään saakka puhuttu Pohjais-Norjassa.</xt>
             </xg>
             <xg>
-            <x>Lisa syklet helt til fjordstranden.</x>
-            <xt>Liisa syklas kiini vuonon ranthaan asti.</xt>
+            <x>Han fortsatte å fortelle historien helt til noen begynte å le.</x>
+            <xt>Hän jatkas muistelusta kiini siihen asti ette joku alkoi nauramhaan.</xt>
+            </xg>
+            <xg>
+            <x>Jeg har bodd her helt siden barndommen.</x>
+            <xt>Mie olen asunu täälä kiini lapsuuđesta saakka.</xt>
             </xg>
          </tg>
       </mg>
