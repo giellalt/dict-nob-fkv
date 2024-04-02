@@ -7673,13 +7673,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+<!--   <e src="ai">
       <lg>
          <l pos="Adv">om så hvorhen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">vaikka</t>
+            <t pos="Adv">vaikka mihin</t>
          </tg>
       </mg>
    </e>
@@ -7689,7 +7689,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">vaikka</t>
+            <t pos="Adv">vaikka mitä</t>
          </tg>
       </mg>
    </e>
@@ -7699,10 +7699,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">vaikka</t>
+            <t pos="Adv">vaikka kunka paljon</t>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e src="ai">
       <lg>
          <l pos="Adv">i det hele tatt</l>
@@ -7759,25 +7759,25 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta;es">
       <lg>
-         <l pos="Adv">for sikkerhets skuld</l>
+         <l pos="Adv">for sikkerhets skyld</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">varoiksi</t>
+            <t pos="Adv">varoksi</t>
             <xg>
-            <x>Vi får skru på radioen litt før for å være på den sikre siden.</x>
+            <x>Vi får skru på radioen litt før for sikkerhets skyld.</x>
             <xt>Saama varoiksi jo panna pääle raation vähän ennen.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">varoksi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Po">vuoksi</t>
+            <xg>
+            <x>Vi gjør det for sikkerhets skyld.</x>
+            <xt>Tehemä sen varmuuđen vuoksi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
