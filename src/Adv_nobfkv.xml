@@ -7565,22 +7565,37 @@ For the full license text, see the link above.</lic>
          </tg>
          </mg>
     </e>
-   <e src="ai">
+   <e src="ki;es">
       <lg>
          <l pos="Adv">stengt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">ummessa</t>
+            <t pos="Adv">kiini</t>
             <xg>
-               <x>Veien er stengt.</x>
-               <xt>Tie oon ummessa.</xt>
+               <x>Døren er stengt.</x>
+               <xt>Ovi oon kiini.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">suljettu</t>
+            <xg>
+               <x>Banken er stengt.</x>
+               <xt>Pankko oon suljettu.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>sperret</re>
+            <t pos="Adv">ummessa</t>
             <t pos="Adv">umpheen</t>
+            <xg>
+               <x>Veien er stengt.</x>
+               <xt>Tie oon ummessa.</xt>
+            </xg>
             <xg>
                <x>Veien ble stengt.</x>
                <xt>Tie meni umpheen.</xt>
@@ -7597,11 +7612,11 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">usheemasti</t>
          </tg>
       </mg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">usseemasti</t>
          </tg>
-      </mg>
+      </mg> -->
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">usheemin</t>
@@ -7638,7 +7653,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+<!--   <e src="ai">
       <lg>
          <l pos="Adv">varsomt</l>
       </lg>
@@ -7647,7 +7662,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">vaarin</t>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e src="ai">
       <lg>
          <l pos="Adv">om så</l>
