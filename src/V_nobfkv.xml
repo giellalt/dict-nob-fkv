@@ -24150,20 +24150,20 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="vältä">välttäät</t>
             <xg>
-               <x>Alt som er unødvendig kan unngås.</x>
-               <xt>Kaikki mikä oon liiaksi saatethaan välttäät.</xt>
-            </xg>
-            <xg>
                <x>Alt som er unødvendig skal unngås.</x>
                <xt>Kaikkee jouttaavaa häyttyy välttäät.</xt>
             </xg>
+<!--            <xg>
+               <x>Alt som er unødvendig skal unngås.</x>
+               <xt>Kaikki mikä oon liiaksi saatethaan välttäät.</xt>
+            </xg> --> pitääkö olla "kaikkee mikä..."?
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">vieroot</t>
             <xg>
-               <x>NRK skulle være nøytral og styre mest mulig unna politikk og religion.</x>
+               <x>NRK skulle være nøytral og unngå politikk og religion.</x>
                <xt>NRK piti olla nöitraali ja vieroot politikkii ja uskontoo.</xt>
             </xg>
          </tg>
