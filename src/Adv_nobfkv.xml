@@ -1803,7 +1803,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">framile</t>
             <xg>
-               <x>Dette er en automatisk bekfreftelse på at e-posten er mottatt/kommet fram.</x>
+               <x>Dette er en automatisk bekfreftelse på at e-posten er kommet fram.</x>
                <xt>Tämä automaattinen mellinki vahvistaa ette sinun e-posti oon tullu framile.</xt>
             </xg>
          </tg>
@@ -8231,38 +8231,34 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+<!--   <e src="ai;ta">
       <lg>
          <l pos="Adv">litt av hvert</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">vähän</t>
+            <t pos="Adv">vähän mitäki</t>
          </tg>
       </mg>
-   </e>
-   <e src="ai;ta">
+   </e> -->
+<!--   <e src="ai;ta">
       <lg>
          <l pos="Adv">mange steder</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">vähän</t>
+            <t pos="Adv">vähän missäki</t>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e src="ai;ta">
       <lg>
          <l pos="Adv">med makt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">väkiseltä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">väkisin</t>
+            <t pos="Adv">väkiseltä</t>
          </tg>
       </mg>
    </e>
@@ -8869,7 +8865,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Adv">fra begynnelsen av</l>
+         <l pos="Phrase">fra begynnelsen av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8883,21 +8879,31 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Adv">med hjelp av</l>
+         <l pos="Phrase">i besittelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">avula</t>
+	         <re>å ha</re>
+            <t pos="Adv">helmassa</t>
+            <xg>
+            <x>Vi kommer nok en gang til å ha mye godt.</x>
+            <xt>Kyllä meilä vielä joskus oon paljonki hyvvää helmassa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e src="es">
       <lg>
-         <l pos="Adv">i besittelse</l>
+         <l pos="Phrase">med hjelp av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">helmassa</t>
+            <t pos="Po">avula</t>
+            <t pos="Po">väjessä</t>
+            <xg>
+            <x>Jeg skrev teksten med hjelp av ordbok.</x>
+            <xt>Mie kirjoitin tekstin sanakirjan avula.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10026,7 +10032,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>med posessiv suffix etter person, -ni, sti, nsa, mma, nna, nsa</re>
+         <re>med posessiv suffix</re>
             <t pos="Adv">puolestani</t>
             <xg>
             <x>Jeg for min del er fra Sverige.</x>
@@ -10041,12 +10047,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>mens</re>
             <t pos="Adv">sillä vällii</t>
-            <xg>
-            <x>Mens de andre spiste, var vi i badstuen</x>
-            <xt>Sillä vällii ko toiset syöthiin, sillä vällii met olima saunassa</xt>
-            </xg>
          </tg>
       </mg>
    </e>
