@@ -30721,21 +30721,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kallu">kalu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">kalu</t>
             <t pos="N">kulli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="kyrvä;kyrppä">kyrpä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">kyrpä</t>
             <t pos="N">nalli</t>
          </tg>
       </mg>
@@ -40326,21 +40314,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kyrvä;kyrppä">kyrpä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">nalli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">kyrpä</t>
             <t pos="N">nappula</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">napula</t>
             <t pos="N">napuli</t>
          </tg>
       </mg>
@@ -43434,10 +43411,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="limpu">limppu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">möykky</t>
          </tg>
       </mg>
@@ -48237,6 +48210,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">penis</t>
             <t pos="N">nalli</t>
+            <t pos="N">kulli</t>
          </tg>
       </mg>
       <mg>
@@ -48244,11 +48218,6 @@ For the full license text, see the link above.</lic>
       <re>barnespråk</re>
       <t pos="N">nalkku</t>
       </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kulli</t>
-         </tg>
       </mg>
    </e>
    <e src="ai;ta">
@@ -49146,11 +49115,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vaimo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="naise;nais">nainen</t>
+            <t pos="N">nainen</t>
          </tg>
       </mg>
    </e>
@@ -49174,13 +49139,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">tisselur</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">nappula</t>
+            <t pos="N">napula</t>
          </tg>
       </mg>
    </e>
@@ -86672,7 +86638,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">gammel kvinne</l>
+         <l pos="Phrase">gammel kvinne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">

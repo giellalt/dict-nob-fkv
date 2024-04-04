@@ -10669,15 +10669,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">komistaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">koristaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">korreila</t>
          </tg>
       </mg>
@@ -10769,12 +10761,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="koppaa;kopan">kopata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="kuppaa;kupan">kupata</t>
+            <t pos="V">kopata</t>
+            <t pos="V">kupata</t>
          </tg>
       </mg>
    </e>
@@ -10785,11 +10773,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">kopistaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="kopistele">kopistella</t>
+            <t pos="V">kopistella</t>
          </tg>
       </mg>
       <mg>
@@ -10818,16 +10802,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="korjaa;korjan">korjata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="V">korjata</t>
+            <t pos="V">kätkeet</t>
             <t pos="V">lymmyttäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">piilottaat</t>
          </tg>
       </mg>
@@ -12374,26 +12351,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">käskeet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">gjømme seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" val="IV">kätkeenttyyt</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="V">gjømme</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" val="TV">kätkeet</t>
          </tg>
       </mg>
    </e>
@@ -14306,6 +14263,11 @@ For the full license text, see the link above.</lic>
                <x>Guttene gjemte seg under senga.</x>
                <xt>Pojat piilothiin sängyn alle.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kätkeenttyyt</t>
          </tg>
       </mg>
    </e>
