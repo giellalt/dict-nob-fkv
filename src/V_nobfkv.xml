@@ -3878,6 +3878,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>stifte, etablere</re>
             <t pos="V">perustaat</t>
          </tg>
       </mg>
@@ -25871,8 +25872,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">plaarata</t>
             <xg>
-            <x>Hun finner noen bøker som de blar gjennom.</x>
-            <xt>Hän löyttää joitaki kirjoi mikkä het plaarathaan läpitte.</xt>
+            <x>Hun blar gjennom noen bøker.</x>
+            <xt>Hän plaaraa joitaki kirjoi läpitte.</xt>
             </xg>
          </tg>
       </mg>
@@ -25898,6 +25899,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">pohjata</t>
+            <t pos="V">perustaat</t>
          </tg>
       </mg>
    </e>
@@ -27628,8 +27630,22 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">perustuut</t>
             <xg>
-            <x>Kvendrakten er ikke basert på eldre tiders drakttradisjoner, men er en nykonstruksjon.</x>
-            <xt>Kväänipuku ei perustu entisaijan pukutradisuunhiin, mutta se oon rekonstruksuuni.</xt>
+            <x>Fortellingen er basert på fakta</x>
+            <xt>Muistelus perustuu tosiassiisseen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">basere på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">perustaat</t>
+            <xg>
+               <x>Han begrunnet beslutningen om å avlyse med at det ikke var nok deltakere.</x>
+               <xt>Hän perusti päätöksen perruut siihen ette osalistuujiita ei ollu nokko.</xt>
             </xg>
          </tg>
       </mg>
@@ -27642,8 +27658,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">päätelä</t>
             <xg>
-            <x>Andre kilder tyder heller på det motsatte, at kvenene kledde seg som den øvrige befolkninga i nord.</x>
-            <xt>Muista kalttiista saattaa kuitenki päätelä ette assii saattoi olla päinvastoin, ette kväänit vaatithiin ittensä niin ko muuki pohjaisen väki.</xt>
+            <x>Andre kilder tyder heller på at det kunne ha vært motsatt.</x>
+            <xt>Muista kalttiista saattaa kuitenki päätelä ette assii saattoi olla päinvastoin.</xt>
             </xg>
          </tg>
       </mg>
@@ -29189,6 +29205,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">ottaat korttelin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">etablere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">perustaat</t>
          </tg>
       </mg>
    </e>
