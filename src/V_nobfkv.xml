@@ -1908,21 +1908,51 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk;ame">
+   <e src="ki">
+      <lg>
+         <l pos="V">ivareta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">pittäät vaarin</t>
+            <t pos="Phrase">ottaat vaarin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk;ame;pp">
       <lg>
          <l pos="Phrase">ta vare på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="korjaa;korjan">korjata</t>
+	         <re>ivareta</re>
+            <t pos="Phrase">pittäät vaarin</t>
             <t pos="Phrase">ottaat vaarin</t>
-             <t pos="Phrase">pittäät huolen</t>
             <xg>
-               <x>Ta vare på deg selv</x>
-               <xt>Piđä huolen ittestä</xt>
+               <x>Vi må ta vare på det kvenske språket og lære det til barna.</x>
+               <xt>Met häyđymä ottaat vaarin kväänin kielestä ja opettaat sitä lapsile.</xt>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+             <t pos="Phrase">pittäät huolta</t>
+             <t pos="Phrase">pittäät huolen</t>
+            <xg>
+               <x>Mor tar vare på barna.</x>
+               <xt>Muori pittää lapsista huolta.</xt>
+            </xg>
+            <xg>
+               <x>Ta vare på deg selv.</x>
+               <xt>Piđä huolen ittestä.</xt>
+            </xg>
+         </tg>
+      </mg>
+<!--      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="korjaa;korjan">korjata</t>
+         </tg>
+      </mg> -->
    </e>
    <e src="mk">
       <lg>
@@ -17543,7 +17573,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Phrase">passe på</l>
       </lg>
@@ -17552,8 +17582,23 @@ For the full license text, see the link above.</lic>
             <t pos="V">passata</t>
             <t pos="Phrase">pittäät huolen</t>
             <xg>
-               <x>Pass på at stedet er i god stand når du drar.</x>
-               <xt>Piđä huolen siitä, ette paikka jääpi hyvhään kunthoon ko lähđet.</xt>
+               <x>Pass på at døren er lukket når du drar.</x>
+               <xt>Piđä huolen siitä ette ovi oon kiini ko sie lähđet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">se til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>at noe går i orden</re>
+            <t pos="Phrase">pittäät huolen</t>
+            <xg>
+               <x>Se til at alt går som det skal.</x>
+               <xt>Piđä huolen ette kaikki mennee niin ko pittää.</xt>
             </xg>
          </tg>
       </mg>
@@ -29215,6 +29260,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">perustaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">sløye</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">korjata kallaa</t>
          </tg>
       </mg>
    </e>
