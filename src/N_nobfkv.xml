@@ -10920,12 +10920,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="ki;mj">
       <lg>
          <l pos="Phrase">tysk språk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">tyskä</t>
+            <t pos="N">tuiska</t>
             <t pos="N">saksa</t>
          </tg>
       </mg>
@@ -62312,22 +62314,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="saksalaise;saksalais">saksalainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">saksmani</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">tuiskalainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">tyskäläinen</t>
+            <t pos="N">tuiskalainen</t>
+            <t pos="N">saksalainen</t>
+            <t pos="N">saksmani</t>
          </tg>
       </mg>
    </e>
@@ -77206,6 +77196,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" type="Prop">Tyskä</t>
+            <t pos="N" type="Prop">Tuiska</t>
          </tg>
       </mg>
    </e>
