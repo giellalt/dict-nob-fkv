@@ -7719,19 +7719,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>dekke med maling</re>
+            <t pos="V" stem="maalaa;maalan">maalata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>kverne</re>
             <t pos="V">jauhaat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>katt som maler</re>
+	         <re>om katt</re>
             <t pos="V">kehrätä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>f.eks. vegg</re>
-            <t pos="V" stem="maalaa;maalan">maalata</t>
          </tg>
       </mg>
    </e>
