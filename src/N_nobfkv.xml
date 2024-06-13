@@ -44,6 +44,26 @@ For the full license text, see the link above.</lic>
       </mg>
         </e>
           <e src="ki">
+      <lg>
+         <l pos="N">spørreord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kysymäsana</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ki">
+      <lg>
+         <l pos="N">spørrepronomen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kysymäpronomeni</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="ki">
         <lg>
          <l pos="N">oppdrettsfisk</l>
       </lg>
