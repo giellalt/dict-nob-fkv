@@ -13313,6 +13313,36 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+     <e src="ki">
+      <lg>
+         <l pos="A">uregelmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">epäreekelimäinen</t>
+         </tg>
+      </mg>
+   </e>
+    <!--     <e src="ki">
+      <lg>
+         <l pos="A">med fremre vokaler</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">etuvokaalinen</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="ki">
+      <lg>
+         <l pos="A">med bakre vokaler</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">takavokaalinen</t>
+         </tg>
+      </mg>
+   </e> -->
    <e src="fkvnob;es">
       <lg>
          <l pos="A">kraftig</l>
@@ -18173,7 +18203,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">psyykkinen</t>
+      <!--       <t pos="A">psyykilinen</t> -->
+             <t pos="A">psyykkinen</t>
          </tg>
       </mg>
    </e>
