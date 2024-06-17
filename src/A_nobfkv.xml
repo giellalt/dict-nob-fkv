@@ -1774,15 +1774,25 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="A">enstammet</l>
+         <l pos="A">tostammet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">yksirankainen</t>
+            <t pos="A">kaksirankainen</t>
             <xg>
-               <x>enstammet substantiv</x>
-               <xt>yksirankainen substantiivi</xt>
+               <x>tostammet substantiv</x>
+               <xt>ksksirankainen substantiivi</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">stammet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rankainen</t>
          </tg>
       </mg>
    </e>
