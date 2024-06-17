@@ -2798,7 +2798,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="A">annerledes</l>
       </lg>
@@ -2814,7 +2814,9 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">muunlainen</t>
             <t pos="A">muulainen</t>
+            <t pos="A">muunkilainen</t>
          </tg>
       </mg>
       <mg>
@@ -7832,12 +7834,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">muu</t>
+            <t pos="Pron">muu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Num">toinen</t>
+            <t pos="Pron">toinen</t>
          </tg>
       </mg>
       <mg>
@@ -7847,12 +7850,9 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Pron">muu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pron">toinen</t>
+            <t pos="A">muunlainen</t>
+            <t pos="A">muulainen</t>
+            <t pos="A">muunkilainen</t>
          </tg>
       </mg>
    </e>
@@ -15931,10 +15931,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">muunlainen</t>
-            <xg>
-            <x>Hvis det er nødvendig får du en annen form for beskyttelse.</x>
-            <xt>Jos oon tarvet niin saat muunlaisen suojan.</xt>
-            </xg>
+            <t pos="A">muulainen</t>
+            <t pos="A">muunkilainen</t>
          </tg>
       </mg>
    </e>
