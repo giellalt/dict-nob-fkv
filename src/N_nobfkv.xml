@@ -44,7 +44,7 @@ For the full license text, see the link above.</lic>
          <t pos="N">ajatus</t>
          </tg>
       </mg>
-         </e>
+   </e>
          <e src="es">
       <lg>
          <l pos="N">samtidsspråk</l>
@@ -3431,13 +3431,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="grom">
+   <e src="ki;grom">
       <lg>
          <l pos="N">geometri</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">geometria</t>
             <t pos="N">geometrii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kategori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kategoria</t>
+            <t pos="N">kategorii</t>
          </tg>
       </mg>
    </e>
@@ -3993,16 +4005,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">yhtheisteko</t>
             <t pos="N">yhtheistoimi</t>
             <t pos="N">yhtheispeli</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="grom">
-      <lg>
-         <l pos="N">fantasifull</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">fantasiirikas</t>
          </tg>
       </mg>
    </e>
@@ -7849,6 +7851,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">industria</t>
             <t pos="N">industrii</t>
          </tg>
       </mg>
@@ -14545,6 +14548,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">pandemia</t>
             <t pos="N">pandemii</t>
          </tg>
       </mg>
@@ -15520,12 +15524,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es;mk">
+   <e src="ki;es;mk">
       <lg>
          <l pos="N">fantasi</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">fantasia</t>
+            <t pos="N">fantasii</t>
             <t pos="N">mielikuvitus</t>
          </tg>
       </mg>
@@ -15536,11 +15542,6 @@ For the full license text, see the link above.</lic>
                <x>Bare fantasien setter grenser.</x>
                <xt>Hoksaus oon rajaton.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">fantasii</t>
          </tg>
       </mg>
    </e>
@@ -17852,6 +17853,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">alkuhistooria</t>
+            <t pos="N">alkuhistoorii</t>
          </tg>
       </mg>
       <mg>
@@ -17866,18 +17868,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">alkuhistooria</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">tausta</t>
             <t pos="N">tavusta</t>
+            <t pos="N">tavus</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">tavus</t>
+            <t pos="N">alkuhistooria</t>
+            <t pos="N">alkuhistoorii</t>
          </tg>
       </mg>
    </e>
@@ -18577,6 +18576,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">arkeologia</t>
             <t pos="N">arkeologii</t>
          </tg>
       </mg>
@@ -18587,11 +18587,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="arje;arkki">arki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">arki</t>
             <t pos="N">arkipäivä</t>
          </tg>
       </mg>
@@ -22037,13 +22033,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="yr">
+   <e src="yr;ki">
       <lg>
          <l pos="N">galleri</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">galleria</t>
+            <t pos="N">gallerii</t>
          </tg>
       </mg>
    </e>
@@ -25175,16 +25172,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">histooria</t>
             <t pos="N">histoorii</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>fortelling</re>
             <t pos="N">muistelus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">tarina</t>
          </tg>
       </mg>
@@ -27305,6 +27300,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">industria-ala</t>
             <t pos="N">industrii-ala</t>
          </tg>
       </mg>
@@ -36171,6 +36167,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">komppania</t>
             <t pos="N">komppanii</t>
          </tg>
       </mg>
@@ -38685,12 +38682,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kulkutauđi;kulkutautti">kulkutauti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">epidemia</t>
             <t pos="N">epidemii</t>
+            <t pos="N">kulkutauti</t>
          </tg>
       </mg>
    </e>
@@ -48874,10 +48868,22 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">liturgi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">liturgia</t>
+            <t pos="N">liturgii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">vigselsliturgi</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">vihkimäliturgia</t>
             <t pos="N">vihkimäliturgii</t>
          </tg>
       </mg>
@@ -67584,22 +67590,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ki;ai">
       <lg>
          <l pos="N">teologi</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">teologia</t>
             <t pos="N">teologii</t>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ki;ta">
       <lg>
          <l pos="N">teori</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">teoria</t>
             <t pos="N">teorii</t>
          </tg>
       </mg>
@@ -73932,6 +73940,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">teknologia</t>
             <t pos="N">teknologii</t>
          </tg>
       </mg>
@@ -73943,11 +73952,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">siirtymäaalto</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">siirtopaaro</t>
+            <t pos="N">siirtymäpaaro</t>
          </tg>
       </mg>
    </e>
@@ -74099,6 +74104,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">industriatyö</t>
             <t pos="N">industriityö</t>
          </tg>
       </mg>
@@ -74109,6 +74115,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">fiskuindustria</t>
             <t pos="N">fiskuindustrii</t>
          </tg>
       </mg>
@@ -74120,10 +74127,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ennätys</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">rekordi</t>
          </tg>
       </mg>
@@ -78895,6 +78898,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">histoorialaaki</t>
             <t pos="N">histooriilaaki</t>
          </tg>
       </mg>
@@ -79207,6 +79211,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">koheesia</t>
             <t pos="N">koheessii</t>
          </tg>
       </mg>
@@ -79224,8 +79229,8 @@ For the full license text, see the link above.</lic>
             <xt>pistäävä kommentaari</xt>
             </xg>
             <xg>
-            <x>I utgangspunktet var potetdyrking ansett som umulig i det høye nord, og det manglet ikke på spydige bemerkninger da Marie Poikila som den første satte poteter i jorda.</x>
-            <xt>Poteettiitten kylväämistä piđethiin lähtökohtaisesti mahđottomana ylhäälä pohjaisessa, eikä vailunu pistäävii kommentaariita silloin ko Marie Poikila ensimäisenä kylväs poteettii maahan.</xt>
+            <x>Hun fikk høre mange spydige kommentarer da hun som den første satte poteter i jorda her i nord.</x>
+            <xt>Se sai kuula usheita pistäävii kommentaariita silloin ko hän ensimäisenä täälä pohjaisessa kylväs poteettii maahan.</xt>
             </xg>
          </tg>
       </mg>
@@ -79708,6 +79713,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">morfologia</t>
             <t pos="N">morfologii</t>
          </tg>
       </mg>
@@ -80196,6 +80202,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">psykiatria</t>
+            <t pos="N">psykiatrii</t>
          </tg>
       </mg>
    </e>
@@ -80531,6 +80538,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">kieliteknologiaprosekti</t>
             <t pos="N">kieliteknologiiprosekti</t>
          </tg>
       </mg>
@@ -80541,7 +80549,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kielitieđe</t>
+            <t pos="N">kielitieđet</t>
          </tg>
       </mg>
    </e>
@@ -80601,6 +80609,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">strategia</t>
             <t pos="N">strategii</t>
          </tg>
       </mg>
@@ -81048,6 +81057,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">ökonomia</t>
             <t pos="N">ökonomii</t>
          </tg>
       </mg>
@@ -81799,6 +81809,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">terminologia</t>
             <t pos="N">terminologii</t>
          </tg>
       </mg>
@@ -90878,6 +90889,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">geologia</t>
             <t pos="N">geologii</t>
          </tg>
       </mg>
@@ -92149,6 +92161,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">demokratia</t>
             <t pos="N">demokratii</t>
          </tg>
       </mg>
@@ -92319,6 +92332,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">geografia</t>
             <t pos="N">geografii</t>
          </tg>
       </mg>
@@ -92369,6 +92383,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">antropologia</t>
             <t pos="N">antropologii</t>
          </tg>
       </mg>
@@ -92379,6 +92394,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">kraniologia</t>
             <t pos="N">kraniologii</t>
          </tg>
       </mg>
@@ -92395,10 +92411,22 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">biologi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">biologia</t>
+            <t pos="N">biologii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">rasebiologi</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">raasabiologia</t>
             <t pos="N">raasabiologii</t>
          </tg>
       </mg>
@@ -93454,6 +93482,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">markkinaökonomia</t>
             <t pos="N">markkinaökonomii</t>
          </tg>
       </mg>
@@ -94059,7 +94088,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">topograafii</t>
+            <t pos="N">topografia</t>
+            <t pos="N">topografii</t>
          </tg>
       </mg>
    </e>
@@ -94741,6 +94771,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">paikalishistooria</t>
             <t pos="N">paikalishistoorii</t>
          </tg>
       </mg>
@@ -96432,6 +96463,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">industriatavara</t>
             <t pos="N">industriitavara</t>
          </tg>
       </mg>
@@ -99286,12 +99318,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">melodi</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">melodia</t>
             <t pos="N">melodii</t>
          </tg>
       </mg>
@@ -100758,6 +100791,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">suurindustria</t>
             <t pos="N">suurindustrii</t>
          </tg>
       </mg>
@@ -101094,6 +101128,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">histooriatutkimus</t>
             <t pos="N">histooriitutkimus</t>
          </tg>
       </mg>
@@ -101104,6 +101139,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">hierarkia</t>
             <t pos="N">hierarkii</t>
          </tg>
       </mg>
@@ -101334,6 +101370,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">ideologia</t>
             <t pos="N">ideologii</t>
          </tg>
       </mg>
@@ -102462,12 +102499,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">byråkrati</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">byrokratia</t>
             <t pos="N">byrokratii</t>
          </tg>
       </mg>
@@ -105210,6 +105248,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">strategiaplaana</t>
             <t pos="N">strategiiplaana</t>
          </tg>
       </mg>
@@ -106074,12 +106113,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">taksidermi</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">taksidermia</t>
             <t pos="N">taksidermii</t>
          </tg>
       </mg>
@@ -106138,22 +106178,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">empatievne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">empatiataito</t>
             <t pos="N">empatiitaito</t>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">anarki</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">anarkia</t>
             <t pos="N">anarkkii</t>
          </tg>
       </mg>
@@ -106168,12 +106210,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">empati</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">empatia</t>
             <t pos="N">empatii</t>
          </tg>
       </mg>
