@@ -49,18 +49,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-     <e src="ki">
+     <e src="ki;ai">
       <lg>
          <l pos="A">dobbel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">tupultti</t>
             <t pos="A">tupla</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">tupulti</t>
+            <t pos="A">kahđenkertainen</t>
          </tg>
       </mg>
    </e>
@@ -4998,16 +4995,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Num">kahđekses</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="A">dobbel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">kahđenkertainen</t>
          </tg>
       </mg>
    </e>
@@ -13306,22 +13293,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">reekelinmukainen</t>
-         </tg>
-      </mg>
-        <mg>
-         <tg xml:lang="fkv">
             <t pos="A">reekelimäinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fkvnob">
-      <lg>
-         <l pos="A">uregelmessig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">epäreekelinmukainen</t>
+            <t pos="A">reekelinmukainen</t>
          </tg>
       </mg>
    </e>
@@ -13332,6 +13305,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">epäreekelimäinen</t>
+            <t pos="A">epäreekelinmukainen</t>
          </tg>
       </mg>
    </e>

@@ -67,16 +67,6 @@ For the full license text, see the link above.</lic>
    </e>
          <e src="ki">
       <lg>
-         <l pos="N">nåtid</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">nykyaika</t>
-         </tg>
-      </mg>
-   </e>
-         <e src="ki">
-      <lg>
          <l pos="N">leksem</l>
       </lg>
       <mg>
@@ -51778,17 +51768,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">akt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>i f.eks. et skuespill</re>
-            <t pos="N" stem="ossa">osa</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">del</l>
@@ -61884,21 +61863,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!--     <e src="ame">
-      <lg>
-         <l pos="N">faktura</l>
-      </lg>
-            <mg>
-         <tg xml:lang="fkv">
-               <t pos="N" stem="räkingi;räkinkki">räkinki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-               <t pos="N" stem="räkingi;räkinkki">räkinki</t>
-         </tg>
-      </mg>
-   </e> -->
    <e src="ai;ta">
       <lg>
          <l pos="N">regning</l>
@@ -67441,11 +67405,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">teko</t>
+            <t pos="N">akti</t>
          </tg>
       </mg>
         <mg>
          <tg xml:lang="fkv">
-            <t pos="N">akti</t>
+	         <re>i f.eks. et skuespill</re>
+            <t pos="N">osa</t>
          </tg>
       </mg>
    </e>
