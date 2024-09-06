@@ -8248,7 +8248,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e> -->
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Adv">med makt</l>
       </lg>
@@ -8256,6 +8256,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">väkisin</t>
             <t pos="Adv">väkiseltä</t>
+            <t pos="Adv">väkisten</t>
          </tg>
       </mg>
    </e>
@@ -9599,20 +9600,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>jeg</re>
-            <t pos="Adv">tahalani</t>
+         <re>med eiendomspronomen</re>
+            <t pos="Adv">tahalansa</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>du</re>
-            <t pos="Adv">tahalasti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>han/hun</re>
-            <t pos="Adv">tahalans</t>
+            <t pos="Adv">vasiten</t>
          </tg>
       </mg>
    </e>
@@ -10597,7 +10591,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="Adv">nødvendigvis</l>
       </lg>
@@ -10605,9 +10599,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>i negative setninger</re>
             <t pos="Adv">välttämättä</t>
+            <t pos="Adv">väkisten</t>
             <xg>
-            <x>Jeg ville bli lærer når jeg oppdaget at lærerens sannheter ikke nødvendigvis var sannheter.</x>
-            <xt>Mie halluisin tulla opettaajaksi ko mie havaittin, ette opettaajan tottuuđet ei välttämättä olheet tottuuđet.</xt>
+            <x>Sannhetene hans ikke nødvendigvis var sannheter.</x>
+            <xt>Hänen tottuuđet ei välttämättä olheet tottuuđet.</xt>
             </xg>
          </tg>
       </mg>
@@ -10620,8 +10615,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">kumarassa</t>
             <xg>
-            <x>Jeg satt som en munk i klasserommet, helt stille og med hodet bøyd ned mot boka.</x>
-            <xt>Mie istuin klassihuonheessa ko munkki, aivan hiljaa ja pää kumarassa kirjaa vasten.</xt>
+            <x>Jeg satt med hodet bøyd ned mot boka.</x>
+            <xt>Minula oli pää kumarassa kirjaa vasten.</xt>
             </xg>
          </tg>
       </mg>
@@ -10634,8 +10629,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">krouvisti</t>
             <xg>
-            <x>Grovt sett er kvenene de som bor lengst vest, mens karelerne er de som bor lengst øst.</x>
-            <xt>Krouvisti kattottunna se oon kväänit kekkä asuthaan vestassa, ko karjalaiset asuthaan kaukana öystässä.</xt>
+            <x>Grovt sett bosatte kvenene seg i Nord-Troms og Finnmark.</x>
+            <xt>Krouvisti kattottunna asetuthiin kväänit asumhaan Pohjais-Tromsshaan ja Finmarkkhuun.</xt>
             </xg>
          </tg>
       </mg>
