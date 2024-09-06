@@ -27354,10 +27354,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">interessi</t>
             <t pos="N">intressi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">kiinostus</t>
          </tg>
       </mg>
@@ -27368,17 +27364,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>det å slå</re>
             <t pos="N">isku</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="lajji">laji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="sorti">sortti</t>
+	         <re>art, sort</re>
+            <t pos="N">laji</t>
+            <t pos="N">sortti</t>
          </tg>
       </mg>
    </e>
@@ -27389,15 +27383,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">isokairo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">kairo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">moosa</t>
          </tg>
       </mg>
@@ -62263,11 +62249,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">saipua</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="soova;sooppa">soopa</t>
+            <t pos="N">soopa</t>
          </tg>
       </mg>
    </e>
@@ -62278,15 +62260,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sairashuonet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">sikhuusi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">siukhuusi</t>
          </tg>
       </mg>
