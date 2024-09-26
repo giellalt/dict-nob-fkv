@@ -20704,9 +20704,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Phrase">gå konkurs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">mennä konkurshiin</t>
+            <t pos="V">siteerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">sitere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
