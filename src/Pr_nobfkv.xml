@@ -1277,7 +1277,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Po">tykköö</t>
             <t pos="Po">tyköä</t>
+            <xg>
+               <x>Mie olen siirtyny pois muorin ja faarin tykköö.</x>
+               <xt>Jeg har flyttet fra mor og far.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -1390,10 +1395,10 @@ For the full license text, see the link above.</lic>
                <x>Hun kom til meg.</x>
                <xt>Hän tuli minun tykö.</xt>
             </xg>
-              <xg>
+     <!--       <xg>
                <x>Står det bra til hos dere?</x>
                <xt>Menneekö hyvin teiđän kans?</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -1426,26 +1431,17 @@ For the full license text, see the link above.</lic>
                <x>Han er hos meg.</x>
                <xt>Hän oon minun tykönä.</xt>
             </xg>
-         </tg>
-      </mg>
-         <mg>
-         <tg xml:lang="fkv">
-	          <re>om tjenesteforhold</re>
-            <t pos="Po">tykö</t>
             <xg>
                <x>Hun jobbet som tjenestepike hos tanten sin.</x>
                <xt>Hän työteli piikana oman täđin tykönä.</xt>
             </xg>
-      <!--        <xg>
-               <x>Gutten gikk i lære hos onkelen sin.</x>
-               <xt>Poika meni opiksi seđän työssä.</xt>
-            </xg> -->
          </tg>
       </mg>
-              <mg>
+         <mg>
          <tg xml:lang="fkv">
 	          <re>i forretning</re>
-            <t pos="Po">tykö</t>
+       <t type="grammar" href="https://press.nordicopenaccess.no/index.php/noasp/catalog/view/24/101/531#sec5.3.6">ablativ</t>
+       <t pos="suff">-lta, -ltä</t>
             <xg>
                <x>Handle hos kjøpmannen.</x>
                <xt>Ostaat kauppamieheltä.</xt>
@@ -1455,7 +1451,8 @@ For the full license text, see the link above.</lic>
                    <mg>
          <tg xml:lang="fkv">
 	          <re>som hører til</re>
-            <t pos="Po">tykö</t>
+       <t type="grammar" href="https://press.nordicopenaccess.no/index.php/noasp/catalog/view/24/101/531#sec5.3.2">genitiv</t>
+        <t pos="suff">-n</t>
             <xg>
                <x>Språket hos Børsskog.</x>
                <xt>Børsskogin kieli.</xt>
