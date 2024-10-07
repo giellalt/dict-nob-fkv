@@ -10395,6 +10395,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">semmoinen</t>
             <t pos="A">sellainen</t>
+            <t pos="A">senlainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tämmöinen</t>
+            <t pos="A">tämmäinen</t>
+            <t pos="A">tällainen</t>
+            <t pos="A">tämänlainen</t>
          </tg>
       </mg>
    </e>
@@ -10406,31 +10415,23 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">semmoinen</t>
             <t pos="A">sellainen</t>
+            <t pos="A">senlainen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="senlaise;senlais">senlainen</t>
+	         <re>sånn her</re>
+            <t pos="A">tämmöinen</t>
+            <t pos="A">tämmäinen</t>
+            <t pos="A">tällainen</t>
+            <t pos="A">tämänlainen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="tämmäise;tämmäis">tämmäinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="tämänlaise;tämänlais">tämänlainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">niin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">näin</t>
+	         <re>sånn der</re>
+            <t pos="A">tuolainen</t>
+            <t pos="A">tuomoinen</t>
          </tg>
       </mg>
    </e>
@@ -10442,31 +10443,23 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">semmoinen</t>
             <t pos="A">sellainen</t>
+            <t pos="A">senlainen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="senlaise;senlais">senlainen</t>
+	         <re>slik som det her</re>
+            <t pos="A">tämmöinen</t>
+            <t pos="A">tämmäinen</t>
+            <t pos="A">tällainen</t>
+            <t pos="A">tämänlainen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="tällaise;tällais">tällainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="tämmäise;tämmäis">tämmäinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">niin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">näin</t>
+	         <re>slik som det der</re>
+            <t pos="A">tuolainen</t>
+            <t pos="A">tuomoinen</t>
          </tg>
       </mg>
    </e>
@@ -11336,21 +11329,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">tunttuuva</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="Phrase">sånn der</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="tuolaise;tuolais">tuolainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="tuomoise;tuomois">tuomoinen</t>
          </tg>
       </mg>
    </e>
