@@ -8733,6 +8733,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">ääneti</t>
+            <t pos="Adv">hiljaa</t>
          </tg>
       </mg>
    </e>
@@ -8743,15 +8744,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kans</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">kansa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Clt">-ki</t>
          </tg>
       </mg>
@@ -8969,21 +8962,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Adv">musestille</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">hiirenhiljaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="Adv">stille</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">hiljaa</t>
+            <t pos="Adv">hiljain</t>
+            <t pos="Adv">hiljaksheen</t>
             <xg>
             <x>Hän puhhuu hiljaa.</x>
             <xt>Hen snakker lavt, stille.</xt>
@@ -8992,22 +8977,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">hiljain</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">vaiti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">ääneti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">hiljaksheen</t>
+            <xg>
+               <x>Vær stille!</x>
+               <xt>Ole vaiti!</xt>
+            </xg>
          </tg>
       </mg>
    </e>

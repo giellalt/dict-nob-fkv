@@ -3679,24 +3679,42 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">stille</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">hiljainen</t>
+            <xg>
+            <x>Hvorfor er han så stille?</x>
+            <xt>Miksi se oon niin hiljainen?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="tyvene">tyven</t>
+            <xg>
+            <x>Havet er stille.</x>
+            <xt>Meri oon tyven.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
 	         <re>om været</re>
             <t pos="A">vaisto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">musestille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hiirenhiljaa</t>
          </tg>
       </mg>
    </e>
@@ -3756,17 +3774,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">ruma</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="A">hirvee</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="kollo">kolo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="rumma">ruma</t>
+            <t pos="A">kolo</t>
          </tg>
       </mg>
       <mg>
@@ -11826,22 +11844,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ki">
       <lg>
          <l pos="A">taus</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">vaiti</t>
-            <xg>
-               <x>Vær stille!</x>
-               <xt>Ole vaiti!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">vaiti</t>
+            <t pos="A">hiljainen</t>
          </tg>
       </mg>
    </e>
