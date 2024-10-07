@@ -16789,21 +16789,21 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="voi;voin">voiđa</t>
-            <xg>
-               <x>Hun har det bra.</x>
-               <xt>Hän voipi hyvin.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
          <re>mon tro</re>
             <t pos="V">mahtaat</t>
             <xg>
                <x>Hva er dette da, mon tro?</x>
                <xt>Mikä tuo mahtaa olla?</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="voi;voin">voiđa</t>
+<!--             <xg>
+              <x>Hun har det bra.</x>
+               <xt>Hän voipi hyvin.</xt>
+            </xg> -->
          </tg>
       </mg>
    </e>
