@@ -15636,13 +15636,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;es">
       <lg>
          <l pos="N">tannbørste</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hammasharja</t>
+            <t pos="N">hammaskusta</t>
          </tg>
       </mg>
    </e>
@@ -15663,10 +15664,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hetelmä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">frukti</t>
          </tg>
       </mg>
@@ -83787,7 +83784,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+<e src="es">
       <lg>
          <l pos="N">høyhest</l>
       </lg>
