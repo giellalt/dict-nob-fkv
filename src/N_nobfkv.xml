@@ -28841,18 +28841,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;ae">
+   <e src="ai;ta;ae;es">
       <lg>
          <l pos="N">løype</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">juustonjuoksuttaaja</t>
+            <t pos="N">lattuu</t>
+            <t pos="N">latu</t>
+            <t pos="N">tola</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">lattuu</t>
+	         <re>enzym som får melk til å tykne</re>
+            <t pos="N">juustonjuoksuttaaja</t>
          </tg>
       </mg>
       <mg>
@@ -42196,15 +42199,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">lattuu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">latu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">tola</t>
          </tg>
       </mg>
@@ -42216,16 +42211,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">lattuu</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
             <t pos="N">sivakkalattuu</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
             <t pos="N">hihtolattuu</t>
+            <t pos="N">tola</t>
          </tg>
       </mg>
    </e>
@@ -42311,11 +42299,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="lauku">laukku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">laukku</t>
             <t pos="N">sölkälaukku</t>
          </tg>
       </mg>
@@ -42326,16 +42310,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="lauku">laukku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">laukku</t>
             <t pos="N">tasku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">väsky</t>
          </tg>
       </mg>
