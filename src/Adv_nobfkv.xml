@@ -2805,21 +2805,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="Adv">akkurat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">justhiin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">juuri</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta;es">
       <lg>
          <l pos="Adv">igjen</l>
@@ -8705,14 +8690,66 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ki">
       <lg>
          <l pos="Adv">nettopp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">äskön</t>
+            <t pos="Adv">justhiin</t>
+            <t pos="Adv">justhiinsa</t>
+            <t pos="Adv">juuri</t>
+            <xg>
+               <x>Det var nettopp det jeg mente.</x>
+               <xt>Se oli justhiin se mitä mie meinasin.</xt>
+            </xg>
+            <xg>
+               <x>Nettopp!</x>
+               <xt>Niin justhiin!</xt>
+            </xg>
          </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>i sted</re>
+            <t pos="Adv">äskön</t>
+            <xg>
+               <x>Vi var nettopp på besøk hos bestemor.</x>
+               <xt>Met kävimä äskön pästämuorin tykönä.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">akkurat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">justhiin</t>
+            <t pos="Adv">justhiinsa</t>
+            <t pos="Adv">juuri</t>
+         </tg>
+            <xg>
+               <x>Det var akkurat det jeg mente.</x>
+               <xt>Se oli justhiin se mitä mie meinasin.</xt>
+            </xg>
+            <xg>
+            <xg>
+               <x>Akkurat!</x>
+               <xt>Niin justhiin!</xt>
+            </xg>
+               <x>Klokka er akkurat 12.</x>
+               <xt>Kello oon justhiin 12.</xt>
+            </xg>
+            <xg>
+               <x>Mie en ole paikala juuri nyt, tule takaisin hiljemin.</x>
+               <xt>Jeg er ikke til stede akkurat nå, kom tilbake senere.</xt>
+            </xg>
+            <xg>
+               <x>Vi er ikke akkurat amatører.</x>
+               <xt>Ei met juuri amatööritkhaan ole.</xt>
+            </xg>
       </mg>
    </e>
    <e src="ai">
