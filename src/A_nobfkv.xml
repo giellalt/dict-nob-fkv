@@ -7732,13 +7732,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;es">
+   <e src="ta;es;ki">
       <lg>
          <l pos="A">komplisert</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">mukkainen</t>
             <t pos="A">mukkanen</t>
+            <t pos="A">monimukkainen</t>
+            <t pos="A">monimukkanen</t>
+            <t pos="A">monenmukkainen</t>
             <t pos="A">monenmukkanen</t>
          </tg>
       </mg>
@@ -7758,13 +7762,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="A">svinget</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="mukkase;mukkas">mukkanen</t>
+            <t pos="A">mukkainen</t>
+            <t pos="A">mukkanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ki">
+      <lg>
+         <l pos="A">svingete</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">mukkainen</t>
+            <t pos="A">mukkanen</t>
          </tg>
       </mg>
    </e>
@@ -17824,7 +17840,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">mukkainen</t>
+            <t pos="A">mukkanen</t>
             <t pos="A">monimukkainen</t>
+            <t pos="A">monimukkanen</t>
+            <t pos="A">monenmukkainen</t>
+            <t pos="A">monenmukkanen</t>
          </tg>
       </mg>
    </e>
@@ -17834,7 +17855,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">mukkainen</t>
+            <t pos="A">mukkanen</t>
             <t pos="A">monimukkainen</t>
+            <t pos="A">monimukkanen</t>
+            <t pos="A">monenmukkainen</t>
+            <t pos="A">monenmukkanen</t>
          </tg>
       </mg>
    </e>
