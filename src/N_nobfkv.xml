@@ -1355,16 +1355,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="kt">
       <lg>
-         <l pos="N">enslig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-         <t pos="N">yksinelläävä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="kt">
-      <lg>
          <l pos="N">ektefelle</l>
       </lg>
       <mg>
@@ -12384,7 +12374,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">meri-imuelläävä</t>
+            <t pos="N">meri-imuelävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pattedyr</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">imuelävä</t>
          </tg>
       </mg>
    </e>
@@ -85105,7 +85105,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kilpielläävä</t>
+            <t pos="N">kilpielävä</t>
          </tg>
       </mg>
    </e>
@@ -87519,7 +87519,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">pikkuelläävä</t>
+            <t pos="N">pikkuelävä</t>
          </tg>
       </mg>
    </e>
