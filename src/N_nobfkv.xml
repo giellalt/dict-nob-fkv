@@ -50065,6 +50065,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">norja</t>
             <t pos="N">ruija</t>
+            <t pos="N">ruiđa</t>
          </tg>
       </mg>
    </e>
@@ -70464,7 +70465,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="ummiko">ummikko</t>
+            <t pos="N">ummikko</t>
+            <t pos="N">ymmyrkäinen</t>
+            <xg>
+            <x>Han er enspråklig norsk.</x>
+            <xt>Hän oon ymmyrkäinen norjalainen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -78499,10 +78505,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">norjalaistamispolitikki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">ruijalaistamispolitikki</t>
          </tg>
       </mg>

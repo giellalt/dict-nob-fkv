@@ -2605,15 +2605,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ekonominen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">ökonoominen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">rahalinen</t>
          </tg>
       </mg>
@@ -9248,16 +9240,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="A">nord</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="pohjaise;pohjais">pohjainen</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="A">nordlig</l>
@@ -9451,26 +9433,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">pulleeva</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">pyöree</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="A">ymmyräinen</t>
             <t pos="A">ymmyrkäinen</t>
-            <xg>
-               <x>enspråklig norsk</x>
-               <xt>ymmyrkäinen ruijalainen</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="ymmyräise;ymmyräis">ymmyräinen</t>
+	         <re>tykk</re>
+            <t pos="A">pulleeva</t>
          </tg>
       </mg>
    </e>
@@ -10024,27 +9995,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">norjalainen</t>
             <t pos="A">ruijalainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">ruiđa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">norja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="norjalaise;norjalais">norjalainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="ruiđalaise;ruiđalais">ruiđalainen</t>
+            <t pos="A">ruiđalainen</t>
          </tg>
       </mg>
    </e>
@@ -10060,10 +10013,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">viljaavasti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">viljasti</t>
          </tg>
       </mg>
@@ -10090,11 +10039,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ruottalainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">ruotti</t>
          </tg>
       </mg>
    </e>
@@ -12805,16 +12749,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ylppee</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">enspråklig norsk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">ymmyrkäinen</t>
          </tg>
       </mg>
    </e>
