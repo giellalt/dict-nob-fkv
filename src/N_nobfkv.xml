@@ -50064,10 +50064,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">norja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">ruija</t>
          </tg>
       </mg>
@@ -50078,17 +50074,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="norjalaise;norjalais">norjalainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">norjalainen</t>
             <t pos="N">ruijalainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="ruiđalaise;ruiđalais">ruiđalainen</t>
+            <t pos="N">ruiđalainen</t>
          </tg>
       </mg>
    </e>
@@ -50098,26 +50086,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="norjalaistamise;norjalaistamis">norjalaistaminen</t>
+	         <re>det å fornorske</re>
+            <t pos="N">norjalaistaminen</t>
+            <t pos="N">ruiđalaistaminen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>det å bli fornorsket</re>
             <t pos="N">ruijalaistuminen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="ruiđalaistamise;ruiđalaistamis">ruiđalaistaminen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="ruiđalaistumise;ruiđalaistumis">ruiđalaistuminen</t>
+            <t pos="N">ruiđalaistuminen</t>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+<!--   <e src="ai">
       <lg>
          <l pos="Phrase">på nordsida</l>
       </lg>
@@ -50126,19 +50108,15 @@ For the full license text, see the link above.</lic>
             <t pos="N">nortto</t>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e src="ai;ta">
       <lg>
          <l pos="N">nord</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">nortto</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">pohjainen</t>
+            <t pos="N">nortto</t>
          </tg>
       </mg>
    </e>
@@ -87697,7 +87675,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">person fra de nordiske landene</l>
+         <l pos="V">nordboer</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
