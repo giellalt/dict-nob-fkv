@@ -15625,7 +15625,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">hamphaittenhoitopalvelu</t>
+            <t pos="N">hamphaittenhoitopalvelus</t>
          </tg>
       </mg>
    </e>
@@ -52884,6 +52884,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>tilbe</re>
             <t pos="N" stem="palvelukse">palvelus</t>
          </tg>
       </mg>
@@ -52894,8 +52895,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">palvelu</t>
+	         <re>hjelp, bistand</re>
             <t pos="N">palvelus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>arbeid, betjening</re>
+            <t pos="N">palvelu</t>
          </tg>
       </mg>
       <mg>
@@ -81824,6 +81831,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tervheyspalvelu</t>
+            <t pos="N">tervheyspalvelus</t>
             <t pos="N">tervheystienasti</t>
          </tg>
       </mg>
@@ -82083,10 +82091,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hoitopalvelu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">huolenpitopalvelu</t>
          </tg>
       </mg>
@@ -91880,11 +91884,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sosiaalitienasti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">sosiaalipalvelu</t>
+            <t pos="N">sosiaalipalvelus</t>
          </tg>
       </mg>
    </e>
@@ -99290,7 +99290,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">tervheyspalvelutarjous</t>
+            <t pos="N">tervheyspalvelustarjous</t>
          </tg>
       </mg>
    </e>
@@ -103035,7 +103035,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">erikoistervheyspalvelu</t>
+            <t pos="N">erikoistervheyspalvelus</t>
          </tg>
       </mg>
    </e>
