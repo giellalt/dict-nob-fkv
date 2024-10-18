@@ -41171,7 +41171,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">parti</l>
       </lg>
@@ -41182,11 +41182,9 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>politikk</re>
             <t pos="N">parttii</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">partia</t>
             <t pos="N">puoluet</t>
          </tg>
       </mg>
