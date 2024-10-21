@@ -15100,9 +15100,38 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">muistuttaat</t>
+            <t pos="V">muistutella</t>
             <xg>
             <x>Mikko minner Greta om Isak.</x>
             <xt>Mikko muistuttaa Kreetale Iisakkii.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">minnes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">muistutella</t>
+            <xg>
+            <x>Dere minnes bare om gamle dager.</x>
+            <xt>Tet muistutteletta tyhä vanhoi aikkoi.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">mimre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">muistutella</t>
+            <xg>
+            <x>Dere mimrer bare om gamle dager.</x>
+            <xt>Tet muistutteletta tyhä vanhoi aikkoi.</xt>
             </xg>
          </tg>
       </mg>
@@ -15115,6 +15144,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">muistuttaat</t>
             <t pos="V">muistutella</t>
+            <xg>
+            <x>Påminn meg så jeg husker å ringe ham.</x>
+            <xt>Muistuttele minule ette mie muistan rinkata hänele.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15125,6 +15158,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">muistuttaat</t>
+            <t pos="V">muistutella</t>
             <xg>
             <x>Du ligner på din mor.</x>
             <xt>Sie muistutat sinun äittii.</xt>
