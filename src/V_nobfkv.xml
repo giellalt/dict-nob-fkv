@@ -6810,18 +6810,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="V">angripe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="hyökkää;hyökän">hyökätä</t>
+            <xg>
+            <x>Huomena met hyökkäämä viholista vasthaan.</x>
+            <xt>I morgen angriper vi fienden.</xt>
+            </xg>
+            <xg>
+            <x>Koko mailma oli kauhistunnu ko se hyökkäs ittensä krannimaahan.</x>
+            <xt>Hele verden var rystet da de angrep nabolandet sitt.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="IV">karistaat</t>
+            <xg>
+            <x>Ørnen angrep haren.</x>
+            <xt>Kokko karisti jäniksen pääle.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
