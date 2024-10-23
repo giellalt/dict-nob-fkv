@@ -18021,12 +18021,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="perrää;perän">perätä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="pörrää;pörän">pörätä</t>
+            <t pos="V">perätä</t>
+            <t pos="V">pörätä</t>
          </tg>
       </mg>
    </e>
@@ -18166,26 +18162,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="piirä;piirtä">piirttäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="V">piirttäät</t>
             <t pos="V">piirustaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">priimustaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="priimustele;priimustel">priimustella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="V">priimustella</t>
             <t pos="V">tägnätä</t>
          </tg>
       </mg>
@@ -18258,10 +18238,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">pillainttuut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">pillaanttuut</t>
          </tg>
       </mg>
@@ -18312,16 +18288,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="pirskoo;pirskon">pirskota</t>
+            <t pos="V">pirskota</t>
+            <t pos="V">pirskottaat</t>
+            <xg>
+	            <x>Vettä pirskoo lattiile.</x>
+	            <xt>Det skvetter vann på gulvet.</xt>
+            </xg>
+            <xg>
+	            <x>Se pirskotti vettä minun pääle.</x>
+	            <xt>Hen skvettet vann på meg.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="pirskota">pirskottaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	         <re>bli skremt</re>
             <t pos="V">säikättäät</t>
          </tg>
       </mg>
@@ -18342,7 +18323,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="pirskota">pirskottaat</t>
+            <t pos="V">pirskota</t>
+            <t pos="V">pirskottaat</t>
+            <xg>
+	            <x>Se pirskos vettä astiinpesomasiinista lattiile.</x>
+	            <xt>Det sprutet vann utover gulvet fra oppvaskmaskinen.</xt>
+            </xg>
+            <xg>
+	            <x>Se pirskotti vettä minun pääle.</x>
+	            <xt>Hen spruta vann på meg.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
