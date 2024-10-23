@@ -231,18 +231,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj;es">
+   <e src="mj;es;ai;ta">
       <lg>
          <l pos="Adv">nøye</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">tarkasti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">tarkkhaan</t>
+            <t pos="Adv">tarkon</t>
+            <t pos="Adv">visusti</t>
             <xg>
             <x>Men da var hun yngre, og hørte ikke så nøye etter.</x>
             <xt>Mutta silloin hän oli nuorempi, eikä kuuntelu niin tarkkhaan.</xt>
@@ -5237,13 +5235,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ta">
       <lg>
          <l pos="Adv">nå til dags</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">nykyjään</t>
+            <t pos="Adv">nykyisin</t>
+            <t pos="Adv">nykyaikhaan</t>
          </tg>
       </mg>
    </e>

@@ -6071,32 +6071,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="krantu">kranttu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">nuuka</t>
+            <t pos="A">tarkka</t>
+            <t pos="A">visu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="tarka">tarkka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="vissu">visu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">tarkon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">visusti</t>
+	         <re>kresen</re>
+            <t pos="A" stem="krantu">kranttu</t>
          </tg>
       </mg>
    </e>
@@ -12259,10 +12242,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">vihree</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">vihrinen</t>
             <t pos="A">vihriäinen</t>
          </tg>
@@ -20806,6 +20785,17 @@ For the full license text, see the link above.</lic>
             <x>Kaffen ble rasjonert.</x>
             <xt>Kaffi oli kortila.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">sparsommelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">säästääväinen</t>
+            <t pos="A">visu</t>
          </tg>
       </mg>
    </e>
