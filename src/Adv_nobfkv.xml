@@ -5525,12 +5525,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="Adv">framme</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>ved målet</re>
             <t pos="Adv">perilä</t>
             <xg>
                <x>Er vi framme snart?</x>
@@ -5540,10 +5541,15 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>være synlig</re>
             <t pos="Adv">esilä</t>
             <xg>
                <x>Det kvenske språket er oftere synlig i samfunnet idag.</x>
                <xt>Kväänin kieli oon usheemasti esilä samfynnissa tääpänä.</xt>
+            </xg>
+            <xg>
+               <x>De fineste bøkene står framme i hyllene.</x>
+               <xt>Kaunhiimat kirjat oon esilä hyllyilä.</xt>
             </xg>
          </tg>
       </mg>
@@ -5568,12 +5574,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">peräkkäin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">pöräkkäin</t>
+            <t pos="Adv">peräkkäin</t>
          </tg>
       </mg>
       <mg>
@@ -5596,10 +5598,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">piian</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">ehkä</t>
          </tg>
       </mg>
@@ -5631,7 +5629,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">pitkin</t>
-                        <xg>
+            <t pos="Pr">pitkin</t>
+            <xg>
                <x>Det går en vei der langs Tanaelvstranden.</x>
                <xt>Siinä mennee tie pitkin Tenojokivartta.</xt>
             </xg>
@@ -5640,16 +5639,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">myöten</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Po">myöđen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">pitkin</t>
          </tg>
       </mg>
    </e>
