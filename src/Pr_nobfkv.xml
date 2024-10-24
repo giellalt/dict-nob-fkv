@@ -1544,9 +1544,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>om bevegelse</re>
             <t pos="Po">pörhään</t>
+            <t pos="Po">perhään</t>
             <xg>
                <x>Gutten dro etter de andre.</x>
                <xt>Poika lähti toisten pörhään.</xt>
+            </xg>
+            <xg>
+               <x>Jeg gir ikke etter!</x>
+               <xt>Mie en anna pörhään!</xt>
             </xg>
          </tg>
       </mg>
@@ -1554,8 +1559,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	            <re>i ro</re>
             <t pos="Po">pörässä</t>
+            <t pos="Po">perässä</t>
              <xg>
-               <x>Gutter går etter de andre.</x>
+               <x>Gutten går etter de andre.</x>
                <xt>Poika kävelee toisten pörässä.</xt>
             </xg>
          </tg>
@@ -1563,6 +1569,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">pörästä</t>
+            <t pos="Po">perästä</t>
             <xg>
             <x>Yksi toisensa pörästä.</x>
             <xt>Den ene etter den andre.</xt>
