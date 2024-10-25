@@ -43874,7 +43874,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta;kl;es">
       <lg>
          <l pos="N">skinn</l>
       </lg>
@@ -43882,6 +43882,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>glans</re>
             <t pos="N" stem="loisthee">loistet</t>
+            <t pos="N">loisto</t>
          </tg>
       </mg>
       <mg>
@@ -103943,6 +103944,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">loistoeksemplaari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">prakt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">loisto</t>
          </tg>
       </mg>
    </e>
