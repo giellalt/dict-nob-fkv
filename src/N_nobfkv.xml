@@ -31588,11 +31588,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="karri">kari</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="kryyssi">kryysi</t>
+            <t pos="N">kryysi</t>
          </tg>
       </mg>
    </e>
@@ -31602,12 +31598,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="karri">kari</t>
+	         <re>bergrydd i sjøen, elva</re>
+            <t pos="N">kari</t>
+            <t pos="N">selkä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">selkä</t>
+	         <re>som noen ganger er under vannet og andre ganger over</re>
+            <t pos="N">laassa</t>
          </tg>
       </mg>
    </e>
