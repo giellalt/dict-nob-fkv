@@ -1059,33 +1059,46 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="Adv">så</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">se</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">niin</t>
+            <xg>
+            <x>Dette var ikke så lett som jeg hadde trodd.</x>
+            <xt>Tämä ei ollukhaan niin helppoo ko mie olin uskonu.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>så her</re>
+            <t pos="Adv">näin</t>
+            <xg>
+            <x>Jeg har aldri fått så mye fisk før.</x>
+            <xt>Mie en ole koskhaan ennen saanu näin paljon kallaa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>så der</re>
             <t pos="Adv">nuoin</t>
+            <xg>
+            <x>Jeg visste ikke at du kunne kvensk så godt!</x>
+            <xt>Mie en tieny ette sie ossaat kväänii nuoin hyvin!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">sitte</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="kylvä;kylvän">kylvätä</t>
+            <xg>
+            <x>Skrell potetene først og legg de så i pannen.</x>
+            <xt>Kuori ensinsti puteetit ja laita net sitte pannhuun.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2727,16 +2740,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">joskus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">muutamisti</t>
+            <t pos="Adv">välilä</t>
+            <t pos="Adv">välhiin</t>
+            <t pos="Adv">välistä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">sattumalla</t>
+            <t pos="Adv">sattumalta</t>
          </tg>
       </mg>
       <mg>
@@ -2752,20 +2764,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">joskus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">muutamisti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="Adv">välilä</t>
             <t pos="Adv">välhiin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">välistä</t>
          </tg>
       </mg>
@@ -6660,18 +6661,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">altså</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">siis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Pcle">altso</t>
+            <t pos="Adv">sitte</t>
          </tg>
       </mg>
    </e>
