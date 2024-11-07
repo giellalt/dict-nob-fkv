@@ -6196,16 +6196,28 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">vieritysten</t>
             <t pos="Adv">rinnatusten</t>
+            <xg>
+            <x>De sitter ved siden av hverandre.</x>
+            <xt>Het istuthaan vieritysten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">side om side</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vieritysten</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">vieritysten</t>
-            <xg>
-            <x>De sitter side om side.</x>
-            <xt>Het istuthaan vieritysten.</xt>
-            </xg>
+	         <re>tett i tett</re>
+            <t pos="Adv">iholhaan</t>
          </tg>
       </mg>
    </e>
