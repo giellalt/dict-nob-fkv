@@ -4300,14 +4300,32 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">vanhaa</t>
+            <xg>
+               <x>Hänestä oon tullu vanhaa mies.</x>
+               <xt>Han har blitt en gammel mann.</xt>
+            </xg>
+            <xg>
+               <x>Hun er ett år gammel.</x>
+               <xt>Hän oon vuođen vanhaa.</xt>
+            </xg>
+            <xg>
+               <x>Han er tretti år gammel.</x>
+               <xt>Hän oon kolmekymmentä vuotta vanhaa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ikhäinen</t>
+            <t pos="A">ikäinen</t>
+            <t pos="A">ikuinen</t>
             <xg>
                <x>Han er ett år gammel.</x>
                <xt>Hän oon vuođen ikhäinen.</xt>
+            </xg>
+            <xg>
+               <x>Da jeg var ti år gammel, flyttet vi til Tromsø.</x>
+               <xt>Ko mie olin kymmenen ikuinen, met siiryimä Tromsshaan.</xt>
             </xg>
          </tg>
       </mg>
