@@ -2403,6 +2403,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	       <re>rekke å gjøre noe</re>
             <t pos="V" stem="kerkkii;kerin">keritä</t>
+            <t pos="V" stem="kerkkee;keren">keretä</t>
              <xg> 
                <x>Rekker du å gjøre dette?</x> 
                <xt>Kerkkiitkö sie tekemhään tämän?</xt> 
@@ -16542,41 +16543,67 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta;ame">
       <lg>
+         <l pos="V">stanse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="IV">pysättyyt</t>
+            <t pos="V" val="IV">pyssäänttyyt</t>
+            <t pos="V" val="IV">olestaat</t>
+            <t pos="V" val="IV">olestuut</t>
+            <xg>
+               <x>Bussen stanset ved holdeplassen.</x>
+               <xt>Pyssi olestui hollipaikale.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	          <re>få til å stoppe</re>
+            <t pos="V" val="TV">pysättäät</t>
+            <xg>
+               <x>Lokmotivføreren stanset toget.</x>
+               <xt>Lukmutiiviajaaja pysätti tookin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	           <re>stoppe, få til å stoppe</re>
+            <t pos="V" stem="toppaa;topan">topata</t>
+            <xg>
+               <x>Sjåføren stanset bilen.</x>
+               <xt>Ajaaja toppas piilin.</xt>
+            </xg>
+            <xg>
+               <x>Bilen stanset.</x>
+               <xt>Piili toppas.</xt>
+            </xg>
+             <xg>
+               <x>Hun stanset ballen med foten.</x>
+               <xt>Hän toppas pallon jalala.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;ame">
+      <lg>
          <l pos="V">stoppe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	          <re>få til å stanse</re>
-            <t pos="V" val="IV">olestaat</t>
-           <xg>
-               <x>Føreren stoppet bussen.</x>
-               <xt>Ajaaja olesti pyssin.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>stanse</re>
-            <t pos="V" val="IV">olestuut</t>
-            <xg>
-               <x>Bussen stanset.</x>
-               <xt>Pyssi olestui.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	          <re>stanse</re>
-            <t pos="V" val="IV">pyssäänttyyt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
 	           <re>stanse</re>
             <t pos="V" val="IV">pysättyyt</t>
-              <xg>
+            <t pos="V" val="IV">pyssäänttyyt</t>
+            <t pos="V" val="IV">olestaat</t>
+            <t pos="V" val="IV">olestuut</t>
+            <xg>
                <x>Toget stoppet.</x>
                <xt>Tooki pysättyi.</xt>
+            </xg>
+           <xg>
+               <x>De stoppet for å se på blomstrene.</x>
+               <xt>Het olestethiin kattelemhaan kukkii.</xt>
             </xg>
          </tg>
       </mg>
@@ -16598,8 +16625,8 @@ For the full license text, see the link above.</lic>
                <x>Sjåføren stoppet bilen.</x>
                <xt>Ajaaja toppas piilin.</xt>
             </xg>
-          <xg>
-            <x>Bilen stoppet.</x>
+              <xg>
+               <x>Bilen stoppet.</x>
                <xt>Piili toppas.</xt>
             </xg>
              <xg>
@@ -16654,7 +16681,7 @@ For the full license text, see the link above.</lic>
                <x>Han er en gutt.</x>
                <xt>Hän oon poika.</xt>
             </xg>
-            <xg>
+<!--            <xg>
                <x>De er her.</x>
                <xt>Het oon täälä.</xt>
             </xg>
@@ -16673,7 +16700,7 @@ For the full license text, see the link above.</lic>
              <xg>
                <x>Du er flink.</x>
                <xt>Sie olet seppä.</xt>
-            </xg>
+            </xg> -->
               <xg>
                <x>Dere er flinke.</x>
                <xt>Tet oletta sepät.</xt>
