@@ -50897,7 +50897,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">rettergang</l>
+         <l pos="N">rettssak</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -50911,12 +50911,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">oikkeuđenkäynti</t>
+            <t pos="N">prosessi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">prosessi</t>
+	         <re>rettssak</re>
+            <t pos="N">oikkeuđenkäynti</t>
          </tg>
       </mg>
    </e>
