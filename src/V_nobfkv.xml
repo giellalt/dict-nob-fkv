@@ -5872,6 +5872,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>henge selv</re>
             <t pos="V" val="IV">henkkaat</t>
+            <t pos="V" val="IV">riippuut</t>
             <xg>
                <x>Bildet henger på veggen.</x>
                <xt>Kuva henkkaa seinälä.</xt>
@@ -5882,6 +5883,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>henge noe</re>
             <t pos="V" val="TV">hengastaat</t>
+            <t pos="V" val="TV">henkastaat</t>
+            <t pos="V" val="TV">hengata</t>
             <xg>
                <x>Du kan henge bildet der.</x>
                <xt>Sie saatat henkastaat kuvan tuohon.</xt>
@@ -5894,33 +5897,14 @@ For the full license text, see the link above.</lic>
             <t pos="V">hirttäät</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">hengata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">riippuut</t>
-         </tg>
-      </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">bli åndpusten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">hengestyyt</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
+   <e src="ai;ta">
       <lg>
          <l pos="Phrase">bli andpusten</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">hengestyyt</t>
             <t pos="V">hengistyyt</t>
          </tg>
       </mg>
@@ -5990,10 +5974,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">hieraanttuut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">hierainttuut</t>
          </tg>
       </mg>
