@@ -876,39 +876,47 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Po">ympärillä</t>
             <t pos="Po">ympärille</t>
+            <t pos="Po">ympäriltä</t>
             <xg>
             <x>Leena ser seg rundt.</x>
             <xt>Leena kattoo ympärille.</xt>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">ympärillä</t>
-            <t pos="Po">ympäriltä</t>
-         </tg>
-      </mg>
    </e>
-   <e src="mk">
+   <e src="mk;ki">
       <lg>
          <l pos="Pr">med</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	           <re>hos, ved</re>
             <t pos="Po">kans</t>
 	      <xg>
                <x>Mie olin hänen kans.</x>
                <xt>Jeg var med henne.</xt>
             </xg>
 	      <xg>
-               <x>Havregrøt med melk.</x>
-               <xt>Kaurapuuro maiđon kans.</xt>
+               <x>Liker du havregrøt med melk?</x>
+               <xt>Tykkäätkö sie kaurapuurosta maiđon kans?</xt>
+            </xg>
+	      <xg>
+               <x>Met emmä puhu krannin kans.</x>
+               <xt>Vi snakker ikke med naboen.</xt>
+            </xg>
+	      <xg>
+               <x>I bilen var det fem personer med sjåføren.</x>
+               <xt>Piilissä oli viisi ihmistä ajjaajan kans.</xt>
+            </xg>
+             <xg>
+               <x>Med kone og barn.</x>
+               <xt>Ämmän ja lasten kans.</xt>
             </xg>
          </tg>
       </mg>
-            <mg>
+      <mg>
+<!--            <mg>
          <tg xml:lang="fkv">
 	           <re>iberegnet</re>
             <t pos="Pr">asti</t>
@@ -916,35 +924,30 @@ For the full license text, see the link above.</lic>
                <x>Fra og med i dag.</x>
                <xt>Tämän päivän jälkhiin.</xt>
             </xg>
-                               <!--     <xg>
+                                    <xg>
      <x>Fra og med i dag.</x>
                <xt>Täpälistä saakka.</xt>
-            </xg> -->
+            </xg>
                                  <xg>
                <x>Fem personer med sjåføren.</x>
                <xt>Viisi ihmistä ajajan kans.</xt>
             </xg>
          </tg>
-      </mg>
-            <mg>
+      </mg> -->
          <tg xml:lang="fkv">
 	           <re>samtidig som</re>
             <t pos="Po">kans</t>
-                                       <xg>
+            <xg>
                <x>Trekkfuglene kommer med våren.</x>
                <xt>Siirtolinnut tulhaan kevväimen kans.</xt>
             </xg>
-                                 <xg>
+            <xg>
+               <x>Sårene forsvinner med tiden.</x>
+               <xt>Haavat hävithään aijan kans/myötä.</xt>
+            </xg>
+            <xg>
                <x>Jeg kommer med en gang.</x>
                <xt>Mie tulen varsin.</xt>
-            </xg>
-                           <xg>
-               <x>Sårene forsvinner med tiden.</x>
-               <xt>Haavat hävithään aijan kans.</xt>
-            </xg>
-                          <xg>
-               <x>Sårene forsvinner med tiden.</x>
-               <xt>Haavat hävithään aijan myötä.</xt>
             </xg>
          </tg>
       </mg>
@@ -952,18 +955,21 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	           <re>i samme retning som</re>
             <t pos="Po">kans</t>
-                                       <xg>
+            <t pos="Po">myöten</t>
+            <t pos="Po">myöđen</t>
+            <t pos="Po">myötä</t>
+            <xg>
                <x>Stryke hunden med hårene.</x>
                <xt>Pyhkiit koiraa karvoi myöđen.</xt>
             </xg>
-                                 <xg>
-               <x>Ro med vinden.</x>
-               <xt>Souttaat tuulen myötä.</xt>
+            <xg>
+               <x>Han ror med vinden.</x>
+               <xt>Hän souttaa tuulen myötä.</xt>
             </xg>
-                </tg>
+         </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv">
+<!--         <tg xml:lang="fkv">
 	           <re>som har</re>
             <t pos="Po">kans</t>
                                        <xg>
@@ -976,121 +982,99 @@ For the full license text, see the link above.</lic>
             </xg>
               </tg>
       </mg>
-       <mg>
+       <mg> -->
          <tg xml:lang="fkv">
-	           <re>om redskap</re>
+	           <re>om redskap, måte, kroppsdel</re>
 	            <t pos="Po">-la/-lla/-lä/-llä</t>
-                                       <xg>
-               <x>Reise med buss</x>
-               <xt>Reisata pyssilä</xt>
+            <xg>
+               <x>Jeg reiste med buss til Alta.</x>
+               <xt>Mie reisasin pyssilä Alattihoon.</xt>
             </xg>
-                                   <xg>
-               <x>Skrive med penn</x>
-               <xt>Kirjoittaat pännälä</xt>
+            <xg>
+               <x>Ikke skriv oppgaven med rød penn.</x>
+               <xt>Älä kirjoita tehtävää punaisella pännälä.</xt>
             </xg>
-               </tg>
-      </mg>
-        <mg>
-         <tg xml:lang="fkv">
-	           <re>om kroppsdel</re>
-	            <t pos="Po">-la/-lla/-lä/-llä</t>
-                                       <xg>
-               <x>Vifte med hendene</x>
-               <xt>Huiskuttaat käsilä</xt>
+            <xg>
+               <x>De viftet med hendene.</x>
+               <xt>Het huiskutethiin käsilä.</xt>
             </xg>
-                                   <xg>
-               <x>Blunke med øynene</x>
-               <xt>Iskeet silmilä</xt>
-            </xg>
-               </tg>
-      </mg>
-              <mg>
-         <tg xml:lang="fkv">
-	           <re>om måte</re>
-	            <t pos="Po">-la/-lla/-lä/-llä</t>
-                                       <xg>
-               <x>Jeg tar tingene med ro.</x>
-               <xt>Mie otan assiit rauhalisesti. </xt>
-            </xg>
-                                   <xg>
+            <xg>
                <x>Hun gjør det med glede.</x>
-               <xt>Hän tekkee sen mielelä. </xt>
+               <xt>Hän tekkee sen mielelä.</xt>
             </xg>
-                 </tg>
-      </mg>
-              <mg>
-         <tg xml:lang="fkv">
-	           <re>om hverdagslig virksomhet</re>
-	            <t pos="Po">kans</t>
-                                       <xg>
-               <x>Prate med naboen.</x>
-               <xt>Pratata krannin kans. </xt>
-            </xg>
-                                  <xg>
-               <x>Leke med barna.</x>
-               <xt>Tierata lasten kans. </xt>
-            </xg>
-        <!--                          <xg>
-               <x>Være gift med noen.</x>
-               <xt>Olla nainu muutamen kans. </xt>
-            </xg> -->
-                 </tg>
-      </mg>
-           <mg>
-         <tg xml:lang="fkv">
-	           <re>sammen med</re>
-	            <t pos="Po">kans</t>
-             <xg>
-               <x>Med kone og barn.</x>
-               <xt>Ämmän ja lasten kans.</xt>
-            </xg>
-                  </tg>
+         </tg>
       </mg>
    </e>
-   <e src="mk;ae">
+   <e src="mk;ae;ki">
       <lg>
          <l pos="Pr">under</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	          <re>bevegelse til under noe, lavere enn noe, noe som  pågår</re>
+	         <re>i ro under noe</re>
+            <t pos="Po">alla</t>
+            <xg>
+               <x>Veien står under vann.</x>
+               <xt>Tie oon veđen alla.</xt>
+            </xg>
+            <xg>
+               <x>Katten sitter under et tre.</x>
+               <xt>Kissa istuu puun alla.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	          <re>bevegelse til under noe, lavere enn noe</re>
             <t pos="Po">alle</t>
-                <!--        <xg>
+            <xg>
                <x>Ballen trillet under bordet.</x>
                <xt>Pallo trillas pöyđän alle.</xt>
-            </xg> -->
-                <xg>
+            </xg>
+            <xg>
                <x>Hun er under atten.</x>
                <xt>Hän oon alle kahđeksentoista.</xt>
             </xg>
-              <xg>
-               <x>Ute er det under under null grader.</x>
+            <xg>
+               <x>Ute er det under null grader.</x>
                <xt>Ulkkoo oon alle nolla graadii.</xt>
             </xg>
-              <xg>
-               <x>De bot i etasjen under oss.</x>
-               <xt>Het asuthaan ala-etaasissa.</xt>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>bevegelse fra under noe</re>
+            <t pos="Po">alta</t>
+                 <xg>
+               <x>Kattungen kom fram fra under skapet.</x>
+               <xt>Kissanpenikkä laukkoi esile kaapin alta.</xt>
             </xg>
-                          <xg>
-               <x>Under krigen.</x>
-               <xt>Sođan aikana.</xt>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	          <re>i løpet av, noe som  pågår</re>
+            <t pos="Po">aikana</t>
+            <xg>
+               <x>Vi bygde huset i løpet av sommeren.</x>
+               <xt>Met rakensimma talon kesän aikana.</xt>
+            </xg>
+            <xg>
+               <x>Toisen mailmansođan aikana.</x>
+               <xt>Under andre verdenskrig.</xt>
             </xg>
          </tg>
       </mg>
             <mg>
          <tg xml:lang="fkv">
-            <re>bevegelse til i overført betydning</re>
+            <re>i overført betydning</re>
+            <t pos="Po">alla</t>
             <t pos="Po">alle</t>
+            <t pos="Po">alta</t>
             <xg>
                <x>Norge kom under Danmark.</x>
                <xt>Norja joutui Tanskan alle.</xt>
             </xg>
-         </tg>
-      </mg>
-         <mg>
-         <tg xml:lang="fkv">
-            <re>under noe i overført betydning, om prosess</re>
-            <t pos="Po">alle/alla</t>
             <xg>
                <x>Prosjektet er enda under arbeid.</x>
                <xt>Prosjekti oon vielä työn alla.</xt>
@@ -1101,40 +1085,12 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>bevegelse fra under noe</re>
-            <t pos="Po">alta</t>
-                 <xg>
-               <x>Kattungen kom fram under skapet.</x>
-               <xt>Kissanpenikkä laukkoi esile kaapin alta.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>i ro under noe, delvis skjult eller gjemt av noe</re>
-            <t pos="Po">alla</t>
-    <!--                             <xg>
-               <x>Katten gjemmer seg under senga.</x>
-               <xt>Kissa lymmyy sängyn alla.</xt>
-            </xg> -->
-                      <xg>
-               <x>Veien står under vann.</x>
-               <xt>Tie oon veđen alla.</xt>
-            </xg>
-                 <xg>
-               <x>Sitte under et tre.</x>
-               <xt>Istuut puun alla.</xt>
-            </xg>
-         </tg>
-      </mg>
             <mg>
          <tg xml:lang="fkv">
             <re>underlagt noe annet</re>
-            <t pos="Po">alle</t>
+            <t pos="Po">alla</t>
               <t pos="Po">-la/-lla/-lä/-llä</t>
-            <t type="grammar" href="https://nn.wikipedia.org/wiki/Adessiv">adessiv</t>
+<!--            <t type="grammar" href="https://nn.wikipedia.org/wiki/Adessiv">adessiv</t> -->
             <xg>
                <x>Seile under norsk flagg.</x>
                <xt>Purjettiit Norjan flavun alla.</xt>
@@ -1157,7 +1113,7 @@ For the full license text, see the link above.</lic>
                <x>Under press.</x>
                <xt>Painostuksen alla.</xt>
             </xg>
-                        <xg>
+            <xg>
                <x>Under tvil.</x>
                <xt>Epäilyksen alla.</xt>
             </xg>
