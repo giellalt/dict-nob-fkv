@@ -6615,12 +6615,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>rope</re>
             <t pos="V" stem="huuđa;huuta">huuttaat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>brøle</re>
             <t pos="V">karjuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>hyle, hvine</re>
+            <t pos="V">ulista</t>
+            <t pos="V">kiljuut</t>
+            <t pos="V">kilkkuut</t>
          </tg>
       </mg>
       <mg>
@@ -6630,16 +6640,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">kiljuut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	         <re>gråte</re>
             <t pos="V" stem="paru;parku">parkkuut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" stem="räävy;rääky">rääkkyyt</t>
          </tg>
       </mg>
@@ -10161,12 +10163,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="kiittele;kiitel">kiitelä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" stem="kiitä">kiittäät</t>
+            <t pos="V" stem="kiittele;kiitel">kiitelä</t>
          </tg>
       </mg>
    </e>
@@ -10176,21 +10174,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">kiljuut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">ulista</t>
+            <t pos="V">kiljuut</t>
+            <t pos="V">kilkkuut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>ule</re>
             <t pos="V">ulvoot</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>med tynn stemme</re>
             <t pos="V" stem="vingu;vinku">vinkkuut</t>
          </tg>
       </mg>
@@ -11160,9 +11157,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>si kra</re>
             <t pos="V" stem="kraaku">kraakkuut</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>kremte, hoste</re>
+            <t pos="V" stem="ryvi;ryki">rykkiit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">kremte</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="ryvi;ryki">rykkiit</t>
@@ -22755,17 +22764,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">hvine</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">ulista</t>
+            <t pos="V">kiljuut</t>
+            <xg>
+	            <x>Vinder hviner.</x>
+	            <xt>Tuuli ulissee.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>med tynn stemme</re>
             <t pos="V" stem="vingu;vinku">vinkkuut</t>
          </tg>
       </mg>
