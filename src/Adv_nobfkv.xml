@@ -4673,11 +4673,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>når en tviler på det som blir sagt</re>
             <t pos="Adv">makka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>når en ikke tror på det som blir sagt</re>
             <t pos="Adv">muka</t>
          </tg>
       </mg>
@@ -4697,35 +4692,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">myötä</t>
             <t pos="Adv">matkassa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">kans</t>
+            <t pos="Adv">seurassa</t>
             <xg>
-               <x>med mor</x>
-               <xt>muorin kans</xt>
+	            <x>Blir du med?</x>
+	            <xt>Tuletko myötä?</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">kansa</t>
             <xg>
-               <x>Han kom med gutten.</x>
-               <xt>Hän tuli pojan kansa.</xt>
+	            <x>Har du med deg bøkene?</x>
+	            <xt>Oonko sinula kirjat matkassa?</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">myötä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">seurassa</t>
+            <xg>
+	            <x>Jeg var med dem hele dagen.</x>
+	            <xt>Mie olin heiđän seurassa koko päivän.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
