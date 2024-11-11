@@ -22373,28 +22373,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="haa;hakka">haka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	         <re>f.eks. fiskekrok</re>
             <t pos="N" stem="kouku">koukku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="krooki">krookki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="krooki">nurkka</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
          <re>inne i huset</re>
             <t pos="N" stem="louko">loukko</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>utenfor huset</re>
+            <t pos="N" stem="krooki">nurkka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>haspe</re>
+            <t pos="N" stem="haa;hakka">haka</t>
+            <t pos="N" stem="krooki">krookki</t>
          </tg>
       </mg>
    </e>
