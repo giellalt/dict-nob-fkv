@@ -2973,21 +2973,32 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kohtaa;kohđan">kohđata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">kohđatella</t>
+            <xg>
+	            <x>Hyggelig å møtes!</x>
+	            <xt>Soma kohđatella!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ki">
       <lg>
-         <l pos="V">samling</l>
+         <l pos="V">kokkelere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kokkaa;kokan">kokata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">lage mat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">laittaat ruokkaa</t>
+            <t pos="V">kokata</t>
          </tg>
       </mg>
    </e>
@@ -9540,23 +9551,23 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V" val="TV" stem="keitä">keittäät</t>
             <t pos="V" stem="keittele;keitel">keitelä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" val="TV" stem="keitä">keittäät</t>
+            <t pos="V">kiehuut</t>
+            <xg>
+	            <x>Vannet koker.</x>
+	            <xt>Vesi kiehuu.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
 	         <re>fort, en gang</re>
             <t pos="V">kiehattaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">kiehuut</t>
          </tg>
       </mg>
       <mg>
@@ -10540,15 +10551,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kohtaa;kohđan">kohđata</t>
+            <t pos="V">kohđatella</t>
             <xg>
                <x>Det var hyggelig å treffe deg.</x>
                <xt>Se oli soma kohđata sinun.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">kohđatella</t>
          </tg>
       </mg>
       <mg>
