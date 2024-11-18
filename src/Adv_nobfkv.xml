@@ -197,6 +197,15 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vasta</t>
+            <xg>
+               <x>Han er bare guttungen.</x>
+               <xt>Hän oon vasta poikainen.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -1459,43 +1468,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="Adv">først</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">ensistä</t>
+            <t pos="Adv">ensisti</t>
+            <t pos="Adv">ensiksi</t>
+            <t pos="Adv">ensinä</t>
+            <t pos="Adv">ensin</t>
+            <t pos="Adv">eistä</t>
             <t pos="Adv">alusti</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">eistä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">ensiksi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">ensin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">ensisti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">ensistä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	         <re>ikke før</re>
             <t pos="Adv">vasta</t>
+            <xg>
+	            <x>Først nå kom han hjem.</x>
+	            <xt>Vasta nyt se tuli kothiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7829,6 +7824,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">vasta</t>
+            <xg>
+	            <x>Han kom ikke hjem før nå.</x>
+	            <xt>Vasta nyt se tuli kothiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
