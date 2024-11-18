@@ -7266,17 +7266,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">tohtiit</t>
+            <t pos="V">uskalttaat</t>
+            <t pos="V">rohjeta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>få seg til</re>
             <t pos="V" stem="ilkkee;iljen">iljetä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="tohđi">tohtiit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="uskala;uskalta">uskalttaat</t>
          </tg>
       </mg>
    </e>
@@ -21526,22 +21524,28 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="taiđa">taittaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="uskala;uskalta">uskalttaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	         <re>våge</re>
             <t pos="V">tohtiit</t>
+            <t pos="V">uskalttaat</t>
+            <t pos="V">rohjeta</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">rohjeta</t>
+	         <re>få seg til</re>
+            <t pos="V">iljetä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>tørke</re>
+            <t pos="V">kuivattaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>kunne, kanskje</re>
+            <t pos="V">taittaat</t>
          </tg>
       </mg>
    </e>
@@ -22012,22 +22016,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="tohđi">tohtiit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="uskala;uskalta">uskalttaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="V">tohtiit</t>
+            <t pos="V">uskalttaat</t>
             <t pos="V">rohjeta</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">iljetä</t>
+	         <re>få seg til</re>
+            <t pos="V" stem="ilkkee;iljen">iljetä</t>
          </tg>
       </mg>
    </e>
