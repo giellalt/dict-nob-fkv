@@ -22663,10 +22663,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">haltija</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">halttija</t>
          </tg>
       </mg>
@@ -45504,21 +45500,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>de underjordiske</re>
+            <t pos="N" stem="manalaise;manalais">manalainen</t>
             <t pos="N">maanalhainen</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="manalaise;manalais">manalainen</t>
-         </tg>
-      </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">hulder</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">manalainen</t>
             <t pos="N">maanalhainen</t>
          </tg>
       </mg>
