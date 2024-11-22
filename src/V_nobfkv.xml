@@ -355,7 +355,7 @@ For the full license text, see the link above.</lic>
             <t pos="Phrase">tykätä synttii</t>
              <xg>
                <x>Barna syntes synd på tiggerne.</x>
-               <xt>Lapset tykäthiin synttii kerjääjiistä.</xt>
+               <xt>Lapset tykäthiin synttii kerjääjistä.</xt>
             </xg>
          </tg>
       </mg>
@@ -1531,10 +1531,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>ha inntrykk av, mene</re>
             <t pos="V">meinata</t>
             <t pos="V">pittäät</t>
             <t pos="V">tykätä</t>
             <t pos="V">syynestyyt</t>
+            <t type="grammar" href="https://press.nordicopenaccess.no/index.php/noasp/catalog/view/24/101/531#sec5.3.5">elativ</t>
             <xg>
                <x>Jeg syns du har rett.</x>
                <xt>Mie meinaan ette sie olet oikkeessa.</xt>
@@ -1544,12 +1546,16 @@ For the full license text, see the link above.</lic>
                <xt>Hän pittää ette sie olet kaunis.</xt>
             </xg>
             <xg>
-               <x>De synes kvensk er et vakkert språk.</x>
-               <xt>Het tykkäävät ette kvääni oon kaunis kieli.</xt>
+               <x>De synes synd på de hjemløse.</x>
+               <xt>Het tykkäävät synttii kođittomista.</xt>
             </xg>
             <xg>
                <x>Vi synes at dere burde bry dere mere om oss.</x>
                <xt>Met syynestymmä ette tet piđättä perustaat meistä enämen.</xt>
+            </xg>
+            <xg>
+               <x>Jeg synes dette møtet har vart kjempelenge, skal vi slutte av?</x>
+               <xt>Minusta tämä möötti oon kestäny jo hirmu kauvoin, lopettaisimako?</xt>
             </xg>
          </tg>
       </mg>
