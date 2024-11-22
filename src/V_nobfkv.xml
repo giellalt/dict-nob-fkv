@@ -352,7 +352,7 @@ For the full license text, see the link above.</lic>
       </mg>
             <mg>
          <tg xml:lang="fkv">
-            <t pos="V">tykätä synttii</t>
+            <t pos="Phrase">tykätä synttii</t>
              <xg>
                <x>Barna syntes synd på tiggerne.</x>
                <xt>Lapset tykäthiin synttii kerjääjiistä.</xt>
@@ -1532,29 +1532,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">meinata</t>
+            <t pos="V">pittäät</t>
+            <t pos="V">tykätä</t>
+            <t pos="V">syynestyyt</t>
             <xg>
                <x>Jeg syns du har rett.</x>
                <xt>Mie meinaan ette sie olet oikkeessa.</xt>
+            </xg>
+            <xg>
+               <x>Han synes du er pen.</x>
+               <xt>Hän pittää ette sie olet kaunis.</xt>
+            </xg>
+            <xg>
+               <x>De synes kvensk er et vakkert språk.</x>
+               <xt>Het tykkäävät ette kvääni oon kaunis kieli.</xt>
+            </xg>
+            <xg>
+               <x>Vi synes at dere burde bry dere mere om oss.</x>
+               <xt>Met syynestymmä ette tet piđättä perustaat meistä enämen.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="piđä;pitä">pittäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="tykkää;tykän">tykätä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">syynestyyt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	         <re>være synlig</re>
             <t pos="V">näkkyyt</t>
             <xg>
                <x>Et lys synes i enden av tunnelen.</x>
