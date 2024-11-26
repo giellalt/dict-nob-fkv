@@ -5214,18 +5214,24 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="hae;hake">hakkeet</t>
             <xg>
-            <x>søke tilflukt</x>
-            <xt>hakkeet turvhaan</xt>
+            <x>De søkte tilflukt i Norge.</x>
+            <xt>Het hajethiin tänne Norjhaan turvhaan.</xt>
             </xg>
             <xg>
-            <x>Olav den hellige søkte tilflukt i Novgorod før han dro hjem og mistet livet i slaget på Stiklestad.</x>
-            <xt>Pyhä Olav haki tänne Novgorodhiin turvhaan ennen ko hän meni kothiin ja menetti hengen Stiklestadin taistelussa.</xt>
+            <x>Jeg søkte på den ledige stillingen og fikk den.</x>
+            <xt>Mie hajin sitä vapaata virkkaa ja sain sen.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>søke til</re>
+            <t pos="V">söökata</t>
             <t pos="V">söökätä</t>
+            <xg>
+               <x>Hun søkte til den yrkesskolen.</x>
+               <xt>Hän söökasi siihen ammattikoulhuun.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21498,20 +21504,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">säästäät</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">søke til</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">söökata</t>
-            <xg>
-               <x>Hun søkte til den yrkesskolen.</x>
-               <xt>Hän söökasi siihen ammattikoulhuun.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
