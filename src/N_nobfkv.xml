@@ -20120,15 +20120,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">elekriski</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">elektrisiteetti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">sähkö</t>
          </tg>
       </mg>
@@ -58323,23 +58315,28 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">rauma</t>
-            <t pos="N">riuna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	         <re>rasktflytende vann</re>
             <t pos="N" stem="virra;virt">virta</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>elektrisitet</re>
+            <t pos="N">virta</t>
+            <t pos="N">elektrisiteetti</t>
+            <t pos="N">sähkö</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>brådjup</re>
             <t pos="N">pänkärä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="siikathee">siikatet</t>
+            <t pos="N">rauma</t>
+            <t pos="N">riuna</t>
          </tg>
       </mg>
    </e>
