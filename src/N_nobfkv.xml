@@ -27087,27 +27087,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">lykke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>glede</re>
             <t pos="N" stem="illo">ilo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="lyky">lykky</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="onne;onne">onni</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>flaks</re>
+            <t pos="N" stem="lyky">lykky</t>
+            <t pos="N" stem="onne;onne">onni</t>
             <t pos="N">tuuri</t>
          </tg>
       </mg>
@@ -51184,13 +51179,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">hell</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="onne;onne">onni</t>
+            <t pos="N">onni</t>
+            <t pos="N">lykky</t>
          </tg>
       </mg>
    </e>
