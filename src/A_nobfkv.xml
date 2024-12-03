@@ -7237,23 +7237,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">kort</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">lyhy</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="lyhykäise;lyhykäis">lyhykäinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">lyhyt</t>
+            <t pos="A">lyhykäinen</t>
+            <t pos="A">lyhkäinen</t>
          </tg>
       </mg>
    </e>
