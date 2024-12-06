@@ -12594,6 +12594,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="V">forkaste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">hylätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">forsmå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">hylätä</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="Phrase">ta en tur</l>
@@ -23720,13 +23740,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Phrase">rulle ned</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">vieritä</t>
+            <t pos="V">vieriit</t>
          </tg>
       </mg>
    </e>
