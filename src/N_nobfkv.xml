@@ -14855,10 +14855,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">raasa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">raasi</t>
             <t pos="N">rotu</t>
          </tg>
       </mg>
@@ -19256,10 +19253,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">auksuuni</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">huutokauppa</t>
          </tg>
       </mg>
@@ -19271,10 +19264,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">aukusti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">aukustikuu</t>
          </tg>
       </mg>
@@ -25837,28 +25826,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">fornøyelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hupi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">huvi</t>
+            <t pos="N">huvitus</t>
             <t pos="N">somanpito</t>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">moro</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hupi</t>
+            <t pos="N">huvi</t>
+            <t pos="N">huvitus</t>
+            <t pos="N">somanpito</t>
          </tg>
       </mg>
    </e>
@@ -25984,10 +25974,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">huvitusparkki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">somanpitoparkki</t>
          </tg>
       </mg>
@@ -26008,24 +25994,28 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">hykset</t>
+            <t pos="N">tukka</t>
+            <xg>
+            <x>Han har grått hår.</x>
+            <xt>Hänelä oon harmaajat hykset.</xt>
+            </xg>
+            <xg>
+            <x>Han har blondt hår.</x>
+            <xt>Hänelä oon vaalee tukka.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
          <re>et ~ på hodet</re>
             <t pos="N" stem="hykse">hyksi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">hykset</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
          <re>på dyr eller hud eller på menneskekropp</re>
             <t pos="N">karva</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="tuka">tukka</t>
          </tg>
       </mg>
    </e>
@@ -32640,10 +32630,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kaura</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
             <t pos="N">haaveri</t>
          </tg>
       </mg>
@@ -32655,15 +32641,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kaurakryyni</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">prässikryyni</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
             <t pos="N">haaverikryyni</t>
          </tg>
       </mg>
@@ -32675,15 +32653,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kaurakryynipuuro</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">kaurapuuro</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">prässikryynipuuro</t>
          </tg>
       </mg>
@@ -32705,10 +32675,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kauđe;kaut">kausi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">sesonki</t>
          </tg>
       </mg>
@@ -61826,23 +61792,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">utleire</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">rässi</t>
+            <t pos="N">ressi</t>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Phrase">lang sjøstrand</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">rässi</t>
+            <t pos="N">ressi</t>
          </tg>
       </mg>
    </e>
