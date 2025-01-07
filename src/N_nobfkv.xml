@@ -78292,13 +78292,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">forbryter</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">rikolinen</t>
+            <t pos="N">lajinrikkooja</t>
+            <t pos="N">lainrikkooja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;es">
+      <lg>
+         <l pos="N">lovbryter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rikolinen</t>
+            <t pos="N">lajinrikkooja</t>
+            <t pos="N">lainrikkooja</t>
          </tg>
       </mg>
    </e>
