@@ -5100,17 +5100,14 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="särje;särke">särkkeet</t>
+	         <re>knuse</re>
+            <t pos="V">särkkeet</t>
+            <t pos="V">rikkoot</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">tuhota</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">rikkoot</t>
          </tg>
       </mg>
    </e>
@@ -15364,7 +15361,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">knuse</l>
       </lg>
@@ -15375,7 +15372,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="särje;särke">särkkeet</t>
+            <t pos="V">särkkeet</t>
+            <t pos="V">rikkoot</t>
          </tg>
       </mg>
    </e>
