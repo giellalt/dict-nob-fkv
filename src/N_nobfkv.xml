@@ -41197,13 +41197,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">lån</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">laina</t>
+            <xg>
+	            <x>Jeg fikk låne den.</x>
+	            <xt>Mie sain sen lainhaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -85419,7 +85423,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">lainanantaminen</t>
+            <t pos="N">lajinantaminen</t>
+            <t pos="N">lainantaminen</t>
          </tg>
       </mg>
    </e>
