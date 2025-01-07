@@ -85417,7 +85417,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">lovgivning</l>
       </lg>
@@ -85425,6 +85425,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">lajinantaminen</t>
             <t pos="N">lainantaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ki">
+      <lg>
+         <l pos="N">långivning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lainanantaminen</t>
          </tg>
       </mg>
    </e>
