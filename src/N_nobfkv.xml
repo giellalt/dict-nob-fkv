@@ -25290,18 +25290,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">syssel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">homma</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">hommailu</t>
+            <t pos="N">tekeminen</t>
+            <t pos="N">touhu</t>
+            <t pos="N">pouha</t>
          </tg>
       </mg>
       <mg>
@@ -67099,20 +67098,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tekeminen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">toimi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">homma</t>
             <t pos="N">touhu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">puoha</t>
          </tg>
       </mg>
@@ -67123,6 +67111,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">työteliijä</t>
+            <t pos="N">työntekkiijä</t>
             <t pos="N">tekkiijä</t>
          </tg>
       </mg>
@@ -67130,16 +67120,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>mannlig</re>
             <t pos="N" stem="työmiehe">työmies</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">työntekkiijä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">työteliijä</t>
          </tg>
       </mg>
    </e>
