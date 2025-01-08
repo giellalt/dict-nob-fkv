@@ -18770,22 +18770,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">asentoblokki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kertakartano</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kertatalo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">asumablokki</t>
+            <t pos="N">asentoblokki</t>
+            <t pos="N">kertakartano</t>
+            <t pos="N">kertatalo</t>
          </tg>
       </mg>
    </e>
@@ -18795,22 +18783,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">asentoblokki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kertakartano</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kertatalo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">asumablokki</t>
+            <t pos="N">asentoblokki</t>
+            <t pos="N">kertakartano</t>
+            <t pos="N">kertatalo</t>
          </tg>
       </mg>
    </e>
@@ -18820,18 +18796,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">asentohuonet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">asumahuonet</t>
             <t pos="N">asumatalo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">asumarakenus</t>
+            <t pos="N">asentohuonet</t>
          </tg>
       </mg>
    </e>
@@ -18851,12 +18819,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">asentopaikka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="asumapaika">asumapaikka</t>
+            <t pos="N">asentopaikka</t>
          </tg>
       </mg>
    </e>
@@ -18866,7 +18830,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="ashee">aset</t>
+            <t pos="N">aset</t>
+            <t pos="N">leekka</t>
+            <t pos="N">värkky</t>
+            <t pos="N">lelu</t>
          </tg>
       </mg>
    </e>
@@ -25038,10 +25005,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hirsihuonet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="hirsitallo">hirsitalo</t>
          </tg>
       </mg>
@@ -25735,22 +25698,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">hus</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="huonhee">huonet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="tallo">talo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="tuva;tuppa">tupa</t>
          </tg>
       </mg>
@@ -26082,33 +26037,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;ia">
+   <e src="ai;ta;ia;es">
       <lg>
          <l pos="N">hytte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="hytä">hyttä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="majja">maja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="möki">mökki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="möki">pirtti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="möki">tupa</t>
+            <t pos="N">hyttä</t>
+            <t pos="N">maja</t>
+            <t pos="N">mökki</t>
+            <t pos="N">pirtti</t>
+            <t pos="N">tupa</t>
+            <t pos="N">kämppä</t>
          </tg>
       </mg>
    </e>
@@ -26119,10 +26059,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hyttäala</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">hyttäkenttä</t>
          </tg>
       </mg>
@@ -26169,13 +26105,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">toalett</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="hyysikä">hyysikkä</t>
+            <t pos="N">hyysikkä</t>
+            <t pos="N">toaletti</t>
          </tg>
       </mg>
    </e>
@@ -26186,15 +26123,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hyyssä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">juuso</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">tiuso</t>
          </tg>
       </mg>
