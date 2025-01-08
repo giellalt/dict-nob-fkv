@@ -21325,6 +21325,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">fiilipunkki</t>
+            <t pos="N">punkki</t>
             <t pos="N">fiili</t>
             <t pos="N">viili</t>
          </tg>
@@ -21346,7 +21348,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="fiilipunki">fiilipunkki</t>
+            <t pos="N">fiilipunkki</t>
+            <t pos="N">punkki</t>
+            <t pos="N">fiili</t>
+            <t pos="N">viili</t>
          </tg>
       </mg>
    </e>
@@ -45152,6 +45157,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dunge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="läjjä">läjä</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N">varmtvannsbasseng</l>
@@ -57155,7 +57170,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">fiilipunkki</t>
             <t pos="N">punkki</t>
+            <t pos="N">fiili</t>
+            <t pos="N">viili</t>
          </tg>
       </mg>
    </e>
@@ -63053,11 +63071,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">starter for å lage ny filbunke</l>
+         <l pos="N">filbunkstarter</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>brukes når man lager viili/filbunke, et jogurtlignende produkt</re>
+         <re>brukes når man lager viili/filbunke</re>
             <t pos="N">pohjapiimä</t>
          </tg>
       </mg>
