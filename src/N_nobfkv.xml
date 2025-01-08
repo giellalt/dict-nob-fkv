@@ -21356,11 +21356,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="fiilipunki">fiilipunkki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">fiilipunkki</t>
+            <t pos="N">punkki</t>
             <t pos="N">fiili</t>
             <t pos="N">viili</t>
          </tg>
@@ -21432,20 +21429,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">fiskari</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">kalastaaja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">kalanpyyttääjä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">pyyttääjä</t>
          </tg>
       </mg>
@@ -21467,20 +21452,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">fisku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="kalanpyyđö;kalanpyyttö">kalanpyytö</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="kalastukse">kalastus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="onkimise;onkimis">onkiminen</t>
          </tg>
       </mg>
@@ -21552,15 +21525,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">flasku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">poteeli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">potteli</t>
          </tg>
       </mg>
@@ -21628,10 +21593,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">lentohamina</t>
             <t pos="N">lentokenttä</t>
             <t pos="N">lentämäkenttä</t>
             <t pos="N">flyyikenttä</t>
-            <t pos="N">lentohamina</t>
          </tg>
       </mg>
    </e>
@@ -45183,10 +45148,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="läjjä">läjä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">pino</t>
          </tg>
       </mg>
@@ -57169,12 +57130,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ki;ai;es">
       <lg>
          <l pos="N">bunke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>stabel</re>
+            <t pos="N">läjä</t>
+            <t pos="N">pino</t>
+            <t pos="N">punkki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>trekar til å syrne melk eller fløte i</re>
             <t pos="N">punkki</t>
          </tg>
       </mg>
@@ -58485,10 +58455,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">päälyspiimä</t>
-         </tg>
-      </mg>
-        <mg>
-         <tg xml:lang="fkv">
             <t pos="N">syyryflöötti</t>
          </tg>
       </mg>
@@ -58572,10 +58538,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="päässiise;päässiis">päässiinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">päässiäinen</t>
          </tg>
       </mg>
