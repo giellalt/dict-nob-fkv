@@ -18920,7 +18920,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">porrasaskelheet</t>
+	         <re>trappetrin</re>
+            <t pos="N">trappuaskelet</t>
+            <t pos="N">trappuaskel</t>
+            <t pos="N">porrasaskelet</t>
+            <t pos="N">porrasaskel</t>
          </tg>
       </mg>
       <mg>
@@ -18935,7 +18939,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="askelhee">askelet</t>
+            <t pos="N">askelet</t>
+            <t pos="N">askel</t>
          </tg>
       </mg>
    </e>
@@ -106369,16 +106374,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
-      <lg>
-         <l pos="Phrase">en som bor på landet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">maalainen</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ki">
       <lg>
          <l pos="N">trappetrinn</l>
@@ -106387,6 +106382,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">trappuaskelet</t>
             <t pos="N">trappuaskel</t>
+            <t pos="N">porrasaskelet</t>
+            <t pos="N">porrasaskel</t>
          </tg>
       </mg>
    </e>
