@@ -743,23 +743,41 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="mj;ki">
       <lg>
          <l pos="Phrase">hva slags</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">minkälainen</t>
+            <t pos="A">millainen</t>
+            <xg>
+            <x>Hva slags mat har du tenkt å servere gjestene?</x>
+            <xt>Minkälaistä ruokkaa sie aijot tarjota vierhaile?</xt>
+            </xg>
+            <xg>
+            <x>Hva slags person er du da?</x>
+            <xt>Minkälainen persoona sie olet sitte?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="mj;ki">
       <lg>
          <l pos="A">hvordan</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">minkälainen</t>
+            <t pos="A">millainen</t>
+            <xg>
+            <x>Hvordan person er han?</x>
+            <xt>Minkälainen persoona hän oon?</xt>
+            </xg>
+            <xg>
+            <x>Hvordan var det i utlandet?</x>
+            <xt>Minkälaista se oli ulkomaissa?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
