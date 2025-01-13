@@ -7636,23 +7636,38 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="A">mange</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="mone;mon">moni</t>
+	         <re>som substantiv</re>
+            <t pos="A">moni</t>
+            <t pos="A">usheet</t>
+            <t pos="A">paljot</t>
+            <xg>
+	            <x>Mange syns at vinteren er for lang.</x>
+	            <xt>Monet tykkäävät ette talvi oon liijan pitkä.</xt>
+            </xg>
+            <xg>
+	            <x>Mange nordmenn flyttet til Amerika på 1800-tallet.</x>
+	            <xt>Usheet norjalaiset siirythiin Amerikkhaan 1800-luvula.</xt>
+            </xg>
+            <xg>
+	            <x>Mange av oss nordlendiger har kvenske røtter.</x>
+	            <xt>Usheilä meistä pohjaisnorjalaisista oon kväänijuuret.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>tallrik, mye</re>
             <t pos="A">paljon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">ussee</t>
+            <xg>
+	            <x>Her var det da alt for mange mennesker her, la oss dra.</x>
+	            <xt>Täälähän oon liijan paljon ihmissii, met menemä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
