@@ -39176,17 +39176,23 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kurri">kuri</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kuritus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="rangaistukse">rangaistus</t>
+            <xg>
+	            <x>Handlingen er straffebelagt.</x>
+	            <xt>Teko oon rangaistuksen alainen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>disiplin</re>
+            <t pos="N">kuri</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>tukt</re>
+            <t pos="N">kuritus</t>
          </tg>
       </mg>
    </e>
@@ -39210,13 +39216,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">tukt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kuritus</t>
+            <t pos="N">kuri</t>
          </tg>
       </mg>
    </e>
