@@ -1457,22 +1457,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">alkhuun</t>
+            <t pos="Adv">alusta</t>
+            <t pos="Adv">ensialusta</t>
+            <t pos="Adv">alusti</t>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">i begynnelsen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>om tid</re>
-            <t pos="Adv">alkuaikhaan</t>
+            <t pos="Adv">alkhuun</t>
+            <t pos="Adv">alusta</t>
+            <t pos="Adv">ensialusta</t>
+            <t pos="Adv">alusti</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">ensialusta</t>
+	         <re>om tid</re>
+            <t pos="Adv">alkuaikhaan</t>
          </tg>
       </mg>
    </e>
@@ -1489,6 +1495,10 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">ensin</t>
             <t pos="Adv">eistä</t>
             <t pos="Adv">alusti</t>
+            <xg>
+	            <x>Først må du spørre henne om lov.</x>
+	            <xt>Ensistä sie häyđyt kyssyyt häneltä luppaa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -1501,13 +1511,25 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kerran</t>
+            <xg>
+	            <x>Når du nå først er her, så må du hjelpe meg med oppvasken. </x>
+	            <xt>Ko sie nyt kerran olet täälä, se sie häyđyt auttaat minnuu astiinpeson kans.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">for å begynne med</l>
+         <l pos="Adv">til å begynne med</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">alkhuun</t>
+            <t pos="Adv">alusta</t>
+            <t pos="Adv">ensialusta</t>
             <t pos="Adv">alusti</t>
          </tg>
       </mg>
