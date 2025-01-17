@@ -39915,7 +39915,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>kant, ved, langs</re>
             <t pos="N" stem="varre;vart">varsi</t>
+            <xg>
+	            <x>De plukker blomster langs siden av elva.</x>
+	            <xt>Het plukathiin kukkii joven varresta.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -49484,6 +49489,28 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">nettilaita</t>
             <t pos="N">nettisaitti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">klo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>hos krabber o.l.</re>
+            <t pos="N">saksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">klør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>hos krabber o.l.</re>
+            <t pos="N">sakset</t>
          </tg>
       </mg>
    </e>
