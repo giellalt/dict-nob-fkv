@@ -63,7 +63,17 @@ For the full license text, see the link above.</lic>
    </e>
   <!--    <xg>   <e src="ki">
       <lg>
-         <l pos="A">som slutter på</l>
+         <l pos="Phrase">som slutter på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">-loppuinen</t>
+         </tg>
+      </mg>
+   </e> -->
+  <!--    <xg>   <e src="ki">
+      <lg>
+         <l pos="A">endende</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -138,7 +148,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-           <re>middels, mellom</re>
            <t pos="A">meediumi</t>
          </tg>
       </mg>
