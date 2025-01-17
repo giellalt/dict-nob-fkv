@@ -4819,46 +4819,47 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">jouten</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A" stem="joutilhaa">joutilas</t>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">uvirksom</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">jouten</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="A">joutilas</t>
             <t pos="A">toimeton</t>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl;ki">
+   <e src="ai;ta;kl;ki;es">
       <lg>
          <l pos="A">unødvendig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">jouttaava</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">turha</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">tarpheeton</t>
+            <xg>
+	            <x>Det har skjedd så mye unødvendig her i det siste.</x>
+	            <xt>Täälä oon tapattunnu niin paljon tarpheetonta viimi aikoina.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">jouttaava</t>
+            <t pos="A">turha</t>
+            <xg>
+	            <x>Jeg gjorde det for ingenting.</x>
+	            <xt>Mie tehin sen turhaan takia.</xt>
+            </xg>
+            <xg>
+	            <x>Jeg orker ikke det unødvendige snakket der.</x>
+	            <xt>En jaksa nuoita jouttaaviita puhheita.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4874,6 +4875,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">rietas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">unødig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tarpheeton</t>
          </tg>
       </mg>
    </e>
@@ -6652,13 +6663,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;kl">
+   <e src="ta;kl;es">
       <lg>
          <l pos="A">lat</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">laiska</t>
+            <t pos="A">joutilas</t>
          </tg>
       </mg>
    </e>
