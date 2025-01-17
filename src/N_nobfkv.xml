@@ -11142,15 +11142,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">netti</t>
+            <t pos="N">verkko</t>
          </tg>
-            <syng>
-               <syn>internetti</syn>
-            </syng>
       </mg>
             <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="verko">verkko</t>
+	         <re>internett</re>
+            <t pos="N">netti</t>
+            <t pos="N">verkko</t>
          </tg>
       </mg>
    </e>
@@ -12972,10 +12971,10 @@ For the full license text, see the link above.</lic>
             <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kärje;kärkke">kärki</t>
-            <xg>
+<!--             <xg>
             <x>Handelen økte og slutten av 1400- og 1500-tallet kalles «den gode tid» i Finnmark, en oppgangstid, da Finnmark lå på topp i Norden.</x>
             <xt>Kauppa lissäintyi, ja 1400- ja 1500-luvun lopussa oli Finmarkussa “hyvä aika”, nousun aika, ko Finmarkku oli kärjessä Pohjaismaissa.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -49404,8 +49403,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">nettisaitti</t>
             <t pos="N">nettilaita</t>
+            <t pos="N">nettisaitti</t>
          </tg>
       </mg>
    </e>
