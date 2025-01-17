@@ -16685,7 +16685,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">formiddag</l>
       </lg>
@@ -23858,7 +23858,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;ia">
+   <e src="ai;ta;ia;anb;ki">
       <lg>
          <l pos="N">kant</l>
       </lg>
@@ -23872,6 +23872,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>bord, tøykant som har annen farge enn resten at tøystykket</re>
             <t pos="N" stem="kanti">kantti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">laita</t>
+            <xg>
+	            <x>Jeg satt på sengekanten og gnidde meg i øynene.</x>
+	            <xt>Mie isuin sängyn laiđala ja hieroin silmii.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -33495,18 +33504,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">middag</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>måltid</re>
             <t pos="N">keskipäivä</t>
+            <t pos="N">murkina</t>
+            <t pos="N">puolinen</t>
+            <xg>
+	            <x>Hva skal vi lage til middag idag?</x>
+	            <xt>Mitä met laitama keskipäiväksi tääpänä?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">murkina</t>
+	         <re>tidspunkt</re>
+            <t pos="N">keskipäivä</t>
+            <t pos="N">puolipäivä</t>
          </tg>
       </mg>
    </e>
@@ -39823,35 +39841,74 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;mj;ia">
+   <e src="ai;ta;mj;ia;ki">
       <lg>
          <l pos="N">side</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N" stem="puole;puol">puoli</t>
+            <xg>
+	            <x>Fortell litt om dine gode og dårlige sider.</x>
+	            <xt>Muistele pikkuisen sinun hyvistä ja huonoista puolista.</xt>
+            </xg>
+            <xg>
+	            <x>Ingen av sidene vant krigen.</x>
+	            <xt>Ei kumpikhaan puoli voittanu sottaa.</xt>
+            </xg>
+            <xg>
+	            <x>Hvem sin side er du på egentlig?</x>
+	            <xt>Kenen puolela oikkeestansa olet?</xt>
+            </xg>
+            <xg>
+	            <x>Familien bor på andre siden av grensen.</x>
+	            <xt>Peret assuu rajan toisela puolela.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
          <re>hos et menneske, dyr, fjellside</re>
             <t pos="N" stem="kylje;kylkke">kylki</t>
+            <xg>
+	            <x>Vi spiser ribbe til jul.</x>
+	            <xt>Jouluina met syömä sijankylkkee.</xt>
+            </xg>
+            <xg>
+	            <x>De klatrer opp fjellsiden.</x>
+	            <xt>Het kiikkuuvat vaarankylkkee.</xt>
+            </xg>
+            <xg>
+	            <x>Vi ligger side og side i senga.</x>
+	            <xt>Met makkoilemma kylki kylkkee vasten sängyssä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="laiđa;laitta">laita</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="puole;puol">puoli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">puolinen</t>
+            <xg>
+	            <x>Det er 250 sider i boka.</x>
+	            <xt>Kirjassa oon 250 laittaa.</xt>
+            </xg>
+            <xg>
+	            <x>Det vokser sjeldne planter på de solfylte sidene av dalen.</x>
+	            <xt>Aurinkoisissa paikoissa lakson laiđoila kassuu harvinaissii kasvui.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sivvu</t>
             <t pos="N">sivu</t>
+            <xg>
+	            <x>Det er 250 sider i boka.</x>
+	            <xt>Kirjassa oon 250 sivvuu.</xt>
+            </xg>
+            <xg>
+	            <x>Tre til siden!</x>
+	            <xt>Astu sivhuun!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -39862,6 +39919,25 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">saiti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>som er på/fra en side av noe</re>
+            <t pos="A">puolilainen</t>
+            <t pos="A">puolinen</t>
+            <xg>
+	            <x>Mors slektninger fra finsk side kommer på besøk i helga.</x>
+	            <xt>Muorin suomenpuolilaiset sukulaiset tulleevat kylhään tänä pyhänä.</xt>
+            </xg>
+            <xg>
+	            <x>Nå er vi på den norske siden av elva.</x>
+	            <xt>Met olema nyt Norjan puolisella jovenrannala.</xt>
+            </xg>
+            <xg>
+	            <x>Toalettet er i rommet på høyre side.</x>
+	            <xt>Hyysikkä oon oikkeen puolisessa lomassa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -39882,10 +39958,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kylrötteri</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
             <t pos="N">keltajuuri</t>
          </tg>
       </mg>
@@ -39929,6 +40001,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>korn som er sådd eller skal sås</re>
             <t pos="N">kylvö</t>
          </tg>
       </mg>
@@ -41189,6 +41262,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="laiđa;laitta">laita</t>
+            <xg>
+	            <x>Jeg leste boken fra perm til perm.</x>
+	            <xt>Mie lujin kirjan laiđasta laithaan.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -57164,16 +57241,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="puole;puol">puoli</t>
+            <xg>
+	            <x>Be elevene fra hver halvden av klassen om å fortelle hva de har lært.</x>
+	            <xt>Pyyđä kummanki puolen koululaissii muistelemhaan mitä het oon oppinheet.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">puolisko</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">puolinen</t>
          </tg>
       </mg>
       <mg>
@@ -57185,19 +57261,52 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+<!--      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puolinen</t>
+            <xg>
+            <x>Ikke spis av min halvdel av kaken!</x>
+            <xt>Älä syö minun puolista kakkoo!</xt>
+            </xg>
+         </tg>
+      </mg> -->
    </e>
-   <e src="ai">
+   <e src="ki">
       <lg>
-         <l pos="Phrase">middag omkring kl. tolv</l>
+         <l pos="N">halvpart</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">puolinen</t>
+            <t pos="N">puoli</t>
+            <xg>
+	            <x>Jeg skjønte ikke halvparten det engang.</x>
+	            <xt>En ymmärtänny siitä puoliikhaan.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">puolipäivä</t>
+            <t pos="N">puolisko</t>
+         </tg>
+      </mg>
+<!--      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puolinen</t>
+            <xg>
+            <x>Ikke spis av min halvpart av kaken!</x>
+            <xt>Älä syö minun puolista kakkoo!</xt>
+            </xg>
+         </tg>
+      </mg> -->
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">helvt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puolisko</t>
+            <t pos="N">puoli</t>
          </tg>
       </mg>
    </e>
