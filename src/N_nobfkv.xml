@@ -24048,12 +24048,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">herkku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">hersku</t>
+            <t pos="N">herkku</t>
          </tg>
       </mg>
    </e>
@@ -24063,12 +24059,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">herkku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">hersku</t>
+            <t pos="N">herkku</t>
          </tg>
       </mg>
    </e>
@@ -24119,10 +24111,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="hernetkeito">hernetkeitto</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">hernetvelli</t>
          </tg>
       </mg>
@@ -37623,20 +37611,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kravu">krapu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">reippa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="riepa">rieppa</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">reippa</t>
             <t pos="N" stem="riepi">rieppi</t>
          </tg>
       </mg>
@@ -49500,17 +49476,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>hos krabber o.l.</re>
             <t pos="N">saksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">klør</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>hos krabber o.l.</re>
-            <t pos="N">sakset</t>
+            <xg>
+	            <x>Riepan sakset oon hersku.</x>
+	            <xt>Krabbeklør er en delikatesse.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
