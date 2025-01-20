@@ -37426,11 +37426,6 @@ For the full license text, see the link above.</lic>
                <syn>musling</syn>
             </syng>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="raaku">raakku</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta;ki">
       <lg>
@@ -64942,10 +64937,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">staara</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">taara</t>
          </tg>
       </mg>
@@ -65099,10 +65090,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="välli">väli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">välit</t>
          </tg>
       </mg>
@@ -67369,16 +67356,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">tang i sjøen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">temppu</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="Phrase">stor elv</l>
       </lg>
       <mg>
@@ -67425,14 +67402,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta;kl;es">
       <lg>
          <l pos="N">tang</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
          <re>i sjøen</re>
-            <t pos="N" stem="tepu">teppu</t>
+            <t pos="N">teppu</t>
+            <t pos="N">temppu</t>
          </tg>
       </mg>
    </e>
