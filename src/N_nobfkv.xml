@@ -49529,16 +49529,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>råd</re>
-            <t pos="N">neuvo</t>
+	         <re>sak</re>
+            <t pos="N">assii</t>
+            <t pos="N">tinka</t>
+            <xg>
+	            <x>Jeg må snakke med deg om en ting.</x>
+	            <xt>Mie häyđyn puhhuut sinun kans yhđestä assiista.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gjenstand</re>
+            <t pos="N">kapistus</t>
             <t pos="N">tinka</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>dings</re>
+	         <re>råd</re>
             <t pos="N">tinka</t>
-            <t pos="N">kapistus</t>
+            <t pos="N">neuvo</t>
          </tg>
       </mg>
    </e>
