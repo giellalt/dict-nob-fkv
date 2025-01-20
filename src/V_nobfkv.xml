@@ -15749,11 +15749,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">neuvoot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="nevottele;nevotel">neuvotella</t>
+            <t pos="V">neuvotella</t>
+            <xg>
+               <x>"Ikke bry deg om hva andre sier", rådet Greta.</x>
+               <xt>"Älä perusta siitä mitä muut sannoovat", neuvoi Kreeta.</xt>
+            </xg>
+            <xg>
+               <x>Hen frarådet meg å gjøre det.</x>
+               <xt>Hän neuvoi minnuu olemhaan tekemättä sitä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15764,9 +15768,31 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">neuvoot</t>
+            <xg>
+               <x>Jeg kan ikke gi deg råd da jeg ikke kjenne den gutten.</x>
+               <xt>Mie en saata neuvoot sinnuu siksi ko mie en tunne sitä poikkaa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
+<!--   <e src="ki">
+      <lg>
+         <l pos="V">anbefale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">neuvoot</t>
+            <xg>
+               <x>Jeg kan ikke gi deg råd da jeg ikke kjenne den gutten.</x>
+               <xt>Mie en saata neuvoot sinnuu siksi ko mie en tunne sitä poikkaa.</xt>
+            </xg>
+            <xg>
+               <x>Slike tabletter anbefales vanligvis ikke for gravide.</x>
+               <xt>Tavalisesti tämmöissii tablettii ei neuvota lasta vasten olleeville.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e> -->
    <e src="ai;ta">
       <lg>
          <l pos="V">veilede</l>
@@ -15796,13 +15822,9 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="niele;niel">nielä</t>
          </tg>
       </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Phrase">svelge gjentatte ganger</l>
-      </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>gjentatte ganger</re>
             <t pos="V" stem="nieleskele;nieleskel">nieleskellä</t>
          </tg>
       </mg>
@@ -15813,6 +15835,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">niistäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="V">snyte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>pusse nesa</re>
             <t pos="V">niistäät</t>
          </tg>
       </mg>
