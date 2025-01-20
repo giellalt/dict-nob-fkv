@@ -49539,34 +49539,46 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">råd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>anbefaling</re>
+         <re>anbefaling, hjelp</re>
             <t pos="N">neuvo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="neuvokse">neuvos</t>
+            <xg>
+               <x>Hen ga meg et godt råd.</x>
+               <xt>Hän antoi minule hyvän neuvon.</xt>
+            </xg>
+            <xg>
+               <x>Spør dem om råd, de har alltid så gode råd om hva man burde gjøre.</x>
+               <xt>Kysy heiltä neuvoo, heilä oon aina niin hyvvii neuvoi siihen mitä pittää tehđä.</xt>
+            </xg>
+            <xg>
+               <x>Gode råd er gull verdt.</x>
+               <xt>Hyvät neuvot oon kullan arvoiset.</xt>
+            </xg>
+            <xg>
+               <x>Det var ikke annen råd enn å vente.</x>
+               <xt>Ei ollu muuta neuvoo ko ođottaat.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
          <re>samling mennesker</re>
             <t pos="N">raati</t>
+            <t pos="N">neuvos</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>nok penger</re>
+         <re>om penger</re>
             <t pos="N" stem="varra">vara</t>
             <xg>
-               <x>Jeg har råd.</x>
-               <xt>Mulla oon vara.</xt>
+               <x>Jeg har råd til det.</x>
+               <xt>Mulla oon vara siihen.</xt>
             </xg>
          </tg>
       </mg>
