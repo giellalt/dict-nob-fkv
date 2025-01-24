@@ -20832,16 +20832,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">under evakueringa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">evakko</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="N">evakueringstid</l>
@@ -82732,6 +82722,16 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="N">tidsforståelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">aikaymmärys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tidsbegrep</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
