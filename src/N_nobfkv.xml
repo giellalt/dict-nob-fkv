@@ -17063,16 +17063,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">stort og gammelt furutre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">aihki</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="N">tidsfordriv</l>
       </lg>
       <mg>
@@ -22384,11 +22374,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
           <re>f. eks. av furu</re>
             <t pos="N">hako</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-          <re>f. eks. av furu</re>
             <t pos="N">haku</t>
          </tg>
       </mg>
@@ -25302,13 +25287,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>tørr</re>
-            <t pos="N" stem="honga;honkka">honka</t>
+            <t pos="N">pötäjä</t>
+            <t pos="N">petäjä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="karhaaka">karhaakka</t>
+         <re>tørr</re>
+            <t pos="N" stem="honga;honkka">honka</t>
          </tg>
       </mg>
       <mg>
@@ -25319,12 +25305,15 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">petäjä</t>
+	         <re>kronglefuru</re>
+            <t pos="N" stem="karhaaka">karhaakka</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">pötäjä</t>
+	         <re>stort og gammelt</re>
+            <t pos="N">aihki</t>
+            <t pos="N">aikki</t>
          </tg>
       </mg>
    </e>
