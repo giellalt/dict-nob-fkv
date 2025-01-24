@@ -16176,12 +16176,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="ki;mk">
       <lg>
          <l pos="N">campingbil</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">asumabiili</t>
             <t pos="N">asumapiili</t>
          </tg>
             <syng>
@@ -16189,12 +16190,13 @@ For the full license text, see the link above.</lic>
             </syng>
       </mg>
    </e>
-   <e src="mk">
+   <e src="ki;mk">
       <lg>
          <l pos="N">bobil</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">asumabiili</t>
             <t pos="N">asumapiili</t>
          </tg>
             <syng>
@@ -19591,7 +19593,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;mj">
+   <e src="ai;ta;mj;ki">
       <lg>
          <l pos="N">buss</l>
       </lg>
@@ -19603,6 +19605,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">ruuttabiili</t>
             <t pos="N">ruuttapiili</t>
          </tg>
       </mg>
@@ -42015,12 +42018,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ki;ai;ta">
       <lg>
          <l pos="N">lastebil</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">lastibiili</t>
             <t pos="N">lastipiili</t>
          </tg>
       </mg>
@@ -45826,12 +45830,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ki;ta">
       <lg>
          <l pos="N">melkebil</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">maitobiili</t>
             <t pos="N">maitopiili</t>
          </tg>
       </mg>
@@ -49930,7 +49935,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" stem="nove;nokke">noki</t>
             <xg>
 	            <x>Snøen bak bilen ble sotete.</x>
-	            <xt>Lumi piilin takana tuli nokheen.</xt>
+	            <xt>Lumi biilin takana tuli nokheen.</xt>
             </xg>
          </tg>
       </mg>
@@ -54672,22 +54677,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ki;ai;ta">
       <lg>
          <l pos="N">bil</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">biili</t>
             <t pos="N">piili</t>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ki;ai">
       <lg>
          <l pos="N">bilist</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">biilisti</t>
             <t pos="N">piilisti</t>
          </tg>
       </mg>
@@ -61480,12 +61487,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ki;ai">
       <lg>
          <l pos="N">rutebil</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">ruuttabiili</t>
             <t pos="N">ruuttapiili</t>
          </tg>
       </mg>
@@ -71886,7 +71894,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" stem="vela;velkka">velka</t>
             <xg>
             <x>Pekka kjøpte seg bil på kreditt.</x>
-            <xt>Pekka osti piilin velaksi.</xt>
+            <xt>Pekka osti biilin velaksi.</xt>
             </xg>
             <xg>
             <x>Hvis en student velger kvensk i sin lærerutdanning vil vedkommende få ettergitt 50.000 kroner av studielånet.</x>
@@ -77974,6 +77982,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">asumabiilikohtaaminen</t>
             <t pos="N">asumapiilikohtaaminen</t>
          </tg>
       </mg>
@@ -83209,12 +83218,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">elbil</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">elbiili</t>
             <t pos="N">elpiili</t>
          </tg>
       </mg>
@@ -87313,12 +87323,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">personbil</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">persoonabiili</t>
             <t pos="N">persoonapiili</t>
          </tg>
       </mg>
@@ -87363,22 +87374,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">bilavgift</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">biilimakso</t>
             <t pos="N">piilimakso</t>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">bilkø</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">biiliraito</t>
             <t pos="N">piiliraito</t>
          </tg>
       </mg>
@@ -87584,12 +87597,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">brøytebil</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">pluukabiili</t>
             <t pos="N">pluukapiili</t>
          </tg>
       </mg>
@@ -101892,6 +101906,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">biilikorteesi</t>
             <t pos="N">piilikorteesi</t>
          </tg>
       </mg>
@@ -101932,6 +101947,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">ryssebiili</t>
             <t pos="N">ryssepiili</t>
          </tg>
       </mg>
@@ -104578,13 +104594,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">bruktbilselger</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">käytetyittenbiiliinmyyjä</t>
             <t pos="N">käytetyittenpiiliinmyyjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bilselger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">biiliinmyyjä</t>
+            <t pos="N">piiliinmyyjä</t>
          </tg>
       </mg>
    </e>
