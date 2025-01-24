@@ -17075,23 +17075,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">tidsregning</l>
       </lg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="fkv">
             <t pos="N">aijankulu</t>
          </tg>
-      </mg>
+      </mg> -->
       <mg>
          <tg xml:lang="fkv">
            <t pos="N">aijanräkninki</t>
+           <t pos="N">aijanlasku</t>
 	   <xg>
             <x>Før vår tidsregning.</x>
-            <xt>Ennen aijanräkningin alun.</xt>
+            <xt>Ennen aijanräkningin alkkuu.</xt>
 	   </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-           <t pos="N">aijanlasku</t>
          </tg>
       </mg>
    </e>
