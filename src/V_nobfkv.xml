@@ -3911,12 +3911,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="aloita;aloitta">aloittaat</t>
             <xg>
-               <x>Jeg startet studiene i 2020.</x>
-               <xt>Mie aloitin opinot vuona 2020.</xt>
+               <x>Jeg begynte på skolen i 2000.</x>
+               <xt>Mie aloitin koulun vuona 2000.</xt>
             </xg>
             <xg>
                <x>Jeg kan begynne arbeidet neste uke.</x>
-               <xt>Mie saatan aloittaat työt nousuviikola.</xt>
+               <xt>Mie saatan aloittaat työn nousu viikola.</xt>
             </xg>
          </tg>
       </mg>
@@ -3930,13 +3930,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">starte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="ala;alka">alkkaat</t>
+            <xg>
+               <x>Vi starter klokka 10 i morgen.</x>
+               <xt>Huomena met alama kello 10.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="ala;alka">aloittaat</t>
+            <xg>
+               <x>Jeg startet på studiene mine i fjor.</x>
+               <xt>Mie aloitin opinot viimi vuona.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -26727,6 +26740,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">päästä toimheen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">sette i gang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">aloittaat</t>
          </tg>
       </mg>
    </e>
