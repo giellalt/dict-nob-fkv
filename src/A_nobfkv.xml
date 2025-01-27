@@ -4941,6 +4941,26 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="A">fortløpende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">jatkuuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">stadig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">jatkuuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="A">tosidig</l>
       </lg>
       <mg>
@@ -16649,7 +16669,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+<!--   <e src="ki">
       <lg>
          <l pos="A">fortsettende</l>
       </lg>
@@ -16658,24 +16678,13 @@ For the full license text, see the link above.</lic>
             <t pos="A">jatkuuva</t>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e src="ki">
       <lg>
          <l pos="A">kontinuerlig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">jatkuuva</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">videre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>fortsettende, kontinuerlig</re>
             <t pos="A">jatkuuva</t>
          </tg>
       </mg>
@@ -19470,13 +19479,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="A">konstant</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>stadig</re>
+            <t pos="A">jatkuuva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>evig</re>
             <t pos="A">ainhainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">uavbrutt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">jatkuuva</t>
          </tg>
       </mg>
    </e>

@@ -1386,23 +1386,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">til stadighet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">jatkuuvasti</t>
             <t pos="Adv">aleti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">myöthään</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">myöthäänsä</t>
+            <t pos="Adv">yhtä mittaa</t>
          </tg>
       </mg>
    </e>
@@ -1915,6 +1909,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">videre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">etheenpäin</t>
+            <t pos="Adv">etheenkäsin</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="Adv">framover</l>
@@ -1926,12 +1931,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">etheenkäsin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">etheenpäin</t>
+            <t pos="Adv">etheenkäsin</t>
          </tg>
       </mg>
       <mg>
@@ -2634,6 +2635,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hele tiden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">jatkuuvasti</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ki;es">
       <lg>
          <l pos="Adv">stadig</l>
@@ -2641,11 +2652,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">jatkuuvasti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">aleti</t>
+            <t pos="Adv">myöthään</t>
+            <t pos="Adv">myöthäänsä</t>
+            <t pos="Adv">yhtä mittaa</t>
          </tg>
       </mg>
    </e>
