@@ -16483,10 +16483,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ajatusmailma</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">ajattelutapa</t>
          </tg>
       </mg>
@@ -17303,17 +17299,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="aiđa;aitta">aita</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">haaki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="tarhaa">taras</t>
+            <t pos="N">haaki</t>
+            <t pos="N" stem="aiđa;aitta">aita</t>
          </tg>
       </mg>
    </e>
@@ -17324,10 +17312,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="aita">aitta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">puura</t>
          </tg>
       </mg>
@@ -17507,10 +17491,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="aka">akka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">ämmä</t>
          </tg>
       </mg>
@@ -17542,10 +17522,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">akkara</t>
             <t pos="N">akkari</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">ankkurikala</t>
          </tg>
       </mg>
@@ -17877,6 +17853,16 @@ For the full license text, see the link above.</lic>
    <e src="ai">
       <lg>
          <l pos="N">isand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">alli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">havelle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -25156,13 +25142,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">håkjerring</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">holkeri</t>
+            <t pos="N">akkanen</t>
          </tg>
       </mg>
    </e>
