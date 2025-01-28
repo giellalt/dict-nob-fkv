@@ -13128,12 +13128,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">etelä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">orja</t>
-            <t pos="N">orjapuoli</t>
+<!--            <t pos="N">orjapuoli</t> -->
          </tg>
       </mg>
    </e>
@@ -44177,6 +44173,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>himmelretning</re>
             <t pos="N">lounas</t>
          </tg>
       </mg>
@@ -51470,12 +51467,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">orja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">etelävesta</t>
+            <t pos="N">lounas</t>
+            <t pos="N">orja</t>
          </tg>
       </mg>
    </e>
