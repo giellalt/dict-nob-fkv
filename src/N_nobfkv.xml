@@ -46894,23 +46894,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">bråk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">melu</t>
+            <t pos="N">remu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>rammel, larm</re>
             <t pos="N">paiskhaus</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">remu</t>
+	         <re>leven</re>
+            <t pos="N">elämä</t>
+            <xg>
+	            <x>Det var et forferdelig bråk der.</x>
+	            <xt>Sielä oli kauhee elämä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -106467,6 +106474,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ammatti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">leven</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">elämä</t>
+            <xg>
+	            <x>Det var et forferdelig leven der.</x>
+	            <xt>Sielä oli kauhee elämä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

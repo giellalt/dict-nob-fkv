@@ -4330,10 +4330,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">ehđoittaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" stem="ehđota">ehđottaat</t>
          </tg>
       </mg>
@@ -4352,12 +4348,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="es;ai">
       <lg>
          <l pos="Phrase">holde leven</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">remuta</t>
             <t pos="V">elämöiđä</t>
          </tg>
       </mg>
