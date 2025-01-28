@@ -16207,10 +16207,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="ki;mk">
       <lg>
          <l pos="N">skritt</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>steg</re>
+            <t pos="N">askel</t>
+            <t pos="N">askelet</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">astet</t>
@@ -16236,10 +16243,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kaikkuuja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">kovvaapuhhuuja</t>
          </tg>
       </mg>
@@ -18790,8 +18793,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">aset</t>
-            <t pos="N">leekka</t>
             <t pos="N">värkky</t>
+            <t pos="N">leekka</t>
             <t pos="N">lelu</t>
          </tg>
       </mg>
@@ -18812,17 +18815,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="ashee">aset</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">leekka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">aset</t>
             <t pos="N">värkky</t>
+            <t pos="N">leekka</t>
+            <t pos="N">lelu</t>
          </tg>
       </mg>
    </e>
@@ -18872,21 +18868,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>steg, skritt</re>
             <t pos="N">askelet</t>
             <t pos="N">askel</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>trappetrin</re>
-            <t pos="N">trappuaskelet</t>
-            <t pos="N">trappuaskel</t>
-            <t pos="N">porrasaskelet</t>
+	         <re>f.eks i trapp</re>
             <t pos="N">porrasaskel</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">pykälä</t>
          </tg>
       </mg>
@@ -106462,6 +106452,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">trappuaskel</t>
             <t pos="N">porrasaskelet</t>
             <t pos="N">porrasaskel</t>
+            <t pos="N">trappupykälä</t>
          </tg>
       </mg>
    </e>
