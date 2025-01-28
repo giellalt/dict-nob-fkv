@@ -9361,7 +9361,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">šjaali</t>
+            <t pos="N">huivi</t>
+            <t pos="N">saali</t>
          </tg>
       </mg>
    </e>
@@ -9371,12 +9372,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">šjeletti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">luuranka</t>
+            <t pos="N">šjeletti</t>
          </tg>
       </mg>
    </e>
@@ -14222,10 +14219,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vaihtoehto</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">alternatiivi</t>
          </tg>
       </mg>
@@ -18093,22 +18086,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">anikka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	         <re>stort rom eller lokale</re>
             <t pos="N">saali</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">sali</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>sete for rytter</re>
             <t pos="N">satula</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">anikka</t>
          </tg>
       </mg>
    </e>
@@ -106487,6 +106478,16 @@ For the full license text, see the link above.</lic>
             <t pos="N">trappuaskel</t>
             <t pos="N">porrasaskelet</t>
             <t pos="N">porrasaskel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">profesjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ammatti</t>
          </tg>
       </mg>
    </e>
