@@ -18875,6 +18875,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>f.eks årstrinn</re>
+            <t pos="N">pykälä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
 	         <re>f.eks i trapp</re>
             <t pos="N">porrasaskel</t>
             <t pos="N">pykälä</t>
@@ -44175,18 +44181,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">hakk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>skar, innsnitt</re>
             <t pos="N" stem="love;lovve">lovi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pykälä</t>
+            <xg>
+	            <x>Selvtilliten hans steg flere hakk da han løste oppgaven.</x>
+	            <xt>Hänen ittetunto kohosi monta pykälää ko hän ratkaisi tehtävän.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
