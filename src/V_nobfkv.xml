@@ -29481,7 +29481,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">vikle seg inn</l>
+         <l pos="Phrase">vikle seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -29491,17 +29491,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">bli viklet inn</l>
+         <l pos="Phrase">bli innblandet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">sotkeenttuut</t>
+            <xg>
+	            <x>Hvorfor har dere blitt innblandet i denne krigen?</x>
+	            <xt>Miksi tet oletta sotkeentunheet tähän sothaan?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">bli rotet inn</l>
+         <l pos="V">innblandes</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -29516,6 +29520,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">sotkeenttuut</t>
+            <xg>
+	            <x>Garnet har floket seg.</x>
+	            <xt>Verkko oon sotkeentunnu.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
