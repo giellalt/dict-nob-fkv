@@ -20589,29 +20589,29 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">myndighet</l>
       </lg>
-            <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">päätösvalta</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>statsmakt</re>
             <t pos="N">esivalta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">hallitusherra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">päätösvalta</t>
             <t pos="N">virkakunta</t>
+            <t pos="N">viranomainen</t>
+            <xg>
+            <x>Norske myndigheter har bestemt seg for å finansiere prosjektet.</x>
+            <xt>Norjan esivallat oon päättänheet rahoittaat prosektin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>makt, bestemmelsesrett</re>
+            <t pos="N">päätösvalta</t>
             <t pos="N">valta</t>
+            <xg>
+            <x>Departementet har beslutningsmyndighet i denne saken.</x>
+            <xt>Departementilla oon päätösvalta tässä assiissa.</xt>
+            </xg>
             <xg>
             <x>Hen har myndighet til å avgjøre saken.</x>
             <xt>Hänele oon annettu vallan ratkaista assiin.</xt>
@@ -64891,33 +64891,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">stat</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">staatti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="valtakunna;valtakuntta">valtakunta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">valtakunta</t>
             <t pos="N">valtio</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">valttii</t>
+            <t pos="N">riikki</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" type="Prop">Kruunu</t>
+	         <re>kongemakt</re>
+            <t pos="N">kruunu</t>
          </tg>
       </mg>
    </e>
@@ -64928,10 +64918,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">stainari</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">tainari</t>
          </tg>
       </mg>
