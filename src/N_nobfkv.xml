@@ -18702,16 +18702,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">etter overslag</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">arvio</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">verdi</l>
@@ -64042,11 +64032,44 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">feili</t>
+            <t pos="N">virhet</t>
+            <xg>
+	            <x>Læreren rettet feilene i teksten.</x>
+	            <xt>Opettaaja oikaisi feilit tekstissä.</xt>
+            </xg>
+            <xg>
+	            <x>Forhåpentligvis har du tatt lære av dine tidligere feil.</x>
+	            <xt>Toivottavasti sie olet ottanu oppii sinun aijemista virheistä.</xt>
+            </xg>
          </tg>
       </mg>
-            <mg>
+      <mg>
          <tg xml:lang="fkv">
             <t pos="N">vika</t>
+            <xg>
+            <x>Hva er det som feiler meg?</x>
+            <xt>Mikä vika minussa oon?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>om skyldsforhold</re>
+            <t pos="N">syy</t>
+            <xg>
+            <x>Alt er min feil, unnskyld.</x>
+            <xt>Kaikki oon minun ommaa syytä, antheeksi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>feiltakelse, mistak</re>
+            <t pos="N">erheys</t>
+            <xg>
+	            <x>Her har det skjedd en feil.</x>
+	            <xt>Täälä oon tapattunnu erheys.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
