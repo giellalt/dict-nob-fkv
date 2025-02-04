@@ -7086,6 +7086,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">lappuut</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">lapota</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -7097,7 +7102,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Phrase">bli borte</l>
       </lg>
@@ -7113,6 +7118,11 @@ For the full license text, see the link above.</lic>
                 <x>Minun avvaimet menthiin hukhaan ko olin reisula.</x>
                 <xt>Nøklene mine ble borte da jeg var på reise.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">lapota</t>
          </tg>
       </mg>
    </e>
@@ -15325,22 +15335,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="murhaa;murhan">murhata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">tappaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="V">murhata</t>
             <t pos="V">surmata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Phrase">ottaat hengiltä</t>
+            <t pos="V">hävittäät</t>
          </tg>
       </mg>
    </e>
