@@ -4082,7 +4082,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">laihiin</t>
             <xg>
                <x>på den måten</x>
-               <xt>siihen laihiin / sillä laila</xt>
+               <xt>siihen laihiin</xt>
             </xg>
          </tg>
       </mg>
@@ -4090,24 +4090,21 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">laila</t>
             <xg>
-               <x>på denne måten</x>
-               <xt>tällä laila</xt>
+               <x>på den måten</x>
+               <xt>sillä laila</xt>
             </xg>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;es">
       <lg>
-         <l pos="Adv">ikke i det hele tatt</l>
+         <l pos="Phrase">ikke i det hele tatt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">ei lainkhaan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">ei olheen</t>
+            <t pos="Adv">ei olheenkhaan</t>
+            <t pos="Adv">ei lainkhaan</t>
          </tg>
       </mg>
    </e>
