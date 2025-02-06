@@ -25877,13 +25877,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">hylle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hylly</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>i landskapet</re>
+            <t pos="N">lohta</t>
          </tg>
       </mg>
    </e>
@@ -67281,13 +67287,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="yr">
+   <e src="yr;es">
       <lg>
          <l pos="N">terrasse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">terassi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>i landskapet</re>
+            <t pos="N">lohta</t>
          </tg>
       </mg>
    </e>
@@ -85557,7 +85569,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">linnunpöläke</t>
+            <t pos="N">linnunpöläket</t>
          </tg>
       </mg>
    </e>
@@ -85598,10 +85610,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">lohtamaisema</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">terassimaisema</t>
          </tg>
       </mg>
@@ -85628,7 +85636,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">siste delen av året</l>
+         <l pos="Phrase">siste delen av året</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
