@@ -12678,28 +12678,37 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V" val="TV" stem="käänä;kääntä">käänttäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>snu seg</re>
+            <t pos="V" val="IV" stem="kääny;käänty">käänttyyt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
 	         <re>frekv.</re>
             <t pos="V">käänelä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>raskt, plutselig, èn gang</re>
             <t pos="V" stem="käänhäätä">käänhättäät</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" val="IV" stem="kääny;käänty">käänttyyt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" val="TV" stem="käänä;kääntä">käänttäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	         <re>tilbake, trans.</re>
             <t pos="V" val="IV" stem="pyörä;pyörtä">pyörttäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>tilbake, intr.</re>
+            <t pos="V" val="TV">pyöryttäät</t>
          </tg>
       </mg>
    </e>
@@ -12709,42 +12718,31 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="käänhäätä">käänhättäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" val="TV" stem="käänä;kääntä">käänttäät</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>vende seg</re>
+            <t pos="V" val="TV" stem="käänä;kääntä">käänttyyt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>raskt, plutselig, èn gang</re>
+            <t pos="V" stem="käänhäätä">käänhättäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>tilbake, trans.</re>
             <t pos="V" val="IV" stem="pyörä;pyörtä">pyörttäät</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>tilbake, intr.</re>
             <t pos="V" val="TV">pyöryttäät</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Phrase">vende raskt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="käänhäätä">käänhättäät</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="Phrase">vende seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" val="IV" stem="kääny;käänty">käänttyyt</t>
          </tg>
       </mg>
    </e>
@@ -19395,16 +19393,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="IV" stem="pyörä;pyörtä">pyörttäät</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">snu tilbake</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" val="TV">pyöryttäät</t>
          </tg>
       </mg>
    </e>
