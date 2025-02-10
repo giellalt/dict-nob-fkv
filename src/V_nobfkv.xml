@@ -11531,7 +11531,7 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="mene;men">mennä</t>
             <xg>
                <x>Vi må gå til butikken.</x>
-               <xt>Häyđymä mennä kaupphaan.</xt>
+               <xt>Met häyđymä mennä kaupphaan.</xt>
             </xg>
               <xg>
                <x>Gå vekk!</x>
@@ -11549,7 +11549,7 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="käve">käyđä</t>
             <xg>
                <x>Vi må gå på butikken.</x>
-               <xt>Häyđymä käyđä kaupassa.</xt>
+               <xt>Met häyđymä käyđä kaupassa.</xt>
             </xg>
             <xg>
                <x>Han gikk på skole i Stavanger.</x>
@@ -11571,6 +11571,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>besværlig, krokete</re>	         
             <t pos="V">kömpyröitä</t>
+              <xg>
+               <x>Hän kömpyröi trapuissa.</x>
+               <xt>Han gikk besværlig i trappen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
