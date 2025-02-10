@@ -11559,18 +11559,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>gå an</re>
-            <t pos="V">menestyyt</t>
-            <xg>
-               <x>Det går ikke an å gjøre på den måten.</x>
-               <xt>Se ei menesty tehhä sillä laila.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
 	         <re>i sikksakk</re>	         
             <t pos="V" stem="mukittele;mukitel">mukitella</t>
+              <xg>
+               <x>Han gikk i sikksakk mellom trærne i skogen.</x>
+               <xt>Hän mukitteli puitten keskelä mettässä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -11587,6 +11581,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">mukitella</t>
+              <xg>
+               <x>Mie mukittelin luokkaa ylös.</x>
+               <xt>Jeg sikksakket meg opp bakken.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
