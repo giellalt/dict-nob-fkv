@@ -2421,26 +2421,18 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="piisaa;piisan">piisata</t>
+	      <re>være tilstrekkelig/nok</re>
+            <t pos="V" stem="riitä">piisata</t>
+            <t pos="V" stem="riitä">riittäät</t>
+            <t pos="V" stem="riitä">räkätä</t>
            <xg> 
                <x>Jovisst rekker hvetemelet!</x> 
                <xt>Kyllä nisujauhot piisathaan!</xt> 
             </xg> 
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	      <re>noe er tilstrekkelig/nok</re>
-            <t pos="V" stem="riitä">riittäät</t>
             <xg> 
                <x>Nå får det være nok!</x> 
                <xt>Nyt tämä saapi riittäät!</xt> 
-            </xg> 
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="räkkää;räkän">räkätä</t>
+            </xg>
            <xg> 
                <x>Rekker veden?</x> 
             <xt>Räkäthäänkö polttopuut?</xt> 
@@ -2461,6 +2453,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	     <re>få tak i eller strekke seg</re> 
             <t pos="V" stem="uletu;ulettu">ulettuut</t>
+            <t pos="V" stem="uletu;ulettu">ulelttuut</t>
+            <t pos="V" stem="uletu;ulettu">ulettaat</t>
                <xg> 
                <x>Det lille barnet rakk ikke opp til øverste hylle .</x> 
                <xt>Pikku lapsi ei ulettunnu ylimälle hyllyle.</xt> 
@@ -2477,12 +2471,6 @@ For the full license text, see the link above.</lic>
                <x>Sollyset strekker seg over horisontkanten.</x> 
                <xt>Auringon loistet ulettuu horisonttikantin ylitte.</xt> 
             </xg> 
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	     <re>få tak i eller strekke seg</re> 
-            <t pos="V">ulettaat</t>
          </tg>
       </mg>
    </e>
@@ -8195,15 +8183,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kulje">kulkkeet</t>
-            <xg>
-            <x>Trå varsomt i området!</x>
-            <xt>Kulje alassa varovaisesti!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">kulkkuut</t>
+            <t pos="V" stem="kulje">kulkkuut</t>
          </tg>
       </mg>
       <mg>
@@ -11496,10 +11476,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kulje">kulkkeet</t>
-            <xg>
-            <x>Trå varsomt i området!</x>
-            <xt>Kulje alassa varovaisesti!</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -11514,17 +11490,54 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">trå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kulkkeet</t>
+            <t pos="V">kulkkuut</t>
+            <t pos="V">astela</t>
+         </tg>
+            <xg>
+               <x>Trå varsomt i området!</x>
+               <xt>Kulje alassa varovaisesti!</xt>
+            </xg>
+      </mg>
+   </e>
    <e src="ai;ta;aht;es">
       <lg>
          <l pos="V">gå</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>spasere</re>
+	         <re>ferdes til fots</re>
             <t pos="V" stem="kävele;kävel">kävelä</t>
+            <t pos="V">kulkkeet</t>
+            <t pos="V">kulkkuut</t>
+            <t pos="V">astela</t>
               <xg>
-            <x>Det er ikke langt til fjellstuen. Man kan gå dit til fots</x>
+            <x>Det er ikke langt til fjellstuen. Man kan gå dit til fots.</x>
             <xt>Se ei ole pitkä matka vaaratuphaan. Sinne saattaa kävelä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <re>flytte seg, dra</re>
+            <t pos="V" stem="mene;men">mennä</t>
+            <xg>
+               <x>Vi må gå til butikken.</x>
+               <xt>Häyđymä mennä kaupphaan.</xt>
+            </xg>
+              <xg>
+               <x>Gå vekk!</x>
+               <xt>Mene pois!</xt>
+            </xg>
+              <xg>
+               <x>Han går sine egne veier.</x>
+               <xt>Hän mennee ommii teitänsä.</xt>
             </xg>
          </tg>
       </mg>
@@ -11554,24 +11567,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <re>flytte seg, dra</re>
-            <t pos="V" stem="mene;men">mennä</t>
-            <xg>
-               <x>Vi må gå til butikken.</x>
-               <xt>Häyđymä mennä kaupphaan.</xt>
-            </xg>
-              <xg>
-               <x>Gå vekk!</x>
-               <xt>Mene pois!</xt>
-            </xg>
-              <xg>
-               <x>Han går sine egne veier.</x>
-               <xt>Hän mennee ommii teitänsä.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
 	         <re>i sikksakk</re>	         
             <t pos="V" stem="mukittele;mukitel">mukitella</t>
          </tg>
@@ -11580,6 +11575,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>besværlig, krokete</re>	         
             <t pos="V">kömpyröitä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">sikksakke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">mukitella</t>
          </tg>
       </mg>
    </e>
@@ -19120,20 +19125,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="Phrase">renne over</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="pursu;pursu">purssuut</t>
+            <t pos="V" stem="purssuu;pursun">pursuta</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="purssuu;pursun">pursuta</t>
+            <t pos="V">kulkkuut</t>
+            <xg>
+               <x>Vannet rennet over kanten på bøtta.</x>
+               <xt>Vesi kulkkuu ämpärin reunoin yli.</xt>
+            </xg>
          </tg>
       </mg>
+      
    </e>
    <e src="ai">
       <lg>
