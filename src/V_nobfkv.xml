@@ -7539,17 +7539,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">iskeet</t>
+            <t pos="V">tutkiit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>granske</re>
+            <t pos="V" stem="tarkastele;tarkastel">tarkastaat</t>
             <t pos="V" stem="tarkastele;tarkastel">tarkastella</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">tutkiit</t>
+            <t pos="V">iskeet</t>
          </tg>
       </mg>
    </e>
@@ -16973,17 +16975,46 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="opiskele;opiskel">opiskella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">studeerata</t>
+            <t pos="V">opiskella</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>forske</re>
             <t pos="V">tutkiit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">betrakte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>se på, granske</re>
+            <t pos="V">tarkastella</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">observere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>holde øye med, iaktta</re>
+            <t pos="V">tarkastella</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">observere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">iaktta</t>
          </tg>
       </mg>
    </e>
@@ -29064,6 +29095,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">tarkastaat</t>
+            <t pos="V">tarkastella</t>
          </tg>
       </mg>
    </e>
