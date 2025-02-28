@@ -71456,13 +71456,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">sikkerhet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="varmuuđe;varmuut">varmuus</t>
+            <xg>
+	            <x>Jeg vet ikke, men jeg gjør det for sikkerhets skyld.</x>
+	            <xt>En tieđä, mutta tehen sen varmuuđen vuoksi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">turva</t>
+            <xg>
+	            <x>Nå er dere i sikkerhet.</x>
+	            <xt>Nyt tet oletta turvassa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
