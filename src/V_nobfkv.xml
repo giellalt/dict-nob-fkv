@@ -26493,39 +26493,60 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">saavuttaat</t>
             <t pos="V">sauttaat</t>
+            <t pos="V">saavuttaat</t>
             <xg>
-            <x>Slik at ingen når meg.</x>
-            <xt>Niin ettei yksikhään saavuta minnuu.</xt>
+            <x>Han når dem aldri igjen.</x>
+            <xt>Hän ei ikinä sauta heitä.</xt>
+            </xg>
+            <xg>
+            <x>Han nådde målene sine.</x>
+            <xt>Hän sautti ittensä moolit.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>rekke å gjøre noe</re>
+	         <re>rekke, har tid til</re>
             <t pos="V">keritä</t>
+            <t pos="V">räkätä</t>
+            <xg>
+            <x>Jeg når ikke å gjøre det idag.</x>
+            <xt>Mie en kerkkii tekemhään sitä tääpänä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	     <re>få tak i eller strekke seg</re> 
+	     <re></re> 
             <t pos="V">ulettuut</t>
+            <t pos="V">ulelttuut</t>
+            <t pos="V">ulettaat</t>
+            <xg>
+            <x>Stormen hadde fremdeles ikke nådd Tromsø.</x>
+            <xt>Tormi ei vieläkhään ollu ulettunnu Tromsshaan.</xt>
+            </xg>
+            <xg>
+            <x>Det var så mye snø at det nådde meg godt opp for kneet.</x>
+            <xt>Se oli niin paljon lunta ette se uleltui minnuu hyvinki ylipuolele polvee.</xt>
+            </xg>
+            <xg>
+            <x>Hun når moren sin til skuldrene.</x>
+            <xt>Hän ulelttuu ittensä muorin olkhaan saakka.</xt>
+            </xg>
+            <xg>
+            <x>Se til at beskjeden når ut til alle.</x>
+            <xt>Piđä huolen siitä, ette sana ulettuu kaikile.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>å nå noen, nå ut til noen</re>
             <t pos="V">tavoittaat</t>
             <xg>
-            <x>Kvenene har likevel følt det viktig med et forarbeid, men man ikke har nådd ut til alle.</x>
-            <xt>Kainulaiset oon kuitenki pitänheet esityötä tärkkeenä, mutta piian het ei ole tavoittanheet kaikkii.</xt>
+            <x>Vi har da virkelig jobbet flittig for dette, men kanskje det ikke har nådd ut til alle.</x>
+            <xt>Olemahan met ankarasti tehnhneet työtä tämän etheen, mutta piian se ei ole tavoittannu kaikkii.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">räkätä</t>
          </tg>
       </mg>
    </e>
