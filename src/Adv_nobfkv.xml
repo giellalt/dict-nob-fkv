@@ -984,26 +984,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="Adv">nærmest</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">likimäinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">likkiin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">täkimäinen</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="Adv">til halv pris</l>
@@ -3520,16 +3500,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">koko</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">melkhein</t>
+            <t pos="Adv">koko</t>
+            <xg>
+            <x>Han var nesten like god å synge som deg.</x>
+            <xt>Hän oli kohta yhtä seppä laulemhaan ko sie.</xt>
+            </xg>
             <xg>
             <x>De døde nesten i tida med fornorskingspolitikk.</x>
             <xt>He melkhein kuolthiin norjalaistamispolitikin aikana.</xt>
@@ -3539,25 +3515,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
            <t pos="Adv">liki</t>
+           <t pos="Adv">likele</t>
+            <t pos="Adv">likemäs</t>
+            <t pos="Pcle">lähes</t>
             <xg>
             <x>Det er nesten to år siden han døde.</x>
             <xt>Hänen kuolemasta oon liki kaksi vuotta.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">likele</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">likemäs</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pcle">lähes</t>
+            <xg>
+            <x>Han har nesten to tusen reinsdyr.</x>
+            <xt>Hänelä oon likele kaksi tuhatta porroo.</xt>
+            </xg>
+            <xg>
+            <x>Det er nesten ti år siden.</x>
+            <xt>Se oon likemäs kymmenen vuotta aikkaa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4388,21 +4360,33 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">likeltä</t>
+            <xg>
+	            <x>Han er fra nærheten av Tromsø.</x>
+	            <xt>Hän oon likeltä Tromssaa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Adv">nært</l>
+         <l pos="Adv">nær</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">likelä</t>
+            <xg>
+	            <x>Jeg liker å bo nært byen.</x>
+	            <xt>Mie tykkään assuut kaupungin likelä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">liki</t>
+            <xg>
+	            <x>Det var nær hundre mennesker på eventet.</x>
+	            <xt>Tapattumassa oli liki sata ihmistä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4426,31 +4410,31 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Adv">(til) nærmere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">likemäksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ki">
+   <e src="ai;ki;es">
       <lg>
          <l pos="Adv">nærmere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">likempännä</t>
+            <t pos="Adv">täkempännä</t>
+            <xg>
+               <x>Jeg bor nærmere butikken enn deg.</x>
+               <xt>Mie asun likempännä kauppaa ko sie.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">likemäs</t>
+            <t pos="Adv">likemäksi</t>
             <xg>
-               <x>Det var sikkert nærmere tredve år.</x>
-               <xt>Se oli likemäs kymmenen vuotta varmasti.</xt>
+               <x>Kom nærmere!</x>
+               <xt>Tule likemäs!</xt>
+            </xg>
+            <xg>
+               <x>Det var sikkert nærmere tredve år siden.</x>
+               <xt>Se oli varmasti likemäs kymmenen vuotta aikkaa.</xt>
             </xg>
          </tg>
       </mg>
@@ -4458,8 +4442,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">likemin</t>
             <xg>
-               <x>Ved nærmere øyensyn kan man se den karakteristiske krystallformen til steinen.</x>
-               <xt>Ko kivvee kattoo likemin, niin se saattaa nähđä ette sillä oon omanlainen kristalliformu.</xt>
+               <x>Ved nærmere øyensyn kan man se at steinen er blå.</x>
+               <xt>Ko kivvee kattoo likemin, niin se saattaa nähđä ette se sinerttää.</xt>
             </xg>
          </tg>
       </mg>

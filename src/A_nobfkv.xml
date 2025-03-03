@@ -7045,17 +7045,33 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-     <e src="ai;ki">
+     <e src="ai;ki;es">
       <lg>
          <l pos="A">nærmere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>den eller det som er</re> 
             <t pos="A">likempi</t>
+            <t pos="A">täkempi</t>
           <xg>
-           <x>Her finner du nærmere opplysninger om hvorfor saken ikke kan avgjøres med en gang.</x>
-           <xt>Tässä likemppii tiettoi miksi assiita ei saateta ratkaista varsin.</xt>
+           <x>Her finner du nærmere opplysninger om saken.</x>
+           <xt>Tässä likemppii tiettoi assiista.</xt>
+          </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="A">nærmeste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">likkiin</t>
+            <t pos="A">likimäinen</t>
+            <t pos="A">täkimäinen</t>
+          <xg>
+           <x>Vet noen hvor nærmeste butikk er?</x>
+           <xt>Tiettääkö joku missä likkiin kauppa oon?</xt>
           </xg>
          </tg>
       </mg>
