@@ -35416,13 +35416,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta;kl;es">
       <lg>
          <l pos="N">hund</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">koira</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	       <re>stor og sint</re>
+            <t pos="N">hurtta</t>
          </tg>
       </mg>
    </e>
@@ -83815,16 +83821,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hurjapää</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">stor hund</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">hurtta</t>
          </tg>
       </mg>
    </e>
