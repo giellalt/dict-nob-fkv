@@ -3839,12 +3839,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kumhoon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">nurinniskoin</t>
+            <t pos="Adv">yliniskoin</t>
          </tg>
+         <xg>
+	         <x>Hän meni yliniskoin.</x>
+	         <xt>Han datt over ende.</xt>
+         </xg>
       </mg>
    </e>
    <e src="ai;ta">
@@ -8585,7 +8586,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+<!--   <e src="ai">
       <lg>
          <l pos="Adv">over nakken</l>
       </lg>
@@ -8598,7 +8599,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e src="ai;ta">
       <lg>
          <l pos="Adv">oppover</l>
