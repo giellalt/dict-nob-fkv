@@ -27491,9 +27491,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <re>om kroppsdel</re>
-            <t pos="N" stem="jala;jalkka">jalka</t>
+            <t pos="N">jalka</t>
+            <t pos="N">koipi</t>
              <xg>
-               <x>Foten må gå først (frase).</x>
+               <x>Foten må gå først.</x>
                <xt>Jalka mennä eelä.</xt>
             </xg>
          </tg>
@@ -27501,6 +27502,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <re>om bein i kroppen</re>
+            <t pos="N">luu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;aht">
+      <lg>
+         <l pos="N">ben</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <re>om kroppsdel</re>
+            <t pos="N">jalka</t>
+            <t pos="N">koipi</t>
+             <xg>
+               <x>Foten må gå først.</x>
+               <xt>Jalka mennä eelä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <re>om ben i kroppen</re>
             <t pos="N">luu</t>
          </tg>
       </mg>
