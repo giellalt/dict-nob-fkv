@@ -7890,23 +7890,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="V">lure</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">puijata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	         <re>vente på en anledning; holde seg skjult og vokte på noe</re>
             <t pos="V">luurata</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>narre, bedra</re>
+            <t pos="V">puijata</t>
             <t pos="V">juksata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>spekulere eller gruble på, undre</re>
+            <t pos="V">ihmetellä</t>
          </tg>
       </mg>
    </e>
