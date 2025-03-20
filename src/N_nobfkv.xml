@@ -11343,12 +11343,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="mj;ai;ta">
       <lg>
          <l pos="N">øst</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">öystä</t>
             <t pos="N">itä</t>
          </tg>
       </mg>
@@ -43166,24 +43167,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>klesplagg</re>
             <t pos="N">liivi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>himmelretning</re>
-            <t pos="N" stem="länne;länt">länsi</t>
+            <t pos="N">västi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
          <re>himmelretning</re>
             <t pos="N">vesta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>klesplagg</re>
-            <t pos="N">västi</t>
+            <t pos="N" stem="länne;länt">länsi</t>
          </tg>
       </mg>
    </e>
