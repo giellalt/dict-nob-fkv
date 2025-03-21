@@ -139,10 +139,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pron">het</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Pron" stem="nii;nii">net</t>
          </tg>
       </mg>
@@ -154,10 +150,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pron" stem="häne">hän</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Pron" stem="se;si">se</t>
          </tg>
       </mg>
@@ -169,10 +161,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pron" stem="häne">hän</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Pron" stem="se;si">se</t>
          </tg>
       </mg>
@@ -337,12 +325,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Pron">meikäläinen</t>
+            <t pos="Pron" stem="minu;minnu">mie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Pron" stem="minu;minnu">mie</t>
+            <t pos="Pron">meikäläinen</t>
          </tg>
       </mg>
    </e>
@@ -382,7 +370,7 @@ For the full license text, see the link above.</lic>
                <xt>Mitä sanoit? - En mithään.</xt>
             </xg>
             <xg>
-               <x>Hva har du lyst til å spise idag? - Det er det samme for meg.</x>
+               <x>Hva har du lyst til å spise idag? - Tja, hva som helst.</x>
                <xt>Mitä sinula oon mieli syöđä tääpänä? - No, vaikka mitäki.</xt>
             </xg>
             <xg>
