@@ -22465,18 +22465,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">pakkainen</t>
+            <t pos="N" stem="pakkase;pakkas">pakkanen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
          <re>om sommeren</re>
             <t pos="N">halla</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">pakkainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="pakkase;pakkas">pakkanen</t>
          </tg>
       </mg>
    </e>
@@ -22487,6 +22483,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">halli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kuldegrad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pakkainen</t>
+            <xg>
+	            <x>Det er kuldegrader.</x>
+	            <xt>Se oon pakkainen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
