@@ -3479,17 +3479,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="kuurttoo;kuuron;kuurton">kuurota</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="nojjaa;nojan">nojata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="V">kuurota</t>
             <t pos="V">tukkeet</t>
+            <xg>
+	            <x>Jeg støtter deg!</x>
+	            <xt>Mie kuurttoon sinnuu!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>lene</re>
+            <t pos="V" stem="nojjaa;nojan">nojata</t>
          </tg>
       </mg>
    </e>
@@ -16055,7 +16056,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Phrase">lene seg mot</l>
+         <l pos="Phrase">lene seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16065,7 +16066,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Phrase">lene mot</l>
+         <l pos="V">lene</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -28097,10 +28098,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>noe fysisk</re>
+	         <re>bære, holde oppe</re>
             <t pos="V">kannatella</t>
             <xg>
-            <x>Døra til den gamle badstua holdes sammen av to skrå labanker.</x>
+            <x>Døra til den gamle badstua støttes opp av to skrå labanker.</x>
             <xt>Kaksi vinolauttaa kannattellee vanhaan saunanoven yhđessä.</xt>
             </xg>
          </tg>
