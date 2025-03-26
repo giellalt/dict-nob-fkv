@@ -11166,18 +11166,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="A">virkelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="tođelise;tođelis">tođelinen</t>
+         <re>som eksisterer, fins</re>
+            <t pos="A">tođelinen</t>
+            <xg>
+            <x>Raporten gir et virkelig bilde av situasjonen.</x>
+            <xt>Raportti anttaa tođelisen kuvan tilantheesta.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>rettelig, ordentlig</re>
             <t pos="A">vasittu</t>
+            <t pos="A">vasituinen</t>
          </tg>
       </mg>
    </e>
