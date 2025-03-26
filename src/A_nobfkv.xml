@@ -728,6 +728,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">kunnolinen</t>
             <t pos="A">siivo</t>
+            <xg>
+	            <x>Den jenta er så ordentlig av seg.</x>
+	            <xt>Hän oon niin siivo se tyttö.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2915,14 +2919,19 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">vasittu</t>
             <t pos="A">vasituinen</t>
+            <xg>
+            <x>Jeg legger alltid nøklene mine på et bestemt sted så jeg ikke mister de.</x>
+            <xt>Mie laitan aina minun avvaimet vasituisheen paikkhaan niin etten mistana niitä.</xt>
+            </xg>
          </tg>
       </mg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">tođesti</t>
          </tg>
-      </mg>
+      </mg> -->
    </e>
    <e src="ai">
       <lg>
@@ -7992,6 +8001,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">vissi</t>
             <t pos="A">vasittu</t>
+            <t pos="A">vasituinen</t>
          </tg>
       </mg>
       <mg>
@@ -19107,6 +19117,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">spesifikki</t>
+            <t pos="A">vasittu</t>
+            <t pos="A">vasituinen</t>
+            <xg>
+            <x>Hvis du har disse spesifikke symptomene burde du oppsøke lege.</x>
+            <xt>Jos sinula oon nämät vasitut oirheet, sie piđät hakkeuttuut lääkhiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -20810,6 +20826,21 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">rikolinen</t>
             <t pos="A">kriminell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">særskilt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vasittu</t>
+            <t pos="A">vasituinen</t>
+            <xg>
+            <x>Hun har en særskilt interesse for båter.</x>
+            <xt>Hänelä oon vasituinen intressi venheitä kohthaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
