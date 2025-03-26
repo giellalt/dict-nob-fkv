@@ -11970,22 +11970,31 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" comment="vasempi blir til vasen?" stem="vasema;vasemppa">vasempi</t>
+            <t pos="A">vasen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">vasen</t>
+            <t pos="A" comment="vasempi blir til vasen?" stem="vasema;vasemppa">vasempi</t>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="A">egentlig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">vasittu</t>
+            <t pos="A">vasituinen</t>
+            <xg>
+            <x>Det egentlige formålet med denne undersøkelsen var å utrede utfordringene det kvenske språket har i dag.</x>
+            <xt>Tämän tutkimuksen vasittu tarkoitus oli selvittäät kväänin kielen nykyiset haastheet.</xt>
+            </xg>
+            <xg>
+            <x>egentlig 3.person</x>
+            <xt>vasittu 3.persoona.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11996,11 +12005,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">vasituinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">vasiten</t>
          </tg>
       </mg>
    </e>
@@ -12051,7 +12055,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">eđesvastauksellinen</t>
+            <t pos="A">eđesvastauksellinen</t>
          </tg>
       </mg>
    </e>
