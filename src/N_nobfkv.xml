@@ -54745,6 +54745,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">pispa</t>
             <t pos="N">piispa</t>
          </tg>
       </mg>
@@ -55197,13 +55198,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ai;ta">
       <lg>
          <l pos="N">biskop</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pispa</t>
+            <t pos="N">piispa</t>
          </tg>
       </mg>
    </e>
@@ -83724,10 +83726,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">hiippakunta</t>
             <t pos="N">hippakunta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">pispalääni</t>
          </tg>
       </mg>
