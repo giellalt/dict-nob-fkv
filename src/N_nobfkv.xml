@@ -40631,46 +40631,55 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;mj">
+   <e src="ai;ta;mj;ki">
       <lg>
          <l pos="N">tur</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">käynti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="lyky">lykky</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	         <re>ferg, reise, utflukt</re>
+            <t pos="N">mukka</t>
             <t pos="N">matka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="muka">mukka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">tuuri</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">reisu</t>
+            <t pos="N">tuuri</t>
+            <t pos="N">käynti</t>
+            <xg>
+               <x>Skal vi gå en tur?</x>
+               <xt>Menemäkö mukale?</xt>
+            </xg>
+            <xg>
+               <x>De er på tur til Olderdalen.</x>
+               <xt>Het oon matkala Talosvankkhaan.</xt>
+            </xg>
+            <xg>
+               <x>Jeg fikk mange nye venner på den turen.</x>
+               <xt>Mie sain paljon uussii ystäviitä sillä tuurila.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>plass i rekkefølge</re>
             <t pos="N">vuoro</t>
+            <t pos="N">tuuri</t>
             <xg>
                <x>Hvem sin tur er det?</x>
                <xt>Kenen vuoro nyt oon?</xt>
+            </xg>
+            <xg>
+               <x>Det er din tur å velge hvor vi skal spise.</x>
+               <xt>Se oon sinun tuuri valita missä met syömä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>hell, flaks</re>
+            <t pos="N">tuuri</t>
+            <t pos="N">lykky</t>
+            <xg>
+               <x>Hun har alltid så tur.</x>
+               <xt>Hänelä oon aina niin hyvä tuuri.</xt>
             </xg>
          </tg>
       </mg>
