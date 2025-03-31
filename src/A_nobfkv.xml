@@ -4669,32 +4669,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="A">egen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="itteläise;itteläis">itteläinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">oma</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">omituinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	         <re>sta</re>
+            <t pos="A">ittepäinen</t>
+            <t pos="A">itteläinen</t>
             <t pos="A" stem="sinnikkhää">sinnikäs</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>særegen, spesiell</re>
+            <t pos="A">omituinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>atskilt, separat</re>
             <t pos="A">erilinen</t>
             <xg>
             <x>Räkingin rakenusmaksoista lähätethään erilisessä preivissä.</x>
@@ -4730,11 +4725,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="ittepäise;ittepäis">ittepäinen</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">ittelainen</t>
+            <t pos="A">itteläinen</t>
+<!--            <t pos="A">ittelainen</t> -->
          </tg>
       </mg>
    </e>
@@ -4744,17 +4736,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="ittepäise;ittepäis">ittepäinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="sinnikkhää">sinnikäs</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="ittelaise;ittelais">ittelainen</t>
+            <t pos="A">ittepäinen</t>
+            <t pos="A">ittelainen</t>
+            <t pos="A">sinnikäs</t>
          </tg>
       </mg>
    </e>
