@@ -2232,11 +2232,15 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">kålrabi</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="N">räätikkä</t>
             <t pos="N">juurikaali</t>
             <t pos="N">koleraapis</t>
             <t pos="N">koleraapi</t>
 <!--        <t pos="N">lanttu</t> -->
+         </tg>
+      </mg>
    </e>
    <e src="kl">
       <lg>
@@ -79679,12 +79683,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">olopaikka</t>
+            <xg>
+               <x>Oppholdsstedet hans er ukjent på nåværende tidspunkt.</x>
+               <xt>Hänen olopaikkaa ei tieđetä juuri nyt.</xt>
+            </xg>
          </tg>
       </mg>
-            <xg>
-            <x>Oppholdsstedet hans er ukjent på nåværende tidspunkt.</x>
-            <xt>Hänen olopaikkaa ei tieđetä juuri nyt.</xt>
-            </xg>
       <mg>
          <tg xml:lang="fkv">
 	         <re>sete</re>

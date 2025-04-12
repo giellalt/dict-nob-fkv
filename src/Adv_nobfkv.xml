@@ -3837,11 +3837,11 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">kumhoon</t>
             <t pos="Adv">nurinniskoin</t>
             <t pos="Adv">yliniskoin</t>
-         </tg>
-         <xg>
+            <xg>
 	         <x>Hän meni yliniskoin.</x>
 	         <xt>Han datt over ende.</xt>
-         </xg>
+            </xg>
+         </tg>
       </mg>
    </e>
    <e src="ai;ta">
@@ -8746,16 +8746,15 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">justhiin</t>
             <t pos="Adv">justhiinsa</t>
             <t pos="Adv">juuri</t>
-         </tg>
             <xg>
                <x>Det var akkurat det jeg mente.</x>
                <xt>Se oli justhiin se mitä mie meinasin.</xt>
             </xg>
             <xg>
-            <xg>
                <x>Akkurat!</x>
                <xt>Niin justhiin!</xt>
             </xg>
+            <xg>
                <x>Klokka er akkurat 12.</x>
                <xt>Kello oon justhiin 12.</xt>
             </xg>
@@ -8767,6 +8766,7 @@ For the full license text, see the link above.</lic>
                <x>Vi er ikke akkurat amatører.</x>
                <xt>Emmä met juuri amatööritkhaan ole.</xt>
             </xg>
+         </tg>
       </mg>
    </e>
    <e src="ai">
