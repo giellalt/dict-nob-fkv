@@ -647,6 +647,16 @@ For the full license text, see the link above.</lic>
    </e>
         <e src="bildetema">
       <lg>
+         <l pos="A">besj</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">beige</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
          <l pos="A">gulgrønn</l>
       </lg>
       <mg>
@@ -2286,6 +2296,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
 	         <re>lettvint</re>
+            <t pos="A">kreiji</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">lettvint</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="A">kreiji</t>
          </tg>
       </mg>
@@ -5612,36 +5632,25 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="kirkkhaa">kirkas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="näköise;näköis">näköinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">vaalee</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">vaalo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">valkkee</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">hellee</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">näköinen</t>
+            <t pos="A">vaalo</t>
             <t pos="A">näköisä</t>
+            <xg>
+	            <x>På denne tiden av året er nettene like lyse som dagene.</x>
+	            <xt>Yöt oon sama näköiset ko päivät tähän vuođenaikhaan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>om farge, som nærmer seg hvit; blond</re>
+            <t pos="A">vaalee</t>
+            <t pos="A">valkkee</t>
          </tg>
       </mg>
     </e>
@@ -5657,6 +5666,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="planki">plankki</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="kl">
+      <lg>
+         <l pos="A">rørlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">liikkuuva</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="kl">
+      <lg>
+         <l pos="A">bevegelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">liikkuuva</t>
          </tg>
       </mg>
    </e>
@@ -10609,6 +10638,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
+         <l pos="A">smeltet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sula</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
          <l pos="A">isfri</l>
       </lg>
       <mg>
@@ -14053,6 +14092,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="A">blankere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kirkkhaampi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="A">kirkelig</l>
       </lg>
       <mg>
@@ -15445,6 +15494,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>opplyst, klar</re>
+            <t pos="A">kirkkhaampi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>om farge, som nærmer seg hvit; blond</re>
             <t pos="A">vaaleempi</t>
          </tg>
       </mg>
@@ -16869,7 +16925,7 @@ For the full license text, see the link above.</lic>
 	         <re>nylig innsatt</re>
             <t pos="A">vasta-asetettu</t>
             <xg>
-            <x>I tillegg ble det argumentert med at grenseområdene i nord var særlig sårbare og utsatte med sine ferske grenser.</x>
+            <x>I tillegg ble det argumentert med at grenseområdene i nord var særlig sårbare og utsatte med sine grenser som nylig er vedtatt.</x>
             <xt>Lisäksi argumenteerathiin, ette pohjaisen raja-alat olthiin eriliikaisen haavoittuvat, ko sielä olthiin vasta-asetetut rajat.</xt>
             </xg>
          </tg>
@@ -20093,6 +20149,16 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="A">ramponert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pilhaanajettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">nedslitt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
