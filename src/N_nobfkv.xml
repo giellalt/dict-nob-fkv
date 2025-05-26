@@ -17481,12 +17481,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;anb">
       <lg>
          <l pos="N">ferdselsvei</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">kulkutie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>for kjøretøy</re>
             <t pos="N">ajotie</t>
          </tg>
       </mg>
@@ -106114,13 +106120,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">tenker</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ajattelliija</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mietiskelliijä</t>
          </tg>
       </mg>
    </e>
@@ -106707,77 +106718,102 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">kukanlehti</l>
+         <l pos="N">skogbrann</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">blomsterblad</t>
+            <t pos="N">mettäpalo</t>
          </tg>
       </mg>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">kulkutie</l>
+         <l pos="N">grubler</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">ferdselsvei</t>
-            <t pos="N">gangvei</t>
-            <t pos="N">passasje</t>
+            <t pos="N">mietiskelliijä</t>
          </tg>
       </mg>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">kuuliijakunta</l>
+         <l pos="N">havstrøm</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">tilhørere</t>
-            <t pos="N">lyttere</t>
-            <t pos="N">auditorium</t>
-            <t pos="N">publikum</t>
+            <t pos="N">merenvirta</t>
          </tg>
       </mg>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">lyrikki</l>
+         <l pos="N">lyrikk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">lyrikk</t>
+            <t pos="N">lyrikki</t>
          </tg>
       </mg>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">merenvirta</l>
+         <l pos="N">blomsterblad</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">havstrøm</t>
+            <t pos="N">kukanlehti</t>
          </tg>
       </mg>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">mettäpalo</l>
+         <l pos="N">gangvei</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">skogbrann</t>
+            <t pos="N">kulkutie</t>
          </tg>
       </mg>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">mietiskelliijä</l>
+         <l pos="N">passasje</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">grubler</t>
-            <t pos="N">tenker</t>
+            <t pos="N">kulkutie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">lyttere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuuliijakunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">tilhørere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kuuliijakunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">auditorium</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>tilhørere, lyttere</re>
+            <t pos="N">kuuliijakunta</t>
          </tg>
       </mg>
    </e>
