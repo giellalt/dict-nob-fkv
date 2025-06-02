@@ -7496,13 +7496,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="bildetema">
+   <e src="bildetema;anb">
       <lg>
          <l pos="N">fiolin</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">fioliini</t>
+            <t pos="N">viulu</t>
          </tg>
       </mg>
    </e>
@@ -21618,32 +21619,27 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>gramm.</re>
+         <re>omriss, skikkelse, fasong</re>
             <t pos="N">haamu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">kaava</t>
+            <t pos="N">malli</t>
+            <t pos="N">muoto</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kunno;kuntto">kunto</t>
+            <t pos="N">vointi</t>
               <xg>
-               <x>Han/hun er i god form.</x>
+               <x>Han er i god form.</x>
                <xt>Hän oon hyvässä kunnossa.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">malli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="muođo;muotto">muoto</t>
+         <re>gramm.</re>
+            <t pos="N">haamu</t>
          </tg>
       </mg>
    </e>
@@ -99344,13 +99340,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;anb">
       <lg>
          <l pos="N">helsetilstand</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tervheystila</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vointi</t>
          </tg>
       </mg>
    </e>
@@ -106812,8 +106813,44 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>tilhørere, lyttere</re>
+            <t pos="N">auditorio</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>tilhørere, lyttere i et auditorium</re>
             <t pos="N">kuuliijakunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">skattkammer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">aarnihauta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">befinnende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vointi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;anb">
+      <lg>
+         <l pos="N">fiolinstreng</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fioliininlanka</t>
+            <t pos="N">viulunlanka</t>
          </tg>
       </mg>
    </e>
