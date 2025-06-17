@@ -239,13 +239,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e src="kl">
+    <e src="kl;anb">
       <lg>
          <l pos="A">likedan</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">samanlainen</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">samankaltainen</t>
          </tg>
       </mg>
    </e>
@@ -11760,13 +11765,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="A">lyseblå</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="vaaleesinise;vaaleesinis">vaaleesininen</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sinerttäävä</t>
          </tg>
       </mg>
    </e>
@@ -11879,13 +11889,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="A">hvit</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">valkkee</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	        <re>hvit som nysnø</re>
+            <t pos="A">vitinen</t>
          </tg>
       </mg>
    </e>
@@ -12460,6 +12476,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">vitivalkkee</t>
+              <t pos="A">vitinen</t>
          </tg>
       </mg>
    </e>
@@ -13057,13 +13074,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;anb">
       <lg>
          <l pos="A">lik</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">samanlainen</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">samankaltainen</t>
          </tg>
       </mg>
    </e>
@@ -20319,13 +20341,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="A">vindfull</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">tuulinen</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">viimainen</t>
          </tg>
       </mg>
    </e>
@@ -21196,6 +21223,206 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">rautainen</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="A">avslappet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rento</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">avspent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rento</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="A">jamførbar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">samankaltainen</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">uslokkelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sammuttelematon</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">blåaktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sinerttäävä</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="anb">
+      <lg>
+         <l pos="A">blåskimrende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sinerttäävä</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="A">blånende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sinerttäävä</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="A">sonor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sonorinen</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">husløs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">taloton</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">vinterlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">talvinen</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">skåltom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">typötyyhä</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">truende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">uhkaava</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">universaalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">universal</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="A">æreverdig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ylhäinen</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="A">høyverdig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ylhäinen</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">nattløs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">yötön</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="A">nasarenisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">nasarealainen</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">dødstrøtt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">läpiväsyny</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">utkjørt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">läpiväsyny</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">utmattet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">läpiväsyny</t>
          </tg>
       </mg>
    </e>
