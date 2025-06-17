@@ -2933,22 +2933,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki;abn">
       <lg>
          <l pos="A">bestemt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>som ikke er tilfeldig</re>
             <t pos="A">erityinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="A">eriliikainen</t>
+            <t pos="A">vissi</t>
             <t pos="A">vasittu</t>
             <t pos="A">vasituinen</t>
             <xg>
             <x>Jeg legger alltid nøklene mine på et bestemt sted så jeg ikke mister de.</x>
-            <xt>Mie laitan aina minun avvaimet vasituisheen paikkhaan niin etten mistana niitä.</xt>
+            <xt>Mie laitan aina minun avvaimet vasituisheen paikkhaan niin etten mistaa niitä.</xt>
             </xg>
          </tg>
       </mg>
@@ -2957,6 +2956,16 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">tođesti</t>
          </tg>
       </mg> -->
+        <mg>
+         <tg xml:lang="fkv">
+	       <re>uten tvil, myndig</re>
+            <t pos="A">päättävä</t>
+             <xg>
+            <x>Skrittene hennes var bestemte.</x>
+            <xt>Hänen askelheet olthiin päättävät.</xt>
+            </xg>
+         </tg>
+      </mg> 
    </e>
    <e src="ai">
       <lg>
@@ -3751,6 +3760,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="rauhalise;rauhalis">rauhalinen</t>
+            <t pos="A">rauhainen</t>
          </tg>
       </mg>
    </e>
@@ -21075,7 +21085,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">kuiva</t>
+            <t pos="A">jäkäläinen</t>
          </tg>
       </mg>
    </e>
@@ -21156,6 +21166,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ođottamaton</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="A">rakrygget</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pystöpäinen</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="A">fredfull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rauhainen</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="A">jernhard</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rautainen</t>
          </tg>
       </mg>
    </e>
