@@ -54847,7 +54847,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;anb">
       <lg>
          <l pos="N">baby</l>
       </lg>
@@ -54869,6 +54869,43 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vauva</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pienukainen</t>
+                   <t pos="N">pienokainen</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ai;es;anb">
+      <lg>
+         <l pos="N">spedbarn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pikkuinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sylilapsi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pikkutinka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vauva</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pienukainen</t>
+                   <t pos="N">pienokainen</t>
          </tg>
       </mg>
    </e>
@@ -54903,13 +54940,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="Phrase">lite barn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="pikkulapse;pikkulas">pikkulapsi</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pienukainen</t>
+             <t pos="N">pienokainen</t>
          </tg>
       </mg>
    </e>
