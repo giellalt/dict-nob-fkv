@@ -8929,7 +8929,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl;ia">
+   <e src="ai;ta;kl;ia;anb">
       <lg>
          <l pos="A">liten</l>
       </lg>
@@ -8937,6 +8937,13 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	    <re>som ikke er stor</re>
             <t pos="A" stem="piene;pien">pieni</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+	    <re>som ikke er stor</re>
+            <t pos="A">pienukainen</t>
+               <t pos="A">pienokainen</t>
          </tg>
       </mg>
       <mg>
