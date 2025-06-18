@@ -37940,6 +37940,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	     <re>ofte om lik</re>
             <t pos="N" stem="ruumhii">ruumis</t>
          </tg>
       </mg>
@@ -61445,13 +61446,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="N">lik</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="ruumhii">ruumis</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kalma</t>
          </tg>
       </mg>
    </e>
@@ -74656,7 +74662,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="N">død</l>
       </lg>
@@ -74668,6 +74674,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">surma</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kalma</t>
          </tg>
       </mg>
    </e>
@@ -107080,6 +107091,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">jovenjuoksu</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="anb">
+      <lg>
+         <l pos="Phrase">karrig jord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">karumaa</t>
          </tg>
       </mg>
    </e>
