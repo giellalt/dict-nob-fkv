@@ -86419,7 +86419,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">havflate</l>
       </lg>
@@ -86431,6 +86431,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">merentasa</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">merenkalvo</t>
          </tg>
       </mg>
    </e>
@@ -107224,6 +107229,46 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">lemppeys</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="anb">
+      <lg>
+         <l pos="N">sommerhimmel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kesätaivas</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">baktaler</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">parjaaja</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="Phrase">mann med skjegg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">partaukko</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="anb">
+      <lg>
+         <l pos="Phrase">liten gutt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pikkupoika</t>
          </tg>
       </mg>
    </e>
