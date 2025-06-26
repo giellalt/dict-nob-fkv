@@ -566,7 +566,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj;es;ki;ai;ta">
+   <e src="mj;es;ki;ai;ta;anb">
       <lg>
          <l pos="Adv">tidligere</l>
       </lg>
@@ -594,8 +594,13 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">ennemin</t>
          </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">tuonoin</t>
+         </tg>
+      </mg>
    </e>
-   <e src="mj">
+   <e src="mj;anb">
       <lg>
          <l pos="Adv">før</l>
       </lg>
@@ -610,6 +615,11 @@ For the full license text, see the link above.</lic>
             <x>før i verden, tidligere</x>
             <xt>ennen mailmassa</xt>
             </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">tuonoin</t>
          </tg>
       </mg>
    </e>
@@ -7849,7 +7859,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="Adv">nylig</l>
       </lg>
@@ -7866,6 +7876,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">hiljattain</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">tuonoin</t>
          </tg>
       </mg>
    </e>
