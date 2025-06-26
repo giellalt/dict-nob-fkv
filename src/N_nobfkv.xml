@@ -26071,13 +26071,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="N">godhet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="hyvvyyđe">hyvvyys</t>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lemppeys</t>
          </tg>
       </mg>
    </e>
@@ -59245,6 +59250,11 @@ For the full license text, see the link above.</lic>
             <t pos="N">rakkhaus</t>
          </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lempi</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -90571,7 +90581,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">oppsigelse</l>
       </lg>
@@ -90588,6 +90598,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ystävällisyys</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lemppeys</t>
          </tg>
       </mg>
    </e>
@@ -107139,6 +107154,76 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">keto</t>
+         </tg>
+      </mg>
+   </e>
+             <e src="anb">
+      <lg>
+         <l pos="N">sjakt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">keto</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="anb">
+      <lg>
+         <l pos="Phrase">bulder fra fossen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kurkkiinpauhu</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="anb">
+      <lg>
+         <l pos="N">fosseklag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kurkkiinsoitto</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="anb">
+      <lg>
+         <l pos="N">kaikant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kaajanlaita</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="anb">
+      <lg>
+         <l pos="Phrase">stakkars barn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lapsirukka</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="anb">
+      <lg>
+         <l pos="N">velvillighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lemppeys</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="anb">
+      <lg>
+         <l pos="N">mildhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lemppeys</t>
          </tg>
       </mg>
    </e>
