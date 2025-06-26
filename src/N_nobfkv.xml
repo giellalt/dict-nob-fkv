@@ -11016,6 +11016,12 @@ For the full license text, see the link above.</lic>
              <t pos="N">sorina</t>
          </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+             <re>om foss som buldrer og bruser</re>
+             <t pos="N">pauhu</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
              <re>et sted der det er brusende vann</re>
@@ -107298,17 +107304,68 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	       <re>rumlende lyd</re>
             <t pos="N">pauhu</t>
          </tg>
       </mg>
    </e>
      <e src="anb">
       <lg>
-         <l pos="N">rumling</l>
+         <l pos="N">striregn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">pauhu</t>
+            <t pos="N">rankkađet</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="N">høljeregn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rankkađet</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="anb">
+      <lg>
+         <l pos="Phrase">klar himmel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">seestaivas</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">blink</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">silmänisku</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="N">flirt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">silmänisku</t>
+         </tg>
+      </mg>
+   </e>
+              <e src="anb">
+      <lg>
+         <l pos="Phrase">liten jente</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tyttöinen</t>
          </tg>
       </mg>
    </e>
