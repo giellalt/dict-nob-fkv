@@ -28039,7 +28039,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="Phrase">være basert på</l>
+         <l pos="V">basere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -28050,13 +28050,9 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="V">basere på</l>
-      </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>begrunne</re>
             <t pos="V">perustaat</t>
             <xg>
                <x>Han baserte beslutningen om å avlyse på at det ikke var nok deltakere.</x>
@@ -28087,7 +28083,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">kannatella</t>
             <xg>
-            <x>Døra til den gamle badstua holdes sammen av to skrå labanker.</x>
+            <x>Døra til den gamle badstua holdes oppe av to skrå labanker.</x>
             <xt>Kaksi vinolauttaa kannattellee vanhaan saunanoven yhđessä.</xt>
             </xg>
          </tg>
@@ -28102,7 +28098,7 @@ For the full license text, see the link above.</lic>
 	         <re>bære, holde oppe</re>
             <t pos="V">kannatella</t>
             <xg>
-            <x>Døra til den gamle badstua støttes opp av to skrå labanker.</x>
+            <x>Døra til den gamle badstua blir støttet opp av to skrå labanker.</x>
             <xt>Kaksi vinolauttaa kannattellee vanhaan saunanoven yhđessä.</xt>
             </xg>
          </tg>
@@ -28116,8 +28112,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">päätelä</t>
             <xg>
-            <x>Andre kilder tyder heller på det motsatte, at kvenene kledde seg som den øvrige befolkninga i nord.</x>
-            <xt>Muista kalttiista saattaa kuitenki päätelä ette assii saattoi olla päinvastoin, ette kväänit vaatithiin ittensä niin ko muuki pohjaisen väki.</xt>
+            <x>Da de kom tilbake var klasserommet tomt. Derfor kunne de trekke den slutningen at alle var dratt hjem.</x>
+            <xt>Ko het tulthiin takaisin, koululoma oli tyyhä. Siitä het saatethiin päätelä ette kaikki oli lähtenheet kothiin.</xt>
             </xg>
          </tg>
       </mg>
