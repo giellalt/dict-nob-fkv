@@ -13571,13 +13571,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;anb">
       <lg>
          <l pos="V">levere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">leveerata</t>
+            <t pos="V">toimittaat</t>
          </tg>
       </mg>
    </e>
@@ -13612,17 +13613,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="levittele;levitel">levitellä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" val="TV" stem="levitä">levittäät</t>
+            <t pos="V" stem="levittele;levitel">levitellä</t>
+            <xg>
+            <x>Han spredte nyheten.</x>
+            <xt>Hän levitti uutisen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>splitte, oppløse</re>
             <t pos="V">hajoittaat</t>
+            <xg>
+            <x>Pulettija spredte folkemengden.</x>
+            <xt>Politiet hajoitti väkijoukon.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
