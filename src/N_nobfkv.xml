@@ -26569,10 +26569,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="ihmisjouko">ihmisjoukko</t>
+            <t pos="N">väkijoukko</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>stor</re>
+            <t pos="N">väjenpaljous</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;ki">
+      <lg>
+         <l pos="N">folkemasse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="ihmisjouko">ihmisjoukko</t>
             <t pos="N">väkijoukko</t>
          </tg>
       </mg>
@@ -26590,10 +26603,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ihmisjoukko</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">väkiroikka</t>
          </tg>
       </mg>
@@ -26661,13 +26670,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>om vær</re>
+         <re>kort, kraftig byge</re>
             <t pos="N">iili</t>
             <t pos="N">kuuro</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>mindre uthus eller tilbygg</re>
             <t pos="N">nausti</t>
          </tg>
       </mg>
