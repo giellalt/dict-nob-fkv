@@ -2340,7 +2340,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ki">
+   <e src="ai;ki;es">
       <lg>
          <l pos="A">nederst</l>
       </lg>
@@ -2352,6 +2352,31 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">alin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pohjimainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ki;es">
+      <lg>
+         <l pos="A">underst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">alimainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">alin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pohjimainen</t>
          </tg>
       </mg>
    </e>
@@ -11614,13 +11639,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="A">ytterst</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ulomainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">pohjimainen</t>
          </tg>
       </mg>
    </e>
@@ -13534,6 +13564,11 @@ For the full license text, see the link above.</lic>
             <t pos="Phrase">taustala olleeva</t>
          </tg>
       </mg>
+   <!--   <mg>
+         <tg xml:lang="fkv">
+         <t pos="A">pohjimainen</t>
+         </tg>
+      </mg> -->
    </e>
    <e src="es">
       <lg>
@@ -16705,13 +16740,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="A">gjensidig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">molemanpuolinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">keskinäinen</t>
          </tg>
       </mg>
    </e>
@@ -20598,6 +20638,11 @@ For the full license text, see the link above.</lic>
             <t pos="A">sissiin</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pohjimainen</t>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -21435,6 +21480,97 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">läpiväsyny</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">prinsipiell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">prinsipillinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">innbyrdes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">keskinäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">vannvittig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">mielipuolinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">sinnssyk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">mielipuolinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">lyssky</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">nävönarka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">skeptisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">skeptilinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">selvänäköinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">klarsynt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">megetsigende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">paljonpuhhuuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb;es">
+      <lg>
+         <l pos="A">mystisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">mystinen</t>
+            <t pos="A">mystilinen</t>
          </tg>
       </mg>
    </e>
