@@ -2119,13 +2119,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Phrase">i all hovedsak</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">päänänsä</t>
+            <t pos="Adv">pitkälti</t>
          </tg>
       </mg>
    </e>
@@ -6016,10 +6017,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">pääassiissa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">päänänsä</t>
          </tg>
       </mg>
@@ -8867,11 +8864,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">isossa määrässä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">paljolti</t>
+            <t pos="Adv">pitkälti</t>
          </tg>
       </mg>
    </e>
@@ -9548,12 +9542,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">pääassiilisesti</t>
             <t pos="Adv">päänänsä</t>
+            <t pos="Adv">pitkälti</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">pääassiilisesti</t>
+            <t pos="Adv">pitkälti</t>
          </tg>
       </mg>
    </e>
@@ -11198,6 +11194,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">puoliauki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">overalt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kaikkialla</t>
          </tg>
       </mg>
    </e>
