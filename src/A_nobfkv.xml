@@ -4991,6 +4991,18 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="A">løpende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>som foregår kontinuerlig</re>
+            <t pos="A">jatkuuva</t>
+            <t pos="A">jatkuuvainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="A">stadig</l>
       </lg>
       <mg>
@@ -21897,6 +21909,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">innostaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">rigid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kankkee</t>
          </tg>
       </mg>
    </e>
