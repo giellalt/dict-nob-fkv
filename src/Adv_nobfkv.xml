@@ -1639,15 +1639,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="es;ai">
       <lg>
          <l pos="Adv">maksimalt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">eniten</t>
+            <t pos="Adv">maksimaalisesti</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">eniten</t>
+         </tg>
+      </mg>      
    </e>
    <e src="ai;es">
       <lg>
@@ -1656,10 +1661,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">ennenvanhasta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">vanhaasseen aikhaan</t>
          </tg>
       </mg>
@@ -9449,7 +9450,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Adv">med solen</l>
+         <l pos="Adv">med sola</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">myötäpäivhään</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">medsols</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10846,6 +10857,7 @@ For the full license text, see the link above.</lic>
          <re>ordentlig, grundig</re>
             <t pos="Adv">vasiten</t>
             <t pos="Adv">kunnola</t>
+            <t pos="Adv">kunnolisesti</t>
          </tg>
       </mg>
       <mg>
@@ -10863,6 +10875,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">vasiten</t>
             <t pos="Adv">kunnola</t>
+            <t pos="Adv">kunnolisesti</t>
          </tg>
       </mg>
    </e>
@@ -11035,8 +11048,8 @@ For the full license text, see the link above.</lic>
 	         <re>medregnet</re>
             <t pos="Adv">myötälukkiin</t>
             <xg>
-            <x>Etter vår oppfatning er svaret – sannhetskommisjonen og rapporten inkludert – at fornorskningen med viten og vilje pågår.</x>
-            <xt>Niin ko met sen näjemä, vastaus oon – tottuuskommisuunin ja raportin myötälukkiin – ette ruijalaistaminen tiettäin ja tahtoin aina oon toimessa.</xt>
+            <x>Små minoritetsspråk, inkludert kvensk, er svært truet flere steder i Europa.</x>
+            <xt>Pienet minoriteettikielet, kväänin kielen myötälukkiin, oon kovin uhatut usheissa paikoissa Euroopassa.</xt>
             </xg>
          </tg>
       </mg>
@@ -11204,6 +11217,112 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kaikkialla</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">diskret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">diskreetisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">inderlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">harthaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">motsols</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vastapäivhään</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">mot sola</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vastapäivhään</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hevet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">koholansa</t>
+            <xg>
+            <x>Han så på meg med hevede øyenbryn.</x>
+            <xt>Hän kattoi minnuu kulmakarvat koholansa.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tungt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">raskhaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hissig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kiivhaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">oppfarende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kiivhaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">flammende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>intenst, lidenskapelig</re>
+            <t pos="Adv">kiivhaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>intenst, heftig</re>
+            <t pos="Adv">kiivhaasti</t>
          </tg>
       </mg>
    </e>
