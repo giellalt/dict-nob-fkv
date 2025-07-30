@@ -7629,6 +7629,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="A">eksisterende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">olemassa olleeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="A">frøspisende</l>
       </lg>
       <mg>
@@ -10491,18 +10501,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;es">
+   <e src="ta;es;ki">
       <lg>
          <l pos="A">sentral</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">sentraali</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">keskinen</t>
+            <t pos="A">sentraalinen</t>
          </tg>
       </mg>
    </e>
@@ -11625,13 +11632,13 @@ For the full license text, see the link above.</lic>
       </lg>
          <mg>
          <tg xml:lang="fkv">
-            <t pos="A">ulkoinen-</t>
-           <t pos="A">ulkonen-</t>
+            <t pos="A">ulkoinen</t>
+<!--          <t pos="A">ulkonen</t> -->
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">ulko-</t>
+            <t pos="A">ulko</t>
          </tg>
       </mg>
       <mg>
@@ -13391,13 +13398,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="fkvnob">
+   <e src="fkvnob;ki">
       <lg>
          <l pos="A">systematisk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">systemaattinen</t>
+            <t pos="A">systemaatilinen</t>
          </tg>
       </mg>
    </e>
@@ -13592,13 +13600,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">alternativ</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">alternatiivinen</t>
+            <t pos="A">vaihtoehtoinen</t>
          </tg>
       </mg>
    </e>
@@ -15096,6 +15105,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">samanarvoinen</t>
+            <t pos="A">tasapuolinen</t>
          </tg>
       </mg>
    </e>
@@ -16009,10 +16019,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="akr">
+   <e src="ki;akr">
       <lg>
          <l pos="A">rettslig</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">oikkeuđellinen</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">hallinollinen</t>
@@ -16634,6 +16649,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kriittinen</t>
+            <t pos="A">kriitilinen</t>
          </tg>
       </mg>
    </e>
@@ -18121,6 +18137,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">huomattava</t>
+            <t pos="A">markantti</t>
          </tg>
       </mg>
    </e>
@@ -18794,6 +18811,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">pedagooginen</t>
+            <t pos="A">pedagoogilinen</t>
          </tg>
       </mg>
    </e>
@@ -21134,9 +21152,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">hyväsäinen</t>
             <xg>
-	            <x>Det har vært overraskende godt vær i sommer.</x>
-	            <xt>Tämä kesä oon ollu yllättäävän hyväsäinen.</xt>
-	            </xg>
+	            <x>Det har vært overraskende mange godværsdager i sommer.</x>
+	            <xt>Tänä kesänä oon ollu yllättäävän monta hyväsäistä päivää.</xt>
+	         </xg>
          </tg>
       </mg>
    </e>
@@ -21705,6 +21723,180 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Phrase">pahhaa varraava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">jevnlik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tasapuolinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">jevnbyrdig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tasapuolinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">individuell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">individuelli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">heldags-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kokopäiväinen</t>
+            <xg>
+            <x>Vi har et heldagsmøte i morgen.</x>
+            <xt>Meilä oon kokopäiväinen kokkous huomena.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">heltids-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kokopäiväinen</t>
+            <xg>
+            <x>Hänelä oon kokopäiväinen työ biblioteekissa.</x>
+            <xt>Hun har en heltidsstilling på biblioteket.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">fulltids-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kokopäiväinen</t>
+            <xg>
+            <x>Han har en fulltidsjobb som lærer.</x>
+            <xt>Hänelä oon kokopäiväinen työ opettaajana.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">språkfaglig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kielifaakilinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">språkteknisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kieliteknilinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">treårig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kolmenvuotinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">lønnet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">palkalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">rammestyrt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">raamiohjattu</t>
+            <t pos="A">raamistyyrätty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">daværende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">senaikhainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">strukturert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">struktureerattu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">terminologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">terminolooginen</t>
+            <t pos="A">terminoloogillinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">dynamisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">dynaaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">inspirerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">innostaava</t>
          </tg>
       </mg>
    </e>
