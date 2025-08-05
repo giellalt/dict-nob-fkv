@@ -13190,6 +13190,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">laskeet</t>
+            <xg>
+               <x>Mies haukoitteli ja laski sölälensä.</x>
+               <xt>Mannen gjespet og la seg på rygg.</xt>
+            </xg>
+            <xg>
+               <x>Hän laski kransin hauđale.</x>
+               <xt>Hun la ned en krans på graven.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -13203,7 +13211,7 @@ For the full license text, see the link above.</lic>
                <x>Jeg legger bøkene i vesken.</x>
                <xt>Mie panen kirjat väskhyyn.</xt>
             </xg>
-            <xg>
+<!--            <xg>
                <x>Lukker du vinduet?</x>
                <xt>Panetko klasin kiini?</xt>
             </xg>
@@ -13238,12 +13246,12 @@ For the full license text, see the link above.</lic>
              <xg>
                <x>Skriver dere alle under?</x>
                <xt>Panettako tet kaikki nimen alle?</xt>
-            </xg>  
+            </xg>  -->
              <xg>
                <x>Hans la ut annonsen i avisen.</x>
                <xt>Hansi pani annonsin aviishiin.</xt>
             </xg> 
-              <xg>
+<!--              <xg>
                <x>Husk å ta på deg søndagsklærne.</x>
                <xt>Muista panna pyhävaattheet pääle.</xt>
             </xg> 
@@ -13306,7 +13314,7 @@ For the full license text, see the link above.</lic>
                <xg>
                <x>Barnet satte sammen legobrikkene.</x>
                <xt>Lapsi pani legopalat kokhoon.</xt>
-            </xg>   
+            </xg>   -->
              <xg>
                <x>Arbeidsklærne var så skitne at jeg la dem i bløt.</x>
                <xt>Työvaattheet olthiin niin lokaiset ette mie panin net likhoon.</xt>
@@ -13315,7 +13323,7 @@ For the full license text, see the link above.</lic>
                <x>Hanna la buksene til bleking.</x>
                <xt>Hanna pani housut pleekhiin.</xt>
             </xg> 
-             <xg>
+<!--             <xg>
                <x>Har dere iverksatt planen?</x>
                <xt>Olettako panheet plaanan toimheen?</xt>
             </xg>
@@ -13342,7 +13350,7 @@ For the full license text, see the link above.</lic>
               <xg>
                <x>Gruppen gjorde motstand mot uretten.</x>
                <xt>Roikka pani vääryttä vasthaan.</xt>
-            </xg> 
+            </xg> -->
             </tg>
       </mg>
       <mg>
@@ -14175,13 +14183,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es;anb">
       <lg>
          <l pos="V">telle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="luje;luke">lukkeet</t>
+            <t pos="V">räknätä</t>
+            <t pos="V">laskeet</t>
          </tg>
       </mg>
    </e>
@@ -20317,23 +20327,34 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es;anb">
       <lg>
          <l pos="V">regne</l>
       </lg>
       <mg>
         <tg xml:lang="fkv">
-	  <re>legge sammen tall</re>
-            <t pos="V" stem="räknää;räknän">räknätä</t>
-         </tg>
-      </mg>
-      <mg>
-        <tg xml:lang="fkv">
-	  <re>vann fra himmelen</re>
+	  <re>falle som regn</re>
             <t pos="V" stem="sađa;sata">sattaat</t>
             <xg>
                <x>Det regner.</x>
                <xt>Sattaa vettä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fkv">
+            <t pos="V" stem="räknää;räknän">räknätä</t>
+            <xg>
+               <x>Jeg kan også regne til ti!</x>
+               <xt>Mieki saatan räknätä kymmenheen!</xt>
+            </xg>
+            <xg>
+               <x>Veroesivallat laskeevat kunka paljon verroi sie häyđyt maksaat vuosittain.</x>
+               <xt>Skattemyndighetene regner ut hvor mye skatt du må betale i året.</xt>
+            </xg>
+            <xg>
+               <x>Den plassen der blir også regnet som en del av Tromsø.</x>
+               <xt>Kyllä senki paikan räknäthään Tromssaksi.</xt>
             </xg>
          </tg>
       </mg>
