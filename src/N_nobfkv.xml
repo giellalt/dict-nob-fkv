@@ -4933,6 +4933,7 @@ For the full license text, see the link above.</lic>
          <re>kjede</re>
             <t pos="N">länkki</t>
             <t pos="N">lenkki</t>
+            <t pos="N">kahlet</t>
          </tg>
       </mg>
    </e>
@@ -11315,6 +11316,16 @@ For the full license text, see the link above.</lic>
    <e src="mk">
       <lg>
          <l pos="N">kjelekaffe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kattilakaffi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">pannekaffe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -28812,6 +28823,11 @@ For the full license text, see the link above.</lic>
             <t pos="N">jyrinä</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jylinä</t>
+         </tg>
+      </mg>
             <mg>
          <tg xml:lang="fkv">
             <t pos="N">pauhu</t>
@@ -40688,13 +40704,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">kjevle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">käveli</t>
+            <t pos="N">kavveli</t>
          </tg>
       </mg>
    </e>
@@ -44535,6 +44552,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
          <re>eller isklump som er under skoen, hestehovene e.l.</re>
+            <t pos="N">tiera</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;es">
+      <lg>
+         <l pos="N">isklump</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>eller snøklump som er under skoen, hestehovene e.l.</re>
             <t pos="N">tiera</t>
          </tg>
       </mg>
@@ -107221,7 +107249,7 @@ For the full license text, see the link above.</lic>
    </e>
           <e src="anb">
       <lg>
-         <l pos="N">fosseklag</l>
+         <l pos="N">fosseklang</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -107313,6 +107341,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">dunder</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jyrinä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jylinä</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pauhu</t>
@@ -108082,11 +108120,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">oikheinkirjoitusnormi</l>
+         <l pos="N">rettskrivningsnorm</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">rettskrivningsnorm</t>
+            <t pos="N">oikheinkirjoitusnormi</t>
          </tg>
       </mg>
    </e>
@@ -108367,6 +108405,67 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ylheistieto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">håndjern</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kahlet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">iselv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jääjoki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">jordskjelv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">maanjäristys</t>
+            <t pos="N">järistys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">skjelv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">järistys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">drønn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jylinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">gas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fluuri</t>
          </tg>
       </mg>
    </e>
