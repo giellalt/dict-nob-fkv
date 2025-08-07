@@ -39516,10 +39516,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kuttu">kuttu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">invitasuuni</t>
          </tg>
       </mg>
@@ -39544,28 +39540,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">fett</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kuu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="pinna;pintta">pinta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">rasva</t>
             <t pos="N">rassuu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">rasva</t>
+         <re>spekk, talg, fettlag</re>
+            <t pos="N">kuu</t>
+            <t pos="N">pinta</t>
          </tg>
       </mg>
    </e>
@@ -39596,10 +39585,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kuu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">pinta</t>
             <t pos="N">späkki</t>
             <t pos="N">päkki</t>
          </tg>

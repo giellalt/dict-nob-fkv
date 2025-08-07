@@ -379,6 +379,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">energiarikas</t>
             <t pos="A">energiirikas</t>
          </tg>
       </mg>
@@ -6755,7 +6756,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta;kl;ki">
       <lg>
          <l pos="A">mager</l>
       </lg>
@@ -6766,7 +6767,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="lamma">lama</t>
+            <t pos="A">lama</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>spes. om kjøtt, lavt fettinnhold</re>
+            <t pos="A">vähärasvainen</t>
          </tg>
       </mg>
    </e>
