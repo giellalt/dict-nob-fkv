@@ -7773,11 +7773,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV">jatkata</t>
+            <xg>
+               <x>Mie jatkaan muistelusta ensi kerrala.</x>
+               <xt>Jeg fortsetter historien neste gang.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="IV">jatkuut</t>
+            <xg>
+               <x>Historien fortsetter neste gang.</x>
+               <xt>Muistelus jatkuu ensi kerrala.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13356,6 +13364,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">pistäät</t>
+            <xg>
+               <x>Han la fra seg boka og gikk til sengs.</x>
+               <xt>Hän pisti pois kirjan ja pani maata.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -17749,12 +17761,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="pane">panna</t>
             <xg>
-               <x>sette sammen</x>
-               <xt>panna kokhoon</xt>
+               <x>Kunne du ha satt melka i kjøleskapet?</x>
+               <xt>Panisitko sie maiđon kylmäkaapphiin?</xt>
             </xg>
             <xg>
-               <x>legge i bløt</x>
-               <xt>panna likhoon</xt>
+               <x>Vi setter sammen hylla i kveld.</x>
+               <xt>Met panema hyllyn kokhoon illala.</xt>
             </xg>
             <xg>
                <x>Det koster ingen ting å sette livet på spill.</x>
@@ -17765,6 +17777,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">pistäät</t>
+            <xg>
+               <x>Jeg setter kaffen på kok.</x>
+               <xt>Mie panen kaffin kiehumhaan.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
