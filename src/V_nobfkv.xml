@@ -16709,43 +16709,41 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;ame">
+   <e src="ai;ta;ame;anb">
       <lg>
          <l pos="V">stanse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>slutte å bevege seg, stoppe</re>
             <t pos="V" val="IV">pysättyyt</t>
             <t pos="V" val="IV">pyssäänttyyt</t>
             <t pos="V" val="IV">olestaat</t>
             <t pos="V" val="IV">olestuut</t>
+            <t pos="V" val="IV">topata</t>
             <xg>
                <x>Bussen stanset ved holdeplassen.</x>
                <xt>Pyssi olestui hollipaikale.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	          <re>få til å stoppe</re>
-            <t pos="V" val="TV">pysättäät</t>
-            <xg>
-               <x>Lokmotivføreren stanset toget.</x>
-               <xt>Lukmutiiviajjaaja pysätti tookin.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	           <re>stoppe, få til å stoppe</re>
-            <t pos="V" stem="toppaa;topan">topata</t>
-            <xg>
-               <x>Sjåføren stanset bilen.</x>
-               <xt>Ajjaaja toppas piilin.</xt>
-            </xg>
             <xg>
                <x>Bilen stanset.</x>
                <xt>Piili toppas.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	          <re>få til å stanse</re>
+            <t pos="V" val="TV">pysättäät</t>
+            <t pos="V" val="TV">olestuttaat</t>
+            <t pos="V" val="TV">topata</t>
+            <xg>
+               <x>Lokmotivføreren stanset toget.</x>
+               <xt>Lukmutiivinajjaaja pysätti tookin.</xt>
+            </xg>
+            <xg>
+               <x>Mor stanset oss i gangen og sa: "Kom hjem før midnatt!"</x>
+               <xt>Muori olestutti meiđät kangissa ja sanoi: "Tulkkaa kothiin ennen keskiyötä!"</xt>
             </xg>
              <xg>
                <x>Hun stanset ballen med foten.</x>
@@ -16760,11 +16758,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	           <re>stanse</re>
+         <re>slutte å bevege seg, stanse</re>
             <t pos="V" val="IV">pysättyyt</t>
             <t pos="V" val="IV">pyssäänttyyt</t>
             <t pos="V" val="IV">olestaat</t>
             <t pos="V" val="IV">olestuut</t>
+            <t pos="V" val="IV">topata</t>
             <xg>
                <x>Toget stoppet.</x>
                <xt>Tooki pysättyi.</xt>
@@ -16777,11 +16776,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	          <re>få til å stanse</re>
+	          <re>få til å stoppe</re>
             <t pos="V" val="TV">pysättäät</t>
+            <t pos="V" val="TV">olestuttaat</t>
+            <t pos="V" val="TV">topata</t>
             <xg>
                <x>Lokmotivføreren stoppet toget.</x>
-               <xt>Lukmutiiviajjaaja pysätti tookin.</xt>
+               <xt>Lukmutiivinajjaaja pysätti tookin.</xt>
             </xg>
          </tg>
       </mg>
