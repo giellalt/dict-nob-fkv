@@ -3559,17 +3559,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	     <re>motsatt av vanskelig</re>
-            <t pos="A" stem="helpo">helppo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">herkkä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
 	         <re>motsatt av tung</re>
             <t pos="A">kevvee</t>
             <xg>
@@ -3584,12 +3573,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">helposti</t>
+	     <re>motsatt av vanskelig</re>
+            <t pos="A" stem="helpo">helppo</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">kevveesti</t>
+            <t pos="A">herkkä</t>
          </tg>
       </mg>
    </e>
@@ -3655,10 +3645,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">herkkä</t>
+            <t pos="A">noppee</t>
          </tg>
       </mg>
-      <mg>
+            <mg>
          <tg xml:lang="fkv">
             <t pos="A">joutuinen</t>
          </tg>
@@ -3670,7 +3660,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">noppee</t>
+            <t pos="A">herkkä</t>
          </tg>
       </mg>
       <mg>
@@ -3680,6 +3670,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>brå, plutselig</re>
             <t pos="A">äkkinäinen</t>
          </tg>
       </mg>
@@ -3691,12 +3682,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="hermostunhee">hermostunnu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>bli nervøs</re>
-            <t pos="V">hermostuut</t>
          </tg>
       </mg>
    </e>
@@ -4624,7 +4609,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="A">sårbar</l>
       </lg>
@@ -4636,6 +4621,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">haavoittuuva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">herkkä</t>
          </tg>
       </mg>
    </e>
@@ -21940,6 +21930,16 @@ For the full license text, see the link above.</lic>
             <x>Døra var vidåpen.</x>
             <xt>Ovi oli lengola.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kompitabel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">yhtheensoppiiva</t>
          </tg>
       </mg>
    </e>
