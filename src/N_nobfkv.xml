@@ -3381,12 +3381,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="grom">
+   <e src="grom;es">
       <lg>
          <l pos="N">fakta</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">tosiassii</t>
             <t pos="N">fakta</t>
          </tg>
       </mg>
@@ -23945,13 +23946,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">lettelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="helpotukse">helpotus</t>
+         <re>det å føle seg lettet; følelse av befrielse</re>
+            <t pos="N">helpotus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>det å lettes; minskning av en belastning</re>
+            <t pos="N">kevitys</t>
          </tg>
       </mg>
    </e>
@@ -37356,13 +37364,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="yr">
+   <e src="yr;ki">
       <lg>
          <l pos="N">utdanningsinstitusjon</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">koulutusinstitusuuni</t>
+            <t pos="N">koulausinstitusuuni</t>
          </tg>
       </mg>
    </e>
@@ -54067,12 +54076,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ki;ai">
       <lg>
          <l pos="N">permisjon</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">permisuuni</t>
             <t pos="N">permisioni</t>
          </tg>
       </mg>
@@ -55516,17 +55526,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">plan</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">plaana</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">plaani</t>
             <t pos="N">suunitelma</t>
          </tg>
       </mg>
@@ -63273,15 +63280,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tosiassii</t>
+            <t pos="N">fakta</t>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="N">formidling</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">välitys</t>
             <t pos="N">välittäminen</t>
          </tg>
       </mg>
@@ -69024,6 +69033,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tulos</t>
+            <t pos="N">tulema</t>
+            <t pos="N">resultaatti</t>
+            <t pos="N">resyltaatti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;es;ki">
+      <lg>
+         <l pos="N">utfall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>resultat</re>
+            <t pos="N">tulos</t>
+            <t pos="N">tulema</t>
             <t pos="N">resultaatti</t>
             <t pos="N">resyltaatti</t>
          </tg>
@@ -79776,6 +79800,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">normeerinki</t>
+            <t pos="N">normeeraus</t>
          </tg>
       </mg>
    </e>
@@ -80098,6 +80123,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">prioriteerinki</t>
+            <t pos="N">prioriteeraus</t>
          </tg>
       </mg>
    </e>
@@ -86638,13 +86664,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">motivasjon</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">motivasuuni</t>
+            <t pos="N">motiveeraus</t>
          </tg>
       </mg>
    </e>
@@ -86926,13 +86953,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">observatør</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">observatööri</t>
+            <t pos="N">tarkkailiija</t>
          </tg>
       </mg>
    </e>
@@ -98803,6 +98831,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">korkkeekoulaus</t>
+            <t pos="N">korkkeekoulaaminen</t>
          </tg>
       </mg>
    </e>
@@ -102763,6 +102792,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tulkitteminen</t>
+            <t pos="N">tulkkaus</t>
          </tg>
       </mg>
    </e>
@@ -108077,6 +108107,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pääteema</t>
+            <t pos="N">pääainet</t>
          </tg>
       </mg>
    </e>
@@ -108167,6 +108198,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">mentoriprogrami</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">språklæring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kielenoppiminen</t>
          </tg>
       </mg>
    </e>
@@ -108286,6 +108327,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">kevitysoorninki</t>
             <t pos="N">takaisinantamisoorninki</t>
          </tg>
       </mg>
@@ -108468,6 +108510,420 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">olento</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">samarbeidsmøte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yhteistyökokkous</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">årsstudium</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vuosiopinto</t>
+            <t pos="N">vuosikoulaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">språklov</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kielilaki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">driftstilskudd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">toimimääräraha</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">formidlingsaktivitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">välitysaktiviteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">universitetslektor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">universiteettilehtori</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">utlysning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ulosjulistus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">arbeidsspråk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">työkieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tolkeutdanning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tulkkauskoulaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">servering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">trahteeraus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">timefordeling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tiimajako</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kunnskapsnivå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tietotasa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">minoritetsspråkpakt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">minoriteettikielisopimus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">beskyttelsesordning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suojeluoorninki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tilnærming</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>se på; forholde seg til</re>
+            <t pos="N">suhtaantuminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">oppnåelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sauttaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">revidering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">revideeraus</t>
+            <t pos="N">revideerinki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">resolusjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">resolusuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">prioritet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">prioriteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">podcast</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">podkasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">grunnskolelærerutdanning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">peruskoulunopettaajakoulaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">grunnskolelærer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">peruskoulunopettaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hovedpunkt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pääpunkti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">læringsressurs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">oppiresursi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">studierett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">oppioikkeus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rettesnor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ohjetnuora</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ungdomsorganisasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nuoriso-organisasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">normeringsprosedyre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">normeerausprosedyyri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">motivasjonsvideo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">motiveerausvideo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">motivering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">motiveeraus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">medieinnhold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">meediasisälys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">masterutdanning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">maasterikoulaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nærundervisning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">likiopetus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">barnehagemateriell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lastentarasmateriaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kvalitetssikring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kvaliteetinvarmistus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kronikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kronikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">skoleleder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">koulunjohtaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">utdannelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">koulaantuminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bruksområde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">käyttöala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ettergivelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>av f.eks. gjeld</re>
+            <t pos="N">kevitys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">intensjonsavtale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">intensuunisopimus</t>
          </tg>
       </mg>
    </e>
