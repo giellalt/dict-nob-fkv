@@ -18320,6 +18320,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">tienasti</t>
             <t pos="N">ansio</t>
             <t pos="N">tulo</t>
+            <t pos="N">toimheentulo</t>
          </tg>
       </mg>
    </e>
@@ -18329,9 +18330,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>inntekt</re>
             <t pos="N">tienasti</t>
             <t pos="N">ansio</t>
             <t pos="N">tulo</t>
+            <t pos="N">toimheentulo</t>
          </tg>
       </mg>
    </e>
@@ -68258,10 +68261,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tohtori</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">tohturi</t>
          </tg>
       </mg>
@@ -68279,6 +68278,16 @@ For the full license text, see the link above.</lic>
    <e src="ai">
       <lg>
          <l pos="N">berging</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">toimheentulo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">livsopphold</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -108570,6 +108579,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">universiteettilektori</t>
             <t pos="N">universiteettilehtori</t>
          </tg>
       </mg>
