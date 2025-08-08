@@ -17651,10 +17651,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ala</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">plaana</t>
          </tg>
       </mg>
@@ -40797,24 +40793,31 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">bruk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="käytö">käyttö</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">pito</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>det å bruke</re>
             <t pos="N" stem="pruuki;pruukki">pruuki</t>
+            <xg>
+               <x>Bruken av smarttelefoner har økt dramatisk de siste tiårene.</x>
+               <xt>Smarttitelefooniitten käyttö oon kasunu dramaattisesti viimi vuosikymmeninnä.</xt>
+            </xg>
+            <xg>
+               <x>Nummeret er ikke i bruk.</x>
+               <xt>Numero ei ole käytössä.</xt>
+            </xg>
+            <xg>
+               <x>Ta språket i bruk!</x>
+               <xt>Ota kielen pithoon!</xt>
+            </xg>
+            <xg>
+               <x>Vi strikket lester til eget bruk.</x>
+               <xt>Met neuloima villalestoi omhaan pruukhiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -84084,7 +84087,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">nyttig bruk</l>
+         <l pos="Phrase">nyttig bruk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
