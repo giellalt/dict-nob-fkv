@@ -1658,6 +1658,40 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>      
    </e>
+   <e src="es;ai">
+      <lg>
+         <l pos="Adv">maksimum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">enintä</t>
+            <t pos="Adv">enimitten</t>
+            <t pos="Adv">enniimitten</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ai">
+      <lg>
+         <l pos="Adv">minimum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vähhiintä</t>
+            <t pos="Adv">vähintä</t>
+            <t pos="Adv">vähittäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">litt av hvert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vähän mitäki</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;es">
       <lg>
          <l pos="Adv">i gamle dager</l>
@@ -8160,17 +8194,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="es">
       <lg>
          <l pos="Adv">i det minste</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">vähhiinthään</t>
+            <t pos="Adv">vähittäin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Adv">eđes</t>
-            <xg>
-               <x>ikke engang</x>
-               <xt>ei eđes</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -8205,12 +8241,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">vähhiin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">vähhiiten</t>
+            <t pos="Adv">vähhiimitten</t>
+            <t pos="Adv">vähhiin</t>
             <xg>
             <x>Hvorfor blir jeg alltid syk når jeg minst venter det!</x>
             <xt>Miksi mie aina sairastun ko mie sitä vähhiiten ođotan!</xt>
@@ -8220,6 +8253,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">vähhiinthään</t>
+            <t pos="Adv">vähittäin</t>
             <xg>
             <x>Pese hamphaat vähhiinthään kaksi kerttaa päivässä!</x>
             <xt>Puss tennene minst to ganger om dagen!</xt>
@@ -10396,6 +10430,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">vähän kerttaa</t>
+            <t pos="Adv">vähittäin</t>
          </tg>
       </mg>
    </e>
@@ -11344,6 +11379,56 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">tarvittaissa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">primært</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">primääristi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">i nærmeste fremtid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">likiaikana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">alt i alt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kaiken kaikkihaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">i det store og hele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kaiken kaikkihaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">samlet sett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kaiken kaikkihaan</t>
          </tg>
       </mg>
    </e>
