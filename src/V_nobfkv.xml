@@ -26164,6 +26164,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="V">poengtere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">painoittaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="V">vektlegge</l>
       </lg>
       <mg>
@@ -27256,13 +27266,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="V">oppdatere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">ylösdateerata</t>
+            <t pos="Phrase">panna aijan tasale</t>
          </tg>
       </mg>
    </e>
@@ -29897,6 +29908,37 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">kahđenkielistyyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">utlyse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">julistaat</t>
+            <t pos="Phrase">julistaat ulos</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">revidere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">uuđistaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">bli revidert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">uuđistuut</t>
          </tg>
       </mg>
    </e>
