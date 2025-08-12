@@ -3344,12 +3344,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="mykytä">mykyttäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
          <re>tale støtvis</re>
+            <t pos="V" stem="mykytä">mykyttäät</t>
             <t pos="V">mykitellä</t>
          </tg>
       </mg>
@@ -15570,15 +15566,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">myönttyyt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" stem="myöttää;myöđän">myöđätä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Phrase">anttaat pörhään</t>
             <xg>
             <x>Jeg gir ikke etter.</x>
@@ -15600,6 +15588,16 @@ For the full license text, see the link above.</lic>
    <e src="ta">
       <lg>
          <l pos="Phrase">tygge drøv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">märehtiit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="V">drøvtygge</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
