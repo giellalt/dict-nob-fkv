@@ -8315,10 +8315,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">vähän</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">vähäsen</t>
          </tg>
       </mg>
@@ -8365,13 +8361,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">innimellom</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">välilä</t>
+            <t pos="Adv">välhiin</t>
+            <t pos="Adv">välistä</t>
          </tg>
       </mg>
    </e>
@@ -8382,10 +8380,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">välilä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="Adv">välhiin</t>
             <t pos="Adv">välistä</t>
          </tg>
       </mg>
