@@ -53653,7 +53653,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta;kl">
       <lg>
-         <l pos="N">komager</l>
+         <l pos="N">kommager</l>
       </lg>
         <mg>
          <tg xml:lang="fkv">
@@ -53665,6 +53665,43 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>av okse- eller kuskinn</re> 
             <t pos="N">vuotakengät</t> 
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paulakengät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kumakat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;ki">
+      <lg>
+         <l pos="N">kommag</l>
+      </lg>
+        <mg>
+         <tg xml:lang="fkv">
+         <re>av kalve- eller saueskinn</re> 
+            <t pos="N">sistikkä</t> 
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>av okse- eller kuskinn</re> 
+            <t pos="N" stem="vuotakengä;vuotakenkkä">vuotakenkä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="paulakengä;paulakenkkä">paulakenkä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kumakka</t>
          </tg>
       </mg>
    </e>
@@ -73540,26 +73577,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="vuosisađa;vuosisat">vuosisata</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta;ki">
-      <lg>
-         <l pos="N">komage</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="vuotakengä;vuotakenkkä">vuotakenkä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="paulakengä;paulakenkkä">paulakenkä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kumakka</t>
          </tg>
       </mg>
    </e>
