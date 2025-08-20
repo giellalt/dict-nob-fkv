@@ -766,7 +766,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj;ki">
+   <e src="mj;ki;es">
       <lg>
          <l pos="Phrase">hva slags</l>
       </lg>
@@ -774,6 +774,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">minkälainen</t>
             <t pos="A">millainen</t>
+            <t pos="A">kummoinen</t>
             <xg>
             <x>Hva slags mat har du tenkt å servere gjestene?</x>
             <xt>Minkälaistä ruokkaa sie aijot tarjota vierhaile?</xt>
@@ -785,7 +786,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj;ki">
+   <e src="mj;ki;es">
       <lg>
          <l pos="A">hvordan</l>
       </lg>
@@ -793,6 +794,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">minkälainen</t>
             <t pos="A">millainen</t>
+            <t pos="A">kummoinen</t>
             <xg>
             <x>Hvordan person er han?</x>
             <xt>Minkälainen persoona hän oon?</xt>
