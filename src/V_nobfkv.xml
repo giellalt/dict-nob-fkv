@@ -6438,6 +6438,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>reke, drive</re>
             <t pos="V" val="IV" stem="riuđu;riutu">riuttuut</t>
          </tg>
       </mg>
@@ -14320,6 +14321,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>flyte, reke</re>
+            <t pos="V">riuttuut</t>
             <t pos="V">luppoila</t>
          </tg>
       </mg>
@@ -14336,11 +14339,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>flyte, drive</re>
             <t pos="V">luppoila</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" val="IV" stem="riuđu;riutu">riuttuut</t>
          </tg>
       </mg>
@@ -20089,6 +20089,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>føres av sted av vind, strøm eller lignende</re>
             <t pos="V" val="IV" stem="riuđu;riutu">riuttuut</t>
          </tg>
       </mg>
@@ -22532,17 +22533,33 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">tuiskata</t>
+            <t pos="V">tuiskuut</t>
+            <xg>
+               <x>Veien har føket igjen.</x>
+               <xt>Tie oon tuiskunu umpheen.</xt>
+            </xg>
+            <xg>
+               <x>Det fyker ute.</x>
+               <xt>Ulkona tuiskuu.</xt>
+            </xg>
+            <xg>
+               <x>De gikk på ski langs den gjenføkne veien.</x>
+               <xt>Het hihđelthiin tuiskunutta tietä myöđen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="tuiskuta">tuiskuttaat</t>
+            <xg>
+               <x>Det føyk inn snø fra vinduet.</x>
+               <xt>Klasista tuiskutti lunta sisäle.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="tuisku">tuiskuut</t>
+            <t pos="V">tuiskata</t>
          </tg>
       </mg>
    </e>
