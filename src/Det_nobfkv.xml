@@ -84,18 +84,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Det">hva slags</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Pron">kummoinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Pron">minkälainen</t>
+            <t pos="Pron">millainen</t>
+            <t pos="Pron">kummoinen</t>
          </tg>
       </mg>
    </e>
@@ -124,17 +121,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Pron">minkälainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Det">hvilken i ei rekke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pron">monesko</t>
+            <t pos="Pron">ei minkhäänlainen</t>
          </tg>
       </mg>
    </e>
@@ -145,6 +132,77 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pron">harva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;es;ta">
+      <lg>
+         <l pos="Det">hvilken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>hva slags, hvordan</re>
+            <t pos="Pron">minkälainen</t>
+            <t pos="Pron">millainen</t>
+            <t pos="Pron">kummoinen</t>
+            <xg>
+               <x>Hvilken status har det kvenske språket?</x>
+               <xt>Kummoinen status kväänin kielelä oon nyt?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>hva for en eller et av et bestemt antall</re>
+            <t pos="Pron">mikä</t>
+            <xg>
+               <x>Hvilken skostørrelse har du?</x>
+               <xt>Mikä kenkäkoko sinula oon?</xt>
+            </xg>
+            <xg>
+               <x>Hvilken av disse tre velger du, den grønne, den røde eller den blå?</x>
+               <xt>Minkä näistä kolmesta valittet, vihrisen, punaisen vain sinisen?</xt>
+            </xg>
+            <xg>
+               <x>Dette er ikke hvilken som helst bil, den kan fly!</x>
+               <xt>Tämä ei ole mikä tahansa biili, se saattaa näjet lenttäät!</xt>
+            </xg>
+            <xg>
+               <x>Hvilken dag dette har vært!</x>
+               <xt>Mikä päivä tämä oon ollu!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om to</re>
+            <t pos="Pron">kumpi</t>
+            <xg>
+               <x>Hvilken av disse velger du, den grønne eller den røde?</x>
+               <xt>Kumman näistä valittet, vihrisen vain punaisen?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>plass i en rekke</re>
+            <t pos="Pron">mones</t>
+            <xg>
+               <x>Hvilken dag i juli er vi på nå?</x>
+               <xt>Monesko juulikuun päivä tääpänä oon?</xt>
+            </xg>
+            <xg>
+               <x>Hvilken plass kom hun på i mål?</x>
+               <xt>Kuinka mones hän oli moolissa?</xt>
+            </xg>
+            <xg>
+               <x>Hvilken plass er dere på sammenlagt i mesterskapet?</x>
+               <xt>Kuinka monensinna tet oletta mestaruuđen yhtheispoengissa?</xt>
+            </xg>
+            <xg>
+               <x>Hvor mange ganger har du fortalt denne fortellingen nå?</x>
+               <xt>Monenenko kerran sie nyt olet muistelu tämän muisteluksen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
