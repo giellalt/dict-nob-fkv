@@ -26078,13 +26078,22 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hymööri</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">mieli</t>
             <t pos="N">kiiri</t>
              <xg>
-               <x>Han/hun er nå i godt humør.</x>
+               <x>Hun er i så godt humør i dag.</x>
+               <xt>Hän oon niin hyvälä hymöörillä tääpänä.</xt>
+            </xg>
+             <xg>
+               <x>Du er i så godt humør for tiden.</x>
+               <xt>Sinula oon niin hyvä mieli nykyjään.</xt>
+            </xg>
+             <xg>
+               <x>Unnskyld for at jeg var i så dårlig humør i går.</x>
+               <xt>Antheeksi ette mie olin niin huonossa mielessä eilen.</xt>
+            </xg>
+             <xg>
+               <x>Han er i godt humør nå.</x>
                <xt>Hyvälä kiirin hän oon nyt.</xt>
             </xg>
          </tg>
@@ -26268,7 +26277,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>mäkärä større enn hyđet</re>
+	         <re>mindre enn mäkärä</re>
             <t pos="N" stem="hythee">hyđet</t>
          </tg>
       </mg>
