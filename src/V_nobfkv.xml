@@ -12897,11 +12897,22 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="V">bli bedervet</l>
+         <l pos="Phrase">bli bedervet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">määnttyyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">slakke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>løse på et tau e.l.</re>
+            <t pos="V">löysätä</t>
          </tg>
       </mg>
    </e>
@@ -14592,25 +14603,49 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">løse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>gjøre løsere</re>
             <t pos="V" val="IV" stem="löyssää;löysän">löysätä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>en søm</re>
             <t pos="V" stem="ratkaise;ratkais">ratkaista</t>
+            <xg>
+            <x>Dere må løse denne gåten.</x>
+            <xt>Tet häyđyttä ratkaista tämän arvauksen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e src="ai;ta">
       <lg>
          <l pos="Phrase">betale for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="IV" stem="löyssää;löysän">löysätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">løse inn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="IV" stem="löyssää;löysän">löysätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">innløse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">

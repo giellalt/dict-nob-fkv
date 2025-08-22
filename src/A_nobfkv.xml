@@ -4277,15 +4277,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="A">sprø</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>tåpelig, tullete</re>
             <t pos="A">höperä</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>sped, spinkel</re>
+            <t pos="A">löyhä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sped</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">löyhä</t>
