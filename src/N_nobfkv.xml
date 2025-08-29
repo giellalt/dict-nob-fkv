@@ -109283,4 +109283,47 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">titall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Num">kymmenkunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tjuetall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>omtrent tjue</re>
+            <t pos="Num">parisenkymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hundretall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>omtrent hundre</re>
+            <t pos="Num">satakunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tusentall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>omtrent tusen</re>
+            <t pos="Num">tuhatkunta</t>
+         </tg>
+      </mg>
+   </e>
 </r>
