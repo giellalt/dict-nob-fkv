@@ -7951,23 +7951,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">sladre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>sladre om, prate</re>
             <t pos="V">juoruta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">juoruut</t>
+            <xg>
+               <x>De satt rundt kjøkkenbordet og sladret om naboen.</x>
+               <xt>Het istuthiin köökinpöyđässä juoruumassa krannista.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="varraa;varan">varata</t>
+         <re>angi, tyste, røpe</re>
+            <t pos="V">kannela</t>
+            <t pos="V">varata</t>
+            <xg>
+               <x>Han sladret på meg til læreren.</x>
+               <xt>Hän kanteli minun pääle opettaajale.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23613,6 +23620,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="varraa;varan">varata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">varsle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="varraa;varan">varata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">tyste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="varraa;varan">kannela</t>
          </tg>
       </mg>
    </e>

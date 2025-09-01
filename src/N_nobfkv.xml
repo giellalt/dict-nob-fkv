@@ -23984,6 +23984,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>kant</re>
+            <t pos="N">kantti</t>
+            <xg>
+               <x>Hun fra støtte fra alle hold.</x>
+               <xt>Hän saapi kuurttoo joka kantilta.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ki">
       <lg>
          <l pos="N">lettelse</l>
@@ -23992,12 +24007,20 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>det å føle seg lettet; følelse av befrielse</re>
             <t pos="N">helpotus</t>
+            <xg>
+               <x>Det var en lettelse da jeg fikk vite at det gikk bra med ham.</x>
+               <xt>Se oli helpotus ko sain tiettäät ette hän oli kunnossa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
          <re>det å lettes; minskning av en belastning</re>
             <t pos="N">kevitys</t>
+            <xg>
+               <x>I enkelte distriktskommuner får man lettelser på studielånet.</x>
+               <xt>Vissiissä distriktikommuuniissa saapi opintolainan kevitystä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
