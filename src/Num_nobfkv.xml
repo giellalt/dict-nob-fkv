@@ -115,11 +115,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Num">kaksikymmentä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" stem="kakskymmene">kakskymmentä</t>
+            <t pos="Num">kakskymmentä</t>
          </tg>
       </mg>
    </e>
@@ -130,10 +126,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Num">kaksitoista</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Num">kakstoista</t>
          </tg>
       </mg>
@@ -145,6 +137,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Num">kaksituhatta</t>
+            <t pos="Num">kakstuhatta</t>
          </tg>
       </mg>
    </e>
@@ -154,17 +147,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Num" stem="kaksikymmene">kaksikymmentä</t>
             <t pos="Num" stem="kakskymmene">kakskymmentä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">totusen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num">kakstuhatta</t>
          </tg>
       </mg>
    </e>
@@ -258,7 +242,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+ <!--  <e src="ai;ta">
       <lg>
          <l pos="Num">seissen</l>
       </lg>
@@ -267,10 +251,10 @@ For the full license text, see the link above.</lic>
             <t pos="Num">kuusitoista</t>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e src="ta">
       <lg>
-         <l pos="Num">sekstusen</l>
+         <l pos="Num">seks tusen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -294,12 +278,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="tuhase;tuhat">tuhanen</t>
+            <t pos="Num">tuhat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Num">tuhat</t>
+            <t pos="Num" stem="tuhase;tuhat">tuhanen</t>
          </tg>
       </mg>
    </e>
@@ -402,11 +386,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Num" stem="viisikymmene">viisikymmentä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Num" stem="viiskymmene">viiskymmentä</t>
+
          </tg>
       </mg>
    </e>
@@ -417,10 +398,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Num">viisitoista</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Num">viistoista</t>
          </tg>
       </mg>
@@ -452,16 +429,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Num">yksi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pron" stem="muutamma;muutampa">muutampi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pron" stem="yhđe;yh">yksi</t>
          </tg>
       </mg>
    </e>
