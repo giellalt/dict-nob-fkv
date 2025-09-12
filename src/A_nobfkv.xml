@@ -3002,10 +3002,10 @@ For the full license text, see the link above.</lic>
         <mg>
          <tg xml:lang="fkv">
 	       <re>uten tvil, myndig</re>
-            <t pos="A">päättävä</t>
+            <t pos="A">päättäävä</t>
              <xg>
             <x>Skrittene hennes var bestemte.</x>
-            <xt>Hänen askelheet olthiin päättävät.</xt>
+            <xt>Hänen askelheet olthiin päättäävät.</xt>
             </xg>
          </tg>
       </mg> 
@@ -3017,6 +3017,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">etelämpi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">besluttsom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">päättäävä</t>
          </tg>
       </mg>
    </e>
