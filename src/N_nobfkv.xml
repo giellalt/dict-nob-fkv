@@ -65228,13 +65228,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">stasjon</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">stasuuni</t>
+            <t pos="N">asema</t>
          </tg>
       </mg>
    </e>
@@ -73179,14 +73180,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>arbeidsstilling</re>
+         <re>jobb, post, verv</re>
             <t pos="N" stem="vira;virkka">virka</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>plass, posisjon</re>
             <t pos="N">asema</t>
+            <xg>
+            <x>Jeg satt i en så dårlig stilling, at jeg fikk vondt i ryggen.</x>
+            <xt>Mie istuin niin huonossa asemassa, ette sölkä tuli kippeeksi.</xt>
+            </xg>
+            <xg>
+            <x>Kvenenes stilling i samfunnet har heldigvis blitt bedre.</x>
+            <xt>Kvääniin asema samfynnissa oon onneksi tullu paremaksi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -109349,4 +109357,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+<!--   <e src="es">
+      <lg>
+         <l pos="N">posisjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">asema</t>
+         </tg>
+      </mg>
+   </e> -->
 </r>
