@@ -11540,7 +11540,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;aht;es">
+   <e src="ai;ta;aht;es;anb">
       <lg>
          <l pos="V">gå</l>
       </lg>
@@ -11604,8 +11604,18 @@ For the full license text, see the link above.</lic>
 	         <re>besværlig, krokete</re>	         
             <t pos="V">kömpyröitä</t>
               <xg>
-               <x>Hän kömpyröi trapuissa.</x>
-               <xt>Han gikk besværlig i trappen.</xt>
+               <x>Han gikk besværlig i trappen.</x>
+               <xt>Hän kömpyröi trapuissa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>om tid</re>	         
+            <t pos="V">kulluut</t>
+              <xg>
+               <x>Tiden gikk fortere enn jeg trodde.</x>
+               <xt>Aika kului noppeemasti ko luulin.</xt>
             </xg>
          </tg>
       </mg>
@@ -11630,6 +11640,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>bli slitt</re>
             <t pos="V">kulluut</t>
          </tg>
       </mg>
