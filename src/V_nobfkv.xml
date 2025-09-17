@@ -10519,6 +10519,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>påføre slitasje, gjøre slitt</re>
             <t pos="V" stem="kuluta">kuluttaat</t>
          </tg>
       </mg>
@@ -30028,6 +30029,43 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">prioriteerata</t>
             <t pos="Phrase">panna etusijale</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">forbruke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kuluttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">konsumere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kuluttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">fordrive</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>jage, drive bort</re>
+            <t pos="V">karkoittaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om tid</re>
+            <t pos="V">kuluttaat</t>
          </tg>
       </mg>
    </e>
