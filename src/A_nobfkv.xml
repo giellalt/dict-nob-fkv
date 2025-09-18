@@ -3308,6 +3308,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>gretten,hissig</re>
             <t pos="A" stem="äkäise;äkäis">äkäinen</t>
          </tg>
       </mg>
@@ -6532,6 +6533,15 @@ For the full license text, see the link above.</lic>
             <t pos="A" stem="äkäise;äkäis">äkäinen</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">käryssään</t>
+            <xg>
+            <x>Han har vært så muggen og gretten i det siste.</x>
+            <xt>Hän oon ollu niin käryssään viimi aikoina.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -6540,6 +6550,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">käsipuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">muggen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>sur og gretten</re>
+            <t pos="Adv">käryssään</t>
+            <xg>
+            <x>Han har vært så muggen og gretten i det siste.</x>
+            <xt>Hän oon ollu niin käryssään viimi aikoina.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10895,12 +10920,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="suuttunhee;suuttunut">suuttunu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A" stem="vihaise;vihais">vihainen</t>
+            <t pos="A" stem="suuttunhee;suuttunut">suuttunu</t>
          </tg>
       </mg>
    </e>
@@ -12318,12 +12339,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">illsint</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">pahaluontoinen</t>
             <t pos="A" stem="vihaise;vihais">vihainen</t>
          </tg>
       </mg>
@@ -12334,7 +12356,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>f.eks betent finger</re>
+	         <re>som det er gått betennelse i</re>
             <t pos="A" stem="vihaise;vihais">vihainen</t>
          </tg>
       </mg>
