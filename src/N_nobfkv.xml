@@ -109361,6 +109361,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>sted, plassering</re>
             <t pos="N">asento</t>
+            <t pos="N">posisuuni</t>
          </tg>
       </mg>
       <mg>
@@ -109380,13 +109381,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">forbruk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kulutus</t>
+            <t pos="N">kuluttaminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">käyttö</t>
+            <t pos="N">käyttäminen</t>
+            <t pos="N">pito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">konsum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulutus</t>
+            <t pos="N">kuluttaminen</t>
          </tg>
       </mg>
    </e>
