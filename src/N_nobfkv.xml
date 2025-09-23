@@ -36186,11 +36186,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">konkursi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">pankrotti</t>
+            <xg>
+               <x>Butikken gikk konkurs.</x>
+               <xt>Kauppa meni konkursiin.</xt>
+            </xg>
+            <xg>
+               <x>Butikken gikk konkurs.</x>
+               <xt>Kauppa meni pankrotthiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
