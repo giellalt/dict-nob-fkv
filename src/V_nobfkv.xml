@@ -1167,13 +1167,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;ki">
       <lg>
          <l pos="V">bøyes</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">suijuut</t>
+            <t pos="V">sujjuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">taippuut</t>
          </tg>
       </mg>
    </e>
@@ -21361,23 +21367,35 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Phrase">bli bøyd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="IV">sujjuut</t>
+            <t pos="V" val="IV">suijuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="IV">taippuut</t>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Phrase">bøye seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="IV">sujjuut</t>
+            <t pos="V" val="IV">suijuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="IV">taippuut</t>
          </tg>
       </mg>
    </e>
