@@ -3988,13 +3988,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es;mj">
       <lg>
          <l pos="Adv">som det fortelles</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>visst nok, trolig, etter sigende</re>
             <t pos="Adv">kuulema</t>
+            <t pos="Adv">kuuleman</t>
+            <t pos="Adv">kuulemin</t>
          </tg>
       </mg>
    </e>
@@ -9396,13 +9399,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;mj">
       <lg>
          <l pos="Adv">visstnok</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kuulema</t>
+            <t pos="Adv">kuuleman</t>
+            <t pos="Adv">kuulemin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;mj">
+      <lg>
+         <l pos="Adv">visst nok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kuulema</t>
+            <t pos="Adv">kuuleman</t>
+            <t pos="Adv">kuulemin</t>
          </tg>
       </mg>
    </e>
