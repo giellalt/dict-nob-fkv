@@ -14018,12 +14018,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">taivutus</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">suijutus</t>
             <t pos="N">sujutus</t>
+            <t pos="N">taivutus</t>
+
          </tg>
       </mg>
    </e>
@@ -36457,18 +36455,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">kontrakt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kontrakti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="sopimukse">sopimus</t>
+            <t pos="N">kontrahti</t>
+            <t pos="N">sopimus</t>
          </tg>
       </mg>
    </e>
@@ -78922,6 +78917,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">stadieveksling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">graadivaihettelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">grunntall</l>
       </lg>
       <mg>
@@ -109423,6 +109428,368 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sylilapsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">transitivt verb</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">transitiiviverbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">dobbelvokal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tuplavokaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">modus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">modus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">stadievekslingspar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">graadivaihettelupari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">fremre vokal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">etuvokaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bakre vokal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">takavokaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">forholdsadposisjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suhđetadposisuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">simpleksord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yksilekseemi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">følelsessyntaks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tunnetsyntakti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">bøyningsparadigma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suijutusparadigma</t>
+            <t pos="N">taivutusparadigma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">bøyningsmorfem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suijutusmorfeemi</t>
+            <t pos="N">taivutusmorfeemi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fragment</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">fragmentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">relativsetning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">relatiivisyntakti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">spørreadverb</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kysymäadverbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">spørreadjektiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kysymäadjektiivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kursiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kursiivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">komponent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">komponentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">nektende pronomen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kieltopronomeni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fiskekjøper</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kalanostaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">intransitivt verb</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">intransitiiviverbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">oppslagsord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hakemasana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">oppslagsverk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hakemakirja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">oppslagsform</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hakemasanahaamu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">genitivsmodifikator</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">genitiividefineeraus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">avledningsmorfem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">derivasuunimorfeemi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">denotasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">denotasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">demonstrativ pronom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">demonstratiivipronomeni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">stoffnavn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ainetsana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">masseord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ainetsana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">abstrakt ord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">abstraktisana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">presisjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tarkkuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">nøyaktighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tarkkuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">superjunksjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">superjunksuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">relativt pronomen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">relatiivipronomeni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">morfem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">morfeemi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">konnektiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">konnektiivi</t>
          </tg>
       </mg>
    </e>
