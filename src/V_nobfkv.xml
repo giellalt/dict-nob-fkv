@@ -10793,7 +10793,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">pynte</l>
       </lg>
@@ -10801,7 +10801,19 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">komistaat</t>
             <t pos="V">koristaat</t>
+            <t pos="V">koristella</t>
             <t pos="V">korreila</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">dekorere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">koristaat</t>
+            <t pos="V">koristella</t>
          </tg>
       </mg>
    </e>
@@ -24430,6 +24442,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">talmata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;es">
+      <lg>
+         <l pos="V">innsmøre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">voiđela</t>
          </tg>
       </mg>
    </e>
