@@ -14337,6 +14337,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">spesiaalivaihettelu</t>
+            <t pos="N">spesiaaligraadivaihettelu</t>
          </tg>
       </mg>
    </e>
@@ -19019,6 +19020,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">seikka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>det egentlige, sanne forholdet</re>
+            <t pos="N">assiinlaita</t>
+            <xg>
+            <x>Saken er den at de ikke ønsker å treffe dere idag.</x>
+            <xt>Assiinlaita oon niin ette het ei halluu kohđata teitä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -65950,13 +65961,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">spytt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>væske</re>
             <t pos="N">sylki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>det å spytte</re>
+            <t pos="N">sylkäisy</t>
          </tg>
       </mg>
    </e>
@@ -66613,6 +66631,11 @@ For the full license text, see the link above.</lic>
                <x>De er ikke til noen hjelp.</x>
                <xt>Ei niistä ole taikkaa.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">taikkuus</t>
          </tg>
       </mg>
    </e>
@@ -68196,7 +68219,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;ki">
+   <e src="ai;ta;ki;es">
       <lg>
          <l pos="N">situasjon</l>
       </lg>
@@ -68208,6 +68231,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">situasuuni</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>stode, stilling</re>
+            <t pos="N">assiinlaita</t>
          </tg>
       </mg>
    </e>
@@ -110224,6 +110253,249 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vaihettelugraadi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">ytre lokalkasus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ulkopaikkakaasus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">torvarbeid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tuvethomma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kjenthet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tunnettuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">triftong</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">triftongi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">totalobjekt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">totaaliobjekti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">totalobjektsform</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">totaaliobjektihaamu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ønskelighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">toivottavvuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">vanlighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tavalisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">bøyingstype</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suijutustyyppi</t>
+            <t pos="N">taivutustyyppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">synonym</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">synonyymi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">spytting</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sylkäisy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">munnhule</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suuväylä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">superlativform</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">superlatiivihaamu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">subjektkongruens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">subjektikongruensi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">rekkevidde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">toimintasäde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">spesialgeminering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">spesiaaligeminasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">indre lokalkasus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sisäpaikkakaasus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">bindingsforhold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sitomasuhđet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sansefornemmelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sansihavainto</t>
+            <t pos="N">sansihavaittema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sanseinntrykk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sansihavainto</t>
+            <t pos="N">sansihavaittema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">taleverb</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sanomaverbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">værverb</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sääverbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">værtilstand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">säätila</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tosk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ruokopää</t>
          </tg>
       </mg>
    </e>
