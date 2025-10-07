@@ -19437,13 +19437,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="A">abstrakt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">abstraktinen</t>
+            <t pos="A">abstrakti</t>
          </tg>
       </mg>
    </e>
@@ -21964,6 +21965,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kirjalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">original</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">originaali</t>
          </tg>
       </mg>
    </e>
