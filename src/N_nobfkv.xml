@@ -14156,12 +14156,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">eksistensi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">olemassaolo</t>
+            <t pos="N">eksistensi</t>
          </tg>
       </mg>
    </e>
@@ -14171,6 +14167,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">oornaamaluku</t>
             <t pos="N">ordinaali</t>
          </tg>
       </mg>
@@ -14182,10 +14179,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">jakso</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">faasi</t>
          </tg>
       </mg>
@@ -14197,10 +14190,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">jakso</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">periuudi</t>
          </tg>
       </mg>
@@ -110816,6 +110805,66 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">fiikus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">nyanse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nyansi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">lærebokstandard</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">oppikirjastandardi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">særtrekk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">omituisluonto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">karaktertrekk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">omituisluonto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">opposisjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">opposisuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">dagens samfynn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nyky-yhteiskunta</t>
          </tg>
       </mg>
    </e>
