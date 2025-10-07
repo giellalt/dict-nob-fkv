@@ -12874,28 +12874,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia;ki">
+   <e src="es;ia;ki">
       <lg>
          <l pos="N">åpning</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">reikä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">holo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">aukkein</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+         <re>det å åpne</re>
+            <t pos="N">aukaisu</t>
             <t pos="N">aukaiseminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>åpent sted, hull</re>
+            <t pos="N">reikä</t>
+            <t pos="N">holo</t>
+            <t pos="N">aukkein</t>
          </tg>
       </mg>
    </e>
@@ -20916,13 +20911,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">evakuering</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">evakko</t>
+            <t pos="N">evakueeraus</t>
          </tg>
       </mg>
    </e>
@@ -20981,6 +20977,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">eđesvastuu</t>
             <t pos="N">vastuu</t>
          </tg>
       </mg>
@@ -79474,13 +79471,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es;ki">
       <lg>
          <l pos="N">kondisjonalis</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kondisunaali</t>
+            <t pos="N">ehtomodus</t>
          </tg>
       </mg>
    </e>
@@ -110860,11 +110858,281 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">dagens samfynn</l>
+         <l pos="Phrase">dagens samfunn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">nyky-yhteiskunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">etnonym</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">etnonyymi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">epitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">epiteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">entitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">entiteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">distanse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">distansi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">avstandsverdi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">distansiarvo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">dialektkontinuum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">dialektikontinuumi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">dialektisogloss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">dialekti-isoglossi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">diminutiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">diminutiivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aspirasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">aspirasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">apposisjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">apposisuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">undersetning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">alisyntakti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aksjonering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">aksuneeraus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">akkusativ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">akkusatiivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tenkning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ajattelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">affektfrase</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">affektifraasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">adjektivattributt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">adjektiiviattribuutti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">abstrakt ord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">abstraktisana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">lydendring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">äänenvaihettuminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">vokalforlengelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vokaalinpitenemä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hendelsesverb</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tapattumaverbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">standard</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">standardi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">nenetser</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nenetsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">modalitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">modaalisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">bjørkeved</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">koivuhalko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">farao</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">faarao</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sør-varangerværing</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">etelävarenkilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">original</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">originaali</t>
          </tg>
       </mg>
    </e>
