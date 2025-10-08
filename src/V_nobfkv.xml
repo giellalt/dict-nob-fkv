@@ -5913,6 +5913,12 @@ For the full license text, see the link above.</lic>
             <t pos="V">hirttäät</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>henge seg</re>
+            <t pos="Phrase">mennä hirtheen</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -6175,13 +6181,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>en gang</re>
-            <t pos="V">hirnattaat</t>
+            <t pos="V">hirnuut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">hirnuut</t>
+	         <re>en gang</re>
+            <t pos="V">hirnattaat</t>
          </tg>
       </mg>
    </e>
