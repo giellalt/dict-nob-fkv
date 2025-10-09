@@ -4631,6 +4631,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">forhale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">viivyttäät</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="V">hindre</l>
@@ -4652,12 +4662,9 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>hefte, sinke</re>
+            <t pos="V" stem="piđätä">viivyttäät</t>
             <t pos="V" stem="piđätä">piđättäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="viivytä">viivyttäät</t>
          </tg>
       </mg>
    </e>
@@ -6257,6 +6264,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">piđättäät</t>
+            <t pos="V">piđätellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">holde igjen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">piđättäät</t>
+            <t pos="V">piđätellä</t>
          </tg>
       </mg>
    </e>
