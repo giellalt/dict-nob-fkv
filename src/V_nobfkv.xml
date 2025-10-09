@@ -2509,11 +2509,6 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="pumppaa;pumpan">pumpata</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">pumputa</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -2642,17 +2637,26 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" val="IV" stem="opettele;opetel">opetella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+         <re>gi kunnskap i noe, undervise</re>
             <t pos="V" stem="opeta">opettaat</t>
+            <xg>
+            <x>Jeg lærer barna kvensk.</x>
+            <xt>Mie opetan lapsile kväänin kieltä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="IV" stem="opi">oppiit</t>
+            <xg>
+            <x>Jeg vil lære meg kvensk.</x>
+            <xt>Mie halluun oppiit kväänii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="IV" stem="opettele">opetella</t>
          </tg>
       </mg>
    </e>
@@ -11160,23 +11164,37 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="V">skole</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kouluttaat</t>
+            <t pos="V">koulata</t>
+            <t pos="V">opettaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">utdanne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kouluttaat</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="V">undervise</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" val="TV" stem="koulaa;koulan">koulata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="kouluta">kouluttaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="opeta">opettaat</t>
+            <t pos="V">kouluttaat</t>
+            <t pos="V">koulata</t>
+            <t pos="V">opettaat</t>
          </tg>
       </mg>
    </e>
@@ -11187,6 +11205,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV" stem="koulaa;koulan">koulata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">gå på skole</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="IV" stem="koulaa;koulan">koulata</t>
          </tg>
       </mg>
    </e>
