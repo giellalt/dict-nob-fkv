@@ -53284,7 +53284,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">helbreder</l>
       </lg>
@@ -53296,6 +53296,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">puoskari</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lääkitysihminen</t>
          </tg>
       </mg>
    </e>
@@ -80210,13 +80215,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es;ki">
       <lg>
          <l pos="N">pluralis</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pluraali</t>
+            <t pos="N">moniluku</t>
          </tg>
       </mg>
    </e>
@@ -90530,7 +90536,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>majoritet</re>
             <t pos="N">valtaosa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>grammatikk</re>
+            <t pos="N">pluraali</t>
+            <t pos="N">moniluku</t>
          </tg>
       </mg>
    </e>
@@ -111133,6 +111147,106 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">originaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">korpus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">korpus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">nabofolk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">krannikansa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">labial</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">labiaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">vestlig dialekt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">länsidialekti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">sammensatt form</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">liittohaamu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">korthet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lyhykäisyys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">minelegging</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">miinoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">morfemgrense</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">morfeemiraja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">bekreftelsesord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">myöntämäsana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">nasal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nasaali</t>
          </tg>
       </mg>
    </e>
