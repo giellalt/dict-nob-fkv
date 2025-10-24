@@ -3245,12 +3245,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">kerittäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" stem="leikkaa;leikan">leikata</t>
+            <t pos="V" stem="leiko">klipata</t>
          </tg>
       </mg>
       <mg>
@@ -3259,9 +3255,11 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="leiko">leikkoot</t>
          </tg>
       </mg>
-      <mg>
+            <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="leiko">klipata</t>
+         <re>sau</re>
+            <t pos="V">keritä</t>
+            <t pos="V">kerittäät</t>
          </tg>
       </mg>
    </e>
