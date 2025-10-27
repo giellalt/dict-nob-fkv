@@ -12388,13 +12388,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="anb;ai">
       <lg>
          <l pos="A">forrige</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">viimi</t>
+            <t pos="A">eđelinen</t>
+            <xg>
+               <x>Den forrige boken hans var bedre.</x>
+               <xt>Hänen eđelinen kirja oli parempi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">viimi</t>
+            <xg>
+               <x>Jeg var også der i forrige uke.</x>
+               <xt>Mieki olin sielä viimi viikola.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
