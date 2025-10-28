@@ -14292,6 +14292,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>gram.</re>
             <t pos="N">komplementti</t>
          </tg>
       </mg>
@@ -18851,6 +18852,16 @@ For the full license text, see the link above.</lic>
             <t pos="N">asumahuonet</t>
             <t pos="N">asumatalo</t>
             <t pos="N">asumarakenus</t>
+            <t pos="N">asentohuonet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">enebolig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="N">asentohuonet</t>
          </tg>
       </mg>
@@ -36754,11 +36765,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>utstrekning oppover</re>
             <t pos="N" stem="korkkeuđe">korkkeus</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>forhøyning i terrenget</re>
             <t pos="N">kumpu</t>
          </tg>
       </mg>
@@ -49969,6 +49982,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">søppeldynge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tunkkii</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="Phrase">haug av hvetemel</l>
@@ -61032,6 +61055,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">fylling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>plass der en tømmer avfall</re>
+            <t pos="N">roskapaikka</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">røver</l>
@@ -67934,6 +67968,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tiekrinna</t>
+            <t pos="N">tiepummi</t>
          </tg>
       </mg>
    </e>
@@ -89759,6 +89794,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">tiekrinna</t>
             <t pos="N">tiepummi</t>
          </tg>
       </mg>
