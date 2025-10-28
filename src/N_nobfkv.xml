@@ -20792,13 +20792,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+         <e src="ki">
+      <lg>
+         <l pos="N">profil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">profiili</t>
+         </tg>
+      </mg>
+   </e>
       <e src="ki">
       <lg>
          <l pos="N">sønn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="etapi">poika</t>
+            <t pos="N">poika</t>
          </tg>
       </mg>
    </e>
@@ -69205,6 +69215,82 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>gramm.</re>
             <t pos="N">futuuri</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ai;es;ki">
+      <lg>
+         <l pos="N">fremtid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tulleevaisuus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gramm.</re>
+            <t pos="N">futuuri</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ki">
+      <lg>
+         <l pos="N">muslim</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">muslimi</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ki">
+      <lg>
+         <l pos="N">signal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">signaali</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">album</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">albumi</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="ki">
+      <lg>
+         <l pos="N">effekt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">effekti</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="ki">
+      <lg>
+         <l pos="N">standard</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">standardi</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">versjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">versuuni</t>
          </tg>
       </mg>
    </e>
