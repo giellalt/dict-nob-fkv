@@ -45763,6 +45763,36 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+        <e src="ki">
+      <lg>
+         <l pos="N">pensum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pensumi</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="ki">
+      <lg>
+         <l pos="N">kronikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kronikki</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">direktiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">direktiivi</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">mandag</l>
@@ -45770,6 +45800,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanantai</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">narkotika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">narkotika</t>
          </tg>
       </mg>
    </e>
