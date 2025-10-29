@@ -1348,16 +1348,21 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">asti</t>
-             <t pos="Po">kiini</t>
-     <!--       <xg>
+            <t pos="Adv">asti</t>
+             <t pos="Adv">kiini</t>
+             <t pos="Adv">saakka</t>
+            <xg>
                <x>Jeg kjører deg helt til Tromsø.</x>
-               <xt>Mie ajan sinun Tromsshaan asti.</xt>
-            </xg> -->
-               <!--       <xg>
-               <x>Jeg kjører deg helt til Tromsø.</x>
-               <xt>Mie ajan sinun kiini Tromsshaan.</xt>
-            </xg> -->
+               <xt>Mie ajan sinun kiini Tromsshaan asti.</xt>
+            </xg>
+            <xg>
+               <x>De kan være her til i morgen.</x>
+               <xt>Het saattaavat olla täälä huomisheen saakka.</xt>
+            </xg>
+            <xg>
+               <x>Til nå har vi kun fokusert på grammatikken.</x>
+               <xt>Tähän asti olema fokuseeranheet tyhä grammatikin pääle.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
