@@ -5348,11 +5348,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">kamala</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">kumma</t>
          </tg>
       </mg>
@@ -5381,6 +5376,11 @@ For the full license text, see the link above.</lic>
             <t pos="A">eriskumhainen</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kamala</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -5388,12 +5388,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">kamala</t>
+            <t pos="A" stem="kummalise;kummalis">kummalinen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="kummalise;kummalis">kummalinen</t>
+            <t pos="A">kamala</t>
          </tg>
       </mg>
    </e>
