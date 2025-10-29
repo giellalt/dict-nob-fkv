@@ -311,23 +311,42 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj;ai;ta">
+   <e src="mj;ai;ta;es">
       <lg>
          <l pos="Adv">lenge</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">pitkhään</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">kauvoin</t>
+            <t pos="Adv">kauan</t>
+            <xg>
+               <x>Så lenge han gjør det han gjør sitt beste, er jeg fornøyd.</x>
+               <xt>Niin kauvoin ko hän tekkee parhaansa, olen tytyväinen.</xt>
+            </xg>
+            <xg>
+               <x>Hvor lenge har du bodd her?</x>
+               <xt>Kunka kauvoin olet asunu täälä?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">kauan</t>
+         <re>i nektende setninger</re>
+            <t pos="Adv">kauvaa</t>
+            <t pos="Adv">kauaa</t>
+            <xg>
+            <x>Mie olen asunu Suomessa, mutten kyllä kauvaa aikkaa.</x>
+            <xt>Jeg har bodd i Finland, men dog ikke så lenge.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">pitkhään</t>
+            <xg>
+               <x>I helgene bruker jeg å sove lenge.</x>
+               <xt>Pyhinä mie pruukaan nukkuut pitkhään.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -866,6 +885,11 @@ For the full license text, see the link above.</lic>
                <x>Jeg snakker norsk dårlig.</x>
                <xt>Mie puhun huonosti ruijaa.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">pahoin</t>
          </tg>
       </mg>
    </e>
@@ -1720,10 +1744,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">enämen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="Adv">enämän</t>
             <t pos="Adv">enämpi</t>
          </tg>
       </mg>
@@ -1731,6 +1752,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>i nektende setninger</re>
             <t pos="Adv">enämppää</t>
+            <t pos="Adv">enämältä</t>
+            <t pos="Adv">enämästi</t>
             <xg>
                <x>Jeg kan ikke si mer.</x>
                <xt>Mie en saata sannoot enämppää.</xt>
@@ -2082,13 +2105,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">fint</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">fiinisti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hienosti</t>
          </tg>
       </mg>
    </e>
@@ -2754,7 +2782,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">av og til</l>
       </lg>
@@ -2775,6 +2803,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">toisin aijoin</t>
+            <t pos="Adv">toisinhaan</t>
          </tg>
       </mg>
    </e>
@@ -3798,13 +3827,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Adv">hjemme</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kotona</t>
+            <t pos="Adv">kotisalla</t>
          </tg>
       </mg>
    </e>
@@ -4281,13 +4311,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">på flatsida</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">lappheelansa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">lappheelensa</t>
          </tg>
       </mg>
    </e>
@@ -4785,13 +4820,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">gjerne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">mielelä</t>
+            <t pos="Adv">halula</t>
          </tg>
       </mg>
    </e>
@@ -5748,13 +5784,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">nordover</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">pohjas</t>
+            <t pos="Adv">pohjaspäin</t>
+            <t pos="Adv">norttos</t>
+            <t pos="Adv">norttospäin</t>
          </tg>
       </mg>
    </e>
@@ -6883,16 +6922,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">somasti</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Adv">utrivelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">somaton</t>
          </tg>
       </mg>
    </e>
@@ -11486,6 +11515,77 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">tihheesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">bøttevis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">ämpärittäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">formodentlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">arvattavasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">uskyldig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vijattomasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">ørlite</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">hituisen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">bestandig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kaikisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">parvis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">paritusten</t>
+            <t pos="Adv">kaksittain</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kilometervis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kilomeetterittäin</t>
          </tg>
       </mg>
    </e>
