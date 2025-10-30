@@ -18799,12 +18799,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">pirskota</t>
             <t pos="V">pirskottaat</t>
-            <xg>
-	            <x>Se pirskos vettä astiinpesomasiinista lattiile.</x>
-	            <xt>Det sprutet vann utover gulvet fra oppvaskmaskinen.</xt>
-            </xg>
+            <t pos="V" val="TV" stem="truiskuta">truiskuttaat</t>
             <xg>
 	            <x>Se pirskotti vettä minun pääle.</x>
 	            <xt>Hen spruta vann på meg.</xt>
@@ -18813,21 +18809,21 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" val="IV">priiskuut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" val="IV">truiskuta</t>
+            <t pos="V">pirskota</t>
             <xg>
-               <x>Blodet spruter ut av årene.</x>
-               <xt>Veri truiskuu ulvos suonista.</xt>
+	            <x>Se pirskos vettä astiinpesomasiinista lattiile.</x>
+	            <xt>Det sprutet vann utover gulvet fra oppvaskmaskinen.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" val="TV" stem="truiskuta">truiskuttaat</t>
+            <t pos="V" val="IV">truiskuta</t>
+            <t pos="V" val="IV">priiskuut</t>
+            <xg>
+               <x>Blodet spruter ut av årene.</x>
+               <xt>Veri truiskuu ulvos suonista.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -18850,7 +18846,7 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="piđä;pitä">pittäät</t>
              <xg>
                <x>Hva skal vi gjøre?</x>
-               <xt> Mitä met piđämä tehđä?</xt>
+               <xt>Mitä met piđämä tehđä?</xt>
             </xg>
          </tg>
       </mg>
