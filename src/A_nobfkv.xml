@@ -3428,11 +3428,6 @@ For the full license text, see the link above.</lic>
             <t pos="A">harvinainen</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">harvoin</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -3476,11 +3471,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">soma</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">somasti</t>
          </tg>
       </mg>
    </e>
@@ -10079,19 +10069,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">rikelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="runshaa">runsas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">viljaavasti</t>
-            <t pos="Adv">viljasti</t>
+            <t pos="A" stem="runshaa">rappee</t>
          </tg>
       </mg>
    </e>
@@ -10102,6 +10087,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">runsas</t>
+            <t pos="A">rappee</t>
          </tg>
       </mg>
       <mg>
