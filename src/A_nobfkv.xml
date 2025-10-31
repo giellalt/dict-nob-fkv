@@ -21604,11 +21604,22 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="A">selvänäköinen</l>
+         <l pos="A">synsk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">klarsynt</t>
+            <t pos="A">selvänäköinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">klarsynt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>synsk</re>
+            <t pos="A">selvänäköinen</t>
          </tg>
       </mg>
    </e>
