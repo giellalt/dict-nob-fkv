@@ -7166,7 +7166,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+<e src="ta">
       <lg>
          <l pos="Adv">tatt vare på</l>
       </lg>
@@ -7198,18 +7198,38 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Adv">ta vare på</l>
+         <l pos="Phrase">ta vare på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>beholde, ikke kaste</re>
             <t pos="Adv">taltheen</t>
+            <t pos="Adv">korjhuun</t>
+            <t pos="Adv">tallessa</t>
+            <t pos="Adv">tallela</t>
             <xg>
-               <x>ta vare på</x>
-               <xt>ottaat taltheen</xt>
+               <x>Han tok vare på bildene.</x>
+               <xt>Hän otti kuvat korjhuun.</xt>
             </xg>
             <xg>
-               <x>ta i bevaring</x>
-               <xt>ottaat taltheen</xt>
+               <x>Han tok vare på bildene.</x>
+               <xt>Hän otti kuvat taltheen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>beholde, ikke kaste</re>
+            <t pos="Adv">korjussa</t>
+            <t pos="Adv">tallessa</t>
+            <t pos="Adv">tallela</t>
+            <xg>
+               <x>Han har tatt vare på bildene.</x>
+               <xt>Hänelä oon kuvat tallela.</xt>
+            </xg>
+            <xg>
+               <x>Han har tatt vare på bildene.</x>
+               <xt>Hänelä oon kuvat korjussa.</xt>
             </xg>
          </tg>
       </mg>
@@ -11752,6 +11772,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">tynnyrittäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">i behold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">tallessa</t>
+            <t pos="Adv">korjussa</t>
+            <xg>
+            <x>Jeg har noen penger i behold.</x>
+            <xt>Minula oon rahhaa tallessa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
