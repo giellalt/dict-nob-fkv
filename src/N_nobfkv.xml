@@ -74780,7 +74780,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">gjestevenn</l>
       </lg>
@@ -74788,6 +74788,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
              <re>spesielt om forholdet mellom fastboende og reidriftsamer</re>
             <t pos="N" stem="väärti">väärtti</t>
+            <t pos="N" stem="väärti">väärttiystävä</t>
          </tg>
       </mg>
    </e>
@@ -111563,6 +111564,46 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">nasaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sanking</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">korju</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">høsting</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">korju</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">høstekultur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">korjukulttuuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sankekultur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">korjukulttuuri</t>
          </tg>
       </mg>
    </e>
