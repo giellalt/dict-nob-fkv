@@ -9149,16 +9149,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
 	         <re>bli flere av</re>
-            <t pos="V">karttuut</t>
             <t pos="V">lissäinttyyt</t>
             <t pos="V">lissäänttyyt</t>
             <xg>
-               <x>Pengene øker når man sparer.</x>
-               <xt>Raha karttuu ko säästää.</xt>
-            </xg>
-            <xg>
                <x>Antall ansatte økte i fjor.</x>
                <xt>Työntekkiijöitten määrä lissäintyi viimi vuona.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">karttuut</t>
+            <xg>
+               <x>Sparepengene mine øker sakte men sikkert.</x>
+               <xt>Minun säästöt karttuuvat noppeesti mutta varmasti.</xt>
+            </xg>
+            <xg>
+               <x>Erfaringen min øker dag for dag på jobben.</x>
+               <xt>Minun kokemus karttuu joka päivä työssä.</xt>
             </xg>
          </tg>
       </mg>
