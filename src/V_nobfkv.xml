@@ -2662,6 +2662,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">opetella</t>
             <xg>
+            <x>Jeg lærer meg å kjøre bil.</x>
+            <xt>Mie opettelen ajamhaan biilii.</xt>
+            </xg>
+            <xg>
             <x>Jeg må lære meg talen utenat.</x>
             <xt>Mie häyđyn opetella puhheen ulkkoo.</xt>
             </xg>
@@ -11503,16 +11507,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">kuiskata</t>
+            <t pos="V">viskuttaat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="viskuttele;viskutel">viskutella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">viskuttaat</t>
          </tg>
       </mg>
    </e>
@@ -11545,22 +11545,17 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="V">tørke</l>
       </lg>
-      <mg>
-         <tg xml:lang="fkv">
-	        <re>om å tørke hår, tøy og matvarer som kjøtt og korn</re>
-            <t pos="V" stem="kuivaa;kuivan">kuivata</t>
-            <xg>
-               <x>Mor tørket håret.</x>
-               <xt>Muori kuivas hykset.</xt>
-            </xg>
-            </tg>
-           </mg>
          <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV" stem="kuivata">kuivattaat</t>
+            <t pos="V" stem="kuivaa;kuivan">kuivata</t>
             <xg>
                <x>Han tørka skjorta.</x>
                <xt>Se kuivatti paiđan.</xt>
+            </xg>
+            <xg>
+               <x>Mor tørket håret.</x>
+               <xt>Muori kuivas hykset.</xt>
             </xg>
          </tg>
       </mg>
@@ -11585,6 +11580,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Vi må tørke støv her.</x>
                <xt>Met häyđymä pyhkiit tommuu täälä.</xt>
+            </xg>
+            <xg>
+               <x>Han tørket tårene.</x>
+               <xt>Hän pyhki kyynelheet pois.</xt>
             </xg>
          </tg>
       </mg>
