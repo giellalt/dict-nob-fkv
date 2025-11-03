@@ -11523,10 +11523,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kuitteeraa;kuitteran">kuitteerata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" stem="kvitteeraa;kvitteeran">kvitteerata</t>
          </tg>
       </mg>
@@ -11539,7 +11535,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="kuivu">kuivuut</t>
             <xg>
-               <x>Skjorta tørka.</x>
+               <x>Skjorta ble tørr.</x>
                <xt>Paita kuivui.</xt>
             </xg>
          </tg>
@@ -11551,7 +11547,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	        <re>om å tørke hår,tøy og matvarer som kjøtt og korn</re>
+	        <re>om å tørke hår, tøy og matvarer som kjøtt og korn</re>
             <t pos="V" stem="kuivaa;kuivan">kuivata</t>
             <xg>
                <x>Mor tørket håret.</x>
@@ -11570,7 +11566,21 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>bli tørr</re>
+            <t pos="V" stem="kuivu">kuivuut</t>
+            <xg>
+               <x>Skjorta tørka.</x>
+               <xt>Paita kuivui.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="V" stem="pyhi">pyhkiit</t>
+            <xg>
+               <x>Vi må tørke støv her.</x>
+               <xt>Met häyđymä pyhkiit tommuu täälä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
