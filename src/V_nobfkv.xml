@@ -2592,13 +2592,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">svette</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="palavoitte;palavoitte">palavoita</t>
+            <t pos="V">pallaat</t>
          </tg>
       </mg>
    </e>
@@ -16673,6 +16674,16 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="nyvi;nyki">nykkiit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>være på sommerbeite ; reinsdyr</re>
+            <t pos="V">palkkiit</t>
+            <xg>
+               <x>Reinsdyrene har alltid vært der på sommerbeite.</x>
+               <xt>Sielä oon porot aina palkinheet.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta;ki">
       <lg>
@@ -17946,14 +17957,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">palkkiit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">oleskella</t>
          </tg>
       </mg>
+<!--      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">palkkiit</t>
+         </tg>
+      </mg> -->
    </e>
    <e src="ai;ta">
       <lg>
@@ -17962,16 +17973,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="pala">pallaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="polttele;poltel">poltela</t>
+            <xg>
+               <x>Huset brenner.</x>
+               <xt>Huonet pallaa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV" stem="polta">polttaat</t>
+            <xg>
+               <x>Brenn huset!</x>
+               <xt>Polta huonheen!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="polttele;poltel">poltela</t>
          </tg>
       </mg>
    </e>
