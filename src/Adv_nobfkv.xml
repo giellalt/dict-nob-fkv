@@ -395,9 +395,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>svært mye</re>
-            <t pos="Adv">hirmuisen</t>
-            <t pos="Adv">hirmuisti</t>
+         <re>enormt mye</re>
+            <t pos="Adv">hirmusti</t>
             <t pos="Adv">hirmuisesti</t>
          </tg>
       </mg>
@@ -409,13 +408,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>stort</re>
             <t pos="Adv">isomasti</t>
             <t pos="Adv">isosti</t>
             <t pos="Adv">suuresti</t>
-            <xg>
-               <x>Det var ikke så særskilt mye fisk der.</x>
-               <xt>Sielä ei ollu niin isomasti kallaa.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -423,16 +419,6 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">kivasti</t>
             <t pos="Adv">kovasti</t>
             <t pos="Adv">lujasti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>grumt mye</re>
-            <t pos="Adv">julmasti</t>
-            <xg>
-            <x>Det var grumt mye fisk der.</x>
-            <xt>Sielä oli kallaa niin julmasti.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -456,16 +442,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>uendelig mye</re>
-            <t pos="Adv">loppumattomasti</t>
-            <xg>
-            <x>På biblioteket er det uendelig mye bøker.</x>
-            <xt>Biblioteekissa oon loppumattomasti kirjoi.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
          <re>helvetes mye</re>
             <t pos="Adv">helvetisti</t>
          </tg>
@@ -474,6 +450,26 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>djevelsk mye</re>
             <t pos="Adv">pirusti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>grumt mye</re>
+            <t pos="Adv">julmasti</t>
+            <xg>
+            <x>Det var grumt mye fisk der.</x>
+            <xt>Sielä oli kallaa niin julmasti.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>uendelig mye</re>
+            <t pos="Adv">loppumattomasti</t>
+            <xg>
+            <x>På biblioteket er det uendelig mye bøker.</x>
+            <xt>Biblioteekissa oon loppumattomasti kirjoi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -498,6 +494,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>enormt</re>
             <t pos="Adv">hirmu</t>
             <t pos="Adv">hirmun</t>
             <t pos="Adv">hirmusti</t>
@@ -507,8 +504,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>enormt</re>
-            <t pos="Adv">kauheen</t>
+	         <re>utrolig</re>
             <t pos="Adv">mahđottoman</t>
          </tg>
       </mg>
@@ -516,6 +512,25 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>særdeles</re>
             <t pos="Adv">sangen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">upottoman</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>fryktelig, forferdelig</re>
+            <t pos="Adv">kauheen</t>
+            <t pos="Adv">hirveen</t>
+            <t pos="Adv">kamalan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>uendelig</re>
+            <t pos="Adv">loppumattoman</t>
          </tg>
       </mg>
       <mg>
@@ -531,14 +546,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">suuresti</t>
             <xg>
-               <x>De ble veldig overrasket over at hun kunne kvenskk.</x>
+               <x>De ble veldig overrasket over at hun kunne kvensk.</x>
                <xt>Suuresti het olthiin yllättynheet siitä ette hän saattoi kväänii.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">upottoman</t>
          </tg>
       </mg>
    </e>
