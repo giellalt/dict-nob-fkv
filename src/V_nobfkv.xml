@@ -436,6 +436,7 @@ For the full license text, see the link above.</lic>
 	         <re>kalles, ha å gjøre med</re>
             <t pos="V">sannoot</t>
             <t pos="V">kuttuut</t>
+            <t pos="V">käskeet</t>
              <xg>
                <x>Hun er interessert i alt som heter teater.</x>
                <xt>Hän oon kiinostunu kaikesta mitä sanothaan teatteriksi</xt>
@@ -5033,6 +5034,7 @@ For the full license text, see the link above.</lic>
          <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kuttu">kuttuut</t>
+            <t pos="V" stem="kuttu">käskeet</t>
          </tg>
       </mg>
       <mg>
@@ -12312,6 +12314,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>befale, gi ordre</re>
+            <t pos="V" stem="kysy">käskeet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
 	         <re>be om</re>
             <t pos="V">pyyttäät</t>
             <xg>
@@ -12337,7 +12345,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V" stem="kuttu">käskeet</t>
             <t pos="V" stem="kuttu">kuttuut</t>
+            <xg>
+               <x>Stiina kaller kvensk for hjertespråket.</x>
+               <xt>Stiina käskee kväänin kieltä syđämen kieleksi.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -12695,20 +12708,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">käskeet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="Phrase">kalle for</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">käskeet</t>
-            <xg>
-               <x>Stiina kaller kvensk for hjertespråket.</x>
-               <xt>Stiina käskee kväänin kieltä syđämen kieleksi.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
