@@ -789,16 +789,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ks">
-      <lg>
-         <l pos="Phrase">tilbringe tid (henge)</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">hengaila</t>
-         </tg>
-      </mg>
-   </e>
       <e src="ks;ki">
       <lg>
          <l pos="V">lokke</l>
@@ -5980,6 +5970,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>henge seg</re>
             <t pos="Phrase">mennä hirtheen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>tilbringe tid</re>
+            <t pos="V">hengaila</t>
          </tg>
       </mg>
    </e>
