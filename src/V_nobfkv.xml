@@ -3749,22 +3749,57 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>endre retning</re>
+            <t pos="V">käänttyyt</t>
+            <xg>
+               <x>Sving til venstre!</x>
+               <xt>Kääny vasemalle!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>endre retning på noe</re>
+            <t pos="V">käänttäät</t>
+            <xg>
+               <x>Sving bilen til venstre!</x>
+               <xt>Käännä biilin vasemalle!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ta av, vike av fra en retning</re>
+            <t pos="V">poiketa</t>
+            <xg>
+               <x>Veien svinger av til venstre der ved kirka.</x>
+               <xt>Tie poikkee siellä kirkon viereltä vasemalle.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>svaie</re>
             <t pos="V">ailatella</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">heiluut</t>
+         <re>bevege noe fram og tilbake</re>
+            <t pos="V">heiluttaat</t>
             <t pos="V">heilutella</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>bevege seg fram og tilbake</re>
+            <t pos="V">heiluut</t>
             <t pos="V">heilattaat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>bevege noe i bue</re>
             <t pos="V">kaarttaat</t>
          </tg>
       </mg>
@@ -18926,24 +18961,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">poiketa</t>
-            <xg>
+<!--            <xg>
                <x>Veien gjør en avstikker til venstre.</x>
                <xt>Tie poikkee siellä vasemale.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">gå fra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">poiketa</t>
-            <xg>
-               <x>Veien gjør en avstikker til venstre.</x>
-               <xt>Tie poikkee siellä vasemale.</xt>
-            </xg>
+            </xg> -->
          </tg>
       </mg>
    </e>
@@ -29922,14 +29943,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="Phrase">ta av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>overført, om plan, prosjekt, forestilling e.l.</re>
+	         <re>vike av fra en retning</re>
+            <t pos="Phrase">poiketa</t>
+            <xg>
+            <x>Veien svinger av til venstre der ved kirka.</x>
+            <xt>Tie poikkee siellä kirkon viereltä vasemalle.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>lette fra bakken</re>
             <t pos="Phrase">nousta lenthoon</t>
+            <xg>
+            <x>Flyet tok av.</x>
+            <xt>Flyyi nousi lenthoon.</xt>
+            </xg>
             <xg>
             <x>Mange trodde at 2020 var året da satsingen på det kvenske skulle ta av.</x>
             <xt>Usheet uskothiin ette vuosi 2020 olis se vuosi, ko satsaus kainun assiisseen nousis lenthoon.</xt>
