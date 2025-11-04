@@ -2060,12 +2060,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>være i stand til</re>
             <t pos="V">kyetä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>klare, orke</re>
             <t pos="V">jaksaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gre, kamme</re>
+            <t pos="V">kammata</t>
          </tg>
       </mg>
    </e>
@@ -8951,6 +8959,16 @@ For the full license text, see the link above.</lic>
    <e src="ai;ta">
       <lg>
          <l pos="V">gre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="kampaa;kamman">kammata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">kamme</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
