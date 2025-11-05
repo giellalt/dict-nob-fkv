@@ -259,13 +259,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="Pron">alle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pron">kaikki</t>
+            <t pos="Pron">kaikin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;ki">
+      <lg>
+         <l pos="Phrase">alle sammen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">kaikki</t>
+            <t pos="Pron">kaikin</t>
          </tg>
       </mg>
    </e>
