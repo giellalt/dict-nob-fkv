@@ -40715,17 +40715,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">labb</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">käpälä</t>
+            <t pos="N">käpälet</t>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ki">
+      <lg>
+         <l pos="N">pote</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">käpälä</t>
+            <t pos="N">käpälet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;es">
       <lg>
          <l pos="N">tass</l>
       </lg>
@@ -40733,6 +40745,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>labb</re>
             <t pos="N">käpälä</t>
+            <t pos="N">käpälet</t>
          </tg>
       </mg>
    </e>
