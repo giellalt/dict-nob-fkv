@@ -13565,8 +13565,8 @@ For the full license text, see the link above.</lic>
                <xt>Työvaattheet olthiin niin lokaiset ette mie panin net likhoon.</xt>
             </xg>
                <xg>
-               <x>Hanna la buksene til bleking.</x>
-               <xt>Hanna pani housut pleekhiin.</xt>
+               <x>Hanna gikk og la seg.</x>
+               <xt>Hanna pani maata.</xt>
             </xg> 
 <!--             <xg>
                <x>Har dere iverksatt planen?</x>
@@ -14935,20 +14935,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="makkaa;maan">maata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Phrase">panna maata</t>
             <xg>
-            <x>Lekselesing før kvelds, så gikk alle til sengs</x>
-            <xt>Illala piti lukkeet läksyi, sitte kaikki panthiin maata.</xt>
+            <x>Alle gikk og la seg.</x>
+            <xt>Kaikki panthiin maata.</xt>
             </xg>
          </tg>
       </mg>
             <mg>
          <tg xml:lang="fkv">
+            <t pos="Phrase">mennä nukkumhaan</t>
             <t pos="Phrase">panna nukkumhaan</t>
             <xg>
             <x>Jeg skal legge meg.</x>
@@ -18112,6 +18108,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="tällää;tällän">tällätä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>plante</re>
+            <t pos="V">istuttaat</t>
+            <xg>
+               <x>Vi setter poteter i morgen.</x>
+               <xt>Istutamma puteettii huomena.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
