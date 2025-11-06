@@ -11016,13 +11016,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>om kullsyreholdig drikke</re>
             <t pos="N">pryysi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-             <re>om vann som bruser</re>
+             <re>om vann som bruser, sus</re>
              <t pos="N">sorina</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+             <re>brusende lyd, sus</re>
+             <t pos="N">tohina</t>
          </tg>
       </mg>
             <mg>
@@ -65617,13 +65624,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">sus</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">suhina</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tohina</t>
          </tg>
       </mg>
    </e>

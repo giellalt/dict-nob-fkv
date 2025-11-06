@@ -11996,17 +11996,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>skumme</re>
             <t pos="V">kuohuut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>om vannet</re>
+         <re>lage brusende lyd, om vann</re>
             <t pos="V">sorista</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>lage brusende lyd</re>
             <t pos="V">tohista</t>
          </tg>
       </mg>
@@ -18300,18 +18302,25 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">pauhata</t>
-            <t pos="V">humista</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+         <re>lage brusende, hvesende lyd</re>
             <t pos="V">tohista</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>fare raskt gjennom luften med en susende lyd, fyke</re>
+         <re>lage svakt brusende, hvesende lyd</re>
+            <t pos="V">humista</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>lage kraftig brusende, hvesende lyd</re>
+            <t pos="V">pauhata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>fare raskt, fyke</re>
             <t pos="V">suhattaat</t>
          </tg>
       </mg>
