@@ -15895,13 +15895,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;es">
       <lg>
          <l pos="N">fordel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">etu</t>
+            <t pos="N">hyöty</t>
          </tg>
       </mg>
    </e>
@@ -71327,13 +71328,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">dis</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="uđu;uttu">utu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">häkä</t>
          </tg>
       </mg>
    </e>
@@ -84727,7 +84733,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">tynt snølag</l>
+         <l pos="Phrase">tynt snølag</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
