@@ -26773,18 +26773,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">krydder</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="höysthee">höystet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">höystö</t>
+            <t pos="N">kryyti</t>
          </tg>
       </mg>
    </e>
@@ -38421,13 +38418,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">krutt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kruuti</t>
+            <t pos="N">kryyti</t>
          </tg>
       </mg>
    </e>
