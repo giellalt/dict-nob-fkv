@@ -21089,15 +21089,14 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>blande sammen</re>
-            <t pos="V" stem="sekkainu;sekkaintu">sekkainttuut</t>
-            <t pos="V">sekhaanttuut</t>
+            <t pos="V">sotkeet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>rote til</re>
-            <t pos="V">sotkeet</t>
+	         <re>blande sammen</re>
+            <t pos="V" stem="sekkainu;sekkaintu">sekkainttuut</t>
+            <t pos="V">sekhaanttuut</t>
          </tg>
       </mg>
       <mg>
@@ -21554,10 +21553,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Phrase">rote til</l>
+         <l pos="V">rote</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>slå rot</re>
+            <t pos="V">juurttuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>lage rot</re>
             <t pos="V">sotkeet</t>
          </tg>
       </mg>
