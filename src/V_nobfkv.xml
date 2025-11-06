@@ -21568,18 +21568,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">sotkeet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	         <re>elte</re>
             <t pos="V">vaivata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>deig</re>
             <t pos="V">vanuttaat</t>
+            <t pos="V">sotkeet</t>
          </tg>
       </mg>
    </e>
@@ -25248,14 +25240,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="V">elte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">sotkeet</t>
             <t pos="V">vaivata</t>
+            <t pos="V">vanuttaat</t>
+            <t pos="V">sotkeet</t>
          </tg>
       </mg>
    </e>
