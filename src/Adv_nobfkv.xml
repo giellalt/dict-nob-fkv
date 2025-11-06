@@ -217,6 +217,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">tosin</t>
             <t pos="Adv">tođesta</t>
             <t pos="Adv">tođesti</t>
+            <t pos="Adv">totisesti</t>
             <t pos="Adv">rohki</t>
             <xg>
                <x>Er klokken virkelig så mye!</x>
@@ -236,28 +237,16 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">totisesti</t>
-         </tg>
-      </mg>
    </e>
-   <e src="mj">
-      <lg>
-         <l pos="Adv">bestemt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">tođesti</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
+   <e src="ai;ta;mj">
       <lg>
          <l pos="Adv">selvsagt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">tietekki</t>
+            <t pos="Adv">tietenki</t>
+            <t pos="Adv">tietysti</t>
             <t pos="Adv">tođesti</t>
          </tg>
       </mg>
@@ -7512,10 +7501,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">tosin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">totisesti</t>
          </tg>
       </mg>
@@ -7546,12 +7531,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">tuone</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">tänne</t>
+            <t pos="Adv">tuone tänne</t>
          </tg>
       </mg>
    </e>
@@ -11456,7 +11436,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
--->   <e src="es">
+   <e src="es">
       <lg>
          <l pos="Adv">alvorlig</l>
       </lg>
