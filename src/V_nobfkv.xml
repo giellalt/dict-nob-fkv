@@ -3532,6 +3532,10 @@ For the full license text, see the link above.</lic>
       </lg> <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kaađa">kaattaat</t>
+            <xg>
+               <x>De felte et tre.</x>
+               <xt>Het kaađethiin puun.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -8753,16 +8757,53 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kaađu;kaatu">kaattuut</t>
+            <xg>
+               <x>Hold han i hånda så du ikke faller!</x>
+               <xt>Piđä häntä käđestä niin ette sie et kaađu!</xt>
+            </xg>
+            <xg>
+               <x>Hun falt på rygg.</x>
+               <xt>Hän kaatui sölälensä.</xt>
+            </xg>
+            <xg>
+               <x>De falt i krigen.</x>
+               <xt>Het kaađuthiin sođassa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="puttoo;puđon">puđota</t>
+            <xg>
+               <x>Et eple falt fra treet.</x>
+               <xt>Äpyli putos puusta.</xt>
+            </xg>
+            <xg>
+               <x>Jeg falt ned fra treet.</x>
+               <xt>Mie putosin puusta.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="tipu">tippuut</t>
+            <xg>
+               <x>Regnet begynte å falle.</x>
+               <xt>Vettä alkoi tippumhaan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">langeta</t>
+            <xg>
+               <x>Ansvaret falt på henne.</x>
+               <xt>Eđesvastaus lankes hänen harttiile.</xt>
+            </xg>
+            <xg>
+               <x>De begge falt i synd.</x>
+               <xt>Molemat langethiin synthiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10982,16 +11023,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">kompastuut</t>
+            <t pos="V">langeta</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">kumpastaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="lankkee;langen">langeta</t>
+         <re>få til å snuble, sette krokfot</re>
+            <t pos="V">kumpustaat</t>
+            <t pos="V">langettaat</t>
          </tg>
       </mg>
    </e>
@@ -13385,40 +13424,45 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">laskeet</t>
+            <t pos="V" val="IV" stem="pääse;pääs">päästä</t>
             <xg>
-            <x>Slipp meg!</x>
-            <xt>Laske minun!</xt>
+            <x>Elvene slapp tidligere fra skolen.</x>
+            <xt>Koululaiset päästhiin varhemin koulusta..</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" val="TV" stem="päästä">päästäät</t>
+            <t pos="V">laskeet</t>
+            <t pos="V">päästäät</t>
             <xg>
             <x>Slipp meg!</x>
-            <xt>Päästä minun!</xt>
+            <xt>Laske minun!</xt>
             </xg>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
-	     <re>slippe, miste</re>
-            <t pos="V">päästättäät</t>
             <xg>
-            <x>Jeg mistet steinen på gulvet.</x>
-            <xt>Mie päästätin kiven laattiile.</xt>
+            <x>Slipp meg inn!</x>
+            <xt>Päästä minun sishään!</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="puđota">puđottaat</t>
+            <xg>
+            <x>Han slapp alt han hadde i hendene og løp av gårde.</x>
+            <xt>Hän puđotti kaiken mitä hänelä oli käđessä ja juoksi pois.</xt>
+            </xg>
          </tg>
       </mg>
-      <mg>
+      </mg>
+            <mg>
          <tg xml:lang="fkv">
-            <t pos="V" val="IV" stem="pääse;pääs">päästä</t>
+	     <re>glippe, miste</re>
+            <t pos="V">päästättäät</t>
+            <xg>
+            <x>Jeg mistet steinen på gulvet.</x>
+            <xt>Mie päästätin kiven laattiile.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -19632,7 +19676,28 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V" stem="kaađu;kaatu">kaattuut</t>
+            <xg>
+               <x>Hold han i hånda så du ikke detter!</x>
+               <xt>Piđä häntä käđestä niin ette sie et kaađu!</xt>
+            </xg>
+            <xg>
+               <x>Hun datt på rygg.</x>
+               <xt>Hän kaatui sölälensä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="V" stem="puttoo;puđon">puđota</t>
+            <xg>
+               <x>Et eple datt fra treet.</x>
+               <xt>Äpyli putos puusta.</xt>
+            </xg>
+            <xg>
+               <x>Jeg datt ned fra treet.</x>
+               <xt>Mie putosin puusta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
