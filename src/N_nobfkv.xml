@@ -75924,12 +75924,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="anb;ai;ta">
       <lg>
          <l pos="N">Karlsvogna</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N" type="Prop">Taivhaanvaunu</t>
             <t pos="N" type="Prop">Otava</t>
          </tg>
       </mg>
@@ -111710,6 +111711,16 @@ For the full license text, see the link above.</lic>
             <x>Politiet tok han i forvaring.</x>
             <xt>Poliisi otti hänen taltheen.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">stjernebilde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tähtikuva</t>
          </tg>
       </mg>
    </e>
