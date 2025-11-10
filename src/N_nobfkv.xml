@@ -12480,7 +12480,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">midterste rom</l>
+         <l pos="Phrase">midterste rom</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -38124,12 +38124,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>til å sitte på</re>
             <t pos="N">krenkku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="renku">renkku</t>
          </tg>
       </mg>
@@ -38140,12 +38135,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">krenkku</t>
+         <re>dyr</re>
+            <t pos="N" stem="puki">pukki</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="puki">pukki</t>
+         <re>innretning på fire bein for å ha noe på </re>
+            <t pos="N">krenkku</t>
+            <t pos="N">renkku</t>
          </tg>
       </mg>
    </e>
