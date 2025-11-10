@@ -8745,10 +8745,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">paistopannu</t>
-         </tg>
-      </mg>
-              <mg>
-         <tg xml:lang="fkv">
             <t pos="N">paistamapannu</t>
          </tg>
       </mg>
@@ -30845,16 +30841,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>kroppsdel</re>
             <t pos="N">kallo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>kroppsdel</re>
             <t pos="N" stem="otta">otta</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>koke- eller stekekar</re>
             <t pos="N">pannu</t>
          </tg>
       </mg>
@@ -53039,6 +53031,18 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Jeg er svett.</x>
                <xt>Minula oon palava.</xt>
+            </xg>
+            <xg>
+               <x>Jeg er svett.</x>
+               <xt>Mie olen palavissa.</xt>
+            </xg>
+            <xg>
+               <x>Jeg ble svett.</x>
+               <xt>Minule tuli palava.</xt>
+            </xg>
+            <xg>
+               <x>Svetten rant nedover pannen.</x>
+               <xt>Palava huilas kalloo myöđen.</xt>
             </xg>
          </tg>
       </mg>
