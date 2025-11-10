@@ -49767,6 +49767,18 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N" stem="noka">nokka</t>
             <t pos="N" stem="nennä">nenä</t>
+            <xg>
+               <x>Hun har oppstoppernese.</x>
+               <xt>Hänelä oon kiveränenä.</xt>
+            </xg>
+            <xg>
+               <x>Tyven stjal veska rett foran nesa på henne.</x>
+               <xt>Varas varasti väskyn aivan hänen nenän eđestä.</xt>
+            </xg>
+            <xg>
+               <x>Hun har bein i nesa.</x>
+               <xt>Luuta hänelä oon nokassa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -50049,17 +50061,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">niemennokka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="nieme;nieme">niemi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kannas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ytterste del, spissen på odden</re>
+            <t pos="N">niemennokka</t>
          </tg>
       </mg>
    </e>
@@ -64200,6 +64213,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N" stem="sieraime">sierain</t>
             <t pos="N">nokkareikä</t>
+            <t pos="N">nenälehti</t>
          </tg>
       </mg>
    </e>
@@ -84666,6 +84680,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hypet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">tupp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nokka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">skotupp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kengännokka</t>
          </tg>
       </mg>
    </e>
