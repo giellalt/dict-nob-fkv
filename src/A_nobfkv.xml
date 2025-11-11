@@ -6888,19 +6888,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>om været</re>
+         <re>med moderat kraft eller intensitet</re>
+            <t pos="A">lievä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>om vær og klima</re>
             <t pos="A">lauha</t>
             <t pos="A">liehmu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">laukkee</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">lievä</t>
          </tg>
       </mg>
       <mg>
@@ -6911,7 +6908,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>godlynt, vennlig, varsom</re>
+	         <re>godlynt, vennlig</re>
             <t pos="A">lämminsyđäminen</t>
          </tg>
       </mg>
@@ -6978,17 +6975,30 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">lievä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">matala</t>
+            <xg>
+            <x>Jeg er lavere enn deg.</x>
+            <xt>Mie olen matalampi ko sie.</xt>
+            </xg>
+            <xg>
+            <x>Han svarte med lav stemme.</x>
+            <xt>Hän vastas matalalla äänelä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>om stemme, lyd</re>
+         <re>mild, lett, om f.eks. straff</re>
+            <t pos="A">lievä</t>
+            <xg>
+            <x>Jeg syns at hun fikk en alt for lav straff.</x>
+            <xt>Mie piđän ette hän sai liijan lievän rangaistuksen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>om stemme; dempet, svak</re>
             <t pos="A">vaimee</t>
          </tg>
       </mg>
