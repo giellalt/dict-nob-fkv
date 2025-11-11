@@ -16999,13 +16999,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="V">rette</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="oikaise;oikais">oikaista</t>
+         <re>gjøre rett eller bein</re>
+            <t pos="V">oikaista</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>vende mot noen eller noe</re>
+            <t pos="V">suunata</t>
+            <xg>
+               <x>Han rettet blikket mot henne.</x>
+               <xt>Hän suuntas kattheen hänheen.</xt>
+            </xg>
+            <xg>
+               <x>Reklamen er rettet mot barn og unge.</x>
+               <xt>Reklaamin oon suunattu lapsile ja nuorile.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
