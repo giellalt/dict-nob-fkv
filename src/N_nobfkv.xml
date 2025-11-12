@@ -7736,20 +7736,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hiiva</t>
-         </tg>
-      </mg>
-               <mg>
-         <tg xml:lang="fkv">
             <t pos="N">jääri</t>
          </tg>
       </mg>
    </e>
-   <e src="bildetema;es">
+   <e src="ai;tabildetema;es">
       <lg>
          <l pos="N">håndtak</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N" stem="sanga;sankka">sanka</t>
             <t pos="N">hontaaki</t>
             <t pos="N">hankki</t>
             <t pos="N">kaffa</t>
@@ -62931,13 +62928,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;bildetema;es">
       <lg>
          <l pos="N">handtak</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="sanga;sankka">sanka</t>
+            <t pos="N">hontaaki</t>
+            <t pos="N">hankki</t>
+            <t pos="N">kaffa</t>
+            <t pos="N">panka</t>
          </tg>
       </mg>
    </e>
@@ -62958,11 +62959,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sanoma</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Num" type="Ord" stem="kymmenenne;kymmenet">kymmenes</t>
          </tg>
       </mg>
    </e>
