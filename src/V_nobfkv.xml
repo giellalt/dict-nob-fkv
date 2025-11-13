@@ -14618,12 +14618,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">luostaat</t>
+            <t pos="V" stem="luo;luon">luođa</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="luo;luon">luođa</t>
+            <t pos="V">luostaat</t>
          </tg>
       </mg>
    </e>
@@ -14634,6 +14634,32 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="luota">luottaat</t>
+            <xg>
+               <x>Han stoler på deg.</x>
+               <xt>Hän luottaa sinhuun.</xt>
+            </xg>
+            <xg>
+               <x>Han stoler på Guds ord.</x>
+               <xt>Hän luottaa Jumalan sanan pääle.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="V">stole</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="luota">luottaat</t>
+            <xg>
+               <x>Han stoler på deg.</x>
+               <xt>Hän luottaa sinhuun.</xt>
+            </xg>
+            <xg>
+               <x>Han stoler på Guds ord.</x>
+               <xt>Hän luottaa Jumalan sanan pääle.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -28049,6 +28075,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">luoppuut</t>
+            <xg>
+            <x>Han ga opp planen sin.</x>
+            <xt>Hän luopui ittensä suunitelmasta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">luovuttaat</t>
+            <xg>
+            <x>Han ga opp i kamp.</x>
+            <xt>Hän luovutti taistelussa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -30830,6 +30869,39 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Hun oppbevarer alle sine viktige dokumenter i en safe.</x>
             <xt>Hän pittää kaikki tärkkeet dokumentit tallessa turvakaapissa.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">overgi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">luovuttaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Phrase">gi fra seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">luovuttaat</t>
+            <xg>
+            <x>Vi er ikke villig til å gi fra oss makten.</x>
+            <xt>Met emmä ole halukkhaat luovuttamhaan valttaa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">luoppuut</t>
+            <xg>
+            <x>Han ville ikke å gi fra seg makten.</x>
+            <xt>Hän ei halunu luoppuut vallasta.</xt>
             </xg>
          </tg>
       </mg>
