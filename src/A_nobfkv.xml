@@ -10031,13 +10031,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;bildetema;es">
       <lg>
          <l pos="A">rutet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">ruuđulinen</t>
+            <t pos="A">ristiraiđalinen</t>
             <t pos="A">ristiraitainen</t>
+            <t pos="A">ruuttanen</t>
          </tg>
       </mg>
    </e>
@@ -10157,17 +10160,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ruuđulinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">ristiraiđalinen</t>
-             <t pos="A">ristiraitainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-             <t pos="A">ruuttanen</t>
+            <t pos="A">ristiraitainen</t>
+            <t pos="A">ruuttanen</t>
          </tg>
       </mg>
    </e>
