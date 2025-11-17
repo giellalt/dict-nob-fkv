@@ -3754,13 +3754,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta">
       <lg>
          <l pos="A">sen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">hiljainen</t>
+            <xg>
+            <x>Det er sen natt og alle sover.</x>
+            <xt>Oon hiljainen yö ja kaikki nukkuuvat.</xt>
+            </xg>
+            <xg>
+            <x>Han jobber helt fra morgenen til sent på kveld.</x>
+            <xt>Hän työtelee kiini aamusta hiljaisheen ilthaan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>treg, langsom</re>
+            <t pos="A" stem="hithaa">hiđas</t>
          </tg>
       </mg>
    </e>
@@ -4023,9 +4037,24 @@ For the full license text, see the link above.</lic>
             <t pos="A" stem="hithaa">hiđas</t>
          </tg>
       </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">treg</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">hithaasti</t>
+            <t pos="A" stem="hithaa">hiđas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">treig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A" stem="hithaa">hiđas</t>
          </tg>
       </mg>
    </e>
@@ -4035,7 +4064,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>treg, langsom</re>
             <t pos="A" stem="hithaa">hiđas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">hiljainen</t>
          </tg>
       </mg>
    </e>
