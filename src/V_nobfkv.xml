@@ -6710,10 +6710,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">huonota</t>
+            <t pos="V">värretä</t>
          </tg>
       </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Phrase">bli verre</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">huonota</t>
             <t pos="V">värretä</t>
          </tg>
       </mg>
@@ -14106,13 +14113,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">klistre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="liimaa;liiman">liimata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">talmata</t>
          </tg>
       </mg>
    </e>
@@ -22418,7 +22430,18 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>fast</re>
+         <re>fast i noe</re>
+            <t pos="V">talmaanttuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">klistre seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>fast i noe</re>
             <t pos="V">talmaanttuut</t>
          </tg>
       </mg>
@@ -30903,6 +30926,17 @@ For the full license text, see the link above.</lic>
             <x>Han ville ikke å gi fra seg makten.</x>
             <xt>Hän ei halunu luoppuut vallasta.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;es">
+      <lg>
+         <l pos="Phrase">forverre seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">huonota</t>
+            <t pos="V">värretä</t>
          </tg>
       </mg>
    </e>
