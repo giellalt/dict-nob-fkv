@@ -10614,18 +10614,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ia">
+   <e src="ai;es">
       <lg>
          <l pos="A">neste</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">seuraava</t>
+            <xg>
+               <x>Neste dag våknet vi tidlig og dro til byen.</x>
+               <xt>Seuraavana päivänä heräsimmä varhain ja lähđimä kaupunkhiin.</xt>
+            </xg>
+            <xg>
+               <x>Instruksene finner du på neste side.</x>
+               <xt>Ohjheet löyttyyvät seuraavalta laiđalta.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">vierhiinen</t>
+            <t pos="A">ensi</t>
+            <xg>
+               <x>Neste gang går det ikke like bra.</x>
+               <xt>Ensi kerrala se ei käy sama hyvin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -12199,11 +12211,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="A">tidlig</l>
       </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">varhain</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="varhaise;varhais">varhainen</t>
