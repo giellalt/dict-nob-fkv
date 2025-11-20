@@ -3129,13 +3129,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>stram</re>
+<!--         <re>stram</re> -->
             <t pos="A">kiinttee</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>hard, kompakt</re>
+<!--         <re>hard, kompakt</re> -->
             <t pos="A">kova</t>
             <t pos="A">kiva</t>
          </tg>
@@ -3148,11 +3148,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
          <re>varig, regelmessig</re>
+            <t pos="A">fasta</t>
             <t pos="A">vakituinen</t>
             <t pos="A">pyssyyvä</t>
             <t pos="A">pysyväinen</t>
             <t pos="A">pyssyyväinen</t>
-            <t pos="A">fasta</t>
          </tg>
       </mg>
    </e>
