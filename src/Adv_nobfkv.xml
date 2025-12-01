@@ -8364,13 +8364,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="Adv">mindre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">vähemän</t>
+            <t pos="Adv">vähempi</t>
          </tg>
       </mg>
    </e>
@@ -8452,23 +8453,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;mj">
+   <e src="ai;ta;mj;es">
       <lg>
          <l pos="Adv">litt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">vähä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">vähän</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="Adv">vähä</t>
             <t pos="Adv">vähäsen</t>
+            <t pos="Adv">vähäisen</t>
          </tg>
       </mg>
       <mg>
@@ -8478,13 +8472,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="Adv">noe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">vähän</t>
             <t pos="Adv">vähä</t>
+            <t pos="Adv">vähäsen</t>
          </tg>
       </mg>
    </e>
@@ -8495,6 +8491,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">vähän</t>
+            <t pos="Adv">vähä</t>
             <t pos="Adv">vähäsen</t>
          </tg>
       </mg>
@@ -12071,6 +12068,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">hirmun</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">bitte litt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vähäisen</t>
+            <t pos="Adv">vähäsen</t>
+            <t pos="Adv">pikkuisen</t>
+            <t pos="Adv">pikkusen</t>
          </tg>
       </mg>
    </e>
