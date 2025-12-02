@@ -7855,13 +7855,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">forlenge</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV">jatkata</t>
+            <t pos="V" val="TV">jatkaat</t>
          </tg>
       </mg>
       <mg>
@@ -7875,13 +7876,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">fortsette</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV">jatkata</t>
+            <t pos="V" val="TV">jatkaat</t>
             <xg>
                <x>Mie jatkaan muistelusta ensi kerrala.</x>
                <xt>Jeg fortsetter historien neste gang.</xt>
