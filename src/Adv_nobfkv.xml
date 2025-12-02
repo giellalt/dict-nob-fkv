@@ -7277,6 +7277,10 @@ For the full license text, see the link above.</lic>
                <x>Han tok vare på bildene.</x>
                <xt>Hän otti kuvat taltheen.</xt>
             </xg>
+            <xg>
+               <x>Vi tar alltid vare på matrestene.</x>
+               <xt>Met korjaama aina ruokarästit taltheen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -7297,7 +7301,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="korjaa;korjan">korjata</t>
+         <re>samle inn, ta i bevaring</re>
+            <t pos="Adv">korjata</t>
          </tg>
       </mg>
    </e>
