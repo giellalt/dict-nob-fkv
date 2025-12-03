@@ -18952,19 +18952,51 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="A">lignende</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">vastaava</t>
-            <t pos="A">vastaavanlainen</t>
+            <t pos="A">samantapainen</t>
+            <t pos="A">samankaltainen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>om utseende</re>
             <t pos="A">samannäköinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>tilsvarende</re>
+            <t pos="A">vastaava</t>
+            <t pos="A">vastaavanlainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;es">
+      <lg>
+         <l pos="A">liknende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">samantapainen</t>
+            <t pos="A">samankaltainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om utseende</re>
+            <t pos="A">samannäköinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>tilsvarende</re>
+            <t pos="A">vastaava</t>
+            <t pos="A">vastaavanlainen</t>
          </tg>
       </mg>
    </e>
