@@ -50145,7 +50145,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">vrist</l>
       </lg>
@@ -50154,6 +50154,11 @@ For the full license text, see the link above.</lic>
             <t pos="N" stem="nilka">nilkka</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">jalkapöytä</t>
+         </tg>
+      </mg>      
    </e>
    <e src="ai;ta;mk">
       <lg>
@@ -50162,10 +50167,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="nilka">nilkka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">ankkeli</t>
          </tg>
       </mg>
@@ -66741,13 +66742,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">sekk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="säki">säkki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>en sekk med ca 150 kg. mel</re>
+            <t pos="N">jauhomatta</t>
          </tg>
       </mg>
    </e>
@@ -85108,31 +85115,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">den øverste deles av fotbladet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">jalkapöytä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">fotblad</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">jalkaterä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">en sekk med ca 150 kg. mel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">jauhomatta</t>
          </tg>
       </mg>
    </e>
