@@ -7229,13 +7229,26 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
         <tg xml:lang="fkv">
-	        <re>bli tvunget til</re>
           <t pos="V" stem="häyđy;häyty">häyttyyt</t>
-          <t pos="V" stem="jouđu;joutu">jouttuut</t>
             <xg>
                 <x>Jeg måtte slutte å røyke.</x>
                 <xt>Mie häyđyin lopettaat polttaat tupakkaa.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fkv">
+            <t pos="Phrase">olla pakko</t>
+            <xg>
+               <x>Vi måtte klare oss på egen hånd.</x>
+               <xt>Meilä oli pakko pärjätä ominensa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fkv">
+	        <re>bli tvunget til</re>
+          <t pos="V" stem="jouđu;joutu">jouttuut</t>
          </tg>
       </mg>
       <mg>
@@ -7996,6 +8009,15 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Jeg må betale husleien idag.</x>
                <xt>Mie häyđyn maksaat huonetlaikon tääpänä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">olla pakko</t>
+            <xg>
+               <x>Vi var nødt til å klare oss på egen hånd.</x>
+               <xt>Meilä oli pakko pärjätä ominensa.</xt>
             </xg>
          </tg>
       </mg>
@@ -30962,6 +30984,24 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Lillebror stappet alle tingene i ranselen.</x>
                <xt>Pikkuveli survoi kaikki neuvot ransselhiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;anb">
+      <lg>
+         <l pos="Phrase">ta stilling til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">ottaat kanta</t>
+            <xg>
+               <x>Jeg vil ikke ta stilling til disse spørsmålene nå.</x>
+               <xt>Mie en halluu ottaat kanttaa näihin kysymyksiin nyt.</xt>
+            </xg>
+            <xg>
+               <x>Vi var nødt til å ta en eller annen stilling til krigen.</x>
+               <xt>Meilä oli pakko ottaat jonkulaisen kannan sothaan.</xt>
             </xg>
          </tg>
       </mg>

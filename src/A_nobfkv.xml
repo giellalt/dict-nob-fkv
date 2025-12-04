@@ -4704,23 +4704,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">lykkelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>glad</re>
             <t pos="A" stem="iloise;ilois">iloinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="onnekkhaa">onnekas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">onnelinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>heldig</re>
+            <t pos="A">lykylinen</t>
+            <t pos="A">onnekas</t>
          </tg>
       </mg>
    </e>
@@ -7552,13 +7551,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="A">heldig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">lykylinen</t>
+            <t pos="A">onnekas</t>
          </tg>
       </mg>
    </e>
@@ -7569,10 +7569,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="läntise;läntis">läntinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">vestainen</t>
          </tg>
       </mg>
@@ -9065,6 +9061,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">passeli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">soppiiva</t>
          </tg>
       </mg>
    </e>
@@ -15928,11 +15929,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">vastaava</t>
-            <t pos="A">vastaavanlainen</t>
             <xg>
-            <x>eller tilsvarende/liknende</x>
+            <x>eller tilsvarende</x>
             <xt>tahi vastaava</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>av tilsvarende type, lignende</re>
+            <t pos="A">vastaavanlainen</t>
          </tg>
       </mg>
    </e>
@@ -18970,8 +18976,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>tilsvarende</re>
-            <t pos="A">vastaava</t>
+         <re>av tilsvarendende type</re>
             <t pos="A">vastaavanlainen</t>
          </tg>
       </mg>
@@ -18994,8 +18999,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>tilsvarende</re>
-            <t pos="A">vastaava</t>
+         <re>av tilsvarendende type</re>
             <t pos="A">vastaavanlainen</t>
          </tg>
       </mg>
@@ -22494,6 +22498,50 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">paha</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">perfekt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">täyđelinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">fullkommen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">täyđelinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">følgende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">seuraava</t>
+            <xg>
+            <x>Undersøkelsen utføres på følgende måte: ...</x>
+            <xt>Tutkimuksen tehđhään seuraavalla laila: ...</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>slik som følger, av følgende type</re>
+            <t pos="A">seuraavanlainen</t>
+            <xg>
+            <x>Vi har en plan som følger: ...</x>
+            <xt>Meilä oon seuraavanlainen plaana: ...</xt>
+            </xg>
          </tg>
       </mg>
    </e>
