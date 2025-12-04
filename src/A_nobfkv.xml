@@ -4949,16 +4949,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">et slags</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">jonkulainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="Phrase">som har familie</l>
       </lg>
       <mg>
@@ -8165,7 +8155,7 @@ For the full license text, see the link above.</lic>
    </e> -->
    <e src="ai;ta;es">
       <lg>
-         <l pos="Phrase">en slags</l>
+         <l pos="A">slags</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8218,22 +8208,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">positiv</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">myöntheinen</t>
+            <t pos="A">myönttäävä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="positiivise;positiivis">positiivinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A" stem="pusitiivise;pusitiivis">pusitiivinen</t>
          </tg>
       </mg>
@@ -11149,26 +11136,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">tärkkee</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">justhiinsa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">tarkasti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">vasiten</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">visusti</t>
          </tg>
       </mg>
    </e>
@@ -22542,6 +22509,28 @@ For the full license text, see the link above.</lic>
             <x>Vi har en plan som følger: ...</x>
             <xt>Meilä oon seuraavanlainen plaana: ...</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;es">
+      <lg>
+         <l pos="A">bekreftende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">myöntheinen</t>
+            <t pos="A">myönttäävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">presis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>nøyaktig, korrekt</re>
+            <t pos="A">tarkka</t>
          </tg>
       </mg>
    </e>
