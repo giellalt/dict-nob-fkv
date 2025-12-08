@@ -1981,6 +1981,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV">haluta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="V" val="TV">tahtoot</t>
          </tg>
       </mg>
@@ -5015,14 +5019,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">invitere</l>
       </lg>
          <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kuttu">kuttuut</t>
-            <t pos="V" stem="kuttu">käskeet</t>
+            <t pos="V">käskeet</t>
+            <t pos="V">tahtoot</t>
          </tg>
       </mg>
       <mg>
@@ -16465,12 +16470,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">noittuut</t>
+            <t pos="V">taikuroita</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">taikuroita</t>
+         <re>hekse, gande</re>
+            <t pos="V">noittuut</t>
          </tg>
       </mg>
    </e>
@@ -25241,13 +25247,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">oppnevne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">ylösnimittäät</t>
+            <t pos="V">nimittäät</t>
          </tg>
       </mg>
    </e>
