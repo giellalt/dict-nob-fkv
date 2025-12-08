@@ -21336,13 +21336,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">fat</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="fađi;fatti">fati</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>mål for mengde som går i et fat</re>
+            <t pos="N">tynnyrillinen</t>
+            <xg>
+            <x>Et fat olje tilsvarer 158,99 liter.</x>
+            <xt>Tynnyrillinen öljyy vastaa 158,99 liitterii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -70404,13 +70414,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">tønne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tynnyri</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>mål for mengde som går i en tønne</re>
+            <t pos="N">tynnyrillinen</t>
+            <xg>
+            <x>En tønne poteter koster 200 kr.</x>
+            <xt>Tynnyrillinen puteettii maksaa 200 kruunuu.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
