@@ -1255,12 +1255,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">aina</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">vielä</t>
+            <t pos="Adv">aina</t>
+            <t pos="Adv">tasan</t>
          </tg>
       </mg>
    </e>
@@ -1270,11 +1267,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">vielä</t>
             <t pos="Adv">aina</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="Adv">tasan</t>
             <t pos="Pcle">yhä</t>
          </tg>
       </mg>
@@ -2766,7 +2761,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>som fortsetter, videre</re>
             <t pos="Adv">jatkuuvasti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>fremdeles, enda</re>
+            <t pos="Adv">vielä</t>
+            <t pos="Adv">tasan</t>
+            <t pos="Pcle">yhä</t>
          </tg>
       </mg>
    </e>
@@ -2777,6 +2781,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">jatkuuvasti</t>
+            <t pos="Adv">päänänsä</t>
          </tg>
       </mg>
    </e>
@@ -8162,6 +8167,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">vielä</t>
+            <t pos="Adv">aina</t>
+            <t pos="Adv">tasan</t>
          </tg>
       </mg>
    </e>
@@ -11847,6 +11854,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kaikisti</t>
+            <t pos="Adv">päänänsä</t>
          </tg>
       </mg>
    </e>
