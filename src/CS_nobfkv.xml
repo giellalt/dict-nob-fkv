@@ -137,12 +137,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="CS">siksi ko</t>
+            <t pos="CS">sillä ko</t>
             <t pos="CS">koska</t>
          </tg>
       </mg>
+   </e>
+   <e src="ai;ta;ki">
+      <lg>
+         <l pos="CS">for di</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="CS">siksi</t>
+            <t pos="CS">siksi ko</t>
             <t pos="CS">sillä ko</t>
+            <t pos="CS">koska</t>
          </tg>
       </mg>
    </e>

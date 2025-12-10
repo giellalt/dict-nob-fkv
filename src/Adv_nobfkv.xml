@@ -4497,21 +4497,6 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">liijan</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">takia</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">tähđen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Po">varten</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -6927,6 +6912,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">siksi</t>
             <t pos="Adv">sillä</t>
+            <xg>
+               <x>Ja siksi mieki sanoin sen.</x>
+               <xt>Og derfor sa jeg også det.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -6934,6 +6923,18 @@ For the full license text, see the link above.</lic>
             <t pos="Po">tähđen</t>
             <t pos="Po">takia</t>
             <t pos="Po">vuoksi</t>
+            <xg>
+               <x>Se oon sen tähđen ette mieki olen samma mieltä.</x>
+               <xt>Derfor er også jeg enig.</xt>
+            </xg>
+         </tg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">varten</t>
+            <xg>
+               <x>Det var jo derfor jeg kjøpte de.</x>
+               <xt>Sitä vartenhan mie ostin net.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
