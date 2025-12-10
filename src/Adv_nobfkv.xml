@@ -1826,14 +1826,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
-         <l pos="Adv">først og fremst</l>
+         <l pos="Phrase">først og fremst</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">ensinä</t>
             <t pos="Adv">ensinäki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">ennen kaikkee</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">framfor alt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Phrase">ennen kaikkee</t>
          </tg>
       </mg>
    </e>
