@@ -77763,21 +77763,22 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">Spania</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" type="Prop">Espanja</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">St. Michel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" type="Prop">Mikkeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">Spania</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" type="Prop">Spaania</t>
+            <t pos="N" type="Prop">Espanja</t>
          </tg>
       </mg>
    </e>
@@ -94508,13 +94509,33 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="N">Varangerfjorden</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Varenginvuono</t>
+            <t pos="N">Varenkinvuono</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">Trondheim</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Tronjami</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">Sappen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">Sappi</t>
          </tg>
       </mg>
    </e>
