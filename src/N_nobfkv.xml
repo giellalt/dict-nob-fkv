@@ -94515,7 +94515,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Varenkinvuono</t>
+            <t pos="Prop">Varenkinvuono</t>
          </tg>
       </mg>
    </e>
@@ -94525,7 +94525,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Tronjami</t>
+            <t pos="Prop">Tronjami</t>
          </tg>
       </mg>
    </e>
@@ -94535,7 +94535,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Sappi</t>
+            <t pos="Prop">Sappi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">Aronnes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Prop">Aaroninniemi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">Amtmannsnes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Prop">Ariniemi</t>
          </tg>
       </mg>
    </e>
@@ -94545,7 +94565,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Ørtangen</t>
+            <t pos="Prop">Ørtangen</t>
          </tg>
       </mg>
    </e>
@@ -94555,7 +94575,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Pohjais-Atlantti</t>
+            <t pos="Prop">Pohjais-Atlantti</t>
          </tg>
       </mg>
    </e>
@@ -94565,7 +94585,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Vienanmeri</t>
+            <t pos="Prop">Vienanmeri</t>
          </tg>
       </mg>
    </e>
@@ -94575,7 +94595,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Väkkärä</t>
+            <t pos="Prop">Väkkärä</t>
          </tg>
       </mg>
    </e>
@@ -94585,7 +94605,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Turvetjoki</t>
+            <t pos="Prop">Turvetjoki</t>
          </tg>
       </mg>
    </e>
@@ -94595,7 +94615,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Kuolanniemimaa</t>
+            <t pos="Prop">Kuolanniemimaa</t>
          </tg>
       </mg>
    </e>
@@ -94605,7 +94625,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Pohjais-Varenki</t>
+            <t pos="Prop">Pohjais-Varenki</t>
          </tg>
       </mg>
    </e>
@@ -94615,7 +94635,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Päärlyvooki</t>
+            <t pos="Prop">Päärlyvooki</t>
          </tg>
       </mg>
    </e>
@@ -94625,7 +94645,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Øverbygd</t>
+            <t pos="Prop">Øverbygd</t>
          </tg>
       </mg>
    </e>
@@ -94635,7 +94655,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Makrea</t>
+            <t pos="Prop">Makrea</t>
          </tg>
       </mg>
    </e>
@@ -94645,7 +94665,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Kappa</t>
+            <t pos="Prop">Kappa</t>
          </tg>
       </mg>
    </e>
@@ -94655,7 +94675,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Paattivuono</t>
+            <t pos="Prop">Paattivuono</t>
          </tg>
       </mg>
    </e>
