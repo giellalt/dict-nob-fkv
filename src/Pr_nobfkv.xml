@@ -653,20 +653,33 @@ For the full license text, see the link above.</lic>
                 </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="ki;mk">
       <lg>
          <l pos="Pr">for</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">jollekki</t>
-                  <xg>
+         <re>på grunn av, fordi</re>
+            <t pos="Po">tähđen</t>
+            <t pos="Po">taki</t>
+            <t pos="Po">vuoksi</t>
+            <xg>
+               <x>Jeg gjorde det for deg.</x>
+               <xt>Mie tehin sen sinun vuoksi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+       <t type="grammar" href="https://press.nordicopenaccess.no/index.php/noasp/catalog/view/24/101/531#sec5.3.5.2">allativ</t>
+       <t pos="suff">-le, -lle</t>
+            <xg>
                <x>Det er for deg.</x>
                <xt>Se oon sinule.</xt>
             </xg>
          </tg>
       </mg>
-        <mg>
+ <!--       <mg>
          <tg xml:lang="fkv">
 	          <re>foran, framover</re>
             <t pos="Po">jollekki</t>
@@ -679,12 +692,11 @@ For the full license text, see the link above.</lic>
                <xt>Sie häyđyt olla varovainen trafiikissa.</xt>
             </xg>
          </tg>
-      </mg>
+      </mg> -->
          <mg>
          <tg xml:lang="fkv">
-	          <re>ved rekkefølge</re>
-            <t pos="Po">jollekki</t>
-                  <xg>
+            <t pos="Po">pörästä</t>
+            <xg>
                <x>Skritt for skritt.</x>
                <xt>Askel askelheen pörästä.</xt>
             </xg>
@@ -2046,25 +2058,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">takia</t>
-<!--             <xg>
-               <x>Jeg ble forsinket på grunn av køen i kassa.</x>
-               <xt>Mie hiljestyin sen takia, ette kassassa oli pitkä jono.</xt>
-            </xg> -->
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Po">tähđen</t>
-            <xg>
-               <x>Jeg gjorde det for deg.</x>
-               <xt>Mie tehin sen sinun tähđen.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="Po">takia</t>
             <t pos="Po">vuoksi</t>
+             <xg>
+               <x>Arrangementet ble avlyst på grunn av sykdom.</x>
+               <xt>Tapattuman perruutethiin sairhauđen tähđen.</xt>
+            </xg>
+             <xg>
+               <x>Jeg ble forsinket på grunn av bussen kjørte i grøfta.</x>
+               <xt>Mie hiljestyin sen takia ette bussi ajoi kravhiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2075,10 +2079,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">takkaa</t>
-<!--             <xg>
+             <xg>
                <x>Jeg så dem ikke siden de kom bakfra.</x>
-               <xt>Mie nähny heitä ko het tulthiin minun takkaa.</xt>
-            </xg> -->
+               <xt>Mie en nähny heitä ko het tulthiin minun takkaa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
