@@ -46260,18 +46260,42 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ia">
+   <e src="ta;ia;ki">
       <lg>
          <l pos="N">skjul</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>skur</re>
             <t pos="N" stem="majja">maja</t>
+            <t pos="N">vaja</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">vaja</t>
+         <re>gjemmested</re>
+            <t pos="N">piilo</t>
+            <t pos="N">kätkö</t>
+            <xg>
+            <x>Du må holde deg i skjul.</x>
+            </xt>Sie häyđyt pyssyyt piilossa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ly, vern</re>
+            <t pos="N">suoja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ly</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suoja</t>
          </tg>
       </mg>
    </e>
@@ -55210,6 +55234,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kätkö</t>
+            <t pos="N">kätköpaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;es;ki">
+      <lg>
+         <l pos="N">skjulested</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">piilo</t>
+            <t pos="N">piilopaikka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kätkö</t>
+            <t pos="N">kätköpaikka</t>
          </tg>
       </mg>
    </e>
