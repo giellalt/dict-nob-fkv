@@ -5235,18 +5235,22 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Troms og Finnmark ble slått sammen i 2020, men ekteskapet varte ikke lenge.</x>
-               <xt>Tromssan ja Finmarkun lyöthiin yhtheen vuona 2020, mutta ei se avioliitto kauvoin kestäny.</xt>
+               <xt>Tromssan ja Finmarkun lyöthiin yhtheen vuona 2020, mutta se avioliitto ei kauvoin kestäny.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">iskeet</t>
+            <xg>
+               <x>En tanke slo meg at kanskje jeg må gjøre dette på en annen måte.</x>
+               <xt>Ajatus iski minun päähän ette piian mie häyđyn tehđä tämän eri laila.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="hakkaa;hakan">hakata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">iskeet</t>
          </tg>
       </mg>
       <mg>
@@ -5258,6 +5262,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="tao;tako">takkoot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>slå med ljå</re>
+            <t pos="V">niittäät</t>
          </tg>
       </mg>
    </e>
