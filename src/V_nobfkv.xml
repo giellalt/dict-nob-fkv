@@ -6076,10 +6076,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
-         <l pos="Phrase">skitne til</l>
+         <l pos="V">skitne</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ryötyttäät</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">hieroot</t>
@@ -21514,13 +21519,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">avle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>gi liv til, få avkom</re>
             <t pos="V">siittäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>bli avlet, unnfanget</re>
+            <t pos="V">siitä</t>
          </tg>
       </mg>
    </e>
@@ -21531,6 +21543,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">siittäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;es">
+      <lg>
+         <l pos="V">unnfange</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gi liv til, få avkom</re>
+            <t pos="V">siittäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>bli avlet, unnfanget</re>
+            <t pos="V">siitä</t>
          </tg>
       </mg>
    </e>
@@ -31040,6 +31069,17 @@ For the full license text, see the link above.</lic>
                <x>Vi var nødt til å ta en eller annen stilling til krigen.</x>
                <xt>Meilä oli pakko ottaat jonkulaisen kannan sothaan.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">grise</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>søle, skitne</re>
+            <t pos="V">ryötyttäät</t>
          </tg>
       </mg>
    </e>
