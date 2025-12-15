@@ -18912,9 +18912,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
-         <l pos="Phrase">regne regndråper</l>
+         <l pos="V">småregne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">piiskoot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ki">
+      <lg>
+         <l pos="V">duskregne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -22762,7 +22772,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">dryppe</l>
       </lg>
@@ -22773,12 +22783,18 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V" stem="tiputa">tiputtaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="V" stem="tiputtele;tiputel">tiputella</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="tiputa">tiputtaat</t>
+         <re>om regndråper</re>
+            <t pos="V">piiskoot</t>
          </tg>
       </mg>
    </e>
