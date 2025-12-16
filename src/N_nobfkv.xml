@@ -3566,6 +3566,36 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">fredselsker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rauhanrakastaaja</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">tema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">aihet</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="N">tema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tema</t>
+         </tg>
+      </mg>
+   </e>
    <e src="grom">
       <lg>
          <l pos="N">sekvens</l>
@@ -66525,6 +66555,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">syy</t>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">aihet</t>
          </tg>
       </mg>
    </e>
