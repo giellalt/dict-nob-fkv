@@ -310,6 +310,10 @@ For the full license text, see the link above.</lic>
                <x>Hun står foran treet.</x>
                <xt>Hän seissoo puun eđessä.</xt>
             </xg>
+            <xg>
+               <x>Den er akkurat foran øyene dine.</x>
+               <xt>Se oon juuri sinun silmiin eđessä.</xt>
+            </xg>
              <xg>
                <x>I tiden foran oss vil det skje mange forandringer.</x>
                <xt>Siinä aijassa joka oon meiđän eđessä tapattuu paljon muutoksii.</xt>
@@ -324,6 +328,25 @@ For the full license text, see the link above.</lic>
                <x>Nå står dere overfor et valg.</x>
                <xt>Nyt seisotta valinnan eđessä.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">eđestä</t>
+            <xg>
+               <x>Tyven stjal veska rett foran nesa på henne.</x>
+               <xt>Varas varasti väskyn aivan hänen nenän eđestä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">etheen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pr">eđeltä</t>
          </tg>
       </mg>
    </e>
@@ -662,6 +685,18 @@ For the full license text, see the link above.</lic>
          <re>på grunn av, fordi</re>
             <t pos="Po">tähđen</t>
             <t pos="Po">takia</t>
+            <xg>
+               <x>Hva i all verden er det dere slåss for?</x>
+               <xt>Minkä ihmheen takia tet tappeletta?</xt>
+            </xg>
+            <xg>
+               <x>Vær nå ikke bekymret for ingenting.</x>
+               <xt>Älä nyt ole huolissa tyyhän tähđen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Po">vuoksi</t>
             <xg>
                <x>Jeg gjorde det for deg.</x>
@@ -673,8 +708,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Po">varten</t>
             <xg>
+               <x>Disse bøkene er ment til undervisning på videregående.</x>
+               <xt>Nämät kirjat oon tarkoitettu jatkokoulun opetusta varten.</xt>
+            </xg>
+            <xg>
                <x>Sie olet ko syntyny tätä varten.</x>
                <xt>Du er som skapt for dette.</xt>
+            </xg>
+            <xg>
+               <x>Hun fikk æren for at hun hadde skapt grunnlaget for dette prosjektet.</x>
+               <xt>Hän sai kunnian sen eđestä ette hän oli luonu pohjan tätä prosektii varten.</xt>
             </xg>
          </tg>
       </mg>
@@ -713,6 +756,36 @@ For the full license text, see the link above.</lic>
                <x>Ord for ord.</x>
                <xt>Sana sanhaan pörästä.</xt>
             </xg> -->
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">eđestä</t>
+            <xg>
+               <x>Han flykter for livet.</x>
+               <xt>Hän pakenee hengen eđestä.</xt>
+            </xg>
+            <xg>
+               <x>Hun for æren for at hun hadde skapt grunnlaget for dette prosjektet.</x>
+               <xt>Hän sai kunnian sen eđestä ette hän oli luonu pohjan tätä prosektii varten.</xt>
+            </xg>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">puolesta</t>
+            <xg>
+               <x>Han gjorde det for min del.</x>
+               <xt>Hän teki sen minun puolesta.</xt>
+            </xg>
+            <xg>
+               <x>Hun ga livet sitt for familien.</x>
+               <xt>Hän antoi oman elämän perheen puolesta.</xt>
+            </xg>
+            <xg>
+               <x>De må stemme enten for eller i mot.</x>
+               <xt>Het häyttyyvät äänestäät puolesta tahi vasthaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
