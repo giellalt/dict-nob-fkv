@@ -108512,7 +108512,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">spåkone</l>
       </lg>
@@ -108521,8 +108521,13 @@ For the full license text, see the link above.</lic>
             <t pos="N">poovari</t>
          </tg>
       </mg>
+        <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ennustaaja</t>
+         </tg>
+      </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">spåmann</l>
       </lg>
@@ -108531,8 +108536,13 @@ For the full license text, see the link above.</lic>
             <t pos="N">poovari</t>
          </tg>
       </mg>
+        <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ennustaaja</t>
+         </tg>
+      </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">sannsigerske</l>
       </lg>
@@ -108541,14 +108551,39 @@ For the full license text, see the link above.</lic>
             <t pos="N">poovari</t>
          </tg>
       </mg>
+        <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ennustaaja</t>
+         </tg>
+      </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">sannsiger</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">poovari</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ennustaaja</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="es;ki">
+      <lg>
+         <l pos="N">spåkjerring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">poovari</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ennustaaja</t>
          </tg>
       </mg>
    </e>
