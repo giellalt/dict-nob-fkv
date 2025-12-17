@@ -3578,6 +3578,41 @@ For the full license text, see the link above.</lic>
    </e>
      <e src="anb">
       <lg>
+         <l pos="N">offiser</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">offiseeri</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="N">pamflett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pamfletti</t>
+         </tg>
+      </mg>
+        </e>
+        <e src="ki;anb">
+      <lg>
+         <l pos="N">småting</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">neuvot</t>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pikkutavara</t>
+         </tg>
+      </mg>
+        </e>
+        <e src="anb">
+      <lg>
          <l pos="N">tema</l>
       </lg>
       <mg>
@@ -3585,7 +3620,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">aihet</t>
          </tg>
       </mg>
-   </e>
+        </e>
         <e src="anb">
       <lg>
          <l pos="N">tema</l>
@@ -38199,13 +38234,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;anb">
       <lg>
          <l pos="N">småfisk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">murtto</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pikkukala</t>
          </tg>
       </mg>
    </e>
@@ -42295,7 +42335,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;anb">
       <lg>
          <l pos="N">jordmor</l>
       </lg>
@@ -42307,6 +42347,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">paarmuska</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">juurmuori</t>
          </tg>
       </mg>
    </e>
