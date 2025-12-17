@@ -3681,6 +3681,46 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">blåhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sini</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="N">sirupskake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">siraappikakko</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="Prase">sivil mann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">siviilimies</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="N">høstmorgen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">syysaamu</t>
+         </tg>
+      </mg>
+   </e>
    <e src="grom">
       <lg>
          <l pos="N">sekvens</l>
@@ -30151,13 +30191,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="N">styrtregn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kaatosathee">kaatosađet</t>
+         </tg>
+      </mg>
+          <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sađetkluova</t>
          </tg>
       </mg>
    </e>
@@ -108335,13 +108380,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-        <e src="anb">
+        <e src="anb;ta">
       <lg>
          <l pos="N">høljeregn</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">rankkađet</t>
+            <t pos="N">rankksađet</t>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sađetkluova</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kaatosađet</t>
          </tg>
       </mg>
    </e>
