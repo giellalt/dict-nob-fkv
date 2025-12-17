@@ -3621,13 +3621,63 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
         </e>
-        <e src="anb">
+        <e src="ki">
       <lg>
          <l pos="N">tema</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tema</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">trekopp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puukoppi</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="anb">
+      <lg>
+         <l pos="N">tresag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puusaha</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="anb">
+      <lg>
+         <l pos="N">uro</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rauhattommuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">lærepenge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ripitys</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">blåfarge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sini</t>
          </tg>
       </mg>
    </e>
@@ -31707,17 +31757,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kappalhee">kappalet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+	     <re>hjemmearbeid for skoleelever</re>
             <t pos="N">kotityö</t>
+             <t pos="N">läksy</t>
          </tg>
       </mg>
-      <mg>
+         <mg>
          <tg xml:lang="fkv">
-            <t pos="N">läksy</t>
+	      <re>lærepenge</re>
+            <t pos="N">ripitys</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+	      <re>lang remse</re>
+            <t pos="N" stem="kappalhee">kappalet</t>
          </tg>
       </mg>
    </e>
