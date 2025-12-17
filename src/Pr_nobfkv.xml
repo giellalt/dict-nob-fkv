@@ -342,11 +342,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Po">etheen</t>
+            <xg>
+               <x>Bilen parkerte foran huset.</x>
+               <xt>Biili parkkeeras huonheen etheen.</xt>
+            </xg>
+            <xg>
+               <x>Hun måtte møte foran retten.</x>
+               <xt>Hän joutui oikkeuđen etheen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pr">eđeltä</t>
+            <xg>
+               <x>Han kom hjem før desember.</x>
+               <xt>Hän tuli kotia eđeltä desemperikuun.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -770,8 +782,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Po">eđestä</t>
             <xg>
-               <x>Han flykter for livet.</x>
-               <xt>Hän pakenee hengen eđestä.</xt>
+               <x>De flykter for livet.</x>
+               <xt>Het pakeneevat hengen eđestä.</xt>
             </xg>
             <xg>
                <x>Hun for æren for at hun hadde skapt grunnlaget for dette prosjektet.</x>
