@@ -71620,13 +71620,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;yr">
+   <e src="ai;ta;yr;na">
       <lg>
          <l pos="N">fare</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vaara</t>
+             <xg>
+	            <x>Farer venter bak hver stein.</x>
+		        <xt>Vaara ođottaa jokhaisen kiven takana.</xt>
+		    </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hätä</t>
+            <xg>
+	            <x>De er i fare.</x>
+		        <xt>Het oon häđässä.</xt>
+		    </xg>
          </tg>
       </mg>
    </e>
