@@ -408,7 +408,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-         <e src="ame">
+         <e src="ame;ki">
       <lg>
          <l pos="V">hete</l>
       </lg>
@@ -435,7 +435,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">käskeet</t>
              <xg>
                <x>Hun er interessert i alt som heter teater.</x>
-               <xt>Hän oon kiinostunu kaikesta mitä sanothaan teatteriksi.</xt>
+               <xt>Hän oon kiinostunnu kaikesta mitä sanothaan teatteriksi.</xt>
                </xg>
                <xg>
                <x>De elsker alt som heter middelhavsmat.</x>
@@ -449,15 +449,16 @@ For the full license text, see the link above.</lic>
       </mg>
             <mg>
          <tg xml:lang="fkv">
-	         <re>om korrekt skråklig betegnelse</re>
+	         <re>om korrekt språklig betegnelse</re>
             <t pos="V">sannoot</t>
-             <xg>
-               <x>Hva heter det på norsk?</x>
-               <xt>Mitä se oon norjaksi?</xt>
-            </xg>
+            <t pos="V">olla</t>
               <xg>
                <x>På engelsk heter det Happy Christmas.</x>
                <xt>Engelskaksi sanothaan Happy Christmas.</xt>
+            </xg>
+             <xg>
+               <x>Hva heter det på norsk?</x>
+               <xt>Mikä se oon norjaksi?</xt>
             </xg>
          </tg>
       </mg>
