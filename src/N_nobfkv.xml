@@ -110322,7 +110322,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-<!-- <e src="es">
+<e src="es;ki">
       <lg>
          <l pos="N">posisjon</l>
       </lg>
@@ -110335,11 +110335,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>stilling</re>
+         <re>ansett stilling</re>
             <t pos="N">asema</t>
+            <t pos="N">posisuuni</t>
          </tg>
       </mg>
-   </e> -->
+   </e>
    <e src="es">
       <lg>
          <l pos="N">jurbetennelse</l>
@@ -112306,6 +112307,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">koti</t>
             <t pos="N">koto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ytterstilling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ääriasento</t>
          </tg>
       </mg>
    </e>
