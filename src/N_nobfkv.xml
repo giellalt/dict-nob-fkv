@@ -18296,13 +18296,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="N">skyting</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="ampumise;ampumis">ampuminen</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ammunta</t>
          </tg>
       </mg>
    </e>
@@ -24313,6 +24318,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="varre;vart">perä</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ääri</t>
          </tg>
       </mg>
    </e>
@@ -44584,8 +44594,17 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">pää</t>
               <xg>
-               <x>fra den ene enden til den andre</x>
-               <xt>päästä päähän</xt>
+               <x>Fra den ene enden til den andre</x>
+               <xt>Päästä päähän</xt>
+            </xg>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ääri</t>
+              <xg>
+               <x>Ved verdens ende.</x>
+               <xt>Mailman äärelä.</xt>
             </xg>
          </tg>
       </mg>
@@ -112162,6 +112181,116 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vastaus</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">vannlast</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vesikuorma</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">kvitter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">visertely</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">yngstebarn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaakkaralapsi</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">yngstesønn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaakkarapoika</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="N">yngstedatter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaakkaratytär</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">monolog</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yksinpuhelu</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="anb">
+      <lg>
+         <l pos="N">nattesøvn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yöuni</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="anb">
+      <lg>
+         <l pos="N">solskive</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">auringonkehrä</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="anb">
+      <lg>
+         <l pos="N">skuddveksling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ammunta</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">nattur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">nattur</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="N">nattarbeid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yötyö</t>
          </tg>
       </mg>
    </e>
