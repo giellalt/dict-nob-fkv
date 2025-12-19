@@ -1987,6 +1987,17 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="V">ønske</l>
       </lg>
+        <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">toivoot</t>
+           <t pos="V">toivoskella</t>
+          <t pos="V">toivotella</t>
+            <xg>
+               <x>Jeg ønsker dere alle en god jul!</x>
+               <xt>Mie toivon teile kaikile hyvvää jouluu</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV">haluta</t>
@@ -1994,22 +2005,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	       <re>ville ha, begjære noe</re>
             <t pos="V" val="TV">tahtoot</t>
-         </tg>
-      </mg>
-         <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">toivoot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">toivoskella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">toivotella</t>
          </tg>
       </mg>
    </e>
@@ -22960,11 +22957,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">toivoot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">toivoskella</t>
+           <t pos="V">toivoskella</t>
          </tg>
       </mg>
    </e>
