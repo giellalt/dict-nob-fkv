@@ -9842,16 +9842,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="raavhaa">raavas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A" stem="täyđe;täyt">täysi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="velvolise;velvolis">velvolinen</t>
          </tg>
       </mg>
    </e>
@@ -12318,17 +12309,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="velvolise;velvolis">velvolinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">velvolisesti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">eđesvastauksellinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A" stem="velvolise;velvolis">velvolinen</t>
          </tg>
       </mg>
    </e>
@@ -12342,18 +12328,47 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;na">
+   <e src="ki">
       <lg>
-         <l pos="A">skyldig</l>
+         <l pos="A">pliktig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="velvolise;velvolis">velvolinen</t>
          </tg>
       </mg>
-            <mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">forpliktet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A" stem="velvolise;velvolis">velvolinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;na">
+      <lg>
+         <l pos="A">skyldig</l>
+      </lg>
+      <mg>
          <tg xml:lang="fkv">
             <t pos="A">syylinen</t>
+            <xg>
+               <x>Han er skyldig, finn ham!</x>
+               <xt>Hän oon syylinen, löytäkkää hänen!</xt>
+            </xg>
+            <xg>
+               <x>Den skyldige ble dømt til fengsel.</x>
+               <xt>Syylisen tuomithiin fankilhaan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>som er forpliktet til noe</re>
+            <t pos="A" stem="velvolise;velvolis">velvolinen</t>
          </tg>
       </mg>
       </e>
