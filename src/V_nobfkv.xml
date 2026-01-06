@@ -11329,7 +11329,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="parana;paranta">paranttaat</t>
+            <t pos="V">paranttaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>trinnvis, litt etter litt</re>
+            <t pos="V">paranella</t>
          </tg>
       </mg>
    </e>
@@ -11342,6 +11348,22 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="korjaa;korjan">korjata</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="parana;paranta">paranttaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>trinnvis, litt etter litt</re>
+            <t pos="V">paranella</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">bedre</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="parana;paranta">paranttaat</t>
@@ -29747,8 +29769,8 @@ For the full license text, see the link above.</lic>
          <re>om noe som skjer plutselig og uten videre overveielse</re>
             <t pos="V">purskauttaat</t>
             <xg>
-            <x>«Det va ikke meninga», datt det ut av tvillingen til venstre.</x>
-            <xt>"En mie tarkoittannu", purskautti vasemanpuolinen kaksoisista.</xt>
+            <x>«Det va ikke meninga», datt det ut av Jussa.</x>
+            <xt>"En mie tarkoittannu", purskautti Jussa.</xt>
             </xg>
          </tg>
       </mg>
