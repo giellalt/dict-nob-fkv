@@ -4225,11 +4225,27 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="asu;asu">assuut</t>
+            <xg>
+               <x>Hvor bor du?</x>
+               <xt>Missä sie asut?</xt>
+            </xg>
+            <xg>
+               <x>Det bor ca. 80 000 mennesker i Tromsø.</x>
+               <xt>Tromssassa assuu nuoin 80 000 ihmistä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="elä">elläät</t>
+            <xg>
+               <x>Ekorn bor i skogen.</x>
+               <xt>Oravat elläävät mettässä.</xt>
+            </xg>
+            <xg>
+               <x>Hvordan er det å bo i Tromsø?</x>
+               <xt>Kuinka on elläät Tromssassa?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4401,6 +4417,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="elä">elläät</t>
+            <xg>
+            <x>Han har levd et langt liv.</x>
+            <xt>Hän oon eläny pitkän elämän.</xt>
+            </xg>
+            <xg>
+               <x>De lovde presten å leve sammen i gode og onde dager.</x>
+               <xt>Het luvathiin papile elläät yhđessä hyvinä ja pahoina päivinä.</xt>
+            </xg>
             <xg>
             <x>å leve som en konge, å leve godt</x>
             <xt>elläät herroiksi</xt>

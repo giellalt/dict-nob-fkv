@@ -20508,8 +20508,34 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">elämä</t>
             <xg>
-               <x>Lever de?</x>
-               <xt>Oonko net elämässä?</xt>
+               <x>Livet er langt.</x>
+               <xt>Elämä oon pitkä.</xt>
+            </xg>
+            <xg>
+               <x>Byen er full av liv.</x>
+               <xt>Kaupunki oon täynä elämää.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="henge;henkke">henki</t>
+            <xg>
+               <x>De flyktet for livet.</x>
+               <xt>Het pajethiin hengen eđestä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">elo</t>
+            <xg>
+               <x>De våknet til liv.</x>
+               <xt>Het heräthiin elhoon.</xt>
+            </xg>
+            <xg>
+               <x>De er fortsatt i live.</x>
+               <xt>Het oon vieläki elossa.</xt>
             </xg>
          </tg>
       </mg>
@@ -20520,21 +20546,18 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Vestene var åpne i brystet og trange i livet.</x>
                <xt>Västit olthiin aukkeet rinnasta ja ahthaat vyötäröstä.</xt>
-               </xg>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="henge;henkke">henki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+         <re>plagg uten ermer</re>
             <t pos="N">liivi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>tilværelse, levende vesen</re>
             <t pos="N">olento</t>
          </tg>
       </mg>
