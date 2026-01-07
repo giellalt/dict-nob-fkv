@@ -4243,8 +4243,8 @@ For the full license text, see the link above.</lic>
                <xt>Oravat elläävät mettässä.</xt>
             </xg>
             <xg>
-               <x>Hvordan er det å bo i Tromsø?</x>
-               <xt>Kuinka on elläät Tromssassa?</xt>
+               <x>Hvordan er det å bo i Finland?</x>
+               <xt>Millaista on elläät Suomessa?</xt>
             </xg>
          </tg>
       </mg>
@@ -11716,19 +11716,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">krysse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">kryssätä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">bevege seg i kryss</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11736,6 +11726,43 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Vi krysser veien.</x>
                <xt>Met kryssäämä tien yli.</xt>
+            </xg>
+            <xg>
+               <x>Vi krysser fingrene.</x>
+               <xt>Met kryssäämä sormet!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ylittäät</t>
+            <xg>
+            <x>Pekka krysset grensen ved Karesuando.</x>
+            <xt>Pekka ylitti rajan Kaaresuanon kohđala.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>fingre, hender</re>
+            <t pos="V">ristiit</t>
+            <xg>
+            <x>Kryss fingrene!</x>
+            <xt>Ristikkää sormet!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">overgå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ylittäät</t>
+            <xg>
+               <x>Det overgikk alle løfter.</x>
+               <xt>Se ylitti kaikki luppaukset.</xt>
             </xg>
          </tg>
       </mg>
@@ -28137,16 +28164,36 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="Phrase">gå over</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>krysse</re>
             <t pos="V">ylittäät</t>
+            <t pos="Phrase">mennä yli</t>
             <xg>
-            <x>Pekka krysset grensen ved Karesuando.</x>
-            <xt>Pekka ylitti rahan Kaaresuanon kohđala.</xt>
+            <x>Pekka gikk over gaten.</x>
+            <xt>Pekka ylitti kađun.</xt>
+            </xg>
+            <xg>
+            <x>De så seg til høyre og venstre før de gikk over veien.</x>
+            <xt>Het kattothiin oikkeele ja vasemalle ennen ko het menthiin yli tien.</xt>
+            </xg>
+            <xg>
+            <x>Pekka gikk over grensen ved Karesuando.</x>
+            <xt>Pekka ylitti rajan Kaaresuanon kohđala.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ta slutt, bedre seg</re>
+            <t pos="Phrase">mennä yli</t>
+            <xg>
+            <x>Det går over, ikke bekymre deg.</x>
+            <xt>Kyllä se mennee yli, älä ole huolissa.</xt>
             </xg>
          </tg>
       </mg>
