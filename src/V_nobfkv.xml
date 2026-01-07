@@ -10846,6 +10846,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>dra, trekke</re>
             <t pos="V">kiskoot</t>
          </tg>
       </mg>
@@ -10857,21 +10858,36 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>streve, arbeide hardt</re>
             <t pos="V">raattaat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>rive i stykker</re>
             <t pos="V" stem="revi;repi">reppiit</t>
+            <t pos="V">raattaat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>anstrenge seg</re>
             <t pos="V">ponnistella</t>
             <xg>
-            <x>Siden fikk han ty til skiene. Stabbe seg frem gjennom snetung ødeskog, slite seg opp Maanselkäryggen.</x>
-            <xt>Sen jälkhiin hän saattoi hihđata. Sauvoot hithaasti lumiraskhaan auttiimettän läpi, ponnistella ylös Maanselkkää.</xt>
+            <x>Hun sliter seg oppover bakken.</x>
+            <xt>Hän ponnistellee ylös luokkaa.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">streve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>slite, arbeide hardt</re>
+            <t pos="V">raattaat</t>
          </tg>
       </mg>
    </e>
