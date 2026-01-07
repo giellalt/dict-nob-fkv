@@ -59704,7 +59704,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="raajariko">raajarikko</t>
+            <t pos="N">raajarikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;anb">
+      <lg>
+         <l pos="N">fattig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaivainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">fattigkasse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vaivaiskassa</t>
          </tg>
       </mg>
    </e>

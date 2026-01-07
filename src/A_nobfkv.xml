@@ -3593,18 +3593,38 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	    <re>som består av én enhet</re>
+            <t pos="A">yksinkertainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	    <re>om person</re>
+            <t pos="A">yksinkertainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
 	    <re>motsatt av vanskelig</re>
-            <t pos="A" stem="helpo">helppo</t>
+            <t pos="A">helppo</t>
+            <t pos="A">yksinkertainen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
 	          <re>uten noe ekstra</re>
             <t pos="A">simppeli</t>
+            <t pos="A">yksinkertainen</t>
              <xg>
                <x>Klokken tolv er det enkel servering på hotellet.</x>
                <xt>Kello yksitoista oon simppeli serveeraus hotelissa.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>som krever lite; beskjeden, nøysom</re>
+            <t pos="A">vaatimaton</t>
          </tg>
       </mg>
       <mg>
@@ -11710,11 +11730,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>sjenert</re>
             <t pos="A" stem="ujjo">ujo</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>nøysom, enkel</re>
             <t pos="A">vaatimaton</t>
          </tg>
       </mg>
@@ -11726,6 +11748,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="ujjo">ujo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">nøysom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vaatimaton</t>
          </tg>
       </mg>
    </e>
@@ -12036,6 +12068,26 @@ For the full license text, see the link above.</lic>
    <e src="ai">
       <lg>
          <l pos="A">vanfør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vaivainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="A">vanfør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vaivainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">handikappet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -22916,6 +22968,43 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ryöttä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">ynkelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vaivainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">arm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vaivainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ai">
+      <lg>
+         <l pos="A">fattigslig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>mangelfullt, ynkelig</re>
+            <t pos="A">vaivainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>enkelt, beskjedent</re>
+            <t pos="A">vaatimaton</t>
          </tg>
       </mg>
    </e>
