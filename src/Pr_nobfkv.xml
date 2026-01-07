@@ -1237,7 +1237,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-            <mg>
+      <mg>
          <tg xml:lang="fkv">
             <t pos="Po">alitte</t>
          </tg>
@@ -2252,18 +2252,27 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Pr">ilman</t>
             <xg>
-               <x>uten penger</x>
-               <xt>ilman rahatta</xt>
+               <x>Man klarer seg ikke uten penger.</x>
+               <xt>Ilman rahatta ei pärjää.</xt>
+            </xg>
+            <xg>
+               <x>Du får gjøre det uten meg</x>
+               <xt>Saat tehđä sen ilman minnuu.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pr">vaila</t>
-<!--            <xg>
-               <x>Uten mat.</x>
-               <xt>Vaila ruokkaa.</xt>
-            </xg> -->
+            <t pos="Pr">vaile</t>
+            <xg>
+               <x>Han står uten svar.</x>
+               <xt>Hän oon vastausta vaila.</xt>
+            </xg>
+            <xg>
+               <x>Han får bli stående uten svar.</x>
+               <xt>Hän saapi jääđä vastausta vaile.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2707,9 +2716,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <re>om klokka</re>
             <t pos="Po">vaile</t>
+            <t pos="Po">vaila</t>
             <xg>
                <x>Klokka er fem på tre.</x>
                <xt>Kello oon viisi vaile kolme.</xt>
+            </xg>
+            <xg>
+               <x>Hun kom hjem kvart på fem.</x>
+               <xt>Hän tuli kothiin kvarttii vaila viittä.</xt>
             </xg>
          </tg>
       </mg>
@@ -2760,6 +2774,20 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Taket på huset</x>
                <xt>Huonheen katto</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">i underkant av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">vaila</t>
+            <xg>
+               <x>De løp en konkurranse som var i underkant av en halv mil lang.</x>
+               <xt>Het juosthiin vaila puolen miilan pitukaisen kilvan.</xt>
             </xg>
          </tg>
       </mg>
