@@ -5871,6 +5871,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">sađetvaattheet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om et enkelt plagg</re>
             <t pos="N">sađetvaatet</t>
          </tg>
       </mg>
@@ -18181,6 +18187,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N" stem="alusvaathee">alusvaattheet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>et enkelt klesplagg</re>
             <t pos="N" stem="alusvaathee">alusvaatet</t>
          </tg>
       </mg>
@@ -18191,7 +18203,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="alusvaathee">alusvaatet</t>
+            <t pos="N" stem="alusvaathee">alusvaattheet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;ki">
+      <lg>
+         <l pos="N">underplagg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">alusvaatet</t>
          </tg>
       </mg>
    </e>
@@ -28188,7 +28210,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">jalkaneuvo</t>
+            <t pos="N">jalkaneuvot</t>
          </tg>
       </mg>
    </e>
@@ -31339,12 +31361,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" nr="Pl">kamppheet</t>
+            <t pos="N" nr="Pl">vaattheet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" nr="Pl">vaattheet</t>
+            <t pos="N" nr="Pl">kamppheet</t>
          </tg>
       </mg>
    </e>
@@ -33766,7 +33788,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kenkäneuvo</t>
+            <t pos="N">kenkäneuvot</t>
          </tg>
       </mg>
    </e>
@@ -46615,13 +46637,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ai;ta">
       <lg>
          <l pos="N">sengklær</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">makkaukset</t>
+            <t pos="N">sänkyvaattheet</t>
          </tg>
       </mg>
    </e>
@@ -58761,27 +58784,35 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">finklær</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="pyhävathee">pyhävaatet</t>
+            <t pos="N">pyhävaattheet</t>
+            <t pos="N">hervavaattheet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">hervavaattheet</t>
+         <re>om et enkelt klesplagg</re>
+            <t pos="N" stem="pyhävathee">pyhävaatet</t>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">søndagsklær</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">pyhävaattheet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om et enkelt klesplagg</re>
             <t pos="N" stem="pyhävathee">pyhävaatet</t>
          </tg>
       </mg>
@@ -59387,6 +59418,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N" stem="päälysvaathee">päälysvaattheet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">overplagg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="N" stem="päälysvaathee">päälysvaatet</t>
          </tg>
       </mg>
@@ -59397,7 +59438,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="päälysvaathee">päälysvaatet</t>
+            <t pos="N" stem="päälysvaathee">päälysvaattheet</t>
          </tg>
       </mg>
    </e>
@@ -67134,12 +67175,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta">
       <lg>
          <l pos="N">sengeklær</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N" nr="Pl">makkaukset</t>
             <t pos="N" nr="Pl">sänkyvaattheet</t>
          </tg>
       </mg>
@@ -70998,12 +71040,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">arbeidsklær</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">työvaattheet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om et enkelt plagg</re>
             <t pos="N" stem="työvaathee">työvaatet</t>
          </tg>
       </mg>
@@ -105389,12 +105437,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">vinterklær</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">talvivaattheet</t>
+            <t pos="N">talvikamppheet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>et enkelt klesplagg</re>
+            <t pos="N">talvivaatet</t>
             <t pos="N">talvikampet</t>
          </tg>
       </mg>
