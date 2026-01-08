@@ -10775,13 +10775,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;anb">
       <lg>
          <l pos="A">simpel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">simppeli</t>
+            <t pos="A">yksinkertainen</t>
          </tg>
       </mg>
    </e>
@@ -17958,8 +17959,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">yksittäinen</t>
             <xg>
-            <x>Byggeskikken utfoldet seg på flere måter: det kunne være enkeltbygg som saunaer og bakerovner, eller boliger og kombinasjonshus.</x>
-            <xt>Rakentamistapa eđistyi usheela tavala: se saattoi olla yksittäiset pytingit niin ko saunat ja paakariuunit, tahi asumapaikat ja kombinasuunitalot.</xt>
+            <x>Et enkelt ord kan endre hele setningens betydning.</x>
+            <xt>Yksittäinen sana saattaa muuttaat koko setningin merkityksen.</xt>
             </xg>
          </tg>
       </mg>
@@ -23005,6 +23006,26 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>enkelt, beskjedent</re>
             <t pos="A">vaatimaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">forelsket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rakastunnu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">forelska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">rakastunnu</t>
          </tg>
       </mg>
    </e>
