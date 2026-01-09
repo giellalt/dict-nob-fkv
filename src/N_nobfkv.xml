@@ -37471,16 +37471,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">fem år gammel hannrein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kosatus</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">fiskeand</l>
@@ -39345,16 +39335,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kunteri</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">fire år gammel hannrein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kunteus</t>
          </tg>
       </mg>
    </e>
@@ -45987,16 +45967,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maaherra</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">seks år gammel hannrein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">maakkana</t>
          </tg>
       </mg>
    </e>
@@ -71613,16 +71583,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">to år gammel hannrein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">urakka</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="N">akkordbetaling</l>
       </lg>
       <mg>
@@ -74444,16 +74404,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vuorovesi-ala</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">tre år gammel hannrein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">vuorso</t>
          </tg>
       </mg>
    </e>
@@ -84994,13 +84944,83 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ai">
       <lg>
          <l pos="N">hannrein</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hirvas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>to år gammel</re>
+            <t pos="N">urakka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>tre år gammel</re>
+            <t pos="N">vuorso</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>fire år gammel</re>
+            <t pos="N">kunteus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>fem år gammel</re>
+            <t pos="N">kosatus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>seks år gammel</re>
+            <t pos="N">maakkana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ai">
+      <lg>
+         <l pos="N">reinsbukk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hirvas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>to år gammel</re>
+            <t pos="N">urakka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>tre år gammel</re>
+            <t pos="N">vuorso</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>fire år gammel</re>
+            <t pos="N">kunteus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>fem år gammel</re>
+            <t pos="N">kosatus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>seks år gammel</re>
+            <t pos="N">maakkana</t>
          </tg>
       </mg>
    </e>
@@ -103892,6 +103912,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb;es">
+      <lg>
+         <l pos="N">slit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>tungt arbeid, krevende oppdrag</re>
+            <t pos="N">kuluminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>slitasje</re>
+            <t pos="N">kuluminen</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="N">arealplanlegging</l>
@@ -112420,6 +112457,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ääriasento</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">akkord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">urakka</t>
          </tg>
       </mg>
    </e>
