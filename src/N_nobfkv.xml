@@ -83094,13 +83094,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;anb">
       <lg>
          <l pos="N">oppdrag</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tehtävä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>tungt arbeid, krevende oppdrag</re>
+            <t pos="N">urakka</t>
          </tg>
       </mg>
    </e>
@@ -103916,12 +103922,12 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">slit</l>
       </lg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="fkv">
          <re>tungt arbeid, krevende oppdrag</re>
             <t pos="N">urakka</t>
          </tg>
-      </mg>
+      </mg> -->
       <mg>
          <tg xml:lang="fkv">
          <re>slitasje</re>
