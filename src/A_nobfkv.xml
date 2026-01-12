@@ -3363,12 +3363,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>om smak</re>
+	         <re>om smak; bitter, skarp</re>
             <t pos="A">kirmee</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>syrlig</re>
             <t pos="A">muikkee</t>
          </tg>
       </mg>
@@ -5575,12 +5576,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>om smak</re>
             <t pos="A">karvas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>om person</re>
             <t pos="A">katkera</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om smak; sur, skarp</re>
+            <t pos="A">kirmee</t>
          </tg>
       </mg>
    </e>
@@ -11234,13 +11243,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="A">skarp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">terävä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om smak; bitter, sur</re>
+            <t pos="A">kirmee</t>
          </tg>
       </mg>
    </e>
