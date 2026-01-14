@@ -2816,7 +2816,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>klesplagg</re>
             <t pos="N">yövaattheet</t>
          </tg>
       </mg>
@@ -29911,8 +29910,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kaljamaa</t>
+            <t pos="N">kaljama</t>
             <t pos="N">kaljakka</t>
-            <t pos="N">jäätikkö</t>
+<!--            <t pos="N">jäätikkö</t> -->
          </tg>
       </mg>
    </e>
