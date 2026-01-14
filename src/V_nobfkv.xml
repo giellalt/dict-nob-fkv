@@ -15790,6 +15790,12 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>minnes, mimre</re>
+            <t pos="V">muistela</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -15800,21 +15806,26 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="muistele;muistel">muistela</t>
          </tg>
       </mg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="muistuttele;muistutel">muistutella</t>
          </tg>
-      </mg>
+      </mg> -->
    </e>
-   <e src="ta">
+   <e src="ki;ta">
       <lg>
          <l pos="V">berette</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="muistuttele;muistutel">muistutella</t>
+            <t pos="V" stem="muistele;muistel">muistela</t>
          </tg>
       </mg>
+<!--      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="muistuttele;muistutel">muistutella</t>
+         </tg>
+      </mg> -->
    </e>
    <e src="ta">
       <lg>
@@ -15848,15 +15859,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">muistela</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="V">muistutella</t>
-            <xg>
-            <x>Dere minnes bare om gamle dager.</x>
-            <xt>Tet muistutteletta tyhä vanhoi aikkoi.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
-   <e src="anb">
+   <e src="ki;anb">
       <lg>
          <l pos="V">mimre</l>
       </lg>
@@ -15864,9 +15876,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">muistutella</t>
             <xg>
-            <x>Dere mimrer bare om gamle dager.</x>
-            <xt>Tet muistutteletta tyhä vanhoi aikkoi.</xt>
+            <x>Han mimrer om gamle dager.</x>
+            <xt>Hän muistelee vanhoi aikkoi.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">muistutella</t>
          </tg>
       </mg>
    </e>
