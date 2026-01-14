@@ -5852,12 +5852,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="es;ta">
       <lg>
          <l pos="Adv">helvetes</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">helvetisti</t>
             <t pos="Adv">pirusti</t>
          </tg>
       </mg>
@@ -7651,26 +7652,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="Adv">her og der</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">tässä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">tästä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">vähän</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai">
       <lg>
          <l pos="Adv">herfra</l>
@@ -8240,7 +8221,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">bli viet</l>
+         <l pos="Adv">viet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8519,26 +8500,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-<!--   <e src="ai;ta">
+<e src="es">
       <lg>
-         <l pos="Adv">litt av hvert</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">vähän mitäki</t>
-         </tg>
-      </mg>
-   </e> -->
-<!--   <e src="ai;ta">
-      <lg>
-         <l pos="Adv">mange steder</l>
+         <l pos="Adv">her og der</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">vähän missäki</t>
          </tg>
       </mg>
-   </e> -->
+   </e>
    <e src="ai;ta;es">
       <lg>
          <l pos="Adv">med makt</l>
@@ -11956,16 +11927,6 @@ For the full license text, see the link above.</lic>
             <x>Jeg har noen penger i behold.</x>
             <xt>Minula oon rahhaa tallessa.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="Adv">helvetes</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">helvetisti</t>
          </tg>
       </mg>
    </e>

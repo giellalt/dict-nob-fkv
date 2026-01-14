@@ -14677,16 +14677,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">liste opp</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">lujetella</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="Phrase">ramse opp</l>
       </lg>
       <mg>
@@ -17688,11 +17678,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="V">observere</l>
+         <l pos="V">iaktta</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">iaktta</t>
+            <t pos="V">tarkastella</t>
          </tg>
       </mg>
    </e>
@@ -19295,16 +19285,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Phrase">piđätellä ittensä</t>
             <t pos="Phrase">hillitä ittensä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="Phrase">holde tilbake</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Phrase">piđättäät</t>
          </tg>
       </mg>
    </e>
@@ -25382,16 +25362,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Phrase">bli verre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">värretä</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="V">trøtne</l>
@@ -26722,6 +26692,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">listata</t>
+            <t pos="V">lujetella</t>
          </tg>
       </mg>
    </e>
@@ -31104,17 +31075,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">digitaliseerata</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="Phrase">bli assimilert</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">sullauttuut</t>
-            <t pos="V">assimileeraanttuut</t>
          </tg>
       </mg>
    </e>
