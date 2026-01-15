@@ -58443,18 +58443,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;bildetema">
       <lg>
          <l pos="N">rør</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">putki</t>
+            <t pos="N">rööri</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">rööri</t>
+         <re>telefonrør</re>
+            <t pos="N">luuri</t>
          </tg>
       </mg>
    </e>
