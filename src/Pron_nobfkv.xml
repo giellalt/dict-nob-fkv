@@ -38,7 +38,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj;es">
+<!--   <e src="mj;es;ta">
       <lg>
          <l pos="Pron">noen</l>
       </lg>
@@ -57,7 +57,12 @@ For the full license text, see the link above.</lic>
             <t pos="Pron">muutampi</t>
          </tg>
       </mg>
-   </e>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pron">moni</t>
+         </tg>
+      </mg>
+   </e> -->
    <e src="mj">
       <lg>
          <l pos="Pron">hel</l>
@@ -192,6 +197,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Pron">itte kukin</t>
+            <t pos="Pron">itte kukanen</t>
          </tg>
       </mg>
       <mg>

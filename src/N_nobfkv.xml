@@ -76322,6 +76322,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" type="Prop">Pohjola</t>
+            <t pos="N" type="Prop">Pohjaismaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N">De nordiske landene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" type="Prop">Pohjola</t>
+            <t pos="N" type="Prop">Pohjaismaat</t>
          </tg>
       </mg>
    </e>
@@ -77054,7 +77066,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Kaaresuanto</t>
+            <t pos="Prop">Kaaresuanto</t>
          </tg>
       </mg>
    </e>
@@ -77064,13 +77076,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Koutokeino</t>
+            <t pos="Prop">Koutokeino</t>
          </tg>
       </mg>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">Kautokeino-væring</l>
+         <l pos="N">kautokeinoværing</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -77084,7 +77096,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Kirkkoniemi</t>
+            <t pos="Prop">Kirkkoniemi</t>
          </tg>
       </mg>
    </e>
@@ -77094,7 +77106,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Naavuono</t>
+            <t pos="Prop">Naavuono</t>
          </tg>
       </mg>
    </e>
@@ -77104,7 +77116,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Kööpenhamina</t>
+            <t pos="Prop">Kööpenhamina</t>
          </tg>
       </mg>
    </e>
@@ -77114,7 +77126,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Yykeä</t>
+            <t pos="Prop">Yykeä</t>
          </tg>
       </mg>
    </e>
@@ -77124,7 +77136,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Tukholma</t>
+            <t pos="Prop">Tukholma</t>
          </tg>
       </mg>
    </e>
@@ -77144,7 +77156,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Tornio</t>
+            <t pos="Prop">Tornio</t>
          </tg>
       </mg>
    </e>
@@ -77154,7 +77166,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Tromssa</t>
+            <t pos="Prop">Tromssa</t>
          </tg>
       </mg>
    </e>
@@ -77164,7 +77176,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Luulaja</t>
+            <t pos="Prop">Luulaja</t>
          </tg>
       </mg>
    </e>
@@ -77174,7 +77186,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Pohjais-Tromssa</t>
+            <t pos="Prop">Pohjais-Tromssa</t>
          </tg>
       </mg>
    </e>
@@ -77184,7 +77196,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Näätämö</t>
+            <t pos="Prop">Näätämö</t>
          </tg>
       </mg>
    </e>
@@ -77194,7 +77206,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Lufuutti</t>
+            <t pos="Prop">Lufuutti</t>
          </tg>
       </mg>
    </e>
@@ -77204,7 +77216,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Näätämönjoki</t>
+            <t pos="Prop">Näätämönjoki</t>
          </tg>
       </mg>
    </e>
@@ -77214,7 +77226,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">Etelä-Suomi</t>
+            <t pos="Prop">Etelä-Suomi</t>
          </tg>
       </mg>
    </e>
