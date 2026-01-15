@@ -3571,6 +3571,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">elsker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rakastaaja</t>
+         </tg>
+      </mg>
+   </e>
      <e src="anb">
       <lg>
          <l pos="N">offiser</l>
@@ -63217,13 +63227,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;anb">
       <lg>
          <l pos="N">budbringer</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sanansaattaaja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tieđontuoja</t>
          </tg>
       </mg>
    </e>
@@ -73062,6 +73077,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="venheensijja">venheensija</t>
+            <t pos="N">venetsija</t>
          </tg>
       </mg>
    </e>
@@ -80786,6 +80802,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
          <re>det å omgås, samkvem</re>
+            <t pos="N">kansakäyminen</t>
+            <t pos="N">kansakäiminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">samkvem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kansakäyminen</t>
+            <t pos="N">kansakäiminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">samhandling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="N">kansakäyminen</t>
             <t pos="N">kansakäiminen</t>
          </tg>
@@ -108897,6 +108935,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki;es">
+      <lg>
+         <l pos="N">seer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>synsk person</re>
+            <t pos="N">ennustaaja</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+         <re>en som ser på f.eks. tv</re>
+            <t pos="N">kattooja</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es;anb">
       <lg>
          <l pos="N">spåmann</l>
@@ -110917,11 +110972,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">lummakello</l>
+         <l pos="N">lommeur</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">lommeur</t>
+            <t pos="N">lummakello</t>
          </tg>
       </mg>
    </e>
@@ -111372,6 +111427,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="N">spesialgeminasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">spesiaaligeminasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="Phrase">indre lokalkasus</l>
       </lg>
       <mg>
@@ -111710,6 +111775,16 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="N">geminasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">geminasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">geminering</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -112400,6 +112475,106 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">urakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">drapssted</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tappopaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">drømmer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">unistelliija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">orgelspill</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">urvunsoitto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">forsiktighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">varovaisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">brudefølge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hääväki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">bryllupsklokker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hääkellot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">allmenngeminasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ylheisgeminasuuni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">ufravikelighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">välttämättömyys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">prefiks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">prefiksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hengebru</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">henkusilta</t>
          </tg>
       </mg>
    </e>
