@@ -5517,6 +5517,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	     <re>formelt</re>
             <t pos="V" stem="tahđo">tahtoot</t>
         <xg>
          <x>Vil du ha denne mannen til din ektefelle?</x>
@@ -5528,9 +5529,31 @@ For the full license text, see the link above.</lic>
          </xg>
          </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">aikkoot</t>
+          <xg>
+         <x>Vil du ha kaffe?</x>
+         <xt>Aijotko kaffii?</xt>
+         </xg>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">huoliit</t>
+          <xg>
+         <x>Vil du ikke ta med hanskene?</x>
+         <xt>Etkö huoli ottaat myötä hanskoi?</xt>
+         </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="viitti">viittiit</t>
+          <xg>
+         <x>Jenta ville ikke gå ut i kulden.</x>
+         <xt>Tytär ei viittiny lähtheet ulos pakkasheen.</xt>
+         </xg>
          </tg>
       </mg>
    </e>
