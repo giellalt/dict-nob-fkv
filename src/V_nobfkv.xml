@@ -2005,6 +2005,18 @@ For the full license text, see the link above.</lic>
                <x>Hva ønsker du deg til jul av julenissen?</x>
                <xt>Mitä sie toivot jouluskenkiksi joulunissiltä?</xt>
             </xg>
+              <xg>
+               <x>Jeg skulle ønske det ble fred på jord.</x>
+               <xt>Mie toivoisin ette mailmale tulis rauhaa.</xt>
+            </xg>
+              <xg>
+               <x>De ønsket oss alt godt.</x>
+               <xt>Het toivothiin meile kaikkee hyvvää.</xt>
+            </xg>
+               <xg>
+               <x>Bestemor er en ønsket gjest.</x>
+               <xt>Ämmi oon toivottu vieras.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -23106,6 +23118,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">toivoot</t>
            <t pos="V">toivoskella</t>
+             <xg>
+               <x>Vi håper det beste.</x>
+               <xt>Met toivoma parasta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
