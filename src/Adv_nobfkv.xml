@@ -2207,6 +2207,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">halki</t>
             <t pos="Adv">poikki</t>
+            <xg>
+               <x>Den kan brekke.</x>
+               <xt>Se saattaa mennä poikki.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2217,6 +2221,27 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">halki</t>
+            <t pos="Adv">poikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Adv">tvers</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">poikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Phrase">tvers over</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">poikki</t>
          </tg>
       </mg>
    </e>
@@ -5312,7 +5337,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+<!--   <e src="ai">
       <lg>
          <l pos="Adv">et annet sted</l>
       </lg>
@@ -5321,7 +5346,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">poikki</t>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e src="ta">
       <lg>
          <l pos="Adv">medstrøms</l>
