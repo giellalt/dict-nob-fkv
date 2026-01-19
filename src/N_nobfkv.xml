@@ -15873,13 +15873,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk;ai">
+   <e src="mk;anb;ai">
       <lg>
          <l pos="N">frukt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hetelmä</t>
+            <t pos="N">heđelmä</t>
             <t pos="N">frukti</t>
          </tg>
       </mg>
@@ -39322,13 +39323,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="N">kunde</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kunteri</t>
+               <t pos="N">kunderi</t>
          </tg>
       </mg>
    </e>
@@ -48976,7 +48978,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="N">morder</l>
       </lg>
@@ -48985,14 +48987,43 @@ For the full license text, see the link above.</lic>
             <t pos="N">murhaaja</t>
          </tg>
       </mg>
+        <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tappaaja</t>
+         </tg>
+      </mg>
    </e>
-   <e src="ai">
+   <e src="ai;anb">
       <lg>
          <l pos="N">drapsmann</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">murhamies</t>
+             <t pos="N">murhaaja</t>
+             <t pos="N">tappaaja</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">drapsperson</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+             <t pos="N">murhaaja</t>
+             <t pos="N">tappaaja</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="anb">
+      <lg>
+         <l pos="N">drap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+             <t pos="N">murha</t>
+             <t pos="N">tappo</t>
          </tg>
       </mg>
    </e>
@@ -54157,13 +54188,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb;ki">
       <lg>
          <l pos="N">bataljon</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pataljuuna</t>
+             <t pos="N">bataljooni</t>
+              <t pos="N">bataljuuni</t>
          </tg>
       </mg>
    </e>
@@ -54180,6 +54213,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">penkkä</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">tap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tappo</t>
          </tg>
       </mg>
    </e>
@@ -65846,13 +65889,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="N">statsminister</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">staatsministeri</t>
+               <t pos="N">pääministeri</t>
          </tg>
       </mg>
    </e>
@@ -90529,13 +90573,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">nederlag</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tappio</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tappo</t>
          </tg>
       </mg>
    </e>
