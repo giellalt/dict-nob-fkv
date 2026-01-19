@@ -18245,6 +18245,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">nattur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yötuuri</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="Phrase">yrkesfaglig linje</l>
@@ -18633,6 +18643,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">aprilli</t>
+            <t pos="N">apriili</t>
             <t pos="N">aprillikuu</t>
          </tg>
       </mg>
@@ -39859,6 +39870,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">østfront</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">itäfronti</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N">ravine</l>
@@ -39914,13 +39935,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="N">kusk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kuski</t>
+             <t pos="N">kuska</t>
          </tg>
       </mg>
    </e>
@@ -71374,7 +71396,7 @@ For the full license text, see the link above.</lic>
    </e>
       <e src="anb">
       <lg>
-         <l pos="N">torenbyge</l>
+         <l pos="N">tordenbyge</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -71382,13 +71404,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+     <e src="anb">
       <lg>
-         <l pos="Phrase">sterk tåke</l>
+         <l pos="N">nording</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">ukkura</t>
+            <t pos="N">pohjalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">båtstø</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">venetvalkama</t>
          </tg>
       </mg>
    </e>
@@ -112522,6 +112554,16 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
         <e src="anb">
+      <lg>
+         <l pos="N">nattarbeid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yötyö</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="anb">
       <lg>
          <l pos="N">nattarbeid</l>
       </lg>
