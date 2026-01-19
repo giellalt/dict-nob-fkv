@@ -50613,6 +50613,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">heksekuns</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">noitakonsti</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">trollhistorie</l>
@@ -69592,12 +69602,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ki;ai">
       <lg>
          <l pos="N">heks</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">noita</t>
             <t pos="N">heksa</t>
          </tg>
       </mg>
