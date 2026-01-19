@@ -63148,6 +63148,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tyskäläinen</t>
+              <t pos="N">tyskälainen</t>
             <t pos="N">tuiskalainen</t>
             <t pos="N">saksalainen</t>
             <t pos="N">saksmani</t>
@@ -65768,13 +65769,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;anb">
       <lg>
          <l pos="N">spion</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">spiuni</t>
+              <t pos="N">spiooni</t>
          </tg>
       </mg>
    </e>
@@ -71329,13 +71331,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta;kl;anb">
       <lg>
          <l pos="N">torden</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="ukkose;ukkos">ukkonen</t>
+              <t pos="N" stem="ukkoise;ukkois">ukkoinen</t>
          </tg>
       </mg>
    </e>
