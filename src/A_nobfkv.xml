@@ -4120,12 +4120,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">histoorialinen</t>
+            <t pos="A">histuurialinen</t>
             <t pos="A">historialinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">histoorinen</t>
+            <t pos="A">histoorillinen</t>
          </tg>
       </mg>
    </e>
@@ -18546,7 +18544,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">esihistorialinen</t>
+            <t pos="A">esihistoorialinen</t>
+            <t pos="A">esihistuurialinen</t>
          </tg>
       </mg>
    </e>
@@ -19562,7 +19561,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">kulttuurihistorialinen</t>
+            <t pos="A">kulttuurihistoorialinen</t>
+            <t pos="A">kulttuurihistuurialinen</t>
          </tg>
       </mg>
    </e>
@@ -22803,6 +22803,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kielihistoorialinen</t>
+            <t pos="A">kielihistuurialinen</t>
          </tg>
       </mg>
    </e>
