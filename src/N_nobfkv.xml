@@ -71407,16 +71407,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="anb">
-      <lg>
-         <l pos="N">båtstø</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">venetvalkama</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta">
       <lg>
          <l pos="N">ytterdør</l>
@@ -72314,13 +72304,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="N">båtstø</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">valkama</t>
+               <t pos="N">venetvalkama</t>
          </tg>
       </mg>
       <mg>
