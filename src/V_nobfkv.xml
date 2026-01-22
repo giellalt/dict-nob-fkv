@@ -9487,7 +9487,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="kassuuta;avle">kassuuttaat</t>
+            <t pos="V">kassuuttaat</t>
+            <t pos="V">kasuttaat</t>
          </tg>
       </mg>
    </e>
@@ -24797,8 +24798,25 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">kasuttaat</t>
+            <t pos="V">kassuuttaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Phrase">vettäät ylös</t>
             <t pos="V" stem="veđä;vetä">vettäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;es">
+      <lg>
+         <l pos="V">fostre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kasuttaat</t>
+            <t pos="V">kassuuttaat</t>
          </tg>
       </mg>
    </e>
