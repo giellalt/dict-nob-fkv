@@ -2358,6 +2358,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <t pos="N">puolakräämi</t>
          <t pos="N">puolakreemi</t>
          </tg>
       </mg>
@@ -2368,6 +2369,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <t pos="N">hillakräämi</t>
          <t pos="N">hillakreemi</t>
          </tg>
       </mg>
@@ -7761,6 +7763,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hammaskräämi</t>
+            <t pos="N">hammaskreemi</t>
          </tg>
       </mg>
    </e>
@@ -9565,6 +9568,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">jääkräämi</t>
             <t pos="N">jääkreemi</t>
          </tg>
       </mg>
@@ -28631,15 +28635,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">joulu</t>
+            <t pos="N" nr="Pl">joulut</t>
             <xg>
                <x>God jul!</x>
                <xt>Hyvvii joului!</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" nr="Pl">joulut</t>
+            <xg>
+               <x>God jul!</x>
+               <xt>Hyvvää jouluu!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -28699,17 +28703,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">jouluskenkki</t>
             <t pos="N" stem="joulukenki">joulukenkki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">joululahja</t>
          </tg>
       </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">julepresang</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">jouluskenkki</t>
+            <t pos="N" stem="joulukenki">joulukenkki</t>
+            <t pos="N">joululahja</t>
          </tg>
       </mg>
    </e>
@@ -33725,10 +33733,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kengänvoiđet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">kenkävoiđet</t>
          </tg>
       </mg>
@@ -33739,12 +33743,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="kenki">kenkki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="skenki">skenkki</t>
+            <t pos="N" stem="kenki">kenkki</t>
+            <t pos="N">lahja</t>
          </tg>
       </mg>
    </e>
@@ -74381,6 +74382,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>av fløte</re>
             <t pos="N">kräämi</t>
+            <t pos="N">kreemi</t>
          </tg>
       </mg>
    </e>
