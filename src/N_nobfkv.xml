@@ -54982,10 +54982,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">peruskoulu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">pohjakoulu</t>
          </tg>
       </mg>
@@ -54996,12 +54992,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="perrä">perä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="pörrä">pörä</t>
+            <t pos="N" stem="perrä">pörä</t>
+            <t pos="N" stem="pörrä">perä</t>
          </tg>
       </mg>
    </e>
@@ -55011,12 +55003,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="perrä">perä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="pörrä">pörä</t>
+            <t pos="N" stem="perrä">pörä</t>
+            <t pos="N" stem="pörrä">perä</t>
          </tg>
       </mg>
    </e>
@@ -55026,12 +55014,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="peräsuol">peräsuoli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="pöräsuol">pöräsuoli</t>
+            <t pos="N" stem="peräsuol">peräsuoli</t>
          </tg>
       </mg>
    </e>
@@ -88402,7 +88386,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">tilrådning</l>
+         <l pos="N">tilråding</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
