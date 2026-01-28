@@ -10179,16 +10179,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="Phrase">bli ferdig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kerkkii;kerin">keritä</t>
-            <xg>
-            <x>Da hun ble ferdig med å spise og drikke så hun på TV og leste avisa.</x>
-            <xt>Ko hän kerkis syömästä ja juomasta, hän kattoi vähäsen TV:tä ja luki aviisin.</xt>
+         <xg>
+            <x>Da hun ble ferdig med å spise og drikke så hun litt på TV.</x>
+            <xt>Ko hän kerkis syömästä ja juomasta, hän kattoi vähäsen TV:tä.</xt>
+	      </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">valmistuut</t>
+         <xg>
+            <x>Da vi ble ferdige med arbeidet dro vi til byen.</x>
+            <xt>Ko met valmistuima työstä, met lähđimä kaupunkhiin.</xt>
+	      </xg>
+         <xg>
+            <x>Dere må komme inn når maten er ferdig!</x>
+            <xt>Tet häyđyttä tulla sisäle ko ruoka valmistuu!</xt>
 	      </xg>
          </tg>
       </mg>
@@ -24265,6 +24278,32 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="IV">valmistuut</t>
+            <xg>
+               <x>Naturen forbereder seg på kaldere tider.</x>
+               <xt>Luonto oon valmistumassa kylemphiin aikhoin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Phrase">gjøre seg klar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="IV">valmistuut</t>
+            <xg>
+               <x>Jos sie halluut sen, niin valmistu taistelmhaan sen eđestä.</x>
+               <xt>Hvis du vil ha det så gjør deg klar til å kjempe for det.</xt>
+            </xg>
+            <xg>
+               <x>Vi gjør oss klar til dra.</x>
+               <xt>Met valmistumma lähtemhään.</xt>
+            </xg>
+            <xg>
+               <x>De gjør seg klar til en lang hjemreise.</x>
+               <xt>Het valmistumma pitkäle kotimatkale.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
