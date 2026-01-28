@@ -4079,8 +4079,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">kokoinen</t>
             <xg>
-               <x>fem øre stor, stor som en femøring</x>
-               <xt>viiđen pennin kokoinen</xt>
+               <x>Den er like stor som en femøring.</x>
+               <xt>Se oon viiđen pennin kokoinen.</xt>
             </xg>
          </tg>
       </mg>
@@ -12915,10 +12915,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="anb;ai;ta">
       <lg>
          <l pos="A">buet</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kaareva</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">väärä</t>
@@ -23201,6 +23206,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">yöhiljainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">storvokst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">isokokoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">sommerlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kesäinen</t>
          </tg>
       </mg>
    </e>
