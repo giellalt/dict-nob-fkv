@@ -53013,35 +53013,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta;ki">
       <lg>
-         <l pos="N">press</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">paino</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="painostukse">painostus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">puristus</t>
-            <xg>
-            <x>Men den sørsamiske reindriften kom langt tidligere under press, først og fremst som resultat av en sterk befolkningsøkning i bondebygdene.</x>
-            <xt>Mutta eteläsaamelainen poronhoito joutui jo paljon aijemin puristukshiin, ennen kaikkee ko väki lissääntyi kovasti puunakylissä.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">prässi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
          <l pos="N">trykk</l>
       </lg>
       <mg>
@@ -53062,6 +53033,47 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
+         <l pos="N">press</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">paino</t>
+            <xg>
+               <x>Trykket er på første stavelse.</x>
+               <xt>Paino oon ensimäiselä tavula.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="painostukse">painostus</t>
+            <xg>
+               <x>Minoritetsspråk er under press.</x>
+               <xt>Minoriteettikielet oon painostuksen alla.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puristus</t>
+            <xg>
+               <x>De kom under press.</x>
+               <xt>Het jouđuthiin puristukshiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">prässi</t>
+            <xg>
+               <x>Mange kjenner på presset fra samfunnet om å lykkes i livet.</x>
+               <xt>Monet kokkeevat yhtheiskunnan prässin onnistuut elämässä.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
          <l pos="N">hevelse</l>
       </lg>
       <mg>
@@ -53077,6 +53089,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">paiskhaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">presse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">prässi</t>
          </tg>
       </mg>
    </e>
@@ -68986,13 +69008,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="es">
+      <e src="es;ki">
       <lg>
          <l pos="N">klem</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hallaus</t>
+            <xg>
+            <x>Gi meg en klem!</x>
+            <xt>Anna minule hallauksen!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puristus</t>
+            <xg>
+            <x>Firmaet havnet i en økonomisk klemme.</x>
+            <xt>Firma joutui ökonoomishiin puristukshiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
