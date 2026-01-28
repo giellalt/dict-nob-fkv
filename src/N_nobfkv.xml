@@ -43150,13 +43150,35 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="anb">
+      <lg>
+         <l pos="N">kutt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>skjæring</re>
+            <t pos="N">leikkaus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>snitt</re>
+            <t pos="N">viilto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;anb">
       <lg>
          <l pos="N">snitt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="leikkaukse">leikkaus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">viilto</t>
          </tg>
       </mg>
    </e>
@@ -73662,7 +73684,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;anb">
       <lg>
          <l pos="N">ras</l>
       </lg>
@@ -73670,6 +73692,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">vieremä</t>
             <t pos="N">vierimä</t>
+            <t pos="N">vyöry</t>
          </tg>
       </mg>
       <mg>
@@ -73689,7 +73712,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;es">
+   <e src="ta;es;anb">
       <lg>
          <l pos="N">skred</l>
       </lg>
@@ -73697,6 +73720,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">vierimä</t>
             <t pos="N">vieremä</t>
+            <t pos="N">vyöry</t>
          </tg>
       </mg>
       <mg>
@@ -112771,6 +112795,76 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">syyspuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">enehersker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">yksinhallittiija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">hersker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hallittiija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">vinnertropp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">voittaajatroppa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">smøreske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">voirassii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">smørboks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">voirassii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">strømning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">virttaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">vennegjeng</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kaveritokka</t>
          </tg>
       </mg>
    </e>
