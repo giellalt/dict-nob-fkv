@@ -9927,14 +9927,24 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>være ødelagt</re>
             <t pos="Adv">pilala</t>
+            <t pos="Adv">pilassa</t>
+            <xg>
+               <x>Uten kaffe er hele dagen min ødelagt.</x>
+               <xt>Ilman kaffii oon koko minun päivä pilassa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>bli ødelagt, bli dårlig</re>
-            <t pos="Phrase">mennä pilale</t>
-            <t pos="Phrase">mennä pilhaan</t>
+         <re>bli ødelagt</re>
+            <t pos="Adv">pilale</t>
+            <t pos="Adv">pilhaan</t>
+            <xg>
+               <x>Uten kaffe blir hele dagen min ødelagt.</x>
+               <xt>Ilman kaffii mennee koko minun päivä pilhaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
