@@ -6072,7 +6072,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="Adv">av</l>
       </lg>
@@ -6082,6 +6082,15 @@ For the full license text, see the link above.</lic>
             <xg>
 	            <x>Fiskestanga gikk av.</x>
 	            <xt>Onki meni poikki.</xt>
+	        </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">päältä</t>
+            <xg>
+	            <x>Kan du slå på lyset?</x>
+	            <xt>Panisitko valot pois päältä?</xt>
 	        </xg>
          </tg>
       </mg>
@@ -6315,7 +6324,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">päälä</t>
             <t pos="Adv">pääle</t>
+            <xg>
+               <x>Tv-en er på.</x>
+               <xt>TV oon päälä.</xt>
+            </xg>
+            <xg>
+               <x>Kan du slå på lyset?</x>
+               <xt>Panisitko valot pääle?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
