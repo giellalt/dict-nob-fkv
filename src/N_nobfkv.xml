@@ -36733,15 +36733,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">kunst</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">taiđet</t>
-            <t pos="N">konsti</t>
+            <t pos="N">taito</t>
             <t pos="N">kunsti</t>
+            <t pos="N">kynsti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>som forledd i kunstige sammensetninger</re>
+            <t pos="N">konsti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>knep, triks</re>
+            <t pos="N">konsti</t>
+            <t pos="N">temppu</t>
          </tg>
       </mg>
    </e>
@@ -40359,13 +40373,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">evne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>egenskap til å utføre noe</re>
             <t pos="N" stem="kyvy;kykky">kyky</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>medfødt anlegg</re>
+            <t pos="N">taito</t>
          </tg>
       </mg>
    </e>
@@ -50365,6 +50386,12 @@ For the full license text, see the link above.</lic>
                <x>Jeg har råd til det.</x>
                <xt>Mulla oon vara siihen.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>botemiddel</re>
+            <t pos="N" stem="varra">konsti</t>
          </tg>
       </mg>
    </e>
@@ -67534,6 +67561,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">dyktighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="taiđo;taitto">taito</t>
+         </tg>
+      </mg>
+   </e>
    <e src="yr">
       <lg>
          <l pos="N">brenninger</l>
@@ -82856,13 +82893,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">middel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">konsti</t>
             <t pos="N">välinet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om økonomiske midler</re>
+            <t pos="N">vara</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">virkemiddel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">konsti</t>
          </tg>
       </mg>
    </e>
@@ -112664,13 +112718,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="anb">
+   <e src="anb;es">
       <lg>
          <l pos="N">forsiktighet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">varovaisuus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vara</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aktsomhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vara</t>
          </tg>
       </mg>
    </e>
