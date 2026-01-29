@@ -484,11 +484,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">oikhein</t>
+            <xg>
+               <x>Du svarte rett på alle spørsmålene.</x>
+               <xt>Sie vastasit oikhein kaikkhiin kysymykshiin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">suorhaan</t>
+            <xg>
+               <x>Han gikk rett hjem etter skolen.</x>
+               <xt>Hän meni suorhaan kothiin koulun jälkeen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -586,6 +594,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">oikhein</t>
+            <xg>
+               <x>Du svarte riktig på alle spørsmålene.</x>
+               <xt>Sie vastasit oikhein kaikkhiin kysymykshiin.</xt>
+            </xg>
+            <xg>
+               <x>Tet oletta oikhein kaunhiit tääpänä!</x>
+               <xt>Dere er riktig vakre i dag!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2883,6 +2899,11 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">melkhein</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kohta</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -3376,13 +3397,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">lengre bort</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kauvemaksi</t>
+            <t pos="Adv">kaukemaksi</t>
          </tg>
       </mg>
       <mg>
@@ -3396,21 +3418,29 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>der borte fra</re>
             <t pos="Adv">tuokemaksi</t>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">lengre borte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kauvempanna</t>
+            <t pos="Adv">kaukempanna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">sikempännä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>der bortefra</re>
             <t pos="Adv">tuokempanna</t>
          </tg>
       </mg>
@@ -3422,6 +3452,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">kauvemppaa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sikemppää</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>der borte fra</re>
+            <t pos="Adv">tuokemppaa</t>
          </tg>
       </mg>
    </e>
@@ -4625,16 +4666,29 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>bevegelse til</re>
             <t pos="Adv">likemäs</t>
             <t pos="Adv">likemäksi</t>
+            <t pos="Adv">täkemäksi</t>
             <xg>
                <x>Kom nærmere!</x>
                <xt>Tule likemäs!</xt>
             </xg>
             <xg>
+               <x>De flytter nærmere hit til Tromsø.</x>
+               <xt>Het siirttyyvät täkemäksi Tromssaa.</xt>
+            </xg>
+            <xg>
                <x>Det var sikkert nærmere tredve år siden.</x>
                <xt>Se oli varmasti likemäs kymmenen vuotta aikkaa.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>bevegelse fra</re>
+            <t pos="Adv">likemppää</t>
+            <t pos="Adv">täkemppää</t>
          </tg>
       </mg>
       <mg>
@@ -6791,6 +6845,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>der borte fra</re>
             <t pos="Adv">tuolta</t>
          </tg>
       </mg>
