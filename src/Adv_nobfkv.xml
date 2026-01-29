@@ -2065,6 +2065,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">heretter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">jatkossa</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="Adv">framover</l>
@@ -2072,18 +2082,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">etheen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">etheenpäin</t>
             <t pos="Adv">etheenkäsin</t>
          </tg>
       </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="Adv">fremover</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>i framtiden</re>
-            <t pos="Adv">jatkossa</t>
+            <t pos="Adv">etheen</t>
+            <t pos="Adv">etheenpäin</t>
+            <t pos="Adv">etheenkäsin</t>
          </tg>
       </mg>
    </e>
