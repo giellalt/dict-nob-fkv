@@ -661,7 +661,8 @@ For the full license text, see the link above.</lic>
                <xt>Museumi oon kahđen kilometrin päästä.</xt>
             </xg>
                 </tg>
-      </mg>             <mg>
+      </mg>         
+          <mg>
          <tg xml:lang="fkv">
 	          <re>om sted</re>
 	          <t pos="Po">kautta</t>
@@ -670,6 +671,16 @@ For the full license text, see the link above.</lic>
                <xt>Mie reissaan Oslon kautta.</xt>
             </xg>
                 </tg>
+      </mg>
+          <mg>
+         <tg xml:lang="fkv">
+	          <re>ofte om krangling</re>
+	          <t pos="Po">päältä</t>
+            <xg>
+               <x>Krangl nå ikke om den fjernkontrollen.</x>
+               <xt>Älkkää nyt riiđelkkää sen kauko-ohjaajan päältä.</xt>
+            </xg>
+         </tg>
       </mg>
    </e>
    <e src="ki;mk">
@@ -768,7 +779,20 @@ For the full license text, see the link above.</lic>
       </mg>
          <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">eđestä</t>
+            <t pos="Po">etheen</t>
+            <xg>
+               <x>De jobber for å bevare det kvenske språket.</x>
+               <xt>Het työteleevät kväänin kielen säilyttämisen etheen.</xt>
+            </xg>
+            <xg>
+               <x>De jobber for at det skal bli flere kvenske studenter.</x>
+               <xt>Het työteleevät sen etheen ette saatais enämen kväänin studenttiita..</xt>
+            </xg>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">etheen</t>
             <xg>
                <x>De flykter for livet.</x>
                <xt>Het pakeneevat hengen eđestä.</xt>
@@ -776,6 +800,15 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Hun fikk æren for at hun hadde skapt grunnlaget for dette prosjektet.</x>
                <xt>Hän sai kunnian sen eđestä ette hän oli luonu pohjan tätä prosektii varten.</xt>
+            </xg>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">päältä</t>
+            <xg>
+               <x>De kjempa hardt for det.</x>
+               <xt>Het taistelthiin kovasti sen päältä.</xt>
             </xg>
          </tg>
       </mg>
@@ -2553,13 +2586,22 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-                 <mg>
+      <mg>
          <tg xml:lang="fkv">
             <re>i forbindelse med oppslagsverk og andre skriftlige hjelpemidler</re>
             <t pos="suff">-Vn</t>
             <xg>
                <x>Kart over Norge.</x>
                <xt>Norjan kartta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Po">päältä</t>
+            <xg>
+               <x>Man trenger ikke å skjemmes over sin egen dialekt.</x>
+               <xt>Ei ihminen tarvitte hävetä oman dialektin päältä.</xt>
             </xg>
          </tg>
       </mg>
