@@ -6820,16 +6820,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="Phrase">ville ha</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">huoliit</t>
+              <t pos="V">haluta</t>
+                <t pos="V">tahtoot</t>
                <xg>
                <x>Barnet ville ikke ha den.</x>
                <xt>Lapsi ei huolinu sitä.</xt>
+            </xg>
+              <xg>
+               <x>Jeg vil ha hunden!</x>
+               <xt>Mie halluun koiran!</xt>
+            </xg>
+              <xg>
+               <x>Han vil ha en annen vinkling på denne rettsssaken.</x>
+               <xt>Hän tahtoo toisen vinkkelin tähän oikkeuđenkäynthiin.</xt>
             </xg>
          </tg>
       </mg>
