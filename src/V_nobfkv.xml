@@ -4576,48 +4576,77 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="anb">
+      <lg>
+         <l pos="Phrase">gå fra hverandre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">erota</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Phrase">skille lag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">erota</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;anb">
       <lg>
          <l pos="V">skilles</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="erkkaanu;erkkaantu">erkkaanttuut</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="Phrase">skille seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="erkkaanu;erkkaantu">erkkaanttuut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">erkkainttuut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">erota</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;anb">
+      <lg>
+         <l pos="Phrase">skille seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">erkkaanttuut</t>
+            <t pos="V">erkkainttuut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">erota</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">eroittuut</t>
             <t pos="V">erottuut</t>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="Phrase">bli skilt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="erkkaanu;erkkaantu">erkkaanttuut</t>
+            <t pos="V">erkkainttuut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">erkkainttuut</t>
+            <t pos="V">erota</t>
          </tg>
       </mg>
    </e>
@@ -4627,6 +4656,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">eroittuut</t>
             <t pos="V">erottuut</t>
          </tg>
       </mg>
@@ -4637,12 +4667,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">eroittuut</t>
+            <t pos="V">näkkyyt</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">näkkyyt</t>
+            <t pos="V">eroittuut</t>
+            <t pos="V">erottuut</t>
          </tg>
       </mg>
    </e>
@@ -7647,12 +7678,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="V">opplyse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>gi lys, belyse</re>
+            <t pos="V">valaista</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gjøre opplyst, utdanne</re>
+            <t pos="V">valistaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gi informasjon, meddele</re>
             <t pos="V" stem="ilmoita">ilmoittaat</t>
          </tg>
       </mg>
@@ -7664,6 +7708,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="ilmoita">ilmoittaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">belyse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">valaista</t>
          </tg>
       </mg>
    </e>
@@ -9963,6 +10017,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">pykätä</t>
+            <t pos="V">rakenttaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>tømre</re>
             <t pos="V">kehätä</t>
             <xg>
             <x>Vi bygde tømmerhus.</x>
@@ -9972,16 +10033,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">pykätä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">rakenttaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+         <re>gå ut fra</re>
             <t pos="V">rustata</t>
          </tg>
       </mg>
@@ -24362,6 +24414,33 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="TV">varustella</t>
+            <xg>
+               <x>De forbereder seg på krig.</x>
+               <xt>Het varustelleevat itteensä sothaan.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Phrase">ruste seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">varustella</t>
+            <xg>
+               <x>De ruster seg på krig.</x>
+               <xt>Het varustelleevat itteensä sothaan.</xt>
+            </xg>
+            <xg>
+               <x>De ruster seg til vinteren ved å kjøpe nye vinterklær.</x>
+               <xt>Het varustelleevat talvee varten ostamalla uuđet talvivaattheet.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="anb">
       <lg>
@@ -31549,6 +31628,50 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">hävittäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">grønnes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">viherttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">grønskes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">viherttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">forføre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vietelä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">gå ut fra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">rustata</t>
+            <xg>
+               <x>Vi går ut fra at vi får prisen.</x>
+               <xt>Met rustaama sen pääle ette saama palkinon.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
