@@ -17141,6 +17141,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ta;ki">
+      <lg>
+         <l pos="N">aning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="aavistukse">aavistus</t>
+         </tg>
+      </mg>
+   </e>
    <e src="yr">
       <lg>
          <l pos="N">administrasjonsanlegg</l>
@@ -25615,22 +25625,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">hituinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">mouru</t>
+            <t pos="N">muru</t>
             <t pos="N">molo</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">mouru</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="murru">muru</t>
+            <t pos="N">murunen</t>
          </tg>
       </mg>
       <mg>
@@ -25640,7 +25642,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">murunen</t>
+            <t pos="N">hituinen</t>
          </tg>
       </mg>
    </e>
@@ -112952,6 +112954,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kaveritokka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">koneemne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">emäntäaunas</t>
          </tg>
       </mg>
    </e>
