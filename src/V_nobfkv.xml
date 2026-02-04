@@ -23126,21 +23126,28 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
+         <l pos="V">trette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>krangle, munnhogges</re>
+            <t pos="V" stem="tinkkaa;tingan">tingata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta">
+      <lg>
          <l pos="V">krangle</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="tinkkaa;tingan">tingata</t>
+            <t pos="V">torata</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">tiuskuut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">torata</t>
          </tg>
       </mg>
    </e>
@@ -28761,10 +28768,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">tingata</t>
-            <xg>
-               <x>Jeg forsøkte å forhandle om lønna, slik at jeg skulle få mer.</x>
-               <xt>Mie freistasin tingata palkan päältä ette saisin sen ylös.</xt>
-            </xg>
+<!--            <xg>
+               <x>Jeg forsøkte å forhandle om lønna.</x>
+               <xt>Mie freistasin tingata palkan päältä.</xt>
+            </xg> -->
          </tg>
       </mg>
    </e>
