@@ -51048,13 +51048,34 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">pil</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">nuoli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>tre, busk i vierslekta</re>
+            <t pos="N">paivu</t>
+            <t pos="N">paiju</t>
+            <t pos="N">paju</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">vier</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>tre, busk i vierslekta</re>
+            <t pos="N">paivu</t>
+            <t pos="N">paiju</t>
+            <t pos="N">paju</t>
          </tg>
       </mg>
    </e>
@@ -52985,19 +53006,17 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">gåsunge</l>
       </lg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="fkv">
             <t pos="N">paiju</t>
          </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">paivunkissa</t>
-         </tg>
-      </mg>
+      </mg> -->
       <mg>
          <tg xml:lang="fkv">
 	         <re>på selje</re>
+            <t pos="N">paivunkissa</t>
+            <t pos="N">paijunkissa</t>
+            <t pos="N">paivunlammas</t>
             <t pos="N">paivulammas</t>
          </tg>
       </mg>
@@ -73516,18 +73535,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;anb">
       <lg>
          <l pos="N">vassarve</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vesirikka</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
             <t pos="N">hilsku</t>
+            <t pos="N">vesiheinä</t>
          </tg>
       </mg>
    </e>
@@ -113028,4 +113044,34 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e> -->
+   <e src="anb">
+      <lg>
+         <l pos="N">vannglass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">vesiklasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">hjemmehjelp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kotiapu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">nektingsord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kieltosana</t>
+         </tg>
+      </mg>
+   </e>
 </r>
