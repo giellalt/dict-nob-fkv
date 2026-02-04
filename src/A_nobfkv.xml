@@ -5904,16 +5904,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kippee</t>
+            <t pos="A">sairas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kleini</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="sairhaa">sairas</t>
          </tg>
       </mg>
    </e>
@@ -14262,13 +14258,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="A">velstående</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">hyvinvoipa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>rik, bemidlet</re>
+            <t pos="A">varakas</t>
          </tg>
       </mg>
    </e>
@@ -23470,6 +23472,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">vastaleivottu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">formuende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">varakas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">velhavende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">varakas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">frihetselskende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">vapha</t>
          </tg>
       </mg>
    </e>
