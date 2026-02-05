@@ -4266,25 +4266,51 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;anb">
+      <lg>
+         <l pos="A">likeglad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">perustamaton</t>
+            <t pos="A">välinpitämätön</t>
+            <t pos="A">huolimaton</t>
+            <xg>
+               <x>De var helt likeglad med alt.</x>
+               <xt>Het olthiin täysin välinpitämättömät kaikkheen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">samantekkeevä</t>
+            <xg>
+               <x>De var likeglad med alt.</x>
+               <xt>Heile oli kaikki samantekkeevää.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;es;anb">
       <lg>
          <l pos="A">likegyldig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">huolimaton</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">perustamaton</t>
+            <t pos="A">välinpitämätön</t>
+            <t pos="A">huolimaton</t>
+            <xg>
+               <x>Han er likegyldig til alt.</x>
+               <xt>Hän oon välinpitämätön kaikkee kohthaan.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">yhđentekkeevä</t>
             <xg>
-               <x>Det er likegyldig hva han/hun tenker.</x>
+               <x>Det er likegyldig hva hun tenker.</x>
                <xt>Se oon yhđentekkeevä mitä hän ajattellee.</xt>
             </xg>
          </tg>
@@ -4293,8 +4319,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">tasan</t>
             <xg>
-               <x>Det er meg likegyldig hva folk tenker om meg.</x>
-               <xt>Se tekkee mulle tasan mitä ihmiset ajatelhaan minusta.</xt>
+               <x>Det er meg likegyldig om de så ville til Spania, jeg blir her.</x>
+               <xt>Se tekkee mulle tasan vaikka het haluttais Spanihaan, mie jään tänne.</xt>
             </xg>
          </tg>
       </mg>
