@@ -4272,6 +4272,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>uinteressert, følelsesmessig distansert</re>
             <t pos="A">perustamaton</t>
             <t pos="A">välinpitämätön</t>
             <t pos="A">huolimaton</t>
@@ -4283,7 +4284,9 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>betydningsløs, uten betydning</re>
             <t pos="A">samantekkeevä</t>
+            <t pos="A">yhđentekkeevä</t>
             <xg>
                <x>De var likeglad med alt.</x>
                <xt>Heile oli kaikki samantekkeevää.</xt>
@@ -4297,6 +4300,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>uinteressert, følelsesmessig distansert</re>
             <t pos="A">perustamaton</t>
             <t pos="A">välinpitämätön</t>
             <t pos="A">huolimaton</t>
@@ -4308,7 +4312,9 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>betydningsløs, uten betydning</re>
             <t pos="A">yhđentekkeevä</t>
+            <t pos="A">samantekkeevä</t>
             <xg>
                <x>Det er likegyldig hva hun tenker.</x>
                <xt>Se oon yhđentekkeevä mitä hän ajattellee.</xt>
@@ -23535,11 +23541,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="A">frihetselskende</l>
+         <l pos="A">uvesentlig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">vapha</t>
+            <t pos="A">samantekkeevä</t>
+            <t pos="A">yhđentekkeevä</t>
          </tg>
       </mg>
    </e>
