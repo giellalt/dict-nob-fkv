@@ -4472,13 +4472,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;es">
       <lg>
          <l pos="N">tvil</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">eppäilys</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">eppäily</t>
          </tg>
       </mg>
    </e>
@@ -106594,10 +106599,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="anb;es">
       <lg>
-         <l pos="V">mistanke</l>
+         <l pos="N">mistanke</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">eppäilys</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">eppäily</t>
