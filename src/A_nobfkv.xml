@@ -8330,28 +8330,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e> -->
-   <e src="ai;ta;es">
+   <e src="ki;ai;ta;es">
       <lg>
          <l pos="A">slags</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="muutamanlaise;muutamanlais">muutamanlainen</t>
+            <t pos="A">minkälainen</t>
+            <xg>
+               <x>Hva slags dyr er dette?</x>
+               <xt>Minkälainen elläin tämä oon?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">yhđensorttinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+         <re>en slags</re>
             <t pos="A" stem="jonkulaise;jonkulais">jonkulainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="A" stem="muutamanlaise;muutamanlais">muutamanlainen</t>
+            <t pos="A">yhđensorttinen</t>
             <t pos="A">yhđenlainen</t>
+            <xg>
+               <x>Se oon jonkulainen sorsa, mie luulen.</x>
+               <xt>Det er en slags and tror jeg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -20478,6 +20480,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki;anb;es">
+      <lg>
+         <l pos="A">irritert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ärtyny</t>
+            <t pos="A">äärtyny</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>som det er gått betennelse i</re>
+            <t pos="A">vihainen</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="A">bølgete</l>
@@ -23596,6 +23615,38 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">pessookestäävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="grom;ki">
+      <lg>
+         <l pos="A">fantasifull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">fantasiarikas</t>
+            <t pos="A">fantasiirikas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">hoved-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pää-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">enstammet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>grammatikk, om ordstamme</re>
+            <t pos="A">yksirankainen</t>
          </tg>
       </mg>
    </e>
