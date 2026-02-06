@@ -44594,7 +44594,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="N">landstryker</l>
       </lg>
@@ -44603,6 +44603,11 @@ For the full license text, see the link above.</lic>
             <t pos="N">looppari</t>
          </tg>
       </mg>
+<!--      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kulkuri</t>
+         </tg>
+      </mg> -->
    </e>
    <e src="ta">
       <lg>
@@ -81052,17 +81057,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="anb">
-      <lg>
-         <l pos="N">samhandling</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kansakäyminen</t>
-            <t pos="N">kansakäiminen</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ki">
       <lg>
          <l pos="N">opphold</l>
@@ -112717,16 +112711,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-     <e src="anb">
-      <lg>
-         <l pos="N">nattur</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">nattur</t>
-         </tg>
-      </mg>
-   </e>
         <e src="anb">
       <lg>
          <l pos="N">nattarbeid</l>
@@ -113047,16 +113031,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-<!--   <e src="anb">
-      <lg>
-         <l pos="N">landstryker</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kulkuri</t>
-         </tg>
-      </mg>
-   </e> -->
 <!--   <e src="anb">
       <lg>
          <l pos="N">loffer</l>
