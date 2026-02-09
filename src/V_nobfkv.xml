@@ -3425,13 +3425,39 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">skjære</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="leikkaa;leikan">leikata</t>
+            <xg>
+               <x>Jeg skjærer noen brødskriver til deg.</x>
+               <xt>Mie leikkaan leipäpiirtheitä sinule.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om å lage et snitt i noe</re>
+            <t pos="V">viilttäät</t>
+<!--            <xg>
+               <x>Jeg skar meg i fingeren.</x>
+               <xt>Mie viilsin itteeni sormheen.</xt>
+            </xg> -->
+            <xg>
+               <x>Lydene fra alarmen skar i trommehinnene.</x>
+               <xt>Alarmin äänet viilethiin korvakalvoi.</xt>
+            </xg>
+            <xg>
+               <x>Ordene hadde skåret et dypt sår i hjertet hennes.</x>
+               <xt>Sanat olthiin viiltänheet syvän haavan hänen syđämheen.</xt>
+            </xg>
+            <xg>
+               <x>Han forlot meg på en så hjerteskjærende måte.</x>
+               <xt>Hän jätti minun niin syđäntä viilttäävällä tavala.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -3439,6 +3465,11 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="leiko">leikkoot</t>
          </tg>
       </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">snitte</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">viilttäät</t>
