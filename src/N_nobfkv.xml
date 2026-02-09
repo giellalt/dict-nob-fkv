@@ -71821,13 +71821,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="N">organist</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">urunsoittaaja</t>
+            <t pos="N">urvunsoittaaja</t>
          </tg>
       </mg>
    </e>
@@ -113151,11 +113152,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">lauvantaipeso</l>
+         <l pos="N">lørdagsvask</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">lørdagsvask</t>
+            <t pos="N">lauvantaipeso</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">kjærlighetserklæring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rakkhauđentunnustus</t>
          </tg>
       </mg>
    </e>
