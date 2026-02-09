@@ -4035,7 +4035,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="Adv">sterkt</l>
       </lg>
@@ -4047,6 +4047,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">lujasti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">voimakkhaasti</t>
          </tg>
       </mg>
    </e>
@@ -11411,13 +11416,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="Adv">kraftig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">väkkeevästi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">voimakkhaasti</t>
          </tg>
       </mg>
    </e>
@@ -12224,16 +12234,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="anb">
-      <lg>
-         <l pos="Phrase">med nebb og klør</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Phrase">kynsin hamphain</t>
-         </tg>
-      </mg>
-   </e>
    <e src="es;anb">
       <lg>
          <l pos="Adv">høyt</l>
@@ -12255,25 +12255,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="Phrase">med åpne armer</l>
+         <l pos="Adv">kraftfullt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">aukkein sylin</t>
-         <xg>
-            <x>Han tok meg imot med åpne armer.</x>
-            <xt>Hän otti minun vasthaan aukkein sylin.</xt>
-         </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="anb">
-      <lg>
-         <l pos="Phrase">med åpent sinn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Phrase">aukkein mielin</t>
+            <t pos="Adv">voimakkhaasti</t>
          </tg>
       </mg>
    </e>
