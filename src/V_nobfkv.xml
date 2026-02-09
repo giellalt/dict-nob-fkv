@@ -9509,6 +9509,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>gjøre større, få til å vokse</re>
             <t pos="V">lisätä</t>
             <xg>
                <x>Tupakka lissää syövän riskii.</x>
@@ -9522,7 +9523,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>bli flere av</re>
+	         <re>bli større, bli flere av</re>
             <t pos="V">lissäinttyyt</t>
             <t pos="V">lissäänttyyt</t>
             <xg>
@@ -9542,6 +9543,10 @@ For the full license text, see the link above.</lic>
                <x>Erfaringen min øker dag for dag på jobben.</x>
                <xt>Minun kokemus karttuu joka päivä työssä.</xt>
             </xg>
+            <xg>
+               <x>Lasset økte og ble for tungt for ham.</x>
+               <xt>Kuorma karttui liian raskhaaksi hänele.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -9558,6 +9563,68 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Han sier at smerten øker når han puster og beveger seg.</x>
+               <xt>Hän sannoo ette kipu kovenee ko hän hengittää ja liikkuu.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;mj;es">
+      <lg>
+         <l pos="V">auke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gjøre større, få til å vokse</re>
+            <t pos="V">lisätä</t>
+            <xg>
+               <x>Tupakka lissää syövän riskii.</x>
+               <xt>Tobakk auker risikoen for kreft.</xt>
+            </xg>
+            <xg>
+               <x>Urolighetene i verden øker behovet for å være selvforsynt.</x>
+               <xt>Levottommuus mailmassa auker tarvetta ette oon omavarainen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>bli større, bli flere av</re>
+            <t pos="V">lissäinttyyt</t>
+            <t pos="V">lissäänttyyt</t>
+            <xg>
+               <x>Antall ansatte auka i fjor.</x>
+               <xt>Työntekkiijöitten määrä lissäintyi viimi vuona.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>bli flere av, samle seg opp</re>
+            <t pos="V">karttuut</t>
+            <xg>
+               <x>Sparepengene mine auker sakte men sikkert.</x>
+               <xt>Minun säästöt karttuuvat noppeesti mutta varmasti.</xt>
+            </xg>
+            <xg>
+               <x>Lasset aukte og ble for tungt for ham.</x>
+               <xt>Kuorma karttui liian raskhaaksi hänele.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>bli sterkere, mer intens, virkningsfull</re>
+            <t pos="V">koveta</t>
+            <xg>
+               <x>Lyden bare auka og auka.</x>
+               <xt>Ääni tyhä koveni ette koveni.</xt>
+            </xg>
+            <xg>
+               <x>I følge værmeldinga blir vinden å auke på senere på ettermiddagen.</x>
+               <xt>Säävarrauksen jälkhiin tuuli kovenee illemalla.</xt>
+            </xg>
+            <xg>
+               <x>Han sier at smerten auker når han puster og beveger seg.</x>
                <xt>Hän sannoo ette kipu kovenee ko hän hengittää ja liikkuu.</xt>
             </xg>
          </tg>
@@ -11754,7 +11821,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;anb">
       <lg>
          <l pos="Phrase">bli sterkere</l>
       </lg>
@@ -11771,6 +11838,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">lujeta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">voimistuut</t>
          </tg>
       </mg>
    </e>
