@@ -46,6 +46,19 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">ulkoinen</t>
             <t pos="A">ulkonen</t>
+            <xg>
+               <x>De utvendige veggene av bygget er slitt.</x>
+               <xt>Rakenuksen ulkoiset seinät oon kulunheet.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ulko</t>
+            <xg>
+               <x>Huset er svart på utsiden.</x>
+               <xt>Huonet oon ulkkoo käsin musta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11922,14 +11935,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;ki">
+   <e src="ai;ta;ki;anb">
       <lg>
          <l pos="A">ytre</l>
       </lg>
          <mg>
          <tg xml:lang="fkv">
             <t pos="A">ulkoinen</t>
-<!--          <t pos="A">ulkonen</t> -->
+            <t pos="A">ulkonen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ulompi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ulkonainen</t>
          </tg>
       </mg>
       <mg>
@@ -11937,9 +11960,22 @@ For the full license text, see the link above.</lic>
             <t pos="A">ulko</t>
          </tg>
       </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ytter-</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">ulompi</t>
+            <t pos="A">ulko-</t>
+            <xg>
+               <x>Ytterdøra er rød.</x>
+               <xt>Ulko-ovi oon punainen.</xt>
+            </xg>
+            <xg>
+               <x>De ytre lokalkasusene i kvensk er allativ, adessiv og ablativ.</x>
+               <xt>Kväänin kielen ulkopaikkakaasukset oon allatiivi, adessiivi ja ablatiivi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
