@@ -11979,13 +11979,35 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ki">
+      <lg>
+         <l pos="A">uten-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">ulko-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;anb">
       <lg>
          <l pos="A">utenlandsk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="ulkomaalaise;ulkomais">ulkomaalainen</t>
+            <t pos="A" stem="ulkomaalaise;ulkomais">ulkomainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;anb">
+      <lg>
+         <l pos="A">utlendig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A" stem="ulkomaalaise;ulkomais">ulkomaalainen</t>
+            <t pos="A" stem="ulkomaalaise;ulkomais">ulkomainen</t>
          </tg>
       </mg>
    </e>

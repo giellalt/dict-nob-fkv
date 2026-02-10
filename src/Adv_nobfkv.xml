@@ -8006,7 +8006,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+<!--   <e src="ai">
       <lg>
          <l pos="Adv">snaut med penger</l>
       </lg>
@@ -8015,7 +8015,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">vaanasti</t>
          </tg>
       </mg>
-   </e>
+   </e> -->
 <!--   <e src="ai">
       <lg>
          <l pos="Adv">varsomt</l>
@@ -12260,6 +12260,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">voimakkhaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">utenlands</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">ulkomaila</t>
          </tg>
       </mg>
    </e>
