@@ -3,7 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_nobfkv.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/nobfkv.dtd">
 <r id="nobfkv" xml:lang="nob">
    <lics>
       <lic xml:lang="en">
@@ -76,7 +76,7 @@ For the full license text, see the link above.</lic>
    </e>
   <!--    <xg>   <e src="ki">
       <lg>
-         <l pos="Phrase">som slutter på</l>
+         <l t_type="Phrase">som slutter på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -286,7 +286,7 @@ For the full license text, see the link above.</lic>
                   <mg>
          <tg xml:lang="fkv">
 	         <re>om mennesker</re>
-            <t pos="Phrase">olla lasta vasten</t>
+            <t t_type="Phrase">olla lasta vasten</t>
               <xg>
                <x>Hun er gravid.</x>
                <xt>Hän oon lasta vasten.</xt>
@@ -296,12 +296,12 @@ For the full license text, see the link above.</lic>
         <mg>
          <tg xml:lang="fkv">
 	     <re>om mennesker og dyr</re>
-            <t pos="Phrase">olla poikkii vasten</t>
+            <t t_type="Phrase">olla poikkii vasten</t>
          </tg>
       </mg>
         <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">olla raskhaana</t>
+            <t t_type="Phrase">olla raskhaana</t>
               <xg>
                <x>Hun er gravid.</x>
                <xt>Hän oon raskhaana.</xt>
@@ -310,7 +310,7 @@ For the full license text, see the link above.</lic>
       </mg>
         <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">olla lapsesta</t>
+            <t t_type="Phrase">olla lapsesta</t>
               <xg>
                <x>Jeg er gravid.</x>
                <xt>Mie olen lapsesta.</xt>
@@ -360,7 +360,7 @@ For the full license text, see the link above.</lic>
    </e>
      <e src="uit">
       <lg>
-         <l pos="Phrase">av tre</l>
+         <l t_type="Phrase">av tre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -783,7 +783,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj;ki;es">
       <lg>
-         <l pos="Phrase">hva slags</l>
+         <l t_type="Phrase">hva slags</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -1254,7 +1254,7 @@ For the full license text, see the link above.</lic>
    </e>
       <e src="ks">
       <lg>
-         <l pos="Phrase">i form</l>
+         <l t_type="Phrase">i form</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4474,7 +4474,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">med god hukommelse</l>
+         <l t_type="Phrase">med god hukommelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4581,7 +4581,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">litt tullete</l>
+         <l t_type="Phrase">litt tullete</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -4652,7 +4652,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">ylimäärätön pito</t>
+            <t t_type="Phrase">ylimäärätön pito</t>
          </tg>
       </mg>
    </e>
@@ -4993,7 +4993,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">valttaavan iso</t>
+            <t t_type="Phrase">valttaavan iso</t>
          </tg>
       </mg>
    </e>
@@ -5107,7 +5107,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">all slags</l>
+         <l t_type="Phrase">all slags</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5117,7 +5117,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">som har familie</l>
+         <l t_type="Phrase">som har familie</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5223,7 +5223,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">det siste</l>
+         <l t_type="Phrase">det siste</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5372,7 +5372,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">to slags</l>
+         <l t_type="Phrase">to slags</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5397,7 +5397,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="Phrase">alt mulig</l>
+         <l t_type="Phrase">alt mulig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -5502,7 +5502,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">særlig bra</l>
+         <l t_type="Phrase">særlig bra</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7552,7 +7552,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Phrase">svakt hellende</l>
+         <l t_type="Phrase">svakt hellende</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -7982,7 +7982,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">olemassa olleeva</t>
+            <t t_type="Phrase">olemassa olleeva</t>
          </tg>
       </mg>
    </e>
@@ -8147,7 +8147,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="Phrase">mang en</l>
+         <l t_type="Phrase">mang en</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8516,7 +8516,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">med fire hjørner</l>
+         <l t_type="Phrase">med fire hjørner</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -8676,7 +8676,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="Phrase">temmelig ung</l>
+         <l t_type="Phrase">temmelig ung</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9140,7 +9140,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">med dårlig vær</l>
+         <l t_type="Phrase">med dårlig vær</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9314,7 +9314,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="Phrase">temmelig liten</l>
+         <l t_type="Phrase">temmelig liten</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -9861,7 +9861,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">fra side</l>
+         <l t_type="Phrase">fra side</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10641,7 +10641,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Phrase">samme slags</l>
+         <l t_type="Phrase">samme slags</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11496,7 +11496,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="Phrase">den andre</l>
+         <l t_type="Phrase">den andre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11535,7 +11535,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">fra Torneå</l>
+         <l t_type="Phrase">fra Torneå</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11555,7 +11555,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">fra Tornedalen</l>
+         <l t_type="Phrase">fra Tornedalen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11775,7 +11775,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="Phrase">som denne</l>
+         <l t_type="Phrase">som denne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11785,7 +11785,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">slik som denne</l>
+         <l t_type="Phrase">slik som denne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -11795,7 +11795,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="Phrase">sånn her</l>
+         <l t_type="Phrase">sånn her</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12028,7 +12028,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">lengst ute</l>
+         <l t_type="Phrase">lengst ute</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12645,7 +12645,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">fra Vadsø</l>
+         <l t_type="Phrase">fra Vadsø</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12837,7 +12837,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">av ull</l>
+         <l t_type="Phrase">av ull</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -12957,7 +12957,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">års gammel</l>
+         <l t_type="Phrase">års gammel</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13026,7 +13026,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">som er imellom</l>
+         <l t_type="Phrase">som er imellom</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13302,7 +13302,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Phrase">fra Lyngen</l>
+         <l t_type="Phrase">fra Lyngen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -13997,7 +13997,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">taustala olleeva</t>
+            <t t_type="Phrase">taustala olleeva</t>
          </tg>
       </mg>
    <!--   <mg>
@@ -14088,7 +14088,7 @@ For the full license text, see the link above.</lic>
    </e>   
    <e src="es">
       <lg>
-         <l pos="Phrase">mer verdifull</l>
+         <l t_type="Phrase">mer verdifull</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14309,7 +14309,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">vanskelig til sinns</l>
+         <l t_type="Phrase">vanskelig til sinns</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14474,7 +14474,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">ganske stor</l>
+         <l t_type="Phrase">ganske stor</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14510,7 +14510,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">på eller fra østsiden</l>
+         <l t_type="Phrase">på eller fra østsiden</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14560,7 +14560,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">en med smalt ansikt</l>
+         <l t_type="Phrase">en med smalt ansikt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14710,7 +14710,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">av høy kvalitet</l>
+         <l t_type="Phrase">av høy kvalitet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14942,7 +14942,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">dårlig terreng</l>
+         <l t_type="Phrase">dårlig terreng</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14956,7 +14956,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">lettvint terreng</l>
+         <l t_type="Phrase">lettvint terreng</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14976,7 +14976,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">mer velsmakende</l>
+         <l t_type="Phrase">mer velsmakende</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -14996,7 +14996,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">mest velsmakende</l>
+         <l t_type="Phrase">mest velsmakende</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15006,7 +15006,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">ganske lang</l>
+         <l t_type="Phrase">ganske lang</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15068,7 +15068,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">være for en sak</l>
+         <l t_type="Phrase">være for en sak</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15159,7 +15159,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">en som er ved sine fulle fem</l>
+         <l t_type="Phrase">en som er ved sine fulle fem</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -15295,7 +15295,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">pahavoipainen</t>
-            <t pos="Phrase">olla syđän huono</t>
+            <t t_type="Phrase">olla syđän huono</t>
             <xg>
             <x>Jeg er kvalm.</x>
             <xt>Minula oon syđän huono.</xt>
@@ -15797,7 +15797,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">mer betydningsfull</l>
+         <l t_type="Phrase">mer betydningsfull</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16238,7 +16238,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">være mot noe</l>
+         <l t_type="Phrase">være mot noe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16269,7 +16269,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">vill i blikket</l>
+         <l t_type="Phrase">vill i blikket</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16357,7 +16357,7 @@ For the full license text, see the link above.</lic>
    </e>   
    <e src="akr">
       <lg>
-         <l pos="Phrase">noen/noe som gjør noe</l>
+         <l t_type="Phrase">noen/noe som gjør noe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16438,7 +16438,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="akr">
       <lg>
-         <l pos="Phrase">god nok</l>
+         <l t_type="Phrase">god nok</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16605,7 +16605,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="me">
       <lg>
-         <l pos="Phrase">ingen form for</l>
+         <l t_type="Phrase">ingen form for</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16619,7 +16619,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="me">
       <lg>
-         <l pos="Phrase">ikke av noe slag</l>
+         <l t_type="Phrase">ikke av noe slag</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -16653,7 +16653,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="Phrase">mest interessant</l>
+         <l t_type="Phrase">mest interessant</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17532,7 +17532,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="Phrase">nylig vedtatt</l>
+         <l t_type="Phrase">nylig vedtatt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -17910,7 +17910,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">jäljelä olleeva</t>
+            <t t_type="Phrase">jäljelä olleeva</t>
          </tg>
       </mg>
    </e>
@@ -18173,7 +18173,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="Phrase">veltet over evne</l>
+         <l t_type="Phrase">veltet over evne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -18506,7 +18506,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">seppä käsistä</t>
+            <t t_type="Phrase">seppä käsistä</t>
          </tg>
       </mg>
    </e>
@@ -18800,7 +18800,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">jäljelä olleeva</t>
+            <t t_type="Phrase">jäljelä olleeva</t>
          </tg>
       </mg>
    </e>
@@ -19142,7 +19142,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="Phrase">på forhånd</l>
+         <l t_type="Phrase">på forhånd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19787,7 +19787,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="Phrase">av forskjellig type</l>
+         <l t_type="Phrase">av forskjellig type</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -19801,7 +19801,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">kuivin kengin</t>
+            <t t_type="Phrase">kuivin kengin</t>
          </tg>
       </mg>
    </e>
@@ -20254,7 +20254,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">minner om</l>
+         <l t_type="Phrase">minner om</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20430,7 +20430,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">flunkende ny</l>
+         <l t_type="Phrase">flunkende ny</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20440,7 +20440,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">splitter ny</l>
+         <l t_type="Phrase">splitter ny</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20525,7 +20525,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">av verre sort</l>
+         <l t_type="Phrase">av verre sort</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20572,7 +20572,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">av form</l>
+         <l t_type="Phrase">av form</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20586,7 +20586,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">av modell</l>
+         <l t_type="Phrase">av modell</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20638,7 +20638,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">første spadetak</l>
+         <l t_type="Phrase">første spadetak</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -20797,7 +20797,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">pölvöstä höpertynny</t>
+            <t t_type="Phrase">pölvöstä höpertynny</t>
          </tg>
       </mg>
    </e>
@@ -21150,7 +21150,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">tukettumaisilla itkhuun</t>
+            <t t_type="Phrase">tukettumaisilla itkhuun</t>
             <xg>
             <x>Gråtkvalt gjennom stormen hørte jeg mamma be.</x>
             <xt>Myrskyn läpi mie kuulin ko mamma tukettumaisilla itkhuun rukkoili.</xt>
@@ -21164,7 +21164,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">harjaintunnu merheen</t>
+            <t t_type="Phrase">harjaintunnu merheen</t>
          </tg>
       </mg>
    </e>
@@ -22284,7 +22284,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">pahhaa varraava</t>
+            <t t_type="Phrase">pahhaa varraava</t>
          </tg>
       </mg>
    </e>

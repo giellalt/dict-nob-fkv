@@ -3,7 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_nobfkv.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/nobfkv.dtd">
 <r xml:lang="nob">
    <lics>
       <lic xml:lang="en">
@@ -30,12 +30,12 @@ For the full license text, see the link above.</lic>
    </lics>
           <e src="anb">
         <lg>
-         <l pos="Phrase">lete etter nåla i høystakken</l>
+         <l t_type="Phrase">lete etter nåla i høystakken</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <t pos="Phrase">hakkeet neulaa heinäsaurasta</t>
-         <t pos="Phrase">hakkeet äimää heinäsaurasta</t>
+         <t t_type="Phrase">hakkeet neulaa heinäsaurasta</t>
+         <t t_type="Phrase">hakkeet äimää heinäsaurasta</t>
          </tg>
       </mg>
    </e>
