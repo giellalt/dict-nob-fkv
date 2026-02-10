@@ -39193,13 +39193,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="N">utgift</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kullu">kulu</t>
+            <t pos="N">uloskulu</t>
          </tg>
       </mg>
    </e>
@@ -46491,13 +46492,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;anb">
       <lg>
          <l pos="N">univers</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">mailmankaikkeus</t>
+            <t pos="N">universumi</t>
          </tg>
       </mg>
    </e>
@@ -71619,6 +71621,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ki">
       <lg>
+         <l pos="N">ytre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ulkomuoto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ki">
+      <lg>
          <l pos="N">utmark</l>
       </lg>
       <mg>
@@ -71707,7 +71719,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;mj">
+   <e src="ai;mj;anb">
       <lg>
          <l pos="N">drøm</l>
       </lg>
@@ -71721,8 +71733,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
          <re>forestilling om håp, mål eller ideal</re>
-            <t pos="N">unistama</t>
             <t pos="N">unistus</t>
+            <t pos="N">unistama</t>
+            <t pos="N">unelma</t>
          </tg>
       </mg>
    </e>
@@ -113167,6 +113180,46 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">rakkhauđentunnustus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">uniform</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">uniformi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">glemsel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">unhoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">ytterkant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ulkosyrjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">yttervegg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ulkoseinä</t>
          </tg>
       </mg>
    </e>
