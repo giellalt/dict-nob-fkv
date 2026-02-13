@@ -3551,18 +3551,31 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">støtte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">kuurota</t>
-            <t pos="V">tukkeet</t>
-            <xg>
+<!--            <xg>
 	            <x>Jeg støtter deg!</x>
 	            <xt>Mie kuurttoon sinnuu!</xt>
-            </xg>
+            </xg> -->
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tukkeet</t>
+<!--            <xg>
+	            <x>Jeg støtter deg!</x>
+	            <xt>Mie tujen sinnuu!</xt>
+            </xg> -->
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">avustaat</t>
          </tg>
       </mg>
       <mg>

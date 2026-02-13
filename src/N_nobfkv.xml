@@ -19726,16 +19726,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="N">støtte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>fysisk støtteelement</re>
+            <t pos="N">tuki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
 	         <re>bistand, hjelp</re>
             <t pos="N">kuurto</t>
-            <t pos="N">avustus</t>
             <t pos="N">tuki</t>
+            <t pos="N">avustus</t>
             <xg>
 	            <x>Takk for støtten!</x>
 	            <xt>Kiitos kuurosta!</xt>
@@ -19744,20 +19750,30 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>oppbakking, backing</re>
-            <t pos="N">tavustatuki</t>
+	         <re>holde, lene</re>
+            <t pos="N" stem="nojja">noja</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>lene</re>
-            <t pos="N" stem="nojja">noja</t>
+	         <re>oppbakking, backing</re>
+            <t pos="N">tavustatuki</t>
          </tg>
       </mg>
    </e>
    <e src="ai">
       <lg>
          <l pos="N">stønad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">avustus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bistand</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
