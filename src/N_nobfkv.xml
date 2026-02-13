@@ -44209,13 +44209,33 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="lissä">lisä</t>
+	         <re>økonomisk støtte</re>
+            <t pos="N">kuurto</t>
+            <t pos="N">lisäraha</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>økonomisk</re>
+         <re>som kommer i tillegg</re>
+            <t pos="N" stem="lissä">lisä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;es;ki">
+      <lg>
+         <l pos="N">tilskott</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>økonomisk støtte</re>
+            <t pos="N">kuurto</t>
             <t pos="N">lisäraha</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>som kommer i tillegg</re>
+            <t pos="N" stem="lissä">lisä</t>
          </tg>
       </mg>
    </e>
@@ -44260,12 +44280,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">litra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">liitteri</t>
+            <t pos="N">litra</t>
          </tg>
       </mg>
    </e>
@@ -44286,10 +44302,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">litteratuuri</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">kirjalisuus</t>
          </tg>
       </mg>
@@ -44305,6 +44317,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>flate av glass</re>
             <t pos="N">särmi</t>
          </tg>
       </mg>
@@ -44316,10 +44329,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">liuskalakki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="liuskulaki">liuskulakki</t>
          </tg>
       </mg>
