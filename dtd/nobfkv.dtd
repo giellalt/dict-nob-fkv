@@ -4,7 +4,7 @@
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l comment CDATA #IMPLIED >
 <!ATTLIST l nr NMTOKEN #IMPLIED >
-<!ATTLIST l pos ( A | Adv | CC | CS | Det | Interj | N | Num | Phrase | Po | Pr | Pron | V ) #REQUIRED >
+<!ATTLIST l pos ( A | Adv | CC | CS | Det | Interj | N | Num | Phrase | Po | Pr | Pron | V ) #IMPLIED >
 <!ATTLIST l t_type NMTOKEN #IMPLIED >
 <!ATTLIST l type NMTOKEN #IMPLIED >
 
@@ -37,6 +37,7 @@
 <!ATTLIST t src NMTOKEN #IMPLIED >
 <!ATTLIST t stem CDATA #IMPLIED >
 <!ATTLIST t type CDATA #IMPLIED >
+<!ATTLIST t t_type ( Phrase ) #IMPLIED >
 <!ATTLIST t href CDATA #IMPLIED >
 
 <!ELEMENT tg ( re?, t+, xg* ) >
