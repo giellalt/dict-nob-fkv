@@ -1769,8 +1769,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">räpsytellä</t>
             <t pos="V">räpytellä</t>
+            <t pos="V">räpsytellä</t>
          </tg>
       </mg>
    </e>
@@ -2616,7 +2616,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="tao;tako">takkoot</t>
+            <t pos="V">takkoot</t>
+            <xg>
+               <x>Hjertet banker.</x>
+               <xt>Syđän takkoo.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5391,6 +5395,15 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V" stem="tao;tako">takkoot</t>
+            <xg>
+               <x>Hjertet slår.</x>
+               <xt>Syđän takkoo.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="V" stem="hakkaa;hakan">hakata</t>
          </tg>
       </mg>
@@ -5398,11 +5411,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="mookkaa;mookan">mookata</t>
             <t pos="V" stem="muokkaa;muokan">muokata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="tao;tako">takkoot</t>
          </tg>
       </mg>
       <mg>
@@ -7881,13 +7889,25 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">räpsytellä</t>
             <t pos="V">räpytellä</t>
+            <t pos="V">räpsytellä</t>
+            <xg>
+               <x>Stjernene blunker på himmelen.</x>
+               <xt>Tähđet räpyttelleevät taivhaala.</xt>
+            </xg>
+            <xg>
+               <x>Han blunker til meg.</x>
+               <xt>Hän räpyttellee silmää minule.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">iskeet</t>
+            <xg>
+               <x>Han blunket til meg.</x>
+               <xt>Hän iski silmää minule.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21397,6 +21417,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">räpytellä</t>
             <t pos="V">räpsytellä</t>
+            <xg>
+               <x>Stjernene blinker på himmelen.</x>
+               <xt>Tähđet räpyttelleevät taivhaala.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -21408,6 +21432,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>lyse med skarpe glimt</re>
             <t pos="V">välättäät</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">iskeet</t>
+            <xg>
+               <x>Han blinket til meg.</x>
+               <xt>Hän iski silmää minule.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
