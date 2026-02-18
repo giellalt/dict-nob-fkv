@@ -20180,13 +20180,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">bite</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="pure;pur">purra</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ta agnet</re>
+            <t pos="V">tarttuut</t>
+            <xg>
+               <x>Fisker biter ikke idag.</x>
+               <xt>Kala ei tartu tääpänä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -22971,7 +22981,26 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>å bli overført</re>
             <t pos="V" stem="tartu">tarttuut</t>
+            <xg>
+               <x>Sykdommen smitter via dråper.</x>
+               <xt>Tauti tarttuu pisaroitten kautta.</xt>
+            </xg>
+            <xg>
+               <x>Viruset smitter fra person til person.</x>
+               <xt>Virus tarttuu ihmisestä toisheen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>å smitte noen, påføre smitte</re>
+            <t pos="V">tartuttaat</t>
+            <xg>
+               <x>Han smittet meg.</x>
+               <xt>Hän tartutti minun.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
