@@ -14961,26 +14961,46 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="anb">
       <lg>
-         <l t_type="Phrase">dårlig terreng</l>
+         <l pos="A">uframkommelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>om terreng</re>
             <t pos="A">maisematon</t>
-            <xg>
-            <x>Det var vanskelig å gå i det dårlige terrenget i nattmørket.</x>
-            <xt>Yöpimmeessä oli huono kävelä maisematonta maata.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="anb">
       <lg>
-         <l t_type="Phrase">lettvint terreng</l>
+         <l pos="A">ufremkommelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>om terreng</re>
+            <t pos="A">maisematon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">lettframkommelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om terreng</re>
+            <t pos="A">maisseeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">lettfremkommelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om terreng</re>
             <t pos="A">maisseeva</t>
          </tg>
       </mg>
@@ -18052,10 +18072,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">pounumainen</t>
-            <xg>
-            <x>For eksempel «luokka», en bue som gikk over ryggen til hesten og virket støtdempende ved kjøring i ulendt terreng.</x>
-            <xt>Esimerkiksi oon “luokka”, eli kaari mikä meni hevoisen sölän yli ja se pehmensi ko ajethiin pounumaisessa maassa.</xt>
-            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tuet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pounumainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tuete</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pounumainen</t>
          </tg>
       </mg>
    </e>
