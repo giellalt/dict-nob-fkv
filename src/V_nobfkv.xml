@@ -1794,23 +1794,57 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk;aht;es">
+   <e src="mk;aht;es;ki">
       <lg>
          <l pos="V">ryke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>om damp</re>
             <t pos="V">höyryyt</t>
          </tg>
       </mg>
         <mg>
          <tg xml:lang="fkv">
-            <t pos="V">savustaat</t>
+         <re>om røyk</re>
+            <t pos="V">savvustaat</t>
          </tg>
       </mg>
         <mg>
          <tg xml:lang="fkv">
+         <re>ose</re>
             <t pos="V">kärystäät</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+         <re>gå i stykker, briste</re>
+            <t pos="V">katketa</t>
+            <t t_type="Phrase">mennä poikki</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+         <re>gå tapt, forvinne</re>
+            <t pos="V">mennä</t>
+            <xg>
+               <x>Der røk den muligheten.</x>
+               <xt>Siinä meni se mahđolisuus.</xt>
+            </xg>
+            <xg>
+               <x>Pengene ryker i regninger.</x>
+               <xt>Rahat menneevät räkinkhiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="fkv">
+         <re>tape</re>
+            <t pos="V">tapata</t>
+            <xg>
+               <x>De røk 1-2 i fotballkampen.</x>
+               <xt>Het tapathiin kampin 1-2.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9827,17 +9861,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>knekke</re>
             <t pos="V" val="IV" stem="katkee;katken">katketa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="laukkee;lauen">laueta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t t_type="Phrase">mennä poikki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om f.eks. skudd</re>
+            <t pos="V" stem="laukkee;lauen">laueta</t>
          </tg>
       </mg>
    </e>
@@ -15888,14 +15920,30 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	          <re>tape</re>
+<!--	          <re>tape</re> -->
             <t pos="V" stem="menetä">menettäät</t>
+            <xg>
+               <x>Han mistet livet i kampen.</x>
+               <xt>Hän menetti hengen taistelussa.</xt>
+            </xg>
+            <xg>
+               <x>Han mistet tålmodigheten.</x>
+               <xt>Hän menetti malttinsa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	          <re>rote bort, tape</re>
+<!--	          <re>rote bort, tape</re> -->
             <t pos="V">mistanttaat</t>
+            <xg>
+               <x>Og verst av alt, hun hadde mistet en venn.</x>
+               <xt>Ja mikä pahhiinta, hän oli mistantannu ystävän.</xt>
+            </xg>
+            <xg>
+               <x>Hun hadde mistet alt.</x>
+               <xt>Hän oli mistantannu kaiken.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -15929,6 +15977,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>miste</re>
             <t pos="V" stem="menetä">menettäät</t>
          </tg>
       </mg>
@@ -15938,6 +15987,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Han tapte så alle pengene.</x>
                <xt>Se tappas sitte kaikki rahat.</xt>
+            </xg>
+            <xg>
+               <x>Tyskland tapte krigen.</x>
+               <xt>Tyskä tappas sođan.</xt>
             </xg>
          </tg>
       </mg>
@@ -19747,6 +19800,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV" stem="polta">polttaat</t>
+            <xg>
+                <x>Jeg måtte slutte å røyke.</x>
+                <xt>Mie häyđyin lopettaat polttaat tupakkaa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
