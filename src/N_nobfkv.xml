@@ -95150,6 +95150,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>tid da en spiser</re>
+            <t pos="N">syömäaika</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>mat som man spiser på èn gang</re>
             <t pos="N">ateria</t>
             <t pos="N">ateri</t>
          </tg>
@@ -113313,6 +113320,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">lissäys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">spisetid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">syömäaika</t>
          </tg>
       </mg>
    </e>
