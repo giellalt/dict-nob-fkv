@@ -10043,14 +10043,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="V">kjøpe</l>
       </lg>
-      <mg>
+            <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="kauppaa;kaupan">kaupata</t>
+            <t pos="V">ostaat</t>
+                <xg>
+               <x>Jeg kjøpte ny bil.</x>
+               <xt>Mie ostin uuđen biilin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">ostaat</t>
+	      <re>om å drive handel</re>
+            <t pos="V" stem="kauppaa;kaupan">kaupata</t>
          </tg>
       </mg>
    </e>
