@@ -3032,18 +3032,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="V">reise</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">matkustaat</t>
+            <t pos="V" stem="reissaa;reisan">reisata</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="reissaa;reisan">reisata</t>
+            <t pos="V">mukata</t>
          </tg>
       </mg>
    </e>
