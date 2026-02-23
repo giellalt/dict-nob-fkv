@@ -4058,8 +4058,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="ala;alka">alkkaat</t>
             <xg>
-               <x>Jeg begynte å studere i 2020</x>
+               <x>Jeg begynte å studere i 2020.</x>
                <xt>Mie aloin studeeraamhaan vuona 2020.</xt>
+            </xg>
+            <xg>
+               <x>Når begynner du på skolen?</x>
+               <xt>Koska sie alat koulhuun?</xt>
             </xg>
             <xg>
                <x>Etter sankthans begynner det allerede å bli mørkere.</x>
@@ -4071,8 +4075,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="aloita;aloitta">aloittaat</t>
             <xg>
-               <x>Jeg begynte på skolen i 2000.</x>
-               <xt>Mie aloitin koulun vuona 2000.</xt>
+               <x>Jeg har begynt på novellen, men jeg kommer ikke på noe mer å skrive om.</x>
+               <xt>Mie olen aloittannu novellin, mutta en hoksaa ennää kirjottamista.</xt>
             </xg>
             <xg>
                <x>Jeg kan begynne arbeidet neste uke.</x>
@@ -4115,12 +4119,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="lähđe">lähteet</t>
+            <xg>
+               <x>Startnummer 10 starter nå.</x>
+               <xt>Lähtönumero 10 lähtee nyt.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>stifte, etablere</re>
+	         <re>stifte, grunnlegge</re>
             <t pos="V">perustaat</t>
+            <xg>
+               <x>Vi startet firmaet for 10 år siden.</x>
+               <xt>Met perustimma firman 10 vuotta aikkaa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
