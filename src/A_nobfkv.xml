@@ -5125,14 +5125,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="anb;ta">
       <lg>
          <l pos="A">arbeidsløs</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">työtön</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="A">jouten</t>
             <t pos="A" stem="joutilhaa">joutilas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">arbeidsledig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">työtön</t>
          </tg>
       </mg>
    </e>
@@ -16021,18 +16036,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es;ki">
+   <e src="es;ki;anb">
       <lg>
          <l pos="A">arbeidsom</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">työnankara</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">työtyri</t>
+            <t pos="A">työläs</t>
          </tg>
       </mg>
       <mg>
@@ -16041,6 +16053,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+<!--   <e src="anb">
+      <lg>
+         <l pos="A">arbeidskrevende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">työläs</t>
+         </tg>
+      </mg>
+   </e> -->
    <e src="es">
       <lg>
          <l pos="A">dyrere</l>
