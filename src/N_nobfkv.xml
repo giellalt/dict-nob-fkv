@@ -3505,13 +3505,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="grom">
+   <e src="anb;grom">
       <lg>
          <l pos="N">kollega</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kolleega</t>
+            <t pos="N">työkaveri</t>
          </tg>
       </mg>
    </e>
@@ -113414,6 +113415,46 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">köökinklasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">fiskelykke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pyytöonni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">arbeidsneve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">työkoura</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">arbeidskamerat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">työkaveri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">arbeidsmenneske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">työihminen</t>
          </tg>
       </mg>
    </e>
