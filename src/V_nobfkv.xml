@@ -3361,22 +3361,48 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">hefte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>bli hindret, forsinke</re>
+            <t pos="V">piđättäät</t>
+            <t pos="V">viivyttäät</t>
+            <xg>
+               <x>Hva er det som hefter henne der i byen så lenge?</x>
+               <xt>Mikä häntä piđättäät sielä kaupingissa niin kauvoin?</xt>
+            </xg>
+            <xg>
+               <x>Det er sikkert noe som hefter henne.</x>
+               <xt>Varmasti joku assii viivyttäät häntä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>bli forstyrret</re>
             <t pos="V">haitata</t>
+            <xg>
+               <x>Han blir lett heftet av andre ting.</x>
+               <xt>Muut assiit haittaavat häntä helposti.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>sitte fast, festes</re>
             <t pos="V" stem="tartu">tarttuut</t>
+            <xg>
+               <x>Malingen hefter godt på veggen.</x>
+               <xt>Maali tarttuu hyvin seinhään.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>om økonomisk ansvar</re>
             <t pos="V">eđesvastata</t>
             <xg>
                <x>Han hefter for alle utgifter.</x>
