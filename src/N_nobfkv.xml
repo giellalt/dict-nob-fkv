@@ -49768,8 +49768,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">naama</t>
             <t pos="N">kita</t>
+            <t pos="N">turpa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">naama</t>
             <xg>
                <x>Han er stor i kjeften.</x>
                <xt>Hänelä oon kyllä iso naama.</xt>
@@ -113452,6 +113457,31 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">työihminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">tryne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">naama</t>
+            <t pos="N">turpa</t>
+            <xg>
+            <x>Han fikk seg en på trynet.</x>
+            <xt>Hän sai nyrkin naamaa vasten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">trut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">turpa</t>
          </tg>
       </mg>
    </e>
