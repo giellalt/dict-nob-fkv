@@ -11685,23 +11685,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="A">mørkhåret</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="tummatukkaise;tummatukkais">tummatukkainen</t>
+            <t pos="A">tummatukkainen</t>
+            <t pos="A">tummahyksinen</t>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="A">mørkhudet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="tummaverise;tummaveris">tummaverinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tummaihoinen</t>
          </tg>
       </mg>
    </e>
@@ -23888,6 +23894,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">turvaa-anttaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">mørkøyd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tummasilmäinen</t>
          </tg>
       </mg>
    </e>
