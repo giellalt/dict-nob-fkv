@@ -5290,7 +5290,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="V">lukte</l>
       </lg>
@@ -5306,11 +5306,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV">haistaat</t>
+            <t pos="V" stem="haistele;haistel">haistela</t>
+            <xg>
+               <x>Lukt på denne, er den dårlig?</x>
+               <xt>Haista tätä, oonko se pilala?</xt>
+            </xg>
+            <xg>
+               <x>Han luktet på blomsterne på enga.</x>
+               <xt>Hän haisteli kukkii pellola.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="haistele;haistel">haistela</t>
+         <re>dufte</re>
+            <t pos="V">tuoksuut</t>
          </tg>
       </mg>
    </e>
@@ -32038,6 +32048,16 @@ For the full license text, see the link above.</lic>
                <x>Hold kjeft!</x>
                <xt>Turpa kiini!</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">dufte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tuoksuut</t>
          </tg>
       </mg>
    </e>

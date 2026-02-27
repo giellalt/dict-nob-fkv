@@ -22702,14 +22702,25 @@ For the full license text, see the link above.</lic>
             <t pos="N" stem="haissu">haisu</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>duft</re>
+            <t pos="N">tuoksu</t>
+         </tg>
+      </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="N">duft</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">haiju</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tuoksu</t>
          </tg>
       </mg>
    </e>
