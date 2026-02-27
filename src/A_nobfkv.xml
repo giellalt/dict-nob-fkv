@@ -6370,13 +6370,47 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="A">hjemmelaget</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="kotitekoise;kotitekois">kotitekoinen</t>
+            <t pos="A">kotitekoinen</t>
+            <t pos="A">tuvalatehty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;anb">
+      <lg>
+         <l pos="A">heimelaga</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kotitekoinen</t>
+            <t pos="A">tuvalatehty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;es;anb">
+      <lg>
+         <l pos="A">hjemmegjort</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kotitekoinen</t>
+            <t pos="A">tuvalatehty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;es;anb">
+      <lg>
+         <l pos="A">heimegjort</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kotitekoinen</t>
+            <t pos="A">tuvalatehty</t>
          </tg>
       </mg>
    </e>
@@ -23844,6 +23878,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">toivoton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">trygghetsgivende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">turvaa-anttaava</t>
          </tg>
       </mg>
    </e>
