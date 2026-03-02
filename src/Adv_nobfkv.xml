@@ -4687,17 +4687,17 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">likempännä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
          <re>bevegelse til</re>
             <t pos="Adv">likemäs</t>
             <t pos="Adv">likemäksi</t>
-            <t pos="Adv">täkemäksi</t>
             <xg>
                <x>Kom nærmere!</x>
-               <xt>Tule likemäs!</xt>
-            </xg>
-            <xg>
-               <x>De flytter nærmere hit til Tromsø.</x>
-               <xt>Het siirttyyvät täkemäksi Tromssaa.</xt>
+               <xt>Tule likemäksi!</xt>
             </xg>
             <xg>
                <x>Det var sikkert nærmere tredve år siden.</x>
@@ -4707,8 +4707,23 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>bevegelse til</re>
+            <t pos="Adv">täkemäksi</t>
+            <xg>
+               <x>De flytter nærmere hit til Tromsø.</x>
+               <xt>Het siirttyyvät täkemäksi Tromssaa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
          <re>bevegelse fra</re>
             <t pos="Adv">likemppää</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv"
+         <re>bevegelse fra</re>
             <t pos="Adv">täkemppää</t>
          </tg>
       </mg>
@@ -4716,7 +4731,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="Adv">likemin</t>
             <xg>
-               <x>Ved nærmere øyensyn kan man se at steinen er blå.</x>
+               <x>Ved nærmere øyensyn kan man se at steinen har blåskjær.</x>
                <xt>Ko kivvee kattoo likemin, niin se saattaa nähđä ette se sinerttää.</xt>
             </xg>
          </tg>
