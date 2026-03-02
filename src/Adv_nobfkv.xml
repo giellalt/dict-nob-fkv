@@ -3421,14 +3421,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>i retning dit bort</re>
+         <re>lengre ditover</re>
             <t pos="Adv">sikemäksi</t>
-            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>i retning der bort</re>
+         <re>lengre der bortover</re>
             <t pos="Adv">tuokemaksi</t>
          </tg>
       </mg>
@@ -3445,6 +3444,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>ditover</re>
             <t pos="Adv">sikempännä</t>
          </tg>
       </mg>
@@ -3466,6 +3466,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>ditbort fra</re>
             <t pos="Adv">sikemppää</t>
          </tg>
       </mg>
@@ -4676,7 +4677,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">likempännä</t>
-            <t pos="Adv">täkempännä</t>
             <xg>
                <x>Jeg bor nærmere butikken enn deg.</x>
                <xt>Mie asun likempännä kauppaa ko sie.</xt>
@@ -4685,7 +4685,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">likempännä</t>
+         <re>nærmere her, hit</re>
+            <t pos="Adv">täkempännä</t>
          </tg>
       </mg>
       <mg>
@@ -4705,7 +4706,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>bevegelse til</re>
+         <re>bevegelse til nærmere her, hit</re>
             <t pos="Adv">täkemäksi</t>
             <xg>
                <x>De flytter nærmere hit til Tromsø.</x>
@@ -4720,8 +4721,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fkv"
-         <re>bevegelse fra</re>
+         <tg xml:lang="fkv">
+         <re>bevegelse nærmere herfra</re>
             <t pos="Adv">täkemppää</t>
          </tg>
       </mg>
@@ -12281,6 +12282,65 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">voimakkhaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hitover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">tännepäin</t>
+            <t pos="Adv">tännekäsin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">ditover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sinnepäin</t>
+            <t pos="Adv">sinnekäsin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>bortover dit</re>
+            <t pos="Adv">tuonepäin</t>
+            <t pos="Adv">tuonekäsin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">der omkring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sieläpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">her omkring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">tääläpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l t_type="Phrase">derfra et sted</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sieltäpäin</t>
          </tg>
       </mg>
    </e>
