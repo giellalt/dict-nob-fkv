@@ -1803,13 +1803,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ai;ki">
       <lg>
          <l pos="Adv">lenger</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">ennää</t>
+            <xg>
+            <x>Jeg orker ikke lenger.</x>
+            <xt>Mie en jaksa ennää.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>om tid</re>
+            <t pos="Adv">kauvoimin</t>
+            <t pos="Adv">kauvemin</t>
+            <xg>
+               <x>Det tok lenger tid enn jeg trodde.</x>
+               <xt>Tuo kesti kauvemin ko luulin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3474,18 +3489,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>der borte fra</re>
             <t pos="Adv">tuokemppaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ki">
-      <lg>
-         <l pos="Adv">lengre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>om tid</re>
-            <t pos="Adv">kauvoimin</t>
-            <t pos="Adv">kauvemin</t>
          </tg>
       </mg>
    </e>
@@ -12336,8 +12339,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l t_type="Phrase">derfra et sted</l>
-      </lg>
+         <l t_type="Phrase">derfra et sted</l>      
+         </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">sieltäpäin</t>
