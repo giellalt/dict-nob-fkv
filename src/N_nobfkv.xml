@@ -19223,13 +19223,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;anb">
       <lg>
          <l pos="N">sak</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">assii</t>
+            <xg>
+            <x>Jeg må snakke med deg om en sak.</x>
+            <xt>Mie häyđyn puhhuut sinun kans yhđestä assiista.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -19244,8 +19248,9 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>det egentlige, sanne forholdet</re>
+         <re>sakens tilstand</re>
             <t pos="N">assiinlaita</t>
+            <t pos="N">asianlaita</t>
             <xg>
             <x>Saken er den at de ikke ønsker å treffe dere idag.</x>
             <xt>Assiinlaita oon niin ette het ei halluu kohđata teitä.</xt>
