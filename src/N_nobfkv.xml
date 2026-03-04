@@ -50663,12 +50663,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">avfallsdynge</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>søppeldynge</re>
             <t pos="N">tunkkii</t>
          </tg>
       </mg>
@@ -50680,6 +50681,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tunkkii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">avfallshaug</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rikkaläjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">bosshaug</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rikkaläjä</t>
          </tg>
       </mg>
    </e>
