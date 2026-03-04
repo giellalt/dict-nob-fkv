@@ -68983,7 +68983,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="tiilikive;tiilikivve">tiilikivi</t>
+            <t pos="N">tiilikivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tegl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tiili</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">teglstein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tiilikivi</t>
          </tg>
       </mg>
    </e>
@@ -72856,11 +72876,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">vares</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="varikse">varis</t>
+            <t pos="N">varis</t>
          </tg>
       </mg>
    </e>
@@ -113646,6 +113662,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">plastikkirikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">kråketå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om skrift</re>
+            <t pos="N">harakanvarvas</t>
          </tg>
       </mg>
    </e>
