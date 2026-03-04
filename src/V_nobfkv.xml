@@ -32071,6 +32071,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">agere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">toimiit</t>
+         </tg>
+      </mg>
+   </e>
    <e src="anb">
       <lg>
          <l t_type="Phrase">komme seg</l>
@@ -32088,6 +32098,65 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">toippuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">handle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>kjøpe</re>
+            <t pos="V">ostaat</t>
+            <xg>
+            <x>Jeg handler mat på nærbutikken.</x>
+            <xt>Mie ostan ruokkaa likikaupasta.</xt>
+            </xg>
+            <xg>
+            <x>Jeg handler inn julematen.</x>
+            <xt>Mie ostan jouluruovat.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>drive handel, handling</re>
+            <t pos="V">kaupata</t>
+            <t t_type="Phrase">käyđä kaupassa</t>
+            <xg>
+               <x>Jeg drar på butikken og handler.</x>
+               <xt>Mie käyn kaupassa ostamassa ruokkaa.</xt>
+            </xg>
+            <xg>
+               <x>Da jeg var ferdig med å handle var ranselen full.</x>
+               <xt>Ko mie olin valmis kauppaamasta niin minun ransseli oli täynä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gjøre, agere</re>
+            <t pos="V">toimiit</t>
+            <xg>
+               <x>Hvis huset brenner må du handle raskt.</x>
+               <xt>Jos huonet pallaa, sie häyđyt toimiit noppeesti.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>handle om</re>
+            <t t_type="Phrase">muistela jostaki</t>
+            <t t_type="Phrase">olla kyset jostaki</t>
+            <xg>
+               <x>Boken handler om kvener.</x>
+               <xt>Kirja muistelee kvääniistä.</xt>
+            </xg>
+            <xg>
+               <x>Hun forsto med en gang hva dette handlet om.</x>
+               <xt>Hän ymmärsi samassa, mistä tässä oon kyset.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
