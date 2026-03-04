@@ -62560,18 +62560,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;ki">
       <lg>
-         <l pos="N">matrester</l>
+         <l pos="N">matrest</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" nr="Pl">ruvanloput</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">ruokarästit</t>
+            <t pos="N">ruvanloput</t>
+            <t pos="N">ruokarästi</t>
+            <t pos="N">ruovanjätös</t>
          </tg>
       </mg>
    </e>
@@ -113586,6 +113583,38 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">biilinlyhty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ki">
+      <lg>
+         <l pos="N">avfall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rikka</t>
+            <t pos="N">jätös</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ki">
+      <lg>
+         <l pos="N">matavfall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">ruokarikka</t>
+            <t pos="N">ruovanjätös</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ki">
+      <lg>
+         <l pos="N">restavfall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rästirikka</t>
          </tg>
       </mg>
    </e>
