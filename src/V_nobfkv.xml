@@ -11349,23 +11349,44 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;ki">
       <lg>
          <l t_type="Phrase">klare seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="klaaraa;klaaran">klaarata</t>
+            <t pos="V" stem="pärjää;pärjän">pärjätä</t>
+            <xg>
+               <x>Hvordan klarte du deg i dag?</x>
+               <xt>Kuinka sie pärjäsit tänään?</xt>
+            </xg>
+            <xg>
+               <x>De klarte seg over vinteren.</x>
+               <xt>Het pärjäthiin talven yli.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="pärjää;pärjän">pärjätä</t>
+            <t pos="V">selvitä</t>
+            <xg>
+               <x>Jeg klarte meg ut av den vanskelige situasjonen.</x>
+               <xt>Mie selvisin vaikkeesta tilantheesta.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t t_type="Phrase">tulla toimheen</t>
+            <xg>
+               <x>De klarer seg med det de har.</x>
+               <xt>Het tulleevat toimheen sillä mitä oon.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="klaaraa;klaaran">klaarata</t>
          </tg>
       </mg>
    </e>
@@ -22010,11 +22031,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">seljetä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" stem="selvvii;selvin">selvitä</t>
+            <xg>
+               <x>Jeg ble edru.</x>
+               <xt>Minun pää selvis.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -22025,6 +22046,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">seljetä</t>
+            <xg>
+            <x>Horisonten klarnet i morgenlyset.</x>
+            <xt>Taivhaanranta selkeni aamuvalossa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -22082,13 +22107,40 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="V">klarne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="selvvii;selvin">selvitä</t>
+            <xg>
+               <x>Det klarnet for meg.</x>
+               <xt>Se selvis mulle.</xt>
+            </xg>
+            <xg>
+               <x>Himmelen klarnet.</x>
+               <xt>Taivas selvis.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">seestyyt</t>
+            <xg>
+            <x>Himmelen klarnet opp.</x>
+            <xt>Taivas seestyi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>få til å klarne</re>
+            <t pos="V">seestyttäät</t>
+            <xg>
+            <x>Sola står opp og klarner den skyfylte himmelen.</x>
+            <xt>Aurinko noussee ja seestyttää pilvitaivhaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
