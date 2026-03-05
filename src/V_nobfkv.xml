@@ -9401,24 +9401,51 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;es">
+   <e src="ta;es;anb">
       <lg>
          <l pos="V">gnage</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="kalluu;kalun">kaluta</t>
+            <t pos="V">jyrssiit</t>
+            <xg>
+               <x>Musene gnager på brødskalken.</x>
+               <xt>Hiiret jyrssiivät leivänpäätä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">jyrssiit</t>
+            <t pos="V" stem="kalluu;kalun">kaluta</t>
+            <xg>
+               <x>Hun gnager på beinet.</x>
+               <xt>Koira kalluu luuta.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
          <re>smått, fort</re>
             <t pos="V">kalaista</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>nage, tære</re>
+            <t pos="V">kalvaat</t>
+            <t pos="V">kalvaila</t>
+            <xg>
+               <x>Skoen gnager på foten.</x>
+               <xt>Kenkä kalvaa jalkkaa.</xt>
+            </xg>
+            <xg>
+               <x>Han kjente sulten gnage i magen.</x>
+               <xt>Hän tunsi ette nälkä kalvailee vattassa.</xt>
+            </xg>
+            <xg>
+               <x>Samvittigheten ganger meg.</x>
+               <xt>Omatunto kalvaa minnuu.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -32177,6 +32204,43 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">kullata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">nage</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kalvaat</t>
+            <t pos="V">kalvaila</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">tære</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>slite ut, fysisk slitasje</re>
+            <t pos="V">kuluttaat</t>
+            <xg>
+               <x>Det hardet arbeidet tærer på ham.</x>
+               <xt>Kova työ kuluttaa häntä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>plage, gnage</re>
+            <t pos="V">kalvaat</t>
+            <t pos="V">kalvaila</t>
+            <xg>
+               <x>Tanken tærer på ham.</x>
+               <xt>Ajatus kalvaa hänen mieltä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
