@@ -30399,13 +30399,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="anb;ki">
       <lg>
          <l t_type="Phrase">rakke ned på</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">parjata</t>
+            <xg>
+               <x>De rakker alltid ned på oss, som om vi var undermennesker.</x>
+               <xt>Het aina vain parjaavat meitä, niin ko met olisimma alaihmiset.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="V">vähätellä</t>
+            <xg>
+               <x>Han rakket ned på arbeidet mitt.</x>
+               <xt>Hän vähätteli minun työtä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -32352,6 +32365,76 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Nå er det til å ta fatt på arbeidet.</x>
                <xt>Nyt oon aika ryhtyyt töihin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">snakke stygt om</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">parjata</t>
+            <xg>
+               <x>Ikke snakk så stygt om ham.</x>
+               <xt>Älä parjaa häntä niin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">kritisere kraftig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">parjata</t>
+            <xg>
+               <x>Han kritiserte skolen og dens lærere kraftig.</x>
+               <xt>Hän parjas kouluu ja sen opettaajiita.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">baktale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">parjata</t>
+            <xg>
+               <x>Slutt nå å baktale henne foran meg.</x>
+               <xt>Heitä nyt parjaamasta häntä minun kuulten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">baksnakke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">parjata</t>
+            <xg>
+               <x>Slutt nå å baksnakke henne foran meg.</x>
+               <xt>Heitä nyt parjaamasta häntä minun kuulten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">bakvaske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">parjata</t>
+            <xg>
+               <x>Partiet bakvasker sine politiske motstandere.</x>
+               <xt>Puoluet parjaa ittensä poliittissii vastustaajiita.</xt>
             </xg>
          </tg>
       </mg>
