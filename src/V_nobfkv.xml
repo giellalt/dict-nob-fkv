@@ -9505,7 +9505,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V" stem="kalluu;kalun">kaluta</t>
             <xg>
-               <x>Hun gnager på beinet.</x>
+               <x>Hunden gnager på beinet.</x>
                <xt>Koira kalluu luuta.</xt>
             </xg>
          </tg>
@@ -9530,7 +9530,7 @@ For the full license text, see the link above.</lic>
                <xt>Hän tunsi ette nälkä kalvailee vattassa.</xt>
             </xg>
             <xg>
-               <x>Samvittigheten ganger meg.</x>
+               <x>Samvittigheten ganger i meg.</x>
                <xt>Omatunto kalvaa minnuu.</xt>
             </xg>
          </tg>
@@ -32554,6 +32554,16 @@ For the full license text, see the link above.</lic>
                <x>De ilte til unnstetning.</x>
                <xt>Het rienethiin aphuun.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">blåne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sinerttäät</t>
          </tg>
       </mg>
    </e>
