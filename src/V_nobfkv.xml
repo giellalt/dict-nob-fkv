@@ -4121,6 +4121,16 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ta fatt på, gå i gang med</re>
+            <t pos="V">ryhtyyt</t>
+            <xg>
+               <x>Maten var klar, og de begynte å spise.</x>
+               <xt>Ruoka oli valmis, ja het ryhđythiin syömhään.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta;es">
       <lg>
@@ -32329,6 +32339,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">sanela</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">ta fatt på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ryhtyyt</t>
+            <xg>
+               <x>Nå er det til å ta fatt på arbeidet.</x>
+               <xt>Nyt oon aika ryhtyyt töihin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
