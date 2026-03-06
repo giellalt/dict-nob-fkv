@@ -108945,6 +108945,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">bakvasker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">parjaaja</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">baksnakker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">parjaaja</t>
+         </tg>
+      </mg>
+   </e>
         <e src="ta;anb">
       <lg>
          <l t_type="Phrase">mann med skjegg</l>
@@ -113743,6 +113763,46 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tietön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">baksnakking</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">parjaaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">bakvaskelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">parjaaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">bakvasking</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">parjaaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">baktaling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">parjaaminen</t>
          </tg>
       </mg>
    </e>

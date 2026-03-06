@@ -1595,7 +1595,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">jääđä</t>
-            <t pos="V">pyssäänttyyt</t>
+            <xg>
+               <x>Jeg blir igjen hjemme.</x>
+               <xt>Mie jään kothiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">jääđä</t>
          </tg>
       </mg>
    </e>
@@ -9039,23 +9047,74 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">bli</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>om endring, å bli til noe</re>
             <t pos="V" stem="tule;tul">tulla</t>
+            <xg>
+               <x>Hun blir lege etter studiene.</x>
+               <xt>Hänestä tullee lääki opinoitten jälkhiin.</xt>
+            </xg>
+            <xg>
+               <x>Er han blitt syk?</x>
+               <xt>Oonko hän tullu sairhaaksi?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>bli igjen</re>
             <t pos="V">jääđä</t>
+            <xg>
+               <x>Blir du her i natt?</x>
+               <xt>Jäätkö yöksi?</xt>
+            </xg>
+            <xg>
+               <x>Jeg vil bare bli husket.</x>
+               <xt>Mie halluun tyhä jääđä muitten mielheen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>bli værende</re>
+            <t pos="V">pyssyyt</t>
+            <xg>
+               <x>Jeg blir værende hjemme i dag.</x>
+               <xt>Mie pysyn kotona tääpänä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>være til sammen, koste</re>
+            <t pos="V">tehđä</t>
+            <xg>
+               <x>En pluss to blir tre.</x>
+               <xt>Yksi ja kaksi tekkee kolme.</xt>
+            </xg>
+            <xg>
+               <x>"Det blir 100 kroner, takk.", sa kassebetjenten.</x>
+               <xt>"Se tekkee 100 kruunuu, kiitos." sanoi kassatyöteliijä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>drøye, bli lenge</re>
             <t pos="V">viivättäät</t>
+            <xg>
+               <x>De ble lenge hos bestemor.</x>
+               <xt>Het viivätethiin ämmin tykönä.</xt>
+            </xg>
+            <xg>
+               <x>Så lenge dere ble, hva gjorde dere?</x>
+               <xt>Viivätittäpä tet kauvoin, mitä tehittä?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
