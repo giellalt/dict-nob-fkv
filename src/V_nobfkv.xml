@@ -2363,12 +2363,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;yr">
+   <e src="anb;ai;ta;yr">
       <lg>
          <l pos="V">stake</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>merke vei</re>
+            <t pos="V">tikata</t>
+            <xg>
+               <x>Vi må stake opp stien så vi ikke går oss vill neste gang.</x>
+               <xt>Met häyđymä tikata tien niin ettemä eksy ensi kerrala.</xt>
+            </xg>
+            <xg>
+               <x>Gud har staket ut min ferd.</x>
+               <xt>Jumala oon tikanu minun tien.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>skyve fram med staver, staker</re>
             <t pos="V">sauvoot</t>
          </tg>
       </mg>
