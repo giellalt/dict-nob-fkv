@@ -3596,13 +3596,31 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="V">fly</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="lennä;lentä">lenttäät</t>
+            <xg>
+               <x>Vi flyr til Vadsø i morgen.</x>
+               <xt>Huomena met lennämä Vesisaarheen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>billedlig om tid, tanker</re>
+            <t pos="V">rienttäät</t>
+            <xg>
+               <x>Tiden flyr.</x>
+               <xt>Aika rienttää.</xt>
+            </xg>
+            <xg>
+               <x>Tankene hans fløy av sted.</x>
+               <xt>Hänen ajatukset rienethiin muuvale.</xt>
+            </xg>
          </tg>
       </mg>
    </e>   
@@ -9692,22 +9710,34 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">karssiit</t>
+         <re>om bevegelse</re>
+            <t pos="V">tormata</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>angripe</re>
+            <t pos="V">karssiit</t>
+            <xg>
+            <x>Den galningen ruset på meg.</x>
+            <xt>Se hullu karsi minun pääle.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;es">
+      <lg>
+         <l pos="V">storme</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
          <re>om bevegelse</re>
             <t pos="V">tormata</t>
          </tg>
       </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="V">storme</l>
-      </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>angripe</re>
             <t pos="V">karssiit</t>
          </tg>
       </mg>
@@ -16462,7 +16492,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ki">
+   <e src="ai;ki;anb">
       <lg>
          <l pos="V">fare</l>
       </lg>
@@ -16491,6 +16521,20 @@ For the full license text, see the link above.</lic>
 	            <x>Vi farer til byen i morgen.</x>
 		        <xt>Met faarrima kaupunkhiin huomena.</xt>
 		    </xg>
+         </tg>
+      </mg> 
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om rask bevegelse, ile</re>
+            <t pos="V">rienttäät</t>
+          <xg>
+	          <x>Ørreten for oppover elva.</x>
+		       <xt>Tammukka riensi ylösjokkee.</xt>
+		    </xg>
+            <xg>
+               <x>Tankene hans for av sted.</x>
+               <xt>Hänen ajatukset rienethiin muuvale.</xt>
+            </xg>
          </tg>
       </mg> 
    </e>
@@ -25534,6 +25578,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>rulle, trille</re>
             <t pos="V">vieriit</t>
          </tg>
       </mg>
@@ -32494,6 +32539,20 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Partiet bakvasker sine politiske motstandere.</x>
                <xt>Puoluet parjaa ittensä poliittissii vastustaajiita.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">ile</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">rienttäät</t>
+            <xg>
+               <x>De ilte til unnstetning.</x>
+               <xt>Het rienethiin aphuun.</xt>
             </xg>
          </tg>
       </mg>
