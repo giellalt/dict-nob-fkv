@@ -14857,7 +14857,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="A">ufremkommelig</l>
       </lg>
@@ -14868,6 +14868,12 @@ For the full license text, see the link above.</lic>
             <x>Kulkematon tie.</x>
             <xt>Ufremkommelig vei.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om terreng</re>
+            <t pos="A">maisematon</t>
          </tg>
       </mg>
    </e>
@@ -15032,17 +15038,6 @@ For the full license text, see the link above.</lic>
    <e src="anb">
       <lg>
          <l pos="A">uframkommelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>om terreng</re>
-            <t pos="A">maisematon</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="anb">
-      <lg>
-         <l pos="A">ufremkommelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
