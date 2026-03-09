@@ -9636,7 +9636,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="V">bære</l>
       </lg>
@@ -9644,6 +9644,28 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">kanttaat</t>
             <t pos="V">kannela</t>
+            <xg>
+               <x>De bar eskene inn i stua.</x>
+               <xt>Het kannethiin loovat tuphaan.</xt>
+            </xg>
+            <xg>
+               <x>Kan du bære vesken for meg?</x>
+               <xt>Saattaisitko kanttaat väskyy minun puolesta?</xt>
+            </xg>
+            <xg>
+               <x>Lyden bar langt.</x>
+               <xt>Saattaisitko kanttaat väskyy minun puolesta?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om lyd</re>
+            <t pos="V">kanttaanttuut</t>
+            <xg>
+               <x>Det var stille, så lyden bar langt.</x>
+               <xt>Oli hiljaista, niin ääni kanttaantui kauvas.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13230,6 +13252,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">kuuluut</t>
+            <xg>
+               <x>Bråket fra byen høres langt unna fra.</x>
+               <xt>Kaupungin melu kuuluu kaukkaa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -13238,6 +13264,16 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Det ble hørt en fryktelig lyd fra skogen.</x>
                <xt>Mettästä kuulatti hirvee ääni.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>kunne høres, bære, lyde</re>
+            <t pos="V">kanttaanttuut</t>
+            <xg>
+               <x>Lyden fra skipene kunne høres helt inn til land.</x>
+               <xt>Merilaivoin ääni kanttaantui maale.</xt>
             </xg>
          </tg>
       </mg>
@@ -28300,6 +28336,10 @@ For the full license text, see the link above.</lic>
             <x>Han nådde målene sine.</x>
             <xt>Hän sautti ittensä moolit.</xt>
             </xg>
+            <xg>
+            <x>Jeg nådde ikke bussen.</x>
+            <xt>Mie en sauttannu bussii.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -28315,7 +28355,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	     <re></re> 
             <t pos="V">ulettuut</t>
             <t pos="V">ulelttuut</t>
             <t pos="V">ulettaat</t>
@@ -31339,7 +31378,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="V">lyde</l>
       </lg>
@@ -31347,6 +31386,20 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>gi lyd</re>
             <t pos="V">kuuluut</t>
+            <xg>
+            <x>Det lød stemmer utenfor.</x>
+            <xt>Ulkkoo kuului äänii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>høres ut som</re>
+            <t pos="V">kuulostaat</t>
+            <xg>
+            <x>Den påstanden lyder merkelig.</x>
+            <xt>Se väitet kuulostaa eriskummaliselta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
