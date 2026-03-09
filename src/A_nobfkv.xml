@@ -9627,10 +9627,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">pitkäaikhainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">pitkälinen</t>
          </tg>
       </mg>
@@ -9658,6 +9654,16 @@ For the full license text, see the link above.</lic>
    <e src="ai">
       <lg>
          <l pos="A">kjedelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pitkävetoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">langtekkelig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -10201,10 +10207,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ki;ai;ta">
       <lg>
          <l pos="A">langdryg</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>kjedelig</re>
+            <t pos="A">pitkävetoinen</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">rappee</t>
