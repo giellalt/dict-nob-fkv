@@ -15768,26 +15768,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es;ki">
+   <e src="ai;ta;es;ki;anb">
       <lg>
          <l t_type="Phrase">legge seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t t_type="Phrase">mennä nukkumhaan</t>
+            <t t_type="Phrase">panna nukkumhaan</t>
             <t t_type="Phrase">panna maata</t>
+            <xg>
+            <x>Jeg skal legge meg.</x>
+            <xt>Mie menen nukkumhaan.</xt>
+            </xg>
             <xg>
             <x>Alle gikk og la seg.</x>
             <xt>Kaikki panthiin maata.</xt>
             </xg>
          </tg>
       </mg>
-            <mg>
+      <mg>
          <tg xml:lang="fkv">
-            <t t_type="Phrase">mennä nukkumhaan</t>
-            <t t_type="Phrase">panna nukkumhaan</t>
+         <re>om hav</re>
+            <t pos="V">tyventtyyt</t>
             <xg>
-            <x>Jeg skal legge meg.</x>
-            <xt>Mie panen nukkumhaan.</xt>
+               <x>Havet la seg på kvelden.</x>
+               <xt>Meri tyventyi illala.</xt>
             </xg>
          </tg>
       </mg>
@@ -21190,13 +21196,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l t_type="Phrase">roe seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="rauhoitu">rauhoittuut</t>
+            <xg>
+               <x>Han roet seg ned.</x>
+               <xt>Hän rauhoittui.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tyventtyyt</t>
+            <xg>
+               <x>Stormen har roet seg.</x>
+               <xt>Tormi oon tyventynny.</xt>
+            </xg>
+            <xg>
+               <x>Jeg kommer når alt har roet seg.</x>
+               <xt>Mie tulen ko kaikki tyventtyy.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24787,23 +24810,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;anb">
       <lg>
          <l pos="V">stilne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">vaistoot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
 	         <re>om været</re>
             <t pos="V">vaistota</t>
+            <t pos="V">vaistoot</t>
+            <t pos="V">tyventtyyt</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>om stemme</re>
             <t pos="V">vaimeta</t>
          </tg>
       </mg>
@@ -24811,6 +24832,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>få til å bli stille</re>
             <t pos="V">hiljenttäät</t>
+            <xg>
+               <x>Forestillingen stilnet publikum.</x>
+               <xt>Esitys hiljensi publikumin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -32579,6 +32604,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">sinerttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="V">løye</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tyventtyyt</t>
+            <xg>
+               <x>Vinden løyet.</x>
+               <xt>Tuuli tyventyi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
