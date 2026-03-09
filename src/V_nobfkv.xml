@@ -13312,18 +13312,44 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="V">adlyde</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kuunnele;kuuntel">kuunela</t>
+            <xg>
+               <x>Adlyd moren din!</x>
+               <xt>Kuuntele sinun äittii!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>stereke enn kuunela</re>
             <t pos="V">totela</t>
+            <xg>
+               <x>Han adlyder foreldrene sine.</x>
+               <xt>Hän tottelee ittensä vanhiimiita.</xt>
+            </xg>
+            <xg>
+               <x>Han adlød uten å protestere.</x>
+               <xt>Hän totteli vastustamatta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">nouđattaat</t>
+            <xg>
+               <x>Han adlød ordren.</x>
+               <xt>Hän nouđatti käskyy.</xt>
+            </xg>
+            <xg>
+               <x>Du må adlyde loven.</x>
+               <xt>Sie häyđyt nouđattaat lakkii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21933,19 +21959,49 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">seurata</t>
+            <xg>
+               <x>Jeg følger med på nyhetene.</x>
+               <xt>Mie seuraan uutissii.</xt>
+            </xg>
+            <xg>
+               <x>Jeg følger deres eksempel.</x>
+               <xt>Mie seuraan teiđän esimerkkii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>følge etter, følge opp</re>
+            <t pos="V">kuorata</t>
+            <xg>
+               <x>De følger fotsporene.</x>
+               <xt>Het kuoraavat jalanjälkkii.</xt>
+            </xg>
+            <xg>
+               <x>Vi må følge opp vedtektene.</x>
+               <xt>Met häyđymä kuorata päätöksiitä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
 	         <re>f.eks. hjem</re>
             <t pos="V" stem="saata">saattaat</t>
+            <xg>
+               <x>Jeg kan følge deg hjem.</x>
+               <xt>Mie saatan saattaat sinun kothiin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>f.eks. regler</re>
+	         <re>f.eks. regler, ordre</re>
             <t pos="V">nouđattaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">seurata</t>
+            <xg>
+               <x>Jeg følgte rådet ditt.</x>
+               <xt>Mie nouđatin sinun neuvoo.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21956,6 +22012,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t t_type="Phrase">saađa selvile</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l t_type="Phrase">følge opp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kuorata</t>
+            <xg>
+               <x>Vi må følge opp vedtektene.</x>
+               <xt>Met häyđymä kuorata päätöksiä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -31403,6 +31473,20 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Den påstanden lyder merkelig.</x>
             <xt>Se väitet kuulostaa eriskummaliselta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>adlyde</re>
+            <t pos="V">totela</t>
+            <xg>
+            <x>Barna lyder ikke alltid foreldrene sine.</x>
+            <xt>Lapset ei aina tottele ittensä vanhiimiita.</xt>
+            </xg>
+            <xg>
+            <x>Nå skal du lyde!</x>
+            <xt>Nyt tottelet!</xt>
             </xg>
          </tg>
       </mg>
