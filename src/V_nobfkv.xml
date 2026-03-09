@@ -21379,11 +21379,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;anb">
       <lg>
-         <l t_type="Phrase">bli rik(ere)</l>
+         <l t_type="Phrase">bli rik</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">rikastuut</t>
+            <t pos="V">vaurastuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">bli velstående</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="V">vaurastuut</t>
          </tg>
       </mg>
