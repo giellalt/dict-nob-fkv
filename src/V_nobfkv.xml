@@ -17932,19 +17932,45 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>gjøre rett eller bein</re>
             <t pos="V">oikaista</t>
+            <xg>
+               <x>Han rettet ryggen.</x>
+               <xt>Hän oikaisi sölän.</xt>
+            </xg>
+            <xg>
+               <x>Han rettet feilene i teksten.</x>
+               <xt>Hän oikaisi feilit tekstissä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>vende mot noen eller noe</re>
+         <re>vende mot noe</re>
             <t pos="V">suunata</t>
             <xg>
-               <x>Han rettet blikket mot henne.</x>
-               <xt>Hän suuntas kattheen hänheen.</xt>
+               <x>Han rettet skrittene mot stranda.</x>
+               <xt>Hän suuntas askelheet kohđi ranttaa.</xt>
+            </xg>
+            <xg>
+               <x>Spørsmålet var rettet mot statsministeren.</x>
+               <xt>Kysymyksen oli suunattu staatinministerile.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>rette mot, målrette</re>
+            <t pos="V">kohđistaat</t>
+            <xg>
+               <x>Naboen sto ved postkassa med øynene rettet mot meg.</x>
+               <xt>Kranni seisoi postiloovan vieressä silmät kohđistettuina minhuun.</xt>
             </xg>
             <xg>
                <x>Reklamen er rettet mot barn og unge.</x>
-               <xt>Reklaamin oon suunattu lapsile ja nuorile.</xt>
+               <xt>Reklaamin oon kohđistettu lapsile ja nuorile.</xt>
+            </xg>
+            <xg>
+               <x>Bønnene og tankene hans var rettet mot en høyere makt.</x>
+               <xt>Miehen rukkoukset ja ajatukset olthiin kohđistettu korkkeemalle mahđile.</xt>
             </xg>
          </tg>
       </mg>
@@ -32876,6 +32902,24 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>IT, koble sammen lenker på internett</re>
             <t pos="V">lenkittäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="V">målrette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kohđistaat</t>
+            <xg>
+               <x>Vi må målrette markedsføringen mot ungdom.</x>
+               <xt>Met häyđymä kohđistaat markkenoittemisen nuorile.</xt>
+            </xg>
+            <xg>
+               <x>Det er mye målrettet reklame på denne nettsiden.</x>
+               <xt>Tällä nettilaiđala oon paljon kohđistettuu reklaamii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
