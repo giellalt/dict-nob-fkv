@@ -24436,13 +24436,45 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ai">
+      <lg>
+         <l pos="N">sannhetsgehalt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">perä</t>
+            <t pos="N">pörä</t>
+            <xg>
+               <x>Jeg vet ikke om det er sant.</x>
+               <xt>En tieđä, oonko siinä perrää.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ki;ai">
       <lg>
          <l pos="N">hold</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>kant</re>
+         <re>det å holde</re>
+            <t pos="N">pito</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>pålitelighet, sannhetsgehalt</re>
+            <t pos="N">perä</t>
+            <t pos="N">pörä</t>
+            <xg>
+               <x>Jeg vet ikke om det hold i den påstanden.</x>
+               <xt>En tieđä, oonko siinä väittheessä perrää.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>kant, område krets hvor noe kommer fra</re>
             <t pos="N">kantti</t>
             <xg>
                <x>Hun fra støtte fra alle hold.</x>
