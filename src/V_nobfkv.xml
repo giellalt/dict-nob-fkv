@@ -5676,40 +5676,102 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es;akr">
+   <e src="ai;ta;es;ki">
       <lg>
          <l pos="V">styre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>herske, regjere</re>
-            <t pos="V" stem="hallitte;hallite">hallita</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">häärätä</t>
+         <re>styre retning</re>
+            <t pos="V">styyrätä</t>
+            <t pos="V">tyyrätä</t>
             <xg>
-            <x>De styrer på kjøkkenet og lager mat.</x>
-            <xt>Het hääräthään köökissä ja laitethaan ruokkaa.</xt>
+            <x>Hun styrer båten inn til land.</x>
+            <xt>Hän tyyrää venheen rannale.</xt>
+            </xg> 
+            <xg>
+            <x>Vi kan ikke styre alt som skjer.</x>
+            <xt>Met emmä saata styyrätä kaikkee mitä tapattuu.</xt>
             </xg> 
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>om kontroll, veiledning</re>
+            <t pos="V" stem="ohjaa;ohjan">ohjata</t>
+            <xg>
+            <x>Apparatet styres elektronisk.</x>
+            <xt>Apparaatin ohjathaan elektroonisesti.</xt>
+            </xg> 
+            <xg>
+            <x>De voksne styrte praten.</x>
+            <xt>Raavhaat ohjathiin praattii.</xt>
+            </xg> 
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>lede som ansvarsperson</re>
+            <t pos="V">johtaat</t>
+            <xg>
+            <x>Fylkeskommunen har styrt arbeidet i dette prosjektet.</x>
+            <xt>Fylkinkommuuni oon johtanu tämän prosektin työtä.</xt>
+            </xg> 
+            <xg>
+            <x>Han styrer firmaet.</x>
+            <xt>Hän johtaa firmaa.</xt>
+            </xg> 
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>herske, regjere</re>
+            <t pos="V" stem="hallitte;hallite">hallita</t>
+            <xg>
+            <x>Den autoritære lederen prøver å styre tankesettet til innbyggerne.</x>
+            <xt>Autoritääri johtaaja freistaa hallita kansalaisten ajattelutappaa.</xt>
+            </xg> 
+            <xg>
+            <x>Hvem er det egentlig som styrer dette landet?</x>
+            <xt>Kuka tätä maata hallitteekhaan?</xt>
+            </xg> 
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ståke</re>
+            <t pos="V">häärätä</t>
+            <xg>
+            <x>De styrer på kjøkkenet og lager mat.</x>
+            <xt>Het hääräävät köökissä ja laittaavat ruokkaa.</xt>
+            </xg> 
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>tilrettesette</re>
             <t pos="V" stem="koussaa;kousan">kousata</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="ohjaa;ohjan">ohjata</t>
+	         <re>styre, beherske seg</re>
+            <t pos="V">hillitä</t>
+            <t pos="V">piđätellä</t>
+            <xg>
+               <x>Nå får du prøve å styre deg!</x>
+               <xt>Nyt sie häyđyt freistata hillitä ittesti!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>spes. på ski, bil o.l.</re>
-            <t pos="V">styyrätä</t>
-            <t pos="V">tyyrätä</t>
+	         <re>styre på, drive med noe</re>
+            <t pos="V">touhuut</t>
+            <xg>
+               <x>Hva er det du styrer med der borte?</x>
+               <xt>Mitä sie touhut sielä?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5730,14 +5792,27 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="halluu;halun">haluta</t>
+            <xg>
+               <x>Jeg har lyst til å spørre noe.</x>
+               <xt>Mie haluan kyssyyt jotaki.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t t_type="Phrase">olla halu</t>
+            <xg>
+               <x>Han har lyst å reise på ferie.</x>
+               <xt>Hänelä oon halu reisata feeriälle.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">huvittaat</t>
             <xg>
-               <x>Det hadde man ikke lyst til.</x>
-               <xt>Se ei huvittannu.</xt>
+               <x>Det hadde vi ikke lyst til.</x>
+               <xt>Se ei huvittannu meitä.</xt>
             </xg>
          </tg>
       </mg>
@@ -8220,18 +8295,38 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;fkvnob">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">klare</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>orke</re>
             <t pos="V">jaksaat</t>
+            <xg>
+               <x>Jeg klarer ikke mer, jeg er så sliten.</x>
+               <xt>Mie en jaksa ennää, mie olen niin vaipunu.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>være i stand til</re>
             <t pos="V">pystyyt</t>
+            <xg>
+               <x>Klarer du å løse gåten?</x>
+               <xt>Pystytkö sie ratkaisemhaan arvauksen?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>klare å beherske seg</re>
+            <t pos="V">malttaat</t>
+            <xg>
+               <x>Jeg klarte ikke å la være å spørre.</x>
+               <xt>Mie en malttanu anttaat olla kysymättä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -32991,6 +33086,16 @@ For the full license text, see the link above.</lic>
                <x>Klokken tikker.</x>
                <xt>Kello tikittää.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">regissere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">ohjata</t>
          </tg>
       </mg>
    </e>
