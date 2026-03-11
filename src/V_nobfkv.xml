@@ -25250,6 +25250,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="TV">valmistaat</t>
+            <t pos="V" val="TV">valmistella</t>
          </tg>
       </mg>
    </e>
@@ -25301,6 +25302,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" val="IV">valmistuut</t>
+            <t t_type="Phrase">valmistella ittensä</t>
             <xg>
                <x>Jos sie halluut sen, niin valmistu taistelmhaan sen eđestä.</x>
                <xt>Hvis du vil ha det så gjør deg klar til å kjempe for det.</xt>
@@ -25312,6 +25314,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>De gjør seg klar til en lang hjemreise.</x>
                <xt>Het valmistumma pitkäle kotimatkale.</xt>
+            </xg>
+            <xg>
+               <x>De gjør seg klar til en ny dag.</x>
+               <xt>Het valmistelleevat ittensä uutheen päivhään kotimatkale.</xt>
             </xg>
          </tg>
       </mg>
@@ -29038,12 +29044,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="anb;es">
       <lg>
          <l pos="V">tilberede</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">valmistaat</t>
             <t pos="V">valmistella</t>
          </tg>
       </mg>
@@ -33196,6 +33203,34 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">sätkiit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">klargjøre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gjøre klar til bruk</re>
+            <t pos="V">valmistaat</t>
+            <t pos="V">valmistella</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gjøre klar, mer forståelig</re>
+            <t pos="V">selkkeenttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">tydeliggjøre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">selkkeenttäät</t>
          </tg>
       </mg>
    </e>
