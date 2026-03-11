@@ -25092,8 +25092,18 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>om stemme</re>
+         <re>dempes</re>
             <t pos="V">vaimeta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>bli tyst</re>
+            <t pos="V">hiljetä</t>
+            <xg>
+               <x>Praten stilnet brått da hun kom inn i rommet.</x>
+               <xt>Praati hiljeni fakki ko hän tuli lomhaan.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -33096,6 +33106,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">ohjata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">tystne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">hiljetä</t>
          </tg>
       </mg>
    </e>
