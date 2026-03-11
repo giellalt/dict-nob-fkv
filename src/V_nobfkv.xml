@@ -17939,7 +17939,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>gjøre rett eller bein</re>
+         <re>gjøre rett, både abstrakt og fysisk</re>
             <t pos="V">oikaista</t>
             <xg>
                <x>Han rettet ryggen.</x>
@@ -17948,6 +17948,16 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Han rettet feilene i teksten.</x>
                <xt>Hän oikaisi feilit tekstissä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gjøre fysisk rett</re>
+            <t pos="V">suoristaat</t>
+            <xg>
+               <x>Hun rettet ryggen.</x>
+               <xt>Hän suoristi sölän.</xt>
             </xg>
          </tg>
       </mg>
@@ -32957,6 +32967,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">elektrifiseerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">nøle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">epäröiđä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">tikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tikittäät</t>
+            <xg>
+               <x>Klokken tikker.</x>
+               <xt>Kello tikittää.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
