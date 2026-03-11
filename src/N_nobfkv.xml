@@ -1215,12 +1215,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>ledelse</re>
          <t pos="N">styyri</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>ledelse</re>
          <t pos="N">johto</t>
+         <xg>
+            <x>Saken ble behandlet i styret.</x>
+            <xt>Assiin käsitelhiin styyrissä.</xt>
+         </xg>
+         <xg>
+            <x>Landsstyretmøtet til partiet er i mars.</x>
+            <xt>Parttiin maanjohđon möötti oon marsikuussa.</xt>
+         </xg>
          </tg>
       </mg>
       <mg>
@@ -80811,6 +80814,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>i f.eks. en bedrift</re>
+            <t pos="N">johto</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>veiledning</re>
             <t pos="N">ohjaus</t>
          </tg>
       </mg>
