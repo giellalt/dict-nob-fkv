@@ -11901,12 +11901,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>på alle fire</re>
             <t pos="V">kontata</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>kravle, lavt langs bakken</re>
             <t pos="V">ryömiit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>snegle seg, bevege seg sakte</re>
+            <t pos="V">mađela</t>
          </tg>
       </mg>
       <mg>
@@ -33147,6 +33155,47 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>snakke i ett kjør</re>
             <t pos="V">hölpöttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">kravle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>krype</re>
+            <t pos="V">ryömiit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">hvese</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">kähistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">øremerke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">korvamerkitä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">sprelle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">sätkiit</t>
          </tg>
       </mg>
    </e>
