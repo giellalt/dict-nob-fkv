@@ -665,14 +665,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">jälkhiin</t>
-            <xg>
-            <x>Han/hun flyttet hit etter krigen.</x>
-            <xt>Hän siirtyi tänne jälkhiin sođan.</xt>
-            </xg>
-            <xg>
-            <x>Det er avhengig av hvordan vi ønsker å gjøre det.</x>
-            <xt>Se oon sen jälkhiin kunka met halluuma tehđä sen.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2395,14 +2387,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;anb">
       <lg>
          <l pos="Adv">senere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">jälkhiin</t>
             <t pos="Adv">hiljemin</t>
             <t pos="Adv">jälemin</t>
+            <xg>
+               <x>Mange dager senere kom de tilbake.</x>
+               <xt>Monta päivää jälkhiin het tulthiin takaisin.</xt>
+            </xg>
+            <xg>
+               <x>Jeg kan gjøre det senere.</x>
+               <xt>Mie saatan tehđä sen hiljemin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

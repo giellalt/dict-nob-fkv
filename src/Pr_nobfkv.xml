@@ -453,20 +453,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;anb">
       <lg>
          <l pos="Pr">ifølge</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">jonku jälkhiin</t>
+            <t pos="Po">jälkhiin</t>
+            <t pos="Po">jälkheen</t>
                   <xg>
                <x>Ifølge sagnet var Sammeli Kippanen den første som kom til Børselv.</x>
                <xt>Muisteluksen jälkhiin Sammeli Kippanen oli ensimäinen joka tuli Pyssyjokheen.</xt>
             </xg>
-                   <xg>
+            <xg>
                <x>Ifølge loven er det straffbart å plage andre på internet.</x>
-               <xt>Lajin jälkhiin saapi rangaistuksen ko kiussaa toissii internetissä.</xt>
+               <xt>Lajin jälkheen saapi rangaistuksen ko kiussaa toissii internetissä.</xt>
             </xg>
             <xg>
                <x>Ifølge ekspertene lønner det seg å tenke på miljøet.</x>
@@ -1757,10 +1758,39 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>senere enn</re>
             <t pos="Po">jälkhiin</t>
+            <t pos="Po">jälkheen</t>
              <xg>
                <x>Jeg kommer etter jobb.</x>
                <xt>Mie tulen töitten jälkhiin.</xt>
+            </xg>
+            <xg>
+              <x>Jeg flyttet hit etter krigen.</x>
+              <xt>Mie siiryin tänne sođan jälkhiin.</xt>
+            </xg>
+            <xg>
+              <x>De hviler seg etter løpet.</x>
+              <xt>Het leppäävät juoksun jälkheen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>i samsvar med, på grunnlag av</re>
+            <t pos="Po">jälkheen</t>
+            <t pos="Po">jälkhiin</t>
+             <xg>
+               <x>De kler seg etter moten.</x>
+               <xt>Het vaatitteevat ittensä muutin jälkheen.</xt>
+            </xg>
+            <xg>
+               <x>Det er straffbart etter loven å mobbe andre på nett.</x>
+               <xt>Lajin jälkheen saapi rangaistuksen ko kiussaa toissii internetissä.</xt>
+            </xg>
+            <xg>
+              <x>Det er avhengig av hvordan vi ønsker å gjøre det.</x>
+              <xt>Se oon sen jälkhiin kunka met halluuma tehđä sen.</xt>
             </xg>
          </tg>
       </mg>
