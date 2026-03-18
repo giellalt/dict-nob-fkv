@@ -53096,21 +53096,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">pahaspoika</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">poikainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="poikase;poikas">poikanen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">poikanen</t>
+            <t pos="N">pahaspoika</t>
             <t pos="N">poikunen</t>
          </tg>
       </mg>
@@ -53152,11 +53140,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pahtaloma</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Pr">ennen</t>
          </tg>
       </mg>
    </e>
@@ -56886,12 +56869,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="anb;ai">
       <lg>
          <l t_type="Phrase">ung mann</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">miehenalku</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>guttunge</re>
             <t pos="N">poikunen</t>
          </tg>
       </mg>

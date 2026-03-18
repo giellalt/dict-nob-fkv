@@ -982,16 +982,44 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ai;ta">
       <lg>
          <l pos="Adv">heller</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Pr">ennen</t>
+            <xg>
+               <x>Jeg vil heller dø enn å gi opp.</x>
+               <xt>Ennen mie kuolisin, ennen ko antaisin ylön.</xt>
+            </xg>
+            <xg>
+               <x>Hun hadde heller hatt lyst til å bli igjen.</x>
+               <xt>Hän olis ennen halunu jääđä tänne.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">mieluumin</t>
             <xg>
                <x>Jeg vil heller ha den der.</x>
                <xt>Halluun mieluumin tuon.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ved nekting</re>
+            <t pos="Clt">-khaan</t>
+            <t pos="Clt">-khään</t>
+            <xg>
+               <x>Jeg vil ikke ha den. - Ikke jeg heller.</x>
+               <xt>Mie en halluu sitä. - En miekhään.</xt>
+            </xg>
+            <xg>
+               <x>Jeg har ikke mat meg meg. - Ikke jeg heller.</x>
+               <xt>Mulla ei ole ruokkaa myötä. - Ei mullakhaan.</xt>
             </xg>
          </tg>
       </mg>
