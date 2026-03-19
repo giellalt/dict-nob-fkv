@@ -12290,7 +12290,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>om lyd</re>
+         <re>om snakking, lesing</re>
             <t pos="Adv">äänheen</t>
          <xg>
             <x>De leser høyt.</x>
@@ -12369,6 +12369,44 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">sieltäpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l t_type="Phrase">derfra et sted</l>      
+         </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sieltäpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Adv">over land</l>      
+         </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">maisin</t>
+            <xg>
+               <x>De reiser over land fra Norge til Estland.</x>
+               <xt>Met reissaama maisin Norjasta Eesthiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">landverts</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">maisin</t>
+            <xg>
+               <x>Vi reiser landverts fra Norge til Estland.</x>
+               <xt>Met reissaama maisin Norjasta Eesthiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

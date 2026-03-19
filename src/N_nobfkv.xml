@@ -6237,7 +6237,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">tervheiset</t>
             <xg>
             <x>med vennlig hilsen</x>
-            <xt>ystävällissii tervheissii</xt>
+            <xt>ystävälissii tervheissii</xt>
             </xg>
          </tg>
       </mg>
@@ -6262,13 +6262,34 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;ki">
+      <lg>
+         <l pos="N">helsesykepleier</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tervheyđenhoittaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb;ks">
       <lg>
          <l pos="N">lekekamerat</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">tieraamakaveri</t>
             <t pos="N">tierauskaveri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">lekebil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tieraamabiili</t>
          </tg>
       </mg>
    </e>
@@ -9661,10 +9682,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sairhaanhoittaaja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">siukanhoittaaja</t>
          </tg>
       </mg>
