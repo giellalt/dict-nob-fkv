@@ -41811,13 +41811,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;yr">
+   <e src="ai;ta;yr;anb">
       <lg>
          <l pos="N">slakt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="lahđe;lahte">lahti</t>
+         <re>avliving av dyr</re>
+            <t pos="N">lahti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>avliving av dyr og myrding av mennesker</re>
+            <t pos="N">teurastus</t>
          </tg>
       </mg>
    </e>
@@ -68177,13 +68184,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="N">slakting</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="tappamise;tappamis">tappaminen</t>
+            <t pos="N">tappaminen</t>
+            <t pos="N">teurastaminen</t>
+            <t pos="N">teurastus</t>
          </tg>
       </mg>
    </e>
