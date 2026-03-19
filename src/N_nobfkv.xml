@@ -59943,13 +59943,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;anb">
       <lg>
          <l pos="N">bakvegg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">pöräseinä</t>
+            <t pos="N">takaseinä</t>
          </tg>
       </mg>
    </e>
@@ -114073,6 +114074,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">teekuppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">baklomme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">takalumma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">tilbaketrekking</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">takaisinvetäminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">tilbaketrekning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">takaisinvetäminen</t>
          </tg>
       </mg>
    </e>
