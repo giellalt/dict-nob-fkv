@@ -6967,7 +6967,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">laakinjohtaajan penkki</t>
+            <t pos="N">laakinjohtaajan penkki</t>
          </tg>
       </mg>
    </e>
@@ -92907,7 +92907,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kieliväkkeevyys</t>
+            <t pos="N">kieliväkkeevyys</t>
          </tg>
       </mg>
    </e>
@@ -92967,7 +92967,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">taiđettyö</t>
+            <t pos="N">taiđettyö</t>
          </tg>
       </mg>
    </e>
@@ -92977,7 +92977,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">taiđetnäyttely</t>
+            <t pos="N">taiđetnäyttely</t>
          </tg>
       </mg>
    </e>
@@ -93017,7 +93017,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">työmetoodi</t>
+            <t pos="N">työmetoodi</t>
          </tg>
       </mg>
    </e>
@@ -93247,7 +93247,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">täystuki</t>
+            <t pos="N">täystuki</t>
          </tg>
       </mg>
    </e>
@@ -93277,7 +93277,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">puunakylä</t>
+            <t pos="N">puunakylä</t>
          </tg>
       </mg>
    </e>
@@ -93287,7 +93287,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">puunaväki</t>
+            <t pos="N">puunaväki</t>
          </tg>
       </mg>
    </e>
@@ -93307,7 +93307,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">ittesthäänselvyys</t>
+            <t pos="N">ittesthäänselvyys</t>
          </tg>
       </mg>
    </e>
@@ -93387,7 +93387,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">postinkäyminen</t>
+            <t pos="N">postinkäyminen</t>
          </tg>
       </mg>
    </e>
@@ -93413,7 +93413,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">misuunityö</t>
+            <t pos="N">misuunityö</t>
          </tg>
       </mg>
    </e>
@@ -107086,7 +107086,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es;ki">
       <lg>
-         <l pos="N">redaksjonskomité</l>
+         <l pos="N">redaksjonskomité</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -114107,13 +114107,33 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="anb">
+   <e src="anb;es">
       <lg>
          <l pos="N">jerngryte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">varipata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="N">viljekraft</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tahtovoima</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="N">viljestyrke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">tahtovoima</t>
          </tg>
       </mg>
    </e>
