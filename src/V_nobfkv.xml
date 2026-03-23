@@ -6072,29 +6072,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">trekke</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>om mat</re>
-            <t pos="V">hauttoonttuut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">kiskoot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+         <re>hale, dra</re>
+            <t pos="V" stem="veđä;vetä">vettäät</t>
             <t pos="V" stem="traakkaa;traakan">traakata</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="veđä;vetä">vettäät</t>
+         <re>dra hardt, slite, rive</re>
+            <t pos="V">kiskoot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>om mat</re>
+            <t pos="V">hauttoonttuut</t>
          </tg>
       </mg>
    </e>
