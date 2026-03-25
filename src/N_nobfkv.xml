@@ -69318,13 +69318,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="es;ki">
+      <e src="es;ki;anb">
       <lg>
          <l pos="N">klem</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hallaus</t>
+            <t pos="N">sylleily</t>
             <xg>
             <x>Gi meg en klem!</x>
             <xt>Anna minule hallauksen!</xt>
@@ -85291,13 +85292,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">omfavnelse</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hallaus</t>
+            <t pos="N">sylleily</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;anb">
+      <lg>
+         <l pos="N">omfavning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">hallaus</t>
+            <t pos="N">sylleily</t>
          </tg>
       </mg>
    </e>

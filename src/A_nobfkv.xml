@@ -6780,18 +6780,39 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta">
       <lg>
-         <l pos="A">varm</l>
+         <l pos="A">heit</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kuuma</t>
          </tg>
       </mg>
+            <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">lämmin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>bli heit</re>
+            <t pos="V">kuumeta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;kl">
+      <lg>
+         <l pos="A">varm</l>
+      </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A" stem="lämpimä">lämmin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kuuma</t>
          </tg>
       </mg>
    </e>
@@ -24046,6 +24067,26 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="A">likainen</t>
             <t pos="A">lokainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">brennhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tulikuuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">brennheit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">tulikuuma</t>
          </tg>
       </mg>
    </e>

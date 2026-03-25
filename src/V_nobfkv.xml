@@ -5603,7 +5603,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;anb">
       <lg>
          <l pos="V">klemme</l>
       </lg>
@@ -5612,6 +5612,7 @@ For the full license text, see the link above.</lic>
 	         <re>gi en klem</re>
             <t pos="V">halata</t>
             <t t_type="Phrase">pittäät kaulasta</t>
+            <t pos="V">sylleilä</t>
          </tg>
       </mg>
       <mg>
@@ -5636,7 +5637,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;anb">
       <lg>
          <l pos="V">omfavne</l>
       </lg>
@@ -5644,6 +5645,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">halata</t>
             <t t_type="Phrase">pittäät kaulasta</t>
+            <t pos="V">sylleilä</t>
          </tg>
       </mg>
    </e>
