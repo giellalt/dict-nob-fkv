@@ -38946,17 +38946,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>liten blomst</re>
             <t pos="N">kukkainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l t_type="Phrase">liten blomst</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kukkanen</t>
          </tg>
       </mg>
    </e>
@@ -42070,14 +42061,30 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>gjerning, handling</re>
+            <t pos="N">teko</t>
+            <t pos="N">työ</t>
+            <t pos="N">toimi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
 	         <re>stykke arbeid, f.eks. kunstverk</re>
             <t pos="N">värkki</t>
+            <t pos="N">työ</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
 	         <re>foretak</re>
             <t pos="N">laitos</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>anlegg</re>
+            <t pos="N">rustinki</t>
+            <t pos="N">pruuki</t>
          </tg>
       </mg>
    </e>
@@ -114364,6 +114371,46 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">sylleily</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">blomsterstilk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kukanvarsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">sommervind</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kesätuuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">stormaktskrig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suurvaltasota</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">storverk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suurteko</t>
          </tg>
       </mg>
    </e>
