@@ -18871,13 +18871,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;anb">
       <lg>
          <l pos="A">forurenset</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ryötytetty</t>
+            <t pos="A">ryöttä</t>
          </tg>
       </mg>
    </e>
@@ -23338,26 +23339,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">griset</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">ryöttä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">grisete</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">ryöttä</t>
-         </tg>
-      </mg>
-   </e>
    <e src="es">
       <lg>
          <l pos="A">ynkelig</l>
@@ -24054,6 +24035,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">tahtovoimainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="A">tilsølt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">likainen</t>
+            <t pos="A">lokainen</t>
          </tg>
       </mg>
    </e>
