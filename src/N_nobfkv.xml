@@ -69325,7 +69325,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">hallaus</t>
-            <t pos="N">sylleily</t>
             <xg>
             <x>Gi meg en klem!</x>
             <xt>Anna minule hallauksen!</xt>
@@ -114355,6 +114354,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">onnentunnet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">favntak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sylleily</t>
          </tg>
       </mg>
    </e>
