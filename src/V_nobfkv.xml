@@ -8110,24 +8110,24 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">räpytellä</t>
             <t pos="V">räpsytellä</t>
+            <t pos="V">iskeet</t>
             <xg>
-               <x>Stjernene blunker på himmelen.</x>
-               <xt>Tähđet räpyttelleevät taivhaala.</xt>
+               <x>Først blunket han til meg, og så gliste han.</x>
+               <xt>Ensin hän räpsytteli minule ja sitten hän viristi.</xt>
             </xg>
             <xg>
-               <x>Han blunker til meg.</x>
-               <xt>Hän räpyttellee silmää minule.</xt>
+               <x>Han blunket til meg.</x>
+               <xt>Hän iski silmää minule.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">iskeet</t>
+            <t pos="V">räpytellä</t>
             <xg>
-               <x>Han blunket til meg.</x>
-               <xt>Hän iski silmää minule.</xt>
+               <x>Stjernene blunker på himmelen.</x>
+               <xt>Tähđet räpyttelleevät taivhaala.</xt>
             </xg>
          </tg>
       </mg>
@@ -22012,10 +22012,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">räpytellä</t>
-            <t pos="V">räpsytellä</t>
             <xg>
                <x>Stjernene blinker på himmelen.</x>
                <xt>Tähđet räpyttelleevät taivhaala.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">räpsytellä</t>
+            <xg>
+               <x>Først blinket han til meg, og så gliste han.</x>
+               <xt>Ensin hän räpsytteli minule ja sitten hän viristi.</xt>
             </xg>
          </tg>
       </mg>
@@ -33305,11 +33313,39 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="V">hurista</l>
+         <l pos="V">dure</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">dure</t>
+            <t pos="V">hurista</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">funkle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">räpytellä</t>
+            <xg>
+               <x>Stjernene tindrer og funkler på himmelen.</x>
+               <xt>Tähđet räpyttelleevät taivhaala.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">tindre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">räpytellä</t>
+            <xg>
+               <x>Stjernene tindrer og funkler på himmelen.</x>
+               <xt>Tähđet räpyttelleevät taivhaala.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
