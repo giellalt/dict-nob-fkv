@@ -30889,6 +30889,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kalla">kala</t>
+            <xg>
+               <x>Skal vi dra og fiske?</x>
+               <xt>Lähđemäkö kalhaan?</xt>
+            </xg>
+            <xg>
+               <x>De dro på fisketur forrige helg.</x>
+               <xt>Het käythiin kalassa viimi pyhänä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -31550,11 +31558,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
            <re>unge av hønsefugl</re>
             <t pos="N">kananpenikkä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>unge av hønsefugl</re>
             <t pos="N" stem="kananpoja;kananpoikka">kananpoika</t>
          </tg>
       </mg>
@@ -44194,7 +44197,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="linnu;linttu">lintu</t>
-         </tg>
+          <xg>
+            <x>Skal vi dra på fuglejakt?</x>
+            <xt>Lähđemäkö linthuin?</xt>
+          </xg>
+           <xg>
+            <x>De var på fuglejakt forrige helg.</x>
+            <xt>Het käythiin linnuissa viimi pyhänä.</xt>
+           </xg>         
+          </tg>
       </mg>
    </e>
    <e src="yr">
