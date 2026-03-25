@@ -45553,7 +45553,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">mageinnhold hos sau</l>
+         <l t_type="Phrase">mageinnhold hos sau</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -67282,13 +67282,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;anb">
       <lg>
          <l pos="N">spising</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">syönti</t>
+            <xg>
+            <x>Midt i spisingen kom det uventede gjester.</x>
+            <xt>Kesken syönin tuli ođottomattomiita vierhaita.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="N">syöminen</t>
+            <xg>
+            <x>Spising i klasserommet er forbudt.</x>
+            <xt>Syöminen klassilomassa oon kieletty.</xt>
+            </xg>
             <xg>
             <x>Det fins ingenting å spise her.</x>
             <xt>Ei ole mithään syömistä täälä.</xt>
@@ -106659,8 +106672,24 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>alt levende på jorda</re>
             <t pos="N">luomakunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">skapelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">luominen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>skaperverk</re>
+            <t pos="N">luomistyö</t>
+            <t pos="N">luomatyö</t>
          </tg>
       </mg>
    </e>
