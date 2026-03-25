@@ -14320,14 +14320,22 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">tunnet</t>
             <xg>
-            <x>å fremkalle følelser</x>
-            <xt>nostaat tuntheita</xt>
+            <x>De bruker ikke å prate om følelser.</x>
+            <xt>Het ei pruukkaa praattiit tuntheitten ympäri.</xt>
+            </xg>
+            <xg>
+            <x>Dette fremkaller følelser i meg.</x>
+            <xt>Tämä nostaa tuntheita minussa.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tunto</t>
+            <xg>
+            <x>Jeg har ikke følelse i foten.</x>
+            <xt>Mulla ei ole tunttoo jalassa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -114293,6 +114301,47 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">aloittaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">symbolikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">symbolikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="N">symfoni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">symfonia</t>
+            <t pos="N">symfonii</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">symfoniorkester</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">symfoniorkesteri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">lykkefølelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">onnentunnet</t>
          </tg>
       </mg>
    </e>
