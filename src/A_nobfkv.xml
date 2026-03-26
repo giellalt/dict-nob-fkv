@@ -2683,6 +2683,28 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">aukkee</t>
+            <xg>
+            <x>Vi sov under åpen himmel.</x>
+            <xt>Met nukuima aukkeen taivhaan alla.</xt>
+            </xg>
+            <xg>
+            <x>Skipsleia til nabolandet er åpen.</x>
+            <xt>Krannimaahan oon aukkee purjettimisväylä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">aukkein</t>
+            <xg>
+            <x>Jeg er åpen for andres tanker og meninger.</x>
+            <xt>Mie olen aukkein toisten ajatuksile ja meiningille.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="A">aukinainen</t>
             <xg>
             <x>Denne åpne hytta er et tilbud til alle turgåere i området.</x>
@@ -2692,26 +2714,17 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">aukkee</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">aukkein</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">laaja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">avvoin</t>
             <xg>
-            <x>Det var også andre tiltak, både åpne og skjulte, for å fremme språkskiftet og assimileringen.</x>
-            <xt>Olthiin kans muut toimet, niin avvoimet ko lymmytyt, joitten avula eđistethiin kielenvaihetusta ja assimileerausta.</xt>
+            <x>Det var også andre tiltak, både åpne og skjulte.</x>
+            <xt>Olthiin kans muut toimet, niin avvoimet ko lymmytyt.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>vidstrakt, bred</re>
+            <t pos="A">laaja</t>
          </tg>
       </mg>
    </e>

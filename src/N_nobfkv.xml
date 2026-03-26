@@ -12771,6 +12771,12 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>høstsommer</re>
+            <t pos="N">syyskesä</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -33460,12 +33466,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
          <re>fugl</re>
-            <t pos="N">keili</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">sakana</t>
+            <t pos="N">keili</t>
          </tg>
       </mg>
    </e>
@@ -33475,12 +33477,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">keino</t>
+            <t pos="N" stem="suuna;suuntta">suunta</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="suuna;suuntta">suunta</t>
+            <t pos="N">keino</t>
          </tg>
       </mg>
    </e>
@@ -42251,7 +42253,8 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>stå i lys lue</x>
                <xt>pallaat julkitulessa, pallaat ilmivalkkeessa</xt> 
-            </xg></tg>
+            </xg>
+         </tg>
       </mg>
  </e>
    <e src="ai">
@@ -67249,7 +67252,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai;ta">
       <lg>
-         <l pos="N"></l>
+         <l pos="N">ettersommer</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
