@@ -13961,7 +13961,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;es">
       <lg>
          <l pos="N">landtunge</l>
       </lg>
@@ -13969,9 +13969,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">harja</t>
          </tg>
-            <syng>
-               <syn>eid</syn>
-            </syng>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>også mellom fjell</re>
+            <t pos="N">anikka</t>
+         </tg>
       </mg>
    </e>
    <e src="ia;ai;ta">
@@ -33641,6 +33644,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">krenksu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>på sko for å ha lisse igjennom</re>
+            <t pos="N">anikka</t>
          </tg>
       </mg>
    </e>
@@ -114480,6 +114489,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">suurpolitikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">høyfjell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">anikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">høgfjell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">anikka</t>
          </tg>
       </mg>
    </e>
