@@ -2229,8 +2229,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>den/det det er spørsmål om, den/det det gjelder</re>
-            <t pos="A">kyseinen</t>
+	         <re>vedkommende, den/det det gjelder</re>
+            <t pos="A">kysheinen</t>
          </tg>
       </mg>
    </e>
@@ -24100,6 +24100,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">syksyinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">vedkommende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kysheinen</t>
          </tg>
       </mg>
    </e>
