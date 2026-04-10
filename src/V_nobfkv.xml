@@ -27125,13 +27125,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="anb">
+   <e src="anb;ki">
       <lg>
          <l pos="V">splitte</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>dele i to, kløyve</re>
+            <t pos="V">halkaista</t>
+            <xg>
+            <x>Lynet splittet treet i to.</x>
+            <xt>Valkkeenisku halkaisi puun.</xt>
+            </xg>
+            <xg>
+            <x>Den rennende elva splitter bygda i to.</x>
+            <xt>Virttaava joki halkaissee kylän kahtia.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>spre, skape splittelse</re>
             <t pos="V">hajoittaat</t>
+            <xg>
+            <x>Politiet splittet demonstrantene.</x>
+            <xt>Pulettija hajoitti mielenosoittaajat.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
