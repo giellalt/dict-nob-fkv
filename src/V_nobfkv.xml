@@ -22396,13 +22396,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l t_type="Phrase">blande sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="sekkainu;sekkaintu">sekkainttuut</t>
+            <t pos="V" stem="sekkaanu;sekkaantu">sekkaanttuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">blande seg inn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="sekkainu;sekkaintu">sekkainttuut</t>
+            <t pos="V" stem="sekkaanu;sekkaantu">sekkaanttuut</t>
          </tg>
       </mg>
    </e>
@@ -22413,6 +22425,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="sekkainu;sekkaintu">sekkainttuut</t>
+            <t pos="V" stem="sekkaanu;sekkaantu">sekkaanttuut</t>
          </tg>
       </mg>
       <mg>
@@ -22437,7 +22450,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>blande sammen</re>
+	         <re>blande seg</re>
             <t pos="V" stem="sekkainu;sekkaintu">sekkainttuut</t>
             <t pos="V">sekhaanttuut</t>
          </tg>
@@ -22455,12 +22468,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">sekhaanuttaat</t>
             <xg>
-            <x>Bland ut tabletten i fruktjuice, syltetøy, melk eller lignende.</x>
-            <xt>Sekhaanuta tabletin fruktijuushiin, marmelaathiin, maithoon tahi johonki sellaisheen.</xt>
+            <x>Bland ut tabletten i vann</x>
+            <xt>Sekhaanuta tabletin vetheen.</xt>
             </xg>
             <xg>
-            <x>Ved behov kan den tygges eller knuses og gis på en skje med yoghurt, syltetøy eller annen halvfast mat, eller blandes ut i vann.</x>
-            <xt>Tabletin saattaa pureskella tahi särkkeet ja anttaat lusikalla yoghurtin, marmelaatin tahi muun puolikovan ruvan kans, tahi sekhaanuttaat vetheen.</xt>
+            <x>Tabletten kan blandes ut i vann.</x>
+            <xt>Tabletin saattaa sekhaanuttaat vetheen.</xt>
             </xg>
          </tg>
       </mg>
