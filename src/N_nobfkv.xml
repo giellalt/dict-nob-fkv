@@ -26838,10 +26838,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="es;ai;ta;kl">
       <lg>
          <l pos="N">knott</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>knapp</re>
+            <t pos="N">knuppi</t>
+            <t pos="N">nuppi</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
          <re>insekt</re>
@@ -35956,13 +35963,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;es">
       <lg>
          <l pos="N">knapp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="knapi">knappi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>knott</re>
+            <t pos="N" stem="knupi">knuppi</t>
+            <t pos="N" stem="nupi">nuppi</t>
          </tg>
       </mg>
    </e>
@@ -35973,10 +35987,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="knupi">knuppi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="nupi">nuppi</t>
          </tg>
       </mg>
@@ -35993,13 +36003,23 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="knupi">knuppi</t>
+         <re>fjelltopp</re>
+            <t pos="N">laki</t>
+            <t pos="N">lajet</t>
+            <xg>
+               <x>Jeg er på toppen av fjellet.</x>
+               <xt>Mie olen vaaran lajela.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">laki</t>
-            <t pos="N">lajet</t>
+            <t pos="N" stem="knupi">knuppi</t>
+            <t pos="N" stem="nupi">nuppi</t>
+            <xg>
+               <x>Jeg har på meg en topplue.</x>
+               <xt>Minula oon knuppilakki päälä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -36009,13 +36029,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>ikke på fjell</re>
             <t pos="N">toppi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="nupi">nuppi</t>
          </tg>
       </mg>
    </e>
@@ -36026,20 +36040,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="knuppilaki">knuppilakki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="nuppilaki">nuppilakki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">pirrilakki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">toppilakki</t>
          </tg>
       </mg>
@@ -36051,10 +36053,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">knuppineula</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">nuppineula</t>
          </tg>
       </mg>
@@ -36087,12 +36085,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kohta</t>
+            <t pos="N">paikka</t>
+            <xg>
+               <x>Hva slags sted er dette?</x>
+               <xt>Mikä paikka tämä oon?</xt>
+            </xg>
+            <xg>
+               <x>Jeg er på stedet.</x>
+               <xt>Mie olen paikalla.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">paikka</t>
+            <t pos="N">kohta</t>
          </tg>
       </mg>
       <mg>
