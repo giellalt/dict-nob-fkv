@@ -142,6 +142,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
          <t pos="N">kauppamaanpruuki</t>
+         <t pos="N">kauppamaapruuki</t>
          </tg>
       </mg>
         </e>
@@ -46428,10 +46429,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanpruuki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">maapruuki</t>
             <t pos="N" stem="pruuki;pruukki">pruuki</t>
          </tg>
       </mg>
@@ -46443,6 +46441,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanpruuki</t>
+            <t pos="N">maapruuki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="N">siiti</t>
          </tg>
       </mg>
@@ -46458,7 +46461,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">maanpruuki-ala</t>
+         <re>gårdsbruk</re>
+            <t pos="N">maanpruuki</t>
+            <t pos="N">maapruuki</t>
          </tg>
       </mg>
    </e>
@@ -46468,7 +46473,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">maanpruuki-ala</t>
+            <t pos="N">maanpruuki</t>
+            <t pos="N">maapruuki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">landbruk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">maanpruuki</t>
+            <t pos="N">maapruuki</t>
          </tg>
       </mg>
    </e>
@@ -46479,6 +46496,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanpruuki-ala</t>
+            <t pos="N">maapruuki-ala</t>
          </tg>
       </mg>
    </e>
@@ -46489,6 +46507,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanpruukikoulu</t>
+            <t pos="N">maapruukikoulu</t>
          </tg>
       </mg>
    </e>
@@ -46499,6 +46518,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanpruukirakenus</t>
+            <t pos="N">maapruukirakenus</t>
          </tg>
       </mg>
    </e>
@@ -46534,6 +46554,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanpruukilainen</t>
+            <t pos="N">maapruukilainen</t>
          </tg>
       </mg>
    </e>
@@ -93720,6 +93741,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">polttomaanpruuki</t>
+            <t pos="N">polttomaapruuki</t>
             <t pos="N">kaskenpoltto</t>
          </tg>
       </mg>
@@ -95146,6 +95168,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanpruukikulttuuri</t>
+            <t pos="N">maapruukikulttuuri</t>
          </tg>
       </mg>
    </e>
@@ -95502,6 +95525,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>jordbruk</re>
             <t pos="N">pienmaanpruukilainen</t>
+            <t pos="N">pienmaapruukilainen</t>
          </tg>
       </mg>
    </e>
@@ -96566,6 +96590,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanpruukikylä</t>
+            <t pos="N">maapruukikylä</t>
          </tg>
       </mg>
    </e>
@@ -102248,6 +102273,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanpruukimaa</t>
+            <t pos="N">maapruukimaa</t>
          </tg>
       </mg>
    </e>
@@ -104145,6 +104171,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanpruukityö</t>
+            <t pos="N">maapruukityö</t>
             <t pos="N">talotyö</t>
          </tg>
       </mg>
@@ -104156,6 +104183,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanpruukimiljöö</t>
+            <t pos="N">maapruukimiljöö</t>
          </tg>
       </mg>
    </e>
@@ -104166,6 +104194,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">maanpruukimaisema</t>
+            <t pos="N">maapruukimaisema</t>
          </tg>
       </mg>
    </e>
