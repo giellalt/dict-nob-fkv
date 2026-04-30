@@ -23798,12 +23798,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="hartaukse">hartaus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="harttaukse">harttaus</t>
+            <t pos="N" stem="hartaukse">hartaus</t>
          </tg>
       </mg>
    </e>
@@ -83713,7 +83709,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">toinen kieli</t>
+            <t t_type="Phrase">toinen kieli</t>
          </tg>
       </mg>
    </e>
@@ -114576,6 +114572,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">rajavahti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">andunge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suorsapoikainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">andefugl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suorsalintu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">andemor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">suorsaemä</t>
          </tg>
       </mg>
    </e>
