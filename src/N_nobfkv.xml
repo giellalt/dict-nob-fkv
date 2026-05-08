@@ -4309,6 +4309,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fargelegging</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">färjäys</t>
+         </tg>
+      </mg>
+   </e>
    <e src="grom">
       <lg>
          <l pos="N">verifiseringskode</l>
@@ -22445,22 +22455,15 @@ For the full license text, see the link above.</lic>
             <t pos="N" stem="painhee">painet</t>
          </tg>
       </mg>
-   </e>   <e src="ai">
+   </e>   
+   <e src="ai">
       <lg>
          <l pos="N">ferge</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">färja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">lautta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">lossi</t>
          </tg>
       </mg>
@@ -53300,19 +53303,28 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>både om vonde drømmer og metaforisk</re>
             <t pos="N">painajainen</t>
+            <t pos="N">painijainen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>om en konkret vond drøm</re>
             <t pos="N">painajaisuni</t>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ki;ai;ta">
       <lg>
          <l pos="N">farging</l>
       </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>det å farge</re>
+            <t pos="N">färjäys</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="painhee">painet</t>
@@ -114666,6 +114678,17 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>møte, opptog eller handling for å uttrykke en mening</re>
             <t pos="N">mielenosoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hyrde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gjeter</re>
+            <t pos="N">paimen</t>
          </tg>
       </mg>
    </e>
