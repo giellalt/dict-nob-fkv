@@ -1347,7 +1347,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;ki">
       <lg>
          <l pos="V">stemme</l>
       </lg>
@@ -1355,6 +1355,20 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>eks. ved valg</re>
             <t pos="V">äänestäät</t>
+            <xg>
+               <x>Hvem stemte du på i valget?</x>
+               <xt>Ketä äänestit vaalissa?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>være sant, korrekt</re>
+            <t t_type="Phrase">pittäät paikkaa</t>
+            <xg>
+               <x>Det der stemmer ikke.</x>
+               <xt>Tuo ei piđä paikkaa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

@@ -34228,15 +34228,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="keskipaika">keskipaikka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">keskus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">sentrumi</t>
          </tg>
       </mg>
@@ -36088,9 +36080,14 @@ For the full license text, see the link above.</lic>
                <xt>Mikä paikka tämä oon?</xt>
             </xg>
             <xg>
-               <x>Jeg er på stedet.</x>
-               <xt>Mie olen paikalla.</xt>
+               <x>Jeg er til stede.</x>
+               <xt>Mie olen paikala.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="sijja">sija</t>
          </tg>
       </mg>
       <mg>
@@ -36112,11 +36109,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="sijja">sija</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -36124,22 +36116,30 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">kohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="paika">paikka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">plassi</t>
+            <xg>
+               <x>Hva slags plass er dette?</x>
+               <xt>Mikä paikka tämä oon?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="sijja">sija</t>
+            <xg>
+               <x>Jeg har ikke plass til den hjemme.</x>
+               <xt>Minula ei ole sille sijjaa kotona.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kohta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">plassi</t>
          </tg>
       </mg>
    </e>
