@@ -44935,7 +44935,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">tillekniv</l>
+         <l pos="N">tollekniv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">puukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tollkniv</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -58923,12 +58933,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">puukko</t>
+            <t pos="N">veitti</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="veitte;veitte">veitti</t>
+            <t pos="N">puukko</t>
          </tg>
       </mg>
    </e>
