@@ -17721,6 +17721,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="ajatukse">ajatus</t>
+            <xg>
+               <x>Jeg vet ikke, jeg går bare i mine egne tanker.</x>
+               <xt>En tieđä, mie kävelen vain omissa ajatuksissa.</xt>
+            </xg>
+            <xg>
+               <x>Det var en tankevekkende opplevelse.</x>
+               <xt>Se oli ajatuksii herättäävä kokemus.</xt>
+            </xg>
+            <xg>
+               <x>En tanke slo meg at kanskje jeg må gjøre dette på en annen måte.</x>
+               <xt>Ajatus iski minun päähän ette piian mie häyđyn tehđä tämän eri laila.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -17731,6 +17743,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="miele;miel">mieli</t>
+            <xg>
+               <x>Han har alltid krigen i tankene.</x>
+               <xt>Hänelä oon aina sota mielessä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23182,12 +23198,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="hallu">halu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">halu</t>
             <t pos="N">lysti</t>
+            <t pos="N">mieli</t>
+            <xg>
+               <x>Jeg fikk lyst til å dra hjem.</x>
+               <xt>Minule tuli halu lähtheet kothiin.</xt>
+            </xg>
+            <xg>
+               <x>Har du lyst til å drikke kaffe med meg?</x>
+               <xt>Oonko sinula mieli kaffistella minun kans?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -48485,6 +48506,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="miele;miel">mieli</t>
+            <xg>
+               <x>Hun tok dem i mot med åpent sinn.</x>
+               <xt>Hän otti heiđät vasthaan aukkein mielin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -49031,13 +49056,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">minne</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">muisto</t>
+            <xg>
+               <x>Jeg har gode minner fra den tiden.</x>
+               <xt>Minula oon hyvvii muistoi siitä aijasta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">mieli</t>
+            <xg>
+               <x>Hendelsen satte seg i minnet.</x>
+               <xt>Tapattuma jäi mielheen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
