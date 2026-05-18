@@ -1187,6 +1187,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">mellomkrigstid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t t_type="Phrase">sottiinvälinen aika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">mellomkrigsår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <t t_type="Phrase">sottiinvälinen vuosi</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ki">
       <lg>
          <l pos="N">eksklusjon</l>
@@ -9004,7 +9024,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="bildetema">
+   <e src="bildetema;es">
       <lg>
          <l pos="N">spalte</l>
       </lg>
@@ -11164,6 +11184,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">suola</t>
+            <xg>
+               <x>Hun tilsatt en neve salt i gryta.</x>
+               <xt>Hän pisti suojapijon pathaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -71082,17 +71106,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>et tak tekket av torv</re>
+            <t pos="N">turvetkatto</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>myr der en skjærer torv</re>
             <t pos="N">turvetjänkkä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>teig der en skjærer torv</re>
             <t pos="N">turvetsarka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">turvetkatto</t>
          </tg>
       </mg>
    </e>
@@ -114927,6 +114954,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">muistokuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">teig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sarka</t>
          </tg>
       </mg>
    </e>
