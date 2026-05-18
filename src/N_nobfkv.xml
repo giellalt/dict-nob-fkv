@@ -31745,61 +31745,67 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" nr="Pl" stem="kangaspuitte;kangaspui">kangaspuut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+            <t pos="N">väävitooli</t>
             <t pos="N">väävistooli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">väävitoolit</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="fkv">
             <t pos="N">kangastooli</t>
          </tg>
       </mg>
    </e>
-   <e src="mj;ai;ta">
+   <e src="mj;ai;ta;anb">
       <lg>
          <l pos="N">gang</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>gange, det å gå</re>
+            <t pos="N">kävely</t>
+            <t pos="N">käynti</t>
+            <t pos="N" stem="kulu;kulkku">kulku</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gang mellom rom</re>
             <t pos="N">kangi</t>
             <t pos="N">kanki</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>enkelt tilfelle</re>
             <t pos="N" stem="kerra;kertta">kerta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="kulu;kulkku">kulku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">käynti</t>
+            <xg>
+            <x>Hvor mange ganger må jeg si det?</x>
+            <xt>Montako kerttaa mie häyđyn sannoot sen?</xt>
+            </xg>
+            <xg>
+            <x>For en gangs skyld svarte jeg rett!</x>
+            <xt>Kerranki vastasin oikhein!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="menno">meno</t>
+            <xg>
+	            <x>De undrer seg over verdens gang.</x>
+	            <xt>Het ihmettelleevät mailman mennoo.</xt>
+            </xg>
+            <xg>
+	            <x>Jeg gjør det nå med en gang.</x>
+	            <xt>Mie tehen sen nyt yhtä mennoo.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>bislag</re>
             <t pos="N" stem="pislaaki;pislaakki">pislaaki</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>forstue</re>
             <t pos="N">porstuu</t>
          </tg>
       </mg>
@@ -31811,6 +31817,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kangi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">gange</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kävely</t>
          </tg>
       </mg>
    </e>
