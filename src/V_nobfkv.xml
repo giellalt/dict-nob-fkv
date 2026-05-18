@@ -13842,13 +13842,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">anvende</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="käytä">käyttäät</t>
+            <t pos="V">pittäät</t>
          </tg>
       </mg>
    </e>
@@ -30227,6 +30228,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">käyttäät</t>
+            <t pos="V">pittäät</t>
+            <t pos="V">hyöđyttäät</t>
          </tg>
       </mg>
    </e>
@@ -30238,19 +30241,46 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t t_type="Phrase">käyttäät ittensä</t>
             <xg>
-            <x>Han/hun oppførte seg så rart.</x>
-            <xt>Se niin eriskumhaisesti käytti ittensä.</xt>
+            <x>Hun oppførte seg så rart.</x>
+            <xt>Hän niin eriskumhaisesti käytti ittensä.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l t_type="Phrase">benytte seg av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">hyöđyttäät</t>
+            <xg>
+            <x>Han benyttet seg av et godt tilbud.</x>
+            <xt>Hän hyöđytti hyvän tarjouksen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t t_type="Phrase">käyttäät hyväksi</t>
+            <xg>
+            <x>Det var et godt tips, det kan man benytte seg av senere.</x>
+            <xt>Se oli hyvä tipsi, sitä saattaa käyttäät hyväksi hiljemin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">utnytte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t t_type="Phrase">käyttäät hyväksi</t>
+            <xg>
+               <x>De utnyttet oss.</x>
+               <xt>Het käytethiin meitä hyväksi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
