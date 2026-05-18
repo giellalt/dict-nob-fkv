@@ -31760,7 +31760,28 @@ For the full license text, see the link above.</lic>
          <re>gange, det å gå</re>
             <t pos="N">kävely</t>
             <t pos="N">käynti</t>
-            <t pos="N" stem="kulu;kulkku">kulku</t>
+            <xg>
+               <x>Jeg kjente henne igjen på gangen.</x>
+               <xt>Mie tunnistin hänen kävelystä.</xt>
+            </xg>
+            <xg>
+               <x>Han satt prosessen i gang.</x>
+               <xt>Hän pisti prosessin käynthiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ferd, forløp</re>
+            <t pos="N">kulku</t>
+            <xg>
+               <x>Gangen i hendelsene var uklar.</x>
+               <xt>Tapattumiitten kulku oli epäselvä.</xt>
+            </xg>
+            <xg>
+               <x>Man kan ikke endre verdens gang.</x>
+               <xt>Ihminen ei saata muuttaat mailman kulkkuu.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
