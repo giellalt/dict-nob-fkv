@@ -65501,13 +65501,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l pos="N">søsken</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">sisarukset</t>
+            <t pos="N">sisarus</t>
+            <xg>
+               <x>Minula oon kolme sisarusta.</x>
+               <xt>Jeg har tre søsken.</xt>
+            </xg>
+            <xg>
+               <x>Met olema sisarukset.</x>
+               <xt>Vi er søsken.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
