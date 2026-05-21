@@ -21014,16 +21014,32 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="erro">ero</t>
+            <xg>
+               <x>Den ene er lengre enn den andre. Noen annen forskjell ser jeg ikke.</x>
+               <xt>Toinen oon pitempi ko se toinen. Muuta erroo en näje.</xt>
+            </xg>
+            <xg>
+               <x>Jeg forsøkte, men det gjorde ingen forskjell.</x>
+               <xt>Mie freistasin, mutta se ei tehny mithään erroo.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="erotukse">eroitus</t>
+            <xg>
+               <x>Han har lyst hår, og han har mørkt hår. Det er forskjellen.</x>
+               <xt>Hänelä oon vaalee tukka, ja hänelä oon tumma tukka. Se oon eroitus.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="välli">väli</t>
+            <xg>
+               <x>Det er stor forskjell når man tenker på hvordan det var før og hvordan det er nå.</x>
+               <xt>Se on niin iso väli ko sitä ajattellee kunka oli ennen ja kunka oon nyt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -66514,17 +66530,44 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>generell relasjon, forbindelse</re>
             <t pos="N" stem="suhthee">suhđet</t>
+            <xg>
+               <x>Forholdet mellom landene har bedret seg de siste årene.</x>
+               <xt>Maitten väliset suhtheet oon parantunheet viimi vuosina.</xt>
+            </xg>
+            <xg>
+               <x>Mitt forhold til naturen har endret seg med alderen.</x>
+               <xt>Minun suhđet luonthoon oon muuttunu ijän myöđen.</xt>
+            </xg>
+            <xg>
+               <x>Forholdet til bestemor og bestefar har vart i årtier.</x>
+               <xt>Ämmin ja äijin suhđet oon kestäny vuosikymmeniitä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>personlig forhold, stemning mellom partene</re>
             <t pos="N" stem="välli">väli</t>
             <t pos="N">välit</t>
+            <xg>
+               <x>Vi har et godt forhold.</x>
+               <xt>Meilä oon hyvät välit.</xt>
+            </xg>
+            <xg>
+               <x>Krangelen gjorde forholdet til de tidligere vennene enda verre.</x>
+               <xt>Riita teki entisten ystäviitten välit vielä huonomiksi.</xt>
+            </xg>
+            <xg>
+               <x>Jeg prøver å opprettholde et godt forhold til naboene.</x>
+               <xt>Mie freistaan pittäät hyvät välit krannhiin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>omstendigheter, tilstand</re>
             <t pos="N">olot</t>
             <xg>
                <x>Det er gode forhold i Norge.</x>
@@ -96935,7 +96978,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">väli</t>
             <t pos="N">relasuuni</t>
+            <xg>
+               <x>Vi har en god relasjon.</x>
+               <xt>Meilä oon hyvät välit.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
