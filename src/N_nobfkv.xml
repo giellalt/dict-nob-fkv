@@ -24936,7 +24936,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;mk">
       <lg>
          <l pos="N">stund</l>
       </lg>
@@ -24944,6 +24944,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">hetki</t>
             <t pos="N">tryki</t>
+            <t pos="N">tovi</t>
          </tg>
       </mg>
    </e>
@@ -65412,13 +65413,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;mk">
       <lg>
          <l pos="N">øyeblikk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="silmänräphäykse">silmänräphäys</t>
+            <xg>
+               <x>Et øyeblikk fikk jeg se henne.</x>
+               <xt>Silmänräphäyksen aijaksi mie sain nähđä hänen.</xt>
+            </xg>
+            <xg>
+               <x>Alt skjedde på et øyeblikk.</x>
+               <xt>Kaikki tapattui silmänräphäyksessä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -65427,6 +65436,20 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Vent et øyeblikk.</x>
             <xt>Ođota silmänvälin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>bestemt tidspunkt, stund</re>
+            <t pos="N">hetki</t>
+            <xg>
+            <x>De nøt et lykkelig øyeblikk.</x>
+            <xt>Het nautithiin onnen hetkestä.</xt>
+            </xg>
+            <xg>
+            <x>Dette er et historisk øyeblikk!</x>
+            <xt>Tämä oon histoorialinen hetki!</xt>
             </xg>
          </tg>
       </mg>
