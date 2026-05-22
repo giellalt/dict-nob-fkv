@@ -7000,7 +7000,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">laakinjohtaajan penkki</t>
+            <t t_type="Phrase">laakinjohtaajan penkki</t>
          </tg>
       </mg>
    </e>
@@ -35467,6 +35467,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kirnu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="N">datid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">senaikhainen</t>
+            <xg>
+               <x>Datidens normer har forsvunnet.</x>
+               <xt>Senaikhaiset normit oon hävinheet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
