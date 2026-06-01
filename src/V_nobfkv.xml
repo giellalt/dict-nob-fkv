@@ -3705,31 +3705,68 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+			 <re>bære, holde oppe</re>
             <t pos="V">kuurota</t>
-<!--            <xg>
-	            <x>Jeg støtter deg!</x>
-	            <xt>Mie kuurttoon sinnuu!</xt>
-            </xg> -->
+			 <t pos="V">tukkeet</t>
+               <xg>
+	            <x>Bjelkene støtter huset.</x>
+	            <xt>Pelkat tukkeevat talloo.</xt>
+            </xg> 
+            <xg>
+            <x>De støttet den syke pasienten.</x>
+            <xt>Het kuurothiin sairasta potilasta.</xt>
+         </xg>
+         <xg>
+          <x>Hesjen av høy ble støttet opp.</x>
+          <xt>Heinähaasin kuurothiin pysthöön.</xt>
+      </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">tukkeet</t>
-<!--            <xg>
-	            <x>Jeg støtter deg!</x>
-	            <xt>Mie tujen sinnuu!</xt>
-            </xg> -->
+			 <re>yte hjelp</re>
+			<t pos="V">kuurota</t>
+			<t pos="V">tukkeet</t>
+			<t pos="Phrase">olla kuurtona</t>
+		    <t pos="Phrase">olla tukena</t>
+            <xg>
+             <x>De støtter en god sak.</x>
+             <xt>Het tukkeevat hyvvää assiita.</xt>
+         </xg> 
+      <xg>
+       <x>Jeg støtter deg.</x>
+       <xt>Mie tujen sinnuu.</xt>
+   </xg>
+   <xg>
+    <x>De støtter dem.</x>
+    <xt>Het oon heiđän kuurtona.</xt>
+</xg>
+   <xg>
+    <x>Han støtter dette forslaget.</x>
+    <xt>Hän kuurttoo tätä ehđotusta.</xt>
+     </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">avustaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>lene</re>
+	         <re>lene, støtte seg til</re>
             <t pos="V" stem="nojjaa;nojan">nojata</t>
+            <xg>
+            <x>Bestefar støttet seg på gåstokken.</x>
+            <xt>Äiji nojas kävelysauvaa vasten.</xt>
+         </xg>
+         <xg>
+         <x>Styrmannen støttet seg på gelenderet.</x>
+         <xt>Pörämies nojjaa kelenterhiin.</xt>
+      </xg>
+      <xg>
+      <x>Jeg støttet hodet i hendene.</x>
+      <xt>Mie tujin päätä käsilä.</xt>
+   </xg>
+   <xg>
+   <x>De støtter seg til det siste forskningsresultatet.</x>
+   <xt>Het nojjaavat viimisheen tutkimusresultaatthiin.</xt>
+         </xg>
          </tg>
       </mg>
    </e>
