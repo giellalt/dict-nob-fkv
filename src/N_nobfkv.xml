@@ -19854,7 +19854,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
 	         <re>fysisk støtte</re>
+			     <t pos="N">kuurto</t>
             <t pos="N">tuki</t>
+            <xg>
+	            <x>Bakveggen i gammen trenger mer støtte.</x>
+	            <xt>Kođan takaseinhään tarvithaan enämen kuurttoo.</xt>
+            </xg>
+            <xg>
+	            <x>Jeg legger puten som støtte.</x>
+	            <xt>Mie panen kuotan sölän taka tujeksi.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -19867,12 +19876,43 @@ For the full license text, see the link above.</lic>
 	            <x>Takk for støtten!</x>
 	            <xt>Kiitos kuurosta!</xt>
             </xg>
+            <xg>
+	            <x>Prosjektet fikk støtte av kulturdirektoratet.</x>
+	            <xt>Prosekti sai kuurttoo kulttuuridirektoraatilta.</xt>
+            </xg>
+            <xg>
+	            <x>De bidro som moralsk støtte.</x>
+	            <xt>Het olthiin myötä moraalisena tukena.</xt>
+            </xg>
+            <xg>
+	            <x>Vil du gi støtte til Kirkens nødhjelp?</x>
+	            <xt>Halluutko anttaat avustuksen Kirkon hätäavule?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
 	         <re>holde, lene</re>
             <t pos="N" stem="nojja">noja</t>
+            <xg>
+	            <x>Han står mot treet som støtte.</x>
+	            <xt>Hän seissoo puun nojassa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+	         <re>monument, minnesmerkke</re>
+            <t pos="N">muistomerkki</t>
+			 <t pos="N">muistokivi</t>
+             <xg>
+ 	            <x>Vi setter opp en støtte til minne om Kong Olav.</x>
+ 	            <xt>Met panema ylös muistomerkin Kuningas Olaville.</xt>
+             </xg>
+             <xg>
+ 	            <x>Jeg satte opp en vakker gravstøtte til min avdøde bestefars grav.</x>
+ 	            <xt>Mie panin kaunhiin hautakiven äiji-vainan hauđale.</xt>
+             </xg>
          </tg>
       </mg>
       <mg>
