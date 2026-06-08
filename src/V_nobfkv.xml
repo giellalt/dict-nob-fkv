@@ -24548,11 +24548,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">freistata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">yrittäät</t>
+            <xg>
+               <x>Jeg vet ikke, men kan prøve.</x>
+               <xt>Mie en tieđä, mutta saatan freistata.</xt>
+            </xg>
             <xg>
                <x>De prøver å dra.</x>
                <xt>Het yritethään lähteet.</xt>
@@ -24598,7 +24598,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">rännätä</t>
             <xg>
                <x>Jeg forsøkte å gjøre det bra.</x>
-               <xt>Mie rännäsin kylle teehä hyvin.</xt>
+               <xt>Mie rännäsin kyllä tehđä hyvin.</xt>
             </xg>
          </tg>
       </mg>
@@ -24609,6 +24609,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>prøve på, f.eks. klær</re>
+            <t pos="V">sovittaat</t>
             <t pos="V">sovitella</t>
          </tg>
       </mg>
@@ -30126,22 +30128,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="V">inkorporerte</l>
+         <l pos="V">inkorporere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">inkorporeerata</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l t_type="Phrase">prøve på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>f.eks. klær</re>
-            <t pos="V">sovittaat</t>
          </tg>
       </mg>
    </e>
