@@ -1870,10 +1870,6 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">enämän</t>
             <t pos="Adv">enämpi</t>
             <xg>
-               <x>I Tromsø bor det mer folk enn i Lakselv.</x>
-               <xt>Tromssassa assuu enämen ihmissii ko Lemmijovessa.</xt>
-            </xg>
-            <xg>
                <x>Min søster fikk mer kake enn meg!</x>
                <xt>Minun sisar sai enämen kakkoo ko mie!</xt>
             </xg>
@@ -1893,10 +1889,19 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+			 <re>i tillegg</re>
             <t pos="Adv">lissää</t>
             <xg>
                <x>Vil du ha mer sukker i teen?</x>
                <xt>Aijotko lissää sokkerii teehen?</xt>
+            </xg>
+            <xg>
+               <x>Det er ikke mer å si om den saken.</x>
+               <xt>Se ei ole enämen sanottavaa sen assiin ympäri.</xt>
+            </xg>
+            <xg>
+               <x>Du må øve mer.</x>
+               <xt>Sie häyđyt harjoitella enämen.</xt>
             </xg>
          </tg>
       </mg>
