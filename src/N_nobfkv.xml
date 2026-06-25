@@ -37692,6 +37692,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>formål</re>
+            <t pos="N">päämäärä</t>
+            <t pos="N">mooli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
 	         <re>sted en er på reise til, endepunkt</re>
             <t pos="N">kohđet</t>
             <xg>
@@ -80417,12 +80424,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;anb;es">
       <lg>
          <l pos="N">formål</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">päämäärä</t>
+            <t pos="N">mooli</t>
             <t pos="N">toimi</t>
          </tg>
       </mg>
