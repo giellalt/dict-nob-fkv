@@ -380,7 +380,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj;ki">
+   <e src="mj;es;ki">
       <lg>
          <l pos="Adv">mye</l>
       </lg>
@@ -436,45 +436,22 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>fryktelig, forferdelig mye</re>
             <t pos="Adv">hirveesti</t>
+            <t pos="Adv">kauheesti</t>
             <t pos="Adv">kamalasti</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>uhyggelig mye</re>
-            <t pos="Adv">valjusti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>helvetes mye</re>
-            <t pos="Adv">helvetisti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>djevelsk mye</re>
-            <t pos="Adv">pirusti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>grumt mye</re>
             <t pos="Adv">julmasti</t>
             <xg>
-            <x>Det var grumt mye fisk der.</x>
+            <x>Det var velig mye fisk der.</x>
             <xt>Sielä oli kallaa niin julmasti.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>uendelig mye</re>
-            <t pos="Adv">loppumattomasti</t>
-            <xg>
-            <x>På biblioteket er det uendelig mye bøker.</x>
-            <xt>Biblioteekissa oon loppumattomasti kirjoi.</xt>
-            </xg>
+            <t pos="Adv">valjusti</t>
          </tg>
       </mg>
    </e>
@@ -12488,6 +12465,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">moittheettomasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">tyst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vaiti</t>
+            <t pos="Adv">hiljaa</t>
+            <t pos="Adv">ääneti</t>
          </tg>
       </mg>
    </e>
