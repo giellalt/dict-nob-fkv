@@ -43684,13 +43684,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">pilot</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>fører av luftfartøy</re>
             <t pos="N">lenttääjä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>testversjon, første forsøk av f.eks. et prosjekt</re>
+            <t pos="N">pilootti</t>
          </tg>
       </mg>
    </e>
@@ -115171,6 +115178,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kivunhuuto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">nyhetsavis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">uutisaviisi</t>
          </tg>
       </mg>
    </e>
