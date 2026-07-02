@@ -72811,7 +72811,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="vahđi">vahti</t>
+            <t pos="N">vahti</t>
+            <t pos="N">valvonta</t>
          </tg>
       </mg>
    </e>
@@ -115188,6 +115189,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">uutisaviisi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ki">
+      <lg>
+         <l pos="N">oppsyn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ansikt, mine</re>
+            <t pos="N">ilmet</t>
+            <t pos="A">näköinen</t>
+            <xg>
+               <x>Han hadde et frekt oppsyn.</x>
+               <xt>Hänelä oli julkkee ilmet.</xt>
+            </xg>
+            <xg>
+               <x>Gutten hadde et sørgelig oppsyn.</x>
+               <xt>Poika oli surulisen näköinen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>instans som har tilsyn, overvåkning</re>
+            <t pos="N">valvonta</t>
+            <xg>
+               <x>Naturoppsynet har oppsyn med blant annet verneområder, jakt og fiske.</x>
+               <xt>Luononvalvonta valvoo muun myötä suojelualloi, pyyttöö ja fiskuu.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
