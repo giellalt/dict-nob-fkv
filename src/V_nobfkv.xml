@@ -21904,11 +21904,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>gi mat, fôre</re>
             <t pos="V" stem="ruoki">ruokkiit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>tilføre innhold</re>
             <t pos="V" stem="syötä">syöttäät</t>
          </tg>
       </mg>
@@ -23533,6 +23535,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="syötä">syöttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ta;ki">
+      <lg>
+         <l pos="V">egne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" stem="syötä">syöttäät</t>
+            <xg>
+               <x>De satt i nauset og egnet liner.</x>
+               <xt>Het istuthiin naustissa syöttämässä liinoi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
