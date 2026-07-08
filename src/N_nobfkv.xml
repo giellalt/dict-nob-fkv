@@ -35757,10 +35757,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="kiukhaa">kiuvas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="kiukhaa">kiukas</t>
          </tg>
       </mg>
@@ -61917,12 +61913,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+	         <re>ris av bjørk</re>
             <t pos="N" stem="varvu;varppu">varpu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="vitta">vitta</t>
+	         <re>badsturis</re>
+            <t pos="N">vihta</t>
+            <t pos="N">vitta</t>
+            <t pos="N">vasta</t>
          </tg>
       </mg>
    </e>
@@ -73597,18 +73597,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ta;ai">
       <lg>
-         <l pos="N">badstukvast</l>
+         <l pos="N">badsturis</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">vasta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">vihta</t>
+            <t pos="N">vitta</t>
+            <t pos="N">vasta</t>
          </tg>
       </mg>
    </e>
