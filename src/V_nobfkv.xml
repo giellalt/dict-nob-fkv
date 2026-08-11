@@ -9377,7 +9377,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">jääđä</t>
+            <t t_type="Phrase">jääđä kesken</t>
          </tg>
       </mg>
    </e>
@@ -10883,6 +10883,29 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>om mat, bli ferdigkokt, -stekt</re>
+            <t pos="V">kypsyyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">bli kokt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om mat, bli ferdigkokt</re>
+            <t pos="V">kypsyyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">bli stekt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om mat, bli ferdigstekt</re>
             <t pos="V">kypsyyt</t>
          </tg>
       </mg>

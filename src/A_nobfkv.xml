@@ -1627,13 +1627,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;anb">
       <lg>
          <l pos="A">gjennomstekt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">läpikypsy</t>
+            <t pos="A">kypsy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ks;anb">
+      <lg>
+         <l pos="A">gjennomkokt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">läpikypsy</t>
+            <t pos="A">kypsy</t>
          </tg>
       </mg>
    </e>
@@ -12522,7 +12534,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="A">ferdig</l>
       </lg>
@@ -12533,17 +12545,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">valmhiiksi</t>
-            <xg>
-               <x>Gjør det nå ferdig!</x>
-               <xt>Tehe nyt sen valmhiiksi!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	         <re>bli ferdig</re>
-            <t pos="V" stem="kerkkii;kerin">keritä</t>
+         <re>om mat, ferdigkokt, -stekt</re>
+            <t pos="A">kypsy</t>
          </tg>
       </mg>
    </e>
