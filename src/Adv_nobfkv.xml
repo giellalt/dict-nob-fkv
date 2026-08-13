@@ -1650,9 +1650,59 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">sen verran</t>
+            <t pos="Adv">sen verta</t>
+            <xg>
+            <x>Jeg kan såpass mye kvensk at jeg klarer å lese korte tekster.</x>
+            <xt>Mie saatan sen verran kväänin kieltä ette pystyn lukemhaan lyhykäissii tekstii.</xt>
+            </xg>
+            <xg>
+            <x>Det kom så pass med folk at salen ble full.</x>
+            <xt>Sen verran ihmissii tuli ette sali täyttyi.</xt>
+            </xg>
+            <xg>
+            <x>Det var såpass mye vann der at man måtte vasse.</x>
+            <xt>Sen verta paljon vettä oli siinä ette joutui kaalamhaan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Adv">siksi</t>
             <xg>
-            <x>Han/hun er såpass gammel at hen forstår.</x>
+            <x>Hun er såpass gammel at hen forstår.</x>
+            <xt>Se on jo siksi vanhaa ette ymmärttää.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">så pass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sen verran</t>
+            <t pos="Adv">sen verta</t>
+            <xg>
+            <x>Jeg kan så pass mye kvensk at jeg klarer å lese korte tekster.</x>
+            <xt>Mie saatan sen verran kväänin kieltä ette pystyn lukemhaan lyhykäissii tekstii.</xt>
+            </xg>
+            <xg>
+            <x>Det kom så pass med folk at salen ble full.</x>
+            <xt>Sen verran ihmissii tuli ette sali täyttyi.</xt>
+            </xg>
+            <xg>
+            <x>Det var så pass mye vann der at man måtte vasse.</x>
+            <xt>Sen verta paljon vettä oli siinä ette joutui kaalamhaan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">siksi</t>
+            <xg>
+            <x>Hun er så pass gammel at hen forstår.</x>
             <xt>Se on jo siksi vanhaa ette ymmärttää.</xt>
             </xg>
          </tg>

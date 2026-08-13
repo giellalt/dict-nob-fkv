@@ -12042,6 +12042,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">porsjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">määrä</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ia">
       <lg>
          <l pos="N">tobis</l>
@@ -19386,7 +19396,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">grad</l>
       </lg>
@@ -19395,6 +19405,23 @@ For the full license text, see the link above.</lic>
             <t pos="N">astet</t>
             <t pos="N">graadi</t>
             <t pos="N" stem="kraađi;kraatti">kraati</t>
+            <xg>
+            <x>Temperaturen er 20 grader.</x>
+            <xt>Temperatuuri oon 20 graadii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">verta</t>
+            <xg>
+            <x>Jeg kan kunnskap om saken i noen grad.</x>
+            <xt>Sen verta mie tieđän assiista.</xt>
+            </xg>
+            <xg>
+            <x>Han var trøtt i så stor grad at han la seg.</x>
+            <xt>Hän oli sen verran vaipunu ette hän pani maata.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -50086,17 +50113,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>konkret mengde</re>
             <t pos="N">määrä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="verra;vert">verta</t>
+            <xg>
+               <x>Hun drikker store mengder kaffe.</x>
+               <xt>Hän juopi suurii määrii kaffii.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">paljous</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N" stem="verra;vert">verta</t>
          </tg>
       </mg>
    </e>
@@ -90534,7 +90566,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>når det er mye av noe</re>
             <t pos="N">runshaus</t>
             <xg>
             <x>overflod av mat</x>
@@ -90545,6 +90576,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">ylenmäärä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">rikelighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">runshaus</t>
          </tg>
       </mg>
    </e>
