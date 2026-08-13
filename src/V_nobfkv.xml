@@ -9312,8 +9312,8 @@ For the full license text, see the link above.</lic>
                <xt>Jäätkö yöksi?</xt>
             </xg>
             <xg>
-               <x>Jeg vil bare bli husket.</x>
-               <xt>Mie halluun tyhä jääđä muitten mielheen.</xt>
+               <x>Jeg kan ikke bli lenger.</x>
+               <xt>Mie en saata jääđä pitemäksi aikkaa.</xt>
             </xg>
          </tg>
       </mg>
@@ -9388,21 +9388,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kaakkaa;kaakan">kaakata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" stem="paskana;paskanta">paskanttaat</t>
          </tg>
       </mg>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">bærsje</l>
+         <l pos="V">bæsje</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="kaakkaa;kaakan">kaakata</t>
+            <t pos="V" stem="paskana;paskanta">paskanttaat</t>
          </tg>
       </mg>
    </e>
@@ -9482,7 +9479,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="V">falle</l>
       </lg>
@@ -9535,6 +9532,29 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>De begge falt i synd.</x>
                <xt>Molemat langethiin synthiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">laskeet</t>
+            <xg>
+               <x>Blodtrykket faller.</x>
+               <xt>Verenpaino laskee.</xt>
+            </xg>
+            <xg>
+               <x>Prisene har falt med tre prosent.</x>
+               <xt>Hinnat oon laskenheet kolmela prosentilla.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>falle utenfor</re>
+            <t pos="V">jääđä</t>
+            <xg>
+               <x>De har falt på utsiden av samfunnet.</x>
+               <xt>Het oon jäänheet ytheiskunnan ulkopuolele.</xt>
             </xg>
          </tg>
       </mg>
@@ -19550,6 +19570,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V" stem="kaakkaa;kaakan">kaakata</t>
             <t pos="V" stem="paskana;paskanta">paskanttaat</t>
          </tg>
       </mg>
@@ -23617,13 +23638,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l t_type="Phrase">holde seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>bevares</re>
             <t pos="V">säilyyt</t>
+            <xg>
+               <x>Hermetikken holder seg lenge.</x>
+               <xt>Hermetikki säilyy pitkhään.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>bli værende</re>
+            <t pos="V">pyssyyt</t>
+            <xg>
+               <x>Han holdt seg hjemme hele dagen.</x>
+               <xt>Hän pysyi kotona koko päivän.</xt>
+            </xg>
+            <xg>
+               <x>Det lønner seg å holde seg i form.</x>
+               <xt>Kannattaa pyssyyt kunnossa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
