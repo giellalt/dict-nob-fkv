@@ -17474,6 +17474,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="aija;aikka">aika</t>
+            <xg>
+               <x>Hun har en times tid på seg til å gjøre jobben ferdig.</x>
+               <xt>Hänelä oon tiiman verran aikkaa tehđä työn valmhiiksi.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -19415,7 +19419,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">verta</t>
             <xg>
-            <x>Jeg kan kunnskap om saken i noen grad.</x>
+            <x>Jeg har kunnskap om saken i noen grad.</x>
             <xt>Sen verta mie tieđän assiista.</xt>
             </xg>
             <xg>
@@ -50113,8 +50117,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>konkret mengde</re>
             <t pos="N">määrä</t>
+            <xg>
+               <x>Mengden arbeid har økt.</x>
+               <xt>Työn määrä oon kasunu.</xt>
+            </xg>
             <xg>
                <x>Hun drikker store mengder kaffe.</x>
                <xt>Hän juopi suurii määrii kaffii.</xt>
@@ -50123,12 +50130,22 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>stor mengde av noe</re>
             <t pos="N">paljous</t>
+            <xg>
+               <x>Den store mengden turister er synlig overalt.</x>
+               <xt>Turistiitten paljous näkkyy kaikkialla.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>grad, monn</re>
             <t pos="N" stem="verra;vert">verta</t>
+            <xg>
+               <x>Den mengden penger er nok.</x>
+               <xt>Sen verta rahhaa oon nokko.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
