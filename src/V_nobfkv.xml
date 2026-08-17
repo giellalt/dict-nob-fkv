@@ -16335,6 +16335,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>si, gjøre på nytt</re>
             <t pos="V">toistaat</t>
+            <t pos="V">matkiit</t>
          </tg>
       </mg>
       <mg>
@@ -16343,13 +16344,18 @@ For the full license text, see the link above.</lic>
             <t pos="V">kerrata</t>
          </tg>
       </mg>
-<!--    <mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">herme</l>
+      </lg>
+      <mg>
          <tg xml:lang="fkv">
             <t pos="V">matkiit</t>
          </tg>
-      </mg> -->
+      </mg>
    </e>
-   <e src="ai;ta">
+<!--   <e src="ai;ta">
       <lg>
          <l pos="V">mase</l>
       </lg>
@@ -16358,7 +16364,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">matkiit</t>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e src="ai;ta;">
       <lg>
          <l pos="V">mene</l>
