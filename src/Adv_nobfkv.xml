@@ -7407,15 +7407,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">takaisin</t>
+            <xg>
+            <x>Når kommer dere tilbake?</x>
+            <xt>Koska tet tuletta takaisin?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">takaisinpäin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">takaisinkäsin</t>
             <xg>
             <x>Handelen med Russland går flere hundre år tilbake i tid.</x>
@@ -7431,6 +7431,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">takaperin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">bakfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">pörästäpäin</t>
          </tg>
       </mg>
    </e>
@@ -11602,13 +11612,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="Adv">i ettertid</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">pörästäpäin</t>
+            <t pos="Adv">jälkhiinpäin</t>
          </tg>
       </mg>
    </e>
