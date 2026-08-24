@@ -2517,8 +2517,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	      <re>rekke å gjøre noe</re>
-            <t pos="V">ennättäät</t>
+	       <re>rekke å gjøre noe</re>
+            <t pos="V" stem="kerkkii;kerin">keritä</t>
+            <t pos="V" stem="kerkkee;keren">keretä</t>
+            <t pos="V" stem="kerkkee;keren">ennättäät</t>
+             <xg> 
+               <x>Rekker du å gjøre dette?</x> 
+               <xt>Kerkkiitkö sie tekemhään tämän?</xt> 
+            </xg> 
+             <xg> 
+               <x>Ja visst, jeg rekker å gjøre det før lunsj.</x> 
+               <xt>Kyllä vain, mie kerkkiin tekemhään sen ennen murkinaa.</xt> 
+            </xg> 
             <xg> 
                <x>Jeg rekker jo å gå til posten i morgen.</x> 
                <xt>Mie ennätän kyllä mennä posthiin huomena.</xt> 
@@ -2530,24 +2540,9 @@ For the full license text, see the link above.</lic>
 	      <re>å ha til til</re>
             <t pos="V">jouttaat</t>
             <xg> 
-               <x>Jeg hadde ikke til til å dra dit.</x> 
+               <x>Jeg rekker ikke å dra dit.</x> 
                <xt>En mie joutanu sinne menemhään.</xt> 
               </xg> 
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-	       <re>rekke å gjøre noe</re>
-            <t pos="V" stem="kerkkii;kerin">keritä</t>
-            <t pos="V" stem="kerkkee;keren">keretä</t>
-             <xg> 
-               <x>Rekker du å gjøre dette?</x> 
-               <xt>Kerkkiitkö sie tekemhään tämän?</xt> 
-            </xg> 
-             <xg> 
-               <x>Ja visst, jeg rekker å gjøre det før lunsj.</x> 
-               <xt>Kyllä vain, mie kerkkiin tekemhään sen ennen murkinaa.</xt> 
-            </xg> 
          </tg>
       </mg>
       <mg>
@@ -2587,21 +2582,15 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="uletu;ulettu">ulelttuut</t>
             <t pos="V" stem="uletu;ulettu">ulettaat</t>
                <xg> 
-               <x>Det lille barnet rakk ikke opp til øverste hylle .</x> 
+               <x>Det lille barnet rakk ikke opp til øverste hylle.</x> 
                <xt>Pikku lapsi ei ulettunnu ylimälle hyllyle.</xt> 
             </xg> 
-            <xg> 
-               <x>Frakken når nesten til tærne.</x> 
-              <xt>Frakki ulettuu kohta varphaissiin.</xt> 
-            </xg> 
-            <xg> 
-               <x>Foreningens handlinger strekker seg over hele landet.</x> 
-               <xt>Liiton tevot uletuthaan koko maahan.</xt> 
-            </xg> 
-            <xg> 
-               <x>Sollyset strekker seg over horisontkanten.</x> 
-               <xt>Auringon loistet ulettuu horisonttikantin ylitte.</xt> 
-            </xg> 
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>rekke opp, løsne tråd</re>
+            <t pos="V">kehittäät</t>
          </tg>
       </mg>
    </e>
@@ -26045,7 +26034,19 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>nå, rekke</re>
+            <t pos="V">ulettuut</t>
+            <t pos="V">ulelttuut</t>
+            <t pos="V">ulettaat</t>
             <t pos="V">ulottuut</t>
+            <xg> 
+               <x>Foreningens handlinger strekker seg over hele landet.</x> 
+               <xt>Liiton tevot uletuthaan koko maahan.</xt> 
+            </xg> 
+            <xg> 
+               <x>Sollyset strekker seg over horisontkanten.</x> 
+               <xt>Auringon loistet ulettuu horisonttikantin ylitte.</xt> 
+            </xg> 
             <xg>
             <x>Kammerset strekker seg bort til stueveggen.</x>
             <xt>Kamari ulottuu tuvan seinhään asti.</xt>
@@ -28870,9 +28871,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>rekke, har tid til</re>
+	         <re>rekke, ha tid til</re>
             <t pos="V">keritä</t>
-            <t pos="V">räkätä</t>
+            <t pos="V">ennättäät</t>
+            <t pos="V">jouttaat</t>
             <xg>
             <x>Jeg når ikke å gjøre det idag.</x>
             <xt>Mie en kerkkii tekemhään sitä tääpänä.</xt>
@@ -28892,6 +28894,10 @@ For the full license text, see the link above.</lic>
             <x>Det var så mye snø at det nådde meg godt opp for kneet.</x>
             <xt>Se oli niin paljon lunta ette se uleltui minnuu hyvinki ylipuolele polvee.</xt>
             </xg>
+            <xg> 
+               <x>Frakken når nesten til tærne.</x> 
+              <xt>Frakki ulettuu kohta varphaissiin.</xt> 
+            </xg> 
             <xg>
             <x>Hun når moren sin til skuldrene.</x>
             <xt>Hän ulelttuu ittensä muorin olkhaan saakka.</xt>
