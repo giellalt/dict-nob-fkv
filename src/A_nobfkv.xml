@@ -6493,19 +6493,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="kovva">kova</t>
-              <xg>
-               <x>Kaffen er sterk.</x>
-               <xt>Kaffi oon kova.</xt>
+            <t pos="A" stem="lujja">luja</t>
+             <xg>
+               <x>Hun er sterk.</x>
+               <xt>Hän oon luja.</xt>
+            </xg>
+             <xg>
+               <x>Han har en sterk tro på fremtiden.</x>
+               <xt>Hänelä oon luja usko tulleevaisuutheen.</xt>
+            </xg>
+             <xg>
+               <x>Hun har en sterk vilje.</x>
+               <xt>Hänelä oon luja tahto.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A" stem="lujja">luja</t>
+            <t pos="A">väkkeevä</t>
              <xg>
-               <x>Bjørnen er sterk.</x>
-               <xt>Karhuu oon luja.</xt>
+               <x>Mannen er sterk.</x>
+               <xt>Mies oon väkkeevä.</xt>
             </xg>
          </tg>
       </mg>
@@ -6516,10 +6524,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">väkkeevä</t>
-             <xg>
-               <x>Mannen er sterk.</x>
-               <xt>Mies oon väkkeevä.</xt>
+            <t pos="A" stem="kovva">kova</t>
+              <xg>
+               <x>Han syntes kaffen var for sterk.</x>
+               <xt>Hänen mielestä kaffi oli liijan kova.</xt>
             </xg>
          </tg>
       </mg>
