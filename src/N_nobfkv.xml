@@ -37084,11 +37084,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">konkursi</t>
-            <t pos="N">pankrotti</t>
             <xg>
                <x>Butikken gikk konkurs.</x>
-               <xt>Kauppa meni konkursiin.</xt>
+               <xt>Kauppa meni konkurshiin.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ki">
+      <lg>
+         <l pos="N">bankerott</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pankrotti</t>
             <xg>
                <x>Butikken gikk konkurs.</x>
                <xt>Kauppa meni pankrotthiin.</xt>
