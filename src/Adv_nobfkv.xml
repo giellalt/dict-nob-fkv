@@ -10180,13 +10180,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Adv">særskilt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="Adv">vasituisesti</t>
+            <xg>
+               <x>Het halluuvat työtelä vasituisesti sen kans ette tila parantuis.</x>
+               <xt>De vil jobbe særskilt for at situasjonen skal bedre seg.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Adv">omituisesti</t>
+            <xg>
+               <x>Han hadde ikke råd til å kjøpe den særskilt, så han måtte låne.</x>
+               <xt>Hänelä ei ollu varraa ostaat sitä omituisesti, se hän joutui lainamhaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
