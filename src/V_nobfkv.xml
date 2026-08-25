@@ -13683,28 +13683,41 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l t_type="Phrase">bli mett</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">kyllästyyt</t>
+            <t pos="V">kylläänttyyt</t>
          </tg>
       </mg>
    </e>
    <e src="ai;ta">
       <lg>
-         <l t_type="Phrase">få nok</l>
+         <l t_type="Phrase">få nok av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">kyllästyyt</t>
+            <xg>
+               <x>Jeg har fått nok av slike reiser.</x>
+               <xt>Mie olen kyllästynny tuolaishiin reishuin.</xt>
+            </xg>
+            <xg>
+               <x>Han får aldri nok av å se på nattehimmelen.</x>
+               <xt>Hän ei koskhaan kyllästy kattoskelemasta yötaivasta.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="paltu">palttuut</t>
+            <xg>
+               <x>Jeg har fått nok han.</x>
+               <xt>Mie olen palttunu hänheen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
