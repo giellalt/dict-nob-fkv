@@ -2350,6 +2350,53 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">i hverandres armer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sylitysten</t>
+            <xg>
+               <x>Vennene sto og holdt rundt hverandre.</x>
+               <xt>Ystävät seisothiin sylitysten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">med ryggen mot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sölin</t>
+            <xg>
+               <x>De satt med ryggen mot døra.</x>
+               <xt>Het istuthiin sölin ovheen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">på rygg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">sölälänsä</t>
+            <t pos="Adv">sölälensä</t>
+            <xg>
+               <x>Han ligger på rygg.</x>
+               <xt>Hän makkaa sölälänsä.</xt>
+            </xg>
+            <xg>
+               <x>Han la seg ned på rygg.</x>
+               <xt>Hän lasketti sölälensä.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta;es">
       <lg>
          <l pos="Adv">enkelt</l>
@@ -7466,19 +7513,38 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;anb">
       <lg>
          <l pos="Adv">bakover</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">takapäin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">pörhäänkäsin</t>
+            <t pos="Adv">perhäänkäsin</t>
+            <t pos="Adv">pörhäänpäin</t>
+            <t pos="Adv">perhäänpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">bakvendt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">pörhäänpäin</t>
+            <t pos="Adv">perhäänpäin</t>
             <t pos="Adv">pörhäänkäsin</t>
             <t pos="Adv">perhäänkäsin</t>
          </tg>
       </mg>
    </e>
-<e src="ta">
+   <e src="ta">
       <lg>
          <l pos="Adv">tatt vare på</l>
       </lg>
@@ -9123,7 +9189,7 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Det skjedde rundt jul.</x>
                <xt>Se tapattui joulun aikhaan.</xt>
-               </xg>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9131,11 +9197,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Adv">omkring</l>
       </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">ympärille</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">ympärillä</t>
@@ -9147,7 +9208,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Po">ympäri</t>
+            <t pos="Adv">ympärille</t>
          </tg>
       </mg>
    </e>
@@ -9227,7 +9288,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki;es">
+   <e src="ki;es;anb">
       <lg>
          <l pos="Adv">akkurat</l>
       </lg>
@@ -9260,8 +9321,23 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>nøyaktig, eksakt</re>
             <t pos="Adv">täsmälheen</t>
             <t pos="Adv">säntilheen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>akkurat nå, for øyeblikket</re>
+            <t pos="Adv">parhailansa</t>
+            <xg>
+               <x>De spiser frokost akkurat nå.</x>
+               <xt>Het syövät parhailansa aamuruokkaa.</xt>
+            </xg>
+            <xg>
+               <x>Høsten var på vei.</x>
+               <xt>Syksy teki parhailansa tulloo.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
