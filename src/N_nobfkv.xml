@@ -28436,25 +28436,58 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ai;ta">
+      <lg>
+         <l pos="N">lammeskank</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lamphaankoipi</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta;aht">
       <lg>
          <l pos="N">bein</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <re>om kroppsdel</re>
+            <re>nøytralt om kroppsdel man går med</re>
             <t pos="N">jalka</t>
-            <t pos="N">koipi</t>
-             <xg>
-               <x>Foten må gå først.</x>
-               <xt>Jalka mennä eelä.</xt>
+            <xg>
+               <x>Han har kort rygg og lange bein.</x>
+               <xt>Hänelä oon lyhykäinen sölkä ja pitkät jalat.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <re>om bein i kroppen</re>
+            <re>mer muntlig kroppsdel man går med</re>
+            <t pos="N">kinttu</t>
+            <t pos="N">ketara</t>
+            <t pos="N">koipi</t>
+            <xg>
+               <x>De sprang så fort som beina bar.</x>
+               <xt>Het juosthiin mitä jo vähänkhään kintuista lähti.</xt>
+            </xg>
+            <xg>
+               <x>Vi ligger her med beina i været.</x>
+               <xt>Makkailemma täälä ketarat taivhaala.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <re>del av skjelettet til mennesker og dyr</re>
             <t pos="N">luu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <re>knokkel med kjøttrester på</re>
+            <t pos="N">luu</t>
+            <t pos="N">kontti</t>
+            <t pos="N">koipi</t>
          </tg>
       </mg>
    </e>
@@ -28464,24 +28497,42 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <re>om kroppsdel</re>
+            <re>nøytralt om kroppsdel man går med</re>
             <t pos="N">jalka</t>
-            <t pos="N">koipi</t>
-             <xg>
-               <x>Foten må gå først.</x>
-               <xt>Jalka mennä eelä.</xt>
+            <xg>
+               <x>Han har kort rygg og lange bein.</x>
+               <xt>Hänelä oon lyhykäinen sölkä ja pitkät jalat.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <re>om ben i kroppen</re>
+            <re>mer muntlig kroppsdel man går med</re>
+            <t pos="N">kinttu</t>
+            <t pos="N">ketara</t>
+            <t pos="N">koipi</t>
+            <xg>
+               <x>De sprang så fort som beina bar.</x>
+               <xt>Het juosthiin mitä jo vähänkhään kintuista lähti.</xt>
+            </xg>
+            <xg>
+               <x>Vi ligger her med beina i været.</x>
+               <xt>Makkailemma täälä ketarat taivhaala.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <re>del av skjelettet til mennesker og dyr</re>
             <t pos="N">luu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <re>knokkel med kjøttrester på</re>
+            <t pos="N">luu</t>
             <t pos="N">kontti</t>
+            <t pos="N">koipi</t>
          </tg>
       </mg>
    </e>
