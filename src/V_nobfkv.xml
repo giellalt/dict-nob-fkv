@@ -3247,13 +3247,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>feire</re>
-            <t pos="V">juhliit</t>
+            <t pos="V" stem="kiinitä">kiinittäät</t>
+            <xg>
+               <x>Jeg festet sykkelen i gjeret.</x>
+               <xt>Mie kiinitin sykkelin aithaan.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="kiinitä">kiinittäät</t>
+	         <re>feire</re>
+            <t pos="V">juhliit</t>
          </tg>
       </mg>
       <mg>
@@ -20915,16 +20919,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="pure;pur">purra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-         <re>ta agnet</re>
-            <t pos="V">tarttuut</t>
-            <xg>
-               <x>Fisker biter ikke idag.</x>
-               <xt>Kala ei tartu tääpänä.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
