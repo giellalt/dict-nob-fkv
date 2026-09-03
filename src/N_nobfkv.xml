@@ -67522,17 +67522,32 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="synny;syntty">synty</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">syntymä</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+         <re>det å føde</re>
             <t pos="N">synnytys</t>
+            <xg>
+               <x>Fødselen har startet.</x>
+               <xt>Synnytys oon alkanu.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>det å bli født</re>
+            <t pos="N">syntymä</t>
+            <xg>
+               <x>Han har vært døv siden fødselen.</x>
+               <xt>Hän oon ollu kuuro syntymästä saakka.</xt>
+            </xg>
+            <xg>
+               <x>Kristi fødsel.</x>
+               <xt>Kristuksen syntymä</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>opphav, herkomst</re>
+            <t pos="N">synty</t>
          </tg>
       </mg>
    </e>
