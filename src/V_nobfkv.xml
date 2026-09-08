@@ -1273,13 +1273,41 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="anb;ki">
+      <lg>
+         <l pos="V">innta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>erobre</re>
+            <t pos="V">vallata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ks;anb">
       <lg>
          <l pos="V">erobre</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">vallata</t>
+            <xg>
+               <x>De erobret hele byen.</x>
+               <xt>Het vallathiin koko kaupungin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">valloittaat</t>
+            <xg>
+               <x>Landet erober stadig nye områder.</x>
+               <xt>Maa valloittaa jammisti uussii alloi.</xt>
+            </xg>
+            <xg>
+               <x>Han har erobret hjertet mitt.</x>
+               <xt>Hän oon valloittannu minun syđämen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23936,18 +23964,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;anb">
       <lg>
          <l pos="V">gripe</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>ta tak i</re>
             <t pos="V">tarttuut</t>
+            <t pos="V">tartattaat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">tartattaat</t>
+         <re>bli grepet av en følelse</re>
+            <t pos="V">vallata</t>
+            <xg>
+               <x>Han er sterkt grepet av sorg.</x>
+               <xt>Suru oon vallanu hänen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -33725,6 +33760,31 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>bråke, støye</re>
             <t pos="V">remuta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">ta overhånd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ta noen i sin makt</re>
+            <t t_type="Phrase">ottaat valthaansa</t>
+            <xg>
+               <x>Drikkingen hennes har tatt overhånd.</x>
+               <xt>Juominen oon ottanu hänen valthaansa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>følelse som overvelder, griper</re>
+            <t pos="V">vallata</t>
+            <xg>
+               <x>Fortvilensen tok overhånd hos ham.</x>
+               <xt>Epätoivo valtas hänen mielen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
