@@ -3579,6 +3579,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="N">trekant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kolmiskantti</t>
+         </tg>
+      </mg>
+   </e>
    <e src="grom">
       <lg>
          <l pos="N">panel</l>
@@ -10725,7 +10735,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">varoituskolmikantti</t>
+            <t pos="N">varoituskolmiskantti</t>
          </tg>
       </mg>
    </e>
@@ -29623,6 +29633,26 @@ For the full license text, see the link above.</lic>
    <e src="ai">
       <lg>
          <l pos="N">bete</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">juurikasvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;anb">
+      <lg>
+         <l pos="N">rotfrukt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">juurikasvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;anb">
+      <lg>
+         <l pos="N">rotvekst</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">

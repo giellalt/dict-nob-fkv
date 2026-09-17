@@ -8698,18 +8698,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="anb;ai;ta;es">
       <lg>
          <l pos="A">firkantet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">neljeskanttinen</t>
+            <t pos="A">neliskanttinen</t>
             <t pos="A">neljenkulmainen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="neljenkanttise;neljenkanttis">neljenkanttinen</t>
+            <t pos="A">neljenkanttinen</t>
          </tg>
       </mg>
    </e>
@@ -14970,12 +14968,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="anb;es">
       <lg>
          <l pos="A">trekantet</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="A">kolmiskanttinen</t>
             <t pos="A">kolmenkulmainen</t>
          </tg>
       </mg>
