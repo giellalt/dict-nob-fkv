@@ -24243,7 +24243,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;anb">
       <lg>
          <l pos="V">trette</l>
       </lg>
@@ -24251,6 +24251,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
          <re>krangle, munnhogges</re>
             <t pos="V" stem="tinkkaa;tingan">tingata</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gjøre trøtt, sliten</re>
+            <t pos="V">vaivuttaat</t>
          </tg>
       </mg>
    </e>
@@ -24287,6 +24293,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="tiphata">tiphattaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">trøtte ut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">vaivuttaat</t>
          </tg>
       </mg>
    </e>
@@ -28080,7 +28096,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="V">kylläänyttäät</t>
             <xg>
-            <x>Arbeideren er lei av det kjedelige arbeidet.</x>
+            <x>Arbeideren begynner å bli lei av det kjedelige arbeidet.</x>
             <xt>Pitkävetoinen työ kylläänyttää työntekkiijää.</xt>
             </xg>
          </tg>
