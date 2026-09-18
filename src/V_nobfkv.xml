@@ -13705,13 +13705,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l t_type="Phrase">bli lei av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>bli mett, få nok av</re>
             <t pos="V" stem="kyllänny;kyllänty">kylläänttyyt</t>
+            <xg>
+               <x>Jeg ble lei av å høre på ham.</x>
+               <xt>Mie kylläänyin hänen puhheissiin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>begynne å kjede seg</re>
+            <t pos="V">pitkästyyt</t>
+            <xg>
+               <x>De dro da de ble lei av forelesningen.</x>
+               <xt>Het lähđethiin ko het pitkästythiin lujenosta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13753,16 +13768,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta;anb">
       <lg>
          <l t_type="Phrase">gå lei av</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>bli mett, få nok av</re>
             <t pos="V">kylläänttyyt</t>
             <xg>
                <x>Jeg har gått lei av fisk.</x>
-               <xt>Mie olen kyllääntyny kalhaan.</xt>
+               <xt>Mie olen kyllääntynny kalhaan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>begynne å kjede seg</re>
+            <t pos="V">pitkästyyt</t>
+            <xg>
+               <x>De dro da de gikk lei av forelesningen.</x>
+               <xt>Het lähđethiin ko het pitkästythiin lujenosta.</xt>
             </xg>
          </tg>
       </mg>
@@ -24259,6 +24285,29 @@ For the full license text, see the link above.</lic>
             <t pos="V">vaivuttaat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>kjede</re>
+            <t pos="V">pitkästyttäät</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">trøtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gjøre trøtt, sliten</re>
+            <t pos="V">vaivuttaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>kjede</re>
+            <t pos="V">pitkästyttäät</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai;ta">
       <lg>
@@ -33800,6 +33849,35 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Fortvilensen tok overhånd hos ham.</x>
                <xt>Epätoivo valtas hänen mielen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">kjede</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gjøre noen uinteressert</re>
+            <t pos="V">pitkästyttäät</t>
+            <xg>
+               <x>Forelesningen kjeder studentene.</x>
+               <xt>Lujento pitkästyttää studenttiita.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>kjede seg</re>
+            <t pos="V">pitkästyyt</t>
+            <xg>
+               <x>Hun kjeder seg ofte hjemme alene.</x>
+               <xt>Hän pitkästyy ushein yksin kotona.</xt>
+            </xg>
+            <xg>
+               <x>Konserten tok slutt før noen rakk å begynne å kjede seg.</x>
+               <xt>Konsertti loppui ennen ko kukhaan keriny pitkästymhään sitä.</xt>
             </xg>
          </tg>
       </mg>
