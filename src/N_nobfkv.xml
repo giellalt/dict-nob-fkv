@@ -47034,7 +47034,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="mahđolisuuđe;mahđolisuut">mahđolisuus</t>
+            <t pos="N">mahđolisuus</t>
          </tg>
       </mg>
       <mg>
@@ -47045,6 +47045,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">freistaus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>om konkret anledning, situasjon</re>
+            <t pos="N">tillaisuus</t>
          </tg>
       </mg>
    </e>
@@ -68731,16 +68737,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>begivenhet</re>
             <t pos="N">tapattuma</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>tilfelle</re>
             <t pos="N">taphaus</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>det at noe hender</re>
             <t pos="N">tapattuminen</t>
          </tg>
       </mg>
@@ -69830,7 +69839,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>begivenhet</re>
             <t pos="N">tillaisuus</t>
          </tg>
       </mg>
@@ -82903,7 +82911,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">tappaus</t>
+            <t pos="N">taphaus</t>
          </tg>
       </mg>
    </e>
@@ -107591,7 +107599,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">tillaisuus</t>
+            <t pos="N">tapattuma</t>
          </tg>
       </mg>
    </e>
