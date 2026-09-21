@@ -29406,10 +29406,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kirkonmeno</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" nr="Pl">kirkonmenot</t>
          </tg>
       </mg>
@@ -48366,18 +48362,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">feiring</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">menot</t>
+         <re>fest, seremoni</re>
+            <t pos="N" nr="Pl" stem="menoi;menno">menot</t>
+            <t pos="N" nr="Pl" stem="piđoi;pitto">piđot</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" nr="Pl" stem="piđoi;pitto">piđot</t>
+         <re>det å feire, markering</re>
+            <t pos="N">viettäminen</t>
+            <t pos="N">feiraaminen</t>
          </tg>
       </mg>
    </e>
@@ -52709,6 +52709,16 @@ For the full license text, see the link above.</lic>
    <e src="ta">
       <lg>
          <l pos="N">lykkeønskning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">onnittelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">gratulasjon</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
