@@ -145,23 +145,35 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;mj;es">
+   <e src="ai;ta;mj;es;ki">
       <lg>
          <l pos="Adv">bare</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">tyhä</t>
+            <t pos="Adv">tyhjä</t>
+            <xg>
+               <x>Der er det bare krig og elendighet.</x>
+               <xt>Sielä oon tyhä sottaa ja kurjuutta.</xt>
+            </xg>
+            <xg>
+               <x>Om hun bare kom...</x>
+               <xt>Ko hän vaan tyhä tulis...</xt>
+            </xg>
+            <xg>
+               <x>De spiser bare kjøtt.</x>
+               <xt>Het syövät tyhjä lihhaa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="Adv">vain</t>
             <t pos="Adv">vaan</t>
-            <t pos="Adv">aivan</t>
             <xg>
                <x>Jeg har bare en mulighet.</x>
                <xt>Minula oon vain yksi mahđolisuus.</xt>
-            </xg>
-            <xg>
-               <x>Hjemme snakket vi bare finsk.</x>
-               <xt>Kotona met puhuima aivan suomee.</xt>
             </xg>
             <xg>
                <x>Om hun bare kom...</x>
@@ -175,6 +187,15 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Det er bare løgn.</x>
                <xt>Se oon pelkkää valetta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">aivan</t>
+            <xg>
+               <x>Hjemme snakket vi bare finsk.</x>
+               <xt>Kotona met puhuima aivan suomee.</xt>
             </xg>
          </tg>
       </mg>
