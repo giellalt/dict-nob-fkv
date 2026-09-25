@@ -37387,16 +37387,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">konto</t>
-             <t pos="N">skonto</t>
+            <t pos="N">skonto</t>
+            <t pos="N">sumu</t>
             <xg>
                <x>Tåken gikk i bakken.</x>
                <xt>Konto meni maahan.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">sumu</t>
          </tg>
       </mg>
       <mg>
@@ -40344,11 +40340,23 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l t_type="Phrase">skummet melk</l>
+         <l pos="N">skummetmelk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kurnaalimaito</t>
+            <t t_type="Phrase">skummattu maito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N">skummamelk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kurnaalimaito</t>
+            <t t_type="Phrase">skummattu maito</t>
          </tg>
       </mg>
    </e>
@@ -115645,6 +115653,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tyyryvaala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">sluddbyge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">slattaiili</t>
          </tg>
       </mg>
    </e>
