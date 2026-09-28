@@ -83651,7 +83651,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">opetus</t>
             <t pos="N">opettaminen</t>
+            <xg>
+               <x>Elevene har rett til opplæring i kvensk.</x>
+               <xt>Oppilhaila oon oikkeus kväänin kielen opetuksheen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">koulutus</t>
+            <xg>
+               <x>Faget er en del av grunnopplæringen.</x>
+               <xt>Faaki oon osa peruskoulutusta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -83663,6 +83677,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
 	         <re>språk</re>
             <t pos="N">eteläsaame</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">skolering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">koulutus</t>
          </tg>
       </mg>
    </e>
