@@ -2076,7 +2076,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" val="TV">jäättyyt</t>
+            <t pos="V" val="IV">jäättyyt</t>
             <xg>
                <x>Skiene iset.</x>
                <xt>Sivakat jääđythiin.</xt>
@@ -2090,7 +2090,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" val="TV">harjaanttuut</t>
+            <t pos="V" val="IV">harjaanttuut</t>
          </tg>
          <syng>
             <syn>bli vant til</syn>
@@ -2179,12 +2179,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>revne</re>
             <t pos="V" val="TV">ratketa</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>slippe ut følelse</re>
             <t pos="V">pakattuut</t>
+            <xg>
+               <x>Jenta brast i latter.</x>
+               <xt>Tytär pakattui naurhuun.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2280,16 +2286,29 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">haitata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" stem="loukkaa;loukan">loukata</t>
+            <xg>
+               <x>Han skadet foten da han falt.</x>
+               <xt>Hän loukkas jalan ko hän kaatui.</xt>
+            </xg>
+            <xg>
+               <x>Han skadet deres ære.</x>
+               <xt>Hän loukkas heiđän kunniaa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">vahingoittaat</t>
+            <xg>
+               <x>Stormen skadet båten.</x>
+               <xt>Tormi vahingoitti venettä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>skjemme, ødelegge</re>
             <t pos="V" stem="pillaa;pilan">pilata</t>
             <t pos="V">pillaat</t>
          </tg>
@@ -2297,11 +2316,25 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="tärvää;tärvän">tärvätä</t>
+            <xg>
+               <x>Bestemor tenkte på alle dem som hadde dødd eller skadet seg.</x>
+               <xt>Ämmi ajatteli kaikkia heitä, jokka olthiin kuolheet eli tärvänheet ittensä.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">vahingoittaat</t>
+            <t pos="V">haitata</t>
+            <xg>
+               <x>Det skader vel ikke om også de kommer på besøk.</x>
+               <xt>Eihän se haittais, ette hetki tulis kylhään.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <re>forderve, ødelegge moralsk eller åndelig</re>
+            <t pos="V">turmela</t>
          </tg>
       </mg>
    </e>
@@ -5555,18 +5588,43 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="hajota;spre" val="TV">hajoittaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">hävittäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
+         <re>gjøre dårlig, spolere</re>
             <t pos="V" stem="pillaa;pilan">pilata</t>
             <t pos="V">pillaat</t>
+            <xg>
+               <x>Ikke ødelegg muligheten deres.</x>
+               <xt>Älä pillaa heiđän mahđolisuutta.</xt>
+            </xg>
+            <xg>
+               <x>For mye salt ødelegger suppen.</x>
+               <xt>Liijalinen suolan käyttö pillaa vellin.</xt>
+            </xg>
+            <xg>
+               <x>Du ødelegger alt!</x>
+               <xt>Sie pillaat kaiken!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ødelegge fullstendig</re>
+            <t pos="V">tuhota</t>
+            <xg>
+               <x>Bombingen ødela byen.</x>
+               <xt>Pommaaminen tuhos kaupungin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>slå i stykker, rive ned, rasere</re>
+            <t pos="V" stem="hajiota;hajoitta" val="TV">hajoittaat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>utslette</re>
+            <t pos="V">hävittäät</t>
          </tg>
       </mg>
       <mg>
@@ -5578,7 +5636,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V">tuhota</t>
+            <re>forderve, ødelegge moralsk eller åndelig</re>
+            <t pos="V">turmela</t>
          </tg>
       </mg>
    </e>
@@ -5794,6 +5853,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>slippe ut følelse</re>
             <t pos="V">pakattuut</t>
             <xg>
                <x>Jenta holdte på å sprekke av latter.</x>
@@ -33960,6 +34020,34 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">sivistyyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="V">forderve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">turmela</t>
+            <xg>
+               <x>Krig forderver sjelen.</x>
+               <xt>Sota turmelee sielun.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="V">spolere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">pilata</t>
+            <xg>
+               <x>Nyheten spolerte hele reisen.</x>
+               <xt>Uutinen pilas koko reisun.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
