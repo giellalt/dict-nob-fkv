@@ -59752,14 +59752,23 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-         <re>f.eks. for å ha smør i</re>
-            <t pos="N" stem="pyty">pytty</t>
+            <t pos="N">ämpäri</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-         <re>f.eks. for å ha vann i</re>
-            <t pos="N">ämpäri</t>
+         <re>butt</re>
+            <t pos="N" stem="pyty">pytty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;es">
+      <lg>
+         <l pos="N">butt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">pytty</t>
          </tg>
       </mg>
    </e>
