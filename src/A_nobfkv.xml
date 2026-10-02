@@ -1382,6 +1382,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="es">
+      <lg>
+         <l pos="A">brokete</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">kirjaava</t>
+         </tg>
+      </mg>
+   </e>
       <e src="ks">
       <lg>
          <l pos="A">gyllen</l>
@@ -2166,16 +2176,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">färirikas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">monenfärinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">kirjaava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>flerfarget</re>
+            <t pos="A">monenfärinen</t>
          </tg>
       </mg>
    </e>
