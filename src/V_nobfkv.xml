@@ -22690,12 +22690,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="anb;ta">
       <lg>
          <l t_type="Phrase">stoppe opp</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V" stem="seisatta">seisattaat</t>
             <t pos="V" stem="seisahta">seisahtaat</t>
          </tg>
       </mg>
@@ -22855,6 +22856,15 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">selvetä</t>
+            <xg>
+               <x>Nå begynte det å bli klart for dem også hva som hadde skjedd.</x>
+               <xt>Nyt se alkoi selvenemhään heileki, mitä oli tapattunnu.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -22935,16 +22945,6 @@ For the full license text, see the link above.</lic>
                <x>Sola står opp og klarner den skyfylte himmelen.</x>
                <xt>Aurinko noussee ja seestyttää pilvitaivhaan.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l t_type="Phrase">bli klar(t)</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V" stem="selvvii;selvin">selvitä</t>
          </tg>
       </mg>
    </e>

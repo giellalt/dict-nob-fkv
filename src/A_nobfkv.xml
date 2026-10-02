@@ -741,18 +741,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="grom;es">
+      <e src="grom;es;anb">
       <lg>
          <l pos="A">flerfarget</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>med forskjellige farger</re>
             <t pos="A">erifärinen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>med mange farger</re>
             <t pos="A">monenfärinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>med blandede farger</re>
+            <t pos="A">sekafärinen</t>
          </tg>
       </mg>
    </e>
@@ -24509,6 +24517,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">sielulinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">klartenkt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">selväjärkinen</t>
          </tg>
       </mg>
    </e>
