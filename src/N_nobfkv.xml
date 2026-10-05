@@ -51889,19 +51889,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;es">
+   <e src="ai;ta;es;anb">
       <lg>
          <l pos="N">tone</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>lyd, melodi</re>
             <t pos="N" stem="nuoti">nuotti</t>
+            <t pos="N">sävel</t>
+            <t pos="N">sävelet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">sävel</t>
-            <t pos="N">sävelet</t>
+         <re>stil, intonasjon, nyanse</re>
+            <t pos="N">sävy</t>
          </tg>
       </mg>
    </e>
@@ -115777,6 +115780,37 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">seilaaja</t>
             <t pos="N">purjettiija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">septer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">valtasauva</t>
+            <t pos="N">septeri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">babbel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">lörpöttely</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">flatlus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">satiainen</t>
          </tg>
       </mg>
    </e>
