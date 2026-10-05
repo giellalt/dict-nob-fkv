@@ -81999,18 +81999,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki;es">
+   <e src="ki;es;anb">
       <lg>
          <l pos="N">ordforråd</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">sanapuohi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N">sanavarat</t>
+            <t pos="N">sanapuohi</t>
+            <t pos="N">sana-aitta</t>
          </tg>
       </mg>
    </e>
@@ -115811,6 +115808,46 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">satiainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">sakrament</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sakramentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">sakristi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sakasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">sabotør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">sabotööri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">oppbevaring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">säilytys</t>
          </tg>
       </mg>
    </e>
