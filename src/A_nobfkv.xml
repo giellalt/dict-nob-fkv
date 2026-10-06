@@ -541,13 +541,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-       <e src="kl">
+       <e src="kl;anb">
       <lg>
          <l pos="A">mett</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">kylläinen</t>
+            <xg>
+	            <x>Jeg er mett.</x>
+	            <xt>Mie olen kylläinen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">kyllänsä</t>
+            <xg>
+	            <x>Da hun hadde spist seg mett, sa hun: "Takk for maten!".</x>
+	            <xt>Ko hän oli syöny kyllänsä, hän sanoi: "Kiitos ruvasta!".</xt>
+            </xg>
+            <xg>
+	            <x>Han spiste mange kakestykker og ble mett.</x>
+	            <xt>Hän söi monta kakkopallaa ja oli kyllänsä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
