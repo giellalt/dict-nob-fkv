@@ -5855,14 +5855,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;anb;ki">
       <lg>
          <l pos="Adv">sørover</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">etelhään</t>
+            <t pos="Adv">etelhäänpäin</t>
             <t pos="Adv">orjas</t>
+            <t pos="Adv">orjaspäin</t>
          </tg>
       </mg>
    </e>
@@ -6222,12 +6224,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">poijes</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">pois</t>
+            <t pos="Adv">poijes</t>
          </tg>
       </mg>
       <mg>
@@ -6242,12 +6240,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Adv">poijes</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="Adv">pois</t>
+            <t pos="Adv">poijes</t>
          </tg>
       </mg>
    </e>
@@ -12758,6 +12752,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">harvemin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">på høstsiden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">syyspuolheen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">på magen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">vattalansa</t>
          </tg>
       </mg>
    </e>
