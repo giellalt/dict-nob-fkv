@@ -12706,4 +12706,52 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">senere på dagen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">päivemällä</t>
+            <xg>
+               <x>La oss snakke om det senere i dag.</x>
+               <xt>Puhuma siitä päivemällä.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">utpå dagen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">päivemällä</t>
+            <t pos="Adv">päivän pääle</t>
+            <xg>
+               <x>Vi kan snakke om det utpå dagen.</x>
+               <xt>Met saatama jutela siitä päivemällä.</xt>
+            </xg>
+            <xg>
+               <x>Været ble bedre utpå dagen.</x>
+               <xt>Sää parani päivän pääle.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">utover dagen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">päivemällä</t>
+            <t pos="Adv">päivän pääle</t>
+            <xg>
+               <x>Päivemällä sää parani.</x>
+               <xt>Været ble bedre utover dagen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>
