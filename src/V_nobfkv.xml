@@ -18998,6 +18998,38 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>ta med seg, ta bort</re>
+            <t pos="V">vieđä</t>
+            <xg>
+               <x>Han tok barna til skolen.</x>
+               <xt>Hän vei lapset koulhuun.</xt>
+            </xg>
+            <xg>
+               <x>Nyheten tok fra ham livsgleden.</x>
+               <xt>Uutinen vei häneltä elämänilon.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>i visse sammenhenger</re>
+            <t pos="V">perriit</t>
+            <xg>
+               <x>Fanden ta dere!</x>
+               <xt>Piru perikhöön teiđät!</xt>
+            </xg>
+            <xg>
+               <x>Skynd dere nå, ellers tar fienden dere.</x>
+               <xt>Pitäkkää nyt hoppuu, eli viholinen perrii teiđät.</xt>
+            </xg>
+            <xg>
+               <x>Laget mitt tok hjem seieren i turneringen.</x>
+               <xt>Minun laaki peri voiton turnauksessa.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -27445,6 +27477,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">eksporteerata</t>
+            <t t_type="Phrase">vieđä ulos</t>
          </tg>
       </mg>
    </e>
