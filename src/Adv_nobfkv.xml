@@ -8184,13 +8184,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;ki">
+   <e src="ai;ta;ki;anb">
       <lg>
          <l pos="Adv">oftere</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">usheemasti</t>
+            <t pos="Adv">usheemin</t>
+            <t pos="Adv">usheimin</t>
          </tg>
       </mg>
 <!--      <mg>
@@ -8198,11 +8200,6 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">usseemasti</t>
          </tg>
       </mg> -->
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="Adv">usheemin</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -12751,6 +12748,16 @@ For the full license text, see the link above.</lic>
                <x>Päivemällä sää parani.</x>
                <xt>Været ble bedre utover dagen.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">sjeldnere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">harvemin</t>
          </tg>
       </mg>
    </e>
