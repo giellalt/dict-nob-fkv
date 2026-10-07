@@ -38,17 +38,37 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ki">
+      <e src="ki;anb">
       <lg>
          <l pos="A">utvendig</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>som befinner seg på utsiden, ytre, ekstern</re>
             <t pos="A">ulkoinen</t>
             <t pos="A">ulkonen</t>
+            <t pos="A">ulkopuolinen</t>
             <xg>
                <x>De utvendige veggene av bygget er slitt.</x>
                <xt>Rakenuksen ulkoiset seinät oon kulunheet.</xt>
+            </xg>
+            <xg>
+               <x>Det kommer an på de utvendige forhold.</x>
+               <xt>Se oon kiini ulkoisista olosuhtheista.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>som er synlig utad, synlig for øyet, tilsynelatende</re>
+            <t pos="A">ulkonainen</t>
+            <xg>
+               <x>Den mannen viste ingen utvendige tegn på at han var en utenforstående.</x>
+               <xt>Sillä miehelä ei ollu minkhäänlaista ulkonaista merkkii siitä ette hän oli ulkopuolinen.</xt>
+            </xg>
+            <xg>
+               <x>Det lå en slags utvendig fred over byen, selv om beboerne var redde.</x>
+               <xt>Kaupungissa näytti elläävän jonkulaista ulkonaista rauhaa, vaikka assuujat olthiin pölössä.</xt>
             </xg>
          </tg>
       </mg>
@@ -24589,6 +24609,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">uukkerinkeltainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">innvendig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">sisäinen</t>
+            <t pos="A">sisäpuolinen</t>
+            <t pos="A">sisä-</t>
          </tg>
       </mg>
    </e>
