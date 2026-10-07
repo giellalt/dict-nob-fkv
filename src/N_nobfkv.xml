@@ -101314,13 +101314,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l t_type="Phrase">høyere utdanning</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t t_type="Phrase">korkkeempi koulaus</t>
+            <t t_type="Phrase">korkkeempi koulutus</t>
             <t pos="N">korkkeekoulaus</t>
+            <t pos="N">korkkeekoulutus</t>
             <t pos="N">korkkeekoulaaminen</t>
          </tg>
       </mg>
