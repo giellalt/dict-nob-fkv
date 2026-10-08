@@ -11442,6 +11442,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="A">rak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">suora</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai;ta">
       <lg>
          <l pos="A">direkte</l>
@@ -13531,13 +13541,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta;kl">
+   <e src="ai;ta;kl;anb">
       <lg>
          <l pos="A">stolt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">ylppee</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="A">pystöpäinen</t>
          </tg>
       </mg>
    </e>
