@@ -583,7 +583,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="mj;ki">
       <lg>
          <l pos="Adv">egentlig</l>
       </lg>
@@ -593,6 +593,34 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">oikheesti</t>
             <t pos="Adv">oikkeestansa</t>
             <t pos="Adv">oikkeesthaansa</t>
+            <xg>
+               <x>Jeg forsto ikke egentlig, kan du gjenta det?</x>
+               <xt>Mie en oikhein ymmärtänny, saattaisitko toistaat?</xt>
+            </xg>
+            <xg>
+               <x>Hva er det egentlig han mener?</x>
+               <xt>Mitä hän oikkeestansa meinaa?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>faktisk</re>
+            <t pos="Adv">itte assiissa</t>
+            <xg>
+               <x>Jeg liker egentlig ikke kaffe.</x>
+               <xt>Itte assiissa, mie en tykkää kaffista.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>i virkeligheten, de facto</re>
+            <t pos="Adv">itte assiissa</t>
+            <xg>
+               <x>Sånn egentlig er det ikke så vanskelig.</x>
+               <xt>Tosiassiissa se ei ole niin vaikkee.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10513,7 +10541,26 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>sant å si</re>
+            <t pos="Adv">itte assiissa</t>
+            <xg>
+               <x>Jeg vet faktisk ikke.</x>
+               <xt>Mie en itte assiissa tieđä.</xt>
+            </xg>
+            <xg>
+               <x>Det er faktisk sant.</x>
+               <xt>Se oon itte assiissa totta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>i realiteten, de facto</re>
             <t pos="Adv">tosiassiissa</t>
+            <xg>
+               <x>Han er faktisk en snill person.</x>
+               <xt>Tosiassiissa hän oon siivo ihminen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -12801,6 +12848,34 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="Adv">ylipään</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ki">
+      <lg>
+         <l t_type="Phrase">i realiteten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">tosiassiissa</t>
+            <xg>
+               <x>I realiteten er det de som bestemmer.</x>
+               <xt>Se oon tosiassiissa het jokka päättäävät.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ki">
+      <lg>
+         <l t_type="Phrase">de facto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">tosiassiissa</t>
+            <xg>
+               <x>Det er de facto de som bestemmer.</x>
+               <xt>Se oon tosiassiissa het jokka päättäävät.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
