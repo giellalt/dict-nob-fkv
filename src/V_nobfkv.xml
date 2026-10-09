@@ -16545,17 +16545,41 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="meinaa;meinan">meinata</t>
+            <xg>
+               <x>Jeg mener det er feil.</x>
+               <xt>Mie meinaan ette se oon väärin.</xt>
+            </xg>
+            <xg>
+               <x>Det var ment på en god måte.</x>
+               <xt>Sen oli meinattu hyvälä tavala.</xt>
+            </xg>
+            <xg>
+               <x>Hun mente at hun så naboen i butikken i går.</x>
+               <xt>Hän meinas ette näki krannin kaupassa eilen.</xt>
+            </xg>
+            <xg>
+               <x>Ja, det skulle jeg mene.</x>
+               <xt>Joo, sen mie meinaisin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="tarkoita">tarkoittaat</t>
+            <xg>
+               <x>Jeg skjønner ikke. Hva mener du?</x>
+               <xt>Mie en ymmärä. Mitä sie tarkoitat?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <re>å anta</re>
             <t pos="V" stem="arvele;arvel">arvela</t>
+            <xg>
+               <x>Jeg mener at det er i morgen.</x>
+               <xt>Mie arvelen ette se oon huomena.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16566,21 +16590,38 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="meinaa;meinan">meinata</t>
+            <xg>
+               <x>På estisk betyr ordet "linna" by.</x>
+               <xt>Eestiksi sana "linna"meinaa kaupunkkii.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="merkitte;merkitten">merkitä</t>
+            <xg>
+               <x>Takk, det betyr mye for meg!</x>
+               <xt>Kiitos, se merkittee minule paljon!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V" stem="tarkoita">tarkoittaat</t>
+            <xg>
+               <x>Ordet "elevator" betyr heis.</x>
+               <xt>Sana "elevator" tarkoittaa heissii.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+			 <re>kan brukes i Porsanger</re>
             <t pos="V">vaikuttaat</t>
+            <xg>
+               <x>Hva betyr dette ordet?</x>
+               <xt>Mitä tämä sana vaikuttaa?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
