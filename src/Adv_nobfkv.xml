@@ -1487,11 +1487,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-	         <re>fram til nå</re>
            <t pos="A">tähänastinen</t>
             <xg>
-            <x>Nå er håpet at dette kan bestå og videreutvikles, slik at ikke alt arbeidet frem til nå har vært forgjeves.</x>
-            <xt>Nyt toivothaan ette tämä saattaa jatkuut ja eđistyyt, niin ette kaikki tähänastinen työ ei ole ollu turhaa.</xt>
+            <x>Håper ikke at alt arbeidet frem til nå har vært forgjeves.</x>
+            <xt>Toivothaan ette kaikki tähänastinen työ ei ole ollu turhaa.</xt>
             </xg>
          </tg>
       </mg>
@@ -12875,6 +12874,20 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Det er de facto de som bestemmer.</x>
                <xt>Se oon tosiassiissa het jokka päättäävät.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ki">
+      <lg>
+         <l pos="Adv">foreløpig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="Adv">toistaiseksi</t>
+            <xg>
+               <x>Foreløpig har vi ingen nye opplysninger.</x>
+               <xt>Toistaiseksi meilä ei ole uussii tiettoi.</xt>
             </xg>
          </tg>
       </mg>
