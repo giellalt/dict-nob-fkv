@@ -6965,22 +6965,49 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="hoiđa;hoita">hoittaat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">menestyyt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V">passata</t>
+            <t pos="V">pasata</t>
+            <xg>
+               <x>Det passer ikke i morgen.</x>
+               <xt>Se ei passaa huomena.</xt>
+            </xg>
+            <xg>
+               <x>Pass godt på barnet mitt!</x>
+               <xt>Passaa sie hyvin minun lasta!</xt>
+            </xg>
+            <xg>
+               <x>Pass på deg selv!</x>
+               <xt>Passaa itte ittesti!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="sovi;sopi">soppiit</t>
+            <t pos="V">soppiit</t>
+            <xg>
+               <x>Når passer det for dere?</x>
+               <xt>Koska se soppii teile?</xt>
+            </xg>
+            <xg>
+               <x>De passer godt sammen.</x>
+               <xt>Het soppiivat hyvin yhtheen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>å passe på noe, ta seg av, f.eks. barn, dyr, planter</re>
+            <t pos="V">hoittaat</t>
+            <xg>
+               <x>Jeg kan passe barna når du er borte.</x>
+               <xt>Mie saatan hoittaat lapset ko sie olet poissa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gå an, lykkes</re>
+            <t pos="V">menestyyt</t>
          </tg>
       </mg>
    </e>
