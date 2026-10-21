@@ -671,16 +671,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="grom">
       <lg>
-         <l pos="A">digital</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">digitaalinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="grom">
-      <lg>
          <l pos="A">silketrykt</l>
       </lg>
       <mg>
@@ -10470,21 +10460,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
-      <lg>
-         <l pos="A">radikal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">ratikaali</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">radikaali</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai;ta;kl;es">
       <lg>
          <l pos="A">fredelig</l>
@@ -11922,16 +11897,6 @@ For the full license text, see the link above.</lic>
             <re>rettelig, ordentlig</re>
             <t pos="A">vasittu</t>
             <t pos="A">vasituinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="A">mørkegrønn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">tummavihrinen</t>
          </tg>
       </mg>
    </e>
@@ -13776,16 +13741,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="A">førstefødt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A" stem="esikoise;esikois">esikoinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
          <l pos="A">karelsk</l>
       </lg>
       <mg>
@@ -13801,17 +13756,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="omateo;omatekko">omateko</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="A">foreldreløs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <re>uten far eller mor eller begge to</re>
-            <t pos="N" stem="orvo;orppo">orpo</t>
+            <t pos="N">omatekoinen</t>
          </tg>
       </mg>
    </e>
@@ -14027,16 +13972,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="fkvnob">
       <lg>
-         <l pos="A">arkivfaglig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">arkiivifaakilinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fkvnob">
-      <lg>
          <l pos="A">uregjerlig</l>
       </lg>
       <mg>
@@ -14045,7 +13980,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="fkvnob;es">
+   <e src="ki;es">
       <lg>
          <l pos="A">offentlig</l>
       </lg>
@@ -14156,16 +14091,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="fkvnob">
       <lg>
-         <l pos="A">elektronisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">elektroninen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fkvnob">
-      <lg>
          <l pos="A">finsk-ugrisk</l>
       </lg>
       <mg>
@@ -14221,13 +14146,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">internasunaali</t>
-            <t pos="A">internasunaalinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">kanssoinvälinen</t>
+            <t pos="A">internasunaalinen</t>
+            <t pos="A">internasunaali</t>
          </tg>
       </mg>
    </e>
@@ -14237,17 +14158,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="A">tradittiinaalinen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">tradisunelli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="A">perintheinen</t>
+            <t pos="A">tradisunelli</t>
+            <t pos="A">tradittiinaalinen</t>
          </tg>
       </mg>
    </e>
@@ -22375,7 +22288,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="anb">
+<!--   <e src="anb">
       <lg>
          <l pos="A">jernhard</l>
       </lg>
@@ -22384,7 +22297,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">rautainen</t>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e src="anb">
       <lg>
          <l pos="A">avslappet</l>
@@ -24725,76 +24638,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">internasjonal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">internasunaali</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">offentlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">viralinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">skandinavisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">skandinaavinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="A">tysk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">tyskä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ks">
-      <lg>
-         <l pos="A">sparsommelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">säästääväinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="kt">
-      <lg>
-         <l pos="A">enslig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">yksinelläävä</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="A">avdød</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">vaina</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="A">førstefødt</l>
@@ -24815,26 +24658,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
-      <lg>
-         <l pos="A">selvgjort</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">omatekoinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="A">avdød</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">vainaja</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta;ai">
       <lg>
          <l pos="A">foreldreløs</l>
@@ -24842,16 +24665,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
            <t pos="N">orpo</t>
-	 </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="A">annerledes</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">muulainen</t>
          </tg>
       </mg>
    </e>
