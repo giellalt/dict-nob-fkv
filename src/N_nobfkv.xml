@@ -32267,7 +32267,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;kl;es">
+   <e src="ai;kl;es;anb">
       <lg>
          <l pos="N">hæl</l>
       </lg>
@@ -32275,6 +32275,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fkv">
             <t pos="N">kantapää</t>
             <t pos="N">kanta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>på sko</re>
+            <t pos="N">kantura</t>
          </tg>
       </mg>
    </e>
@@ -116189,6 +116195,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">saitapiffi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">skolevei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">koulutie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">jernhæl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">rautakantura</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">jernhæl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="N">kengänkantura</t>
          </tg>
       </mg>
    </e>
