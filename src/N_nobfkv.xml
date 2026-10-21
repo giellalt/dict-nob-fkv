@@ -10510,16 +10510,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!--   <e src="bildetema">
-      <lg>
-         <l pos="N">trombone</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">trombone</t>
-         </tg>
-      </mg>
-   </e> -->
    <e src="bildetema">
       <lg>
          <l pos="N">askebeger</l>
@@ -11259,18 +11249,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">servitööri</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki;mj">
-      <lg>
-         <l t_type="Phrase">tysk språk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">tyskä</t>
-            <t pos="N">tuiska</t>
-            <t pos="N">saksa</t>
          </tg>
       </mg>
    </e>
@@ -45333,7 +45311,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>på slutten av sommeren</re>
             <t pos="N" stem="loppukessä">loppukesä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>sommerhøst</re>
+            <t pos="N">syyskesä</t>
          </tg>
       </mg>
    </e>
@@ -54993,12 +54978,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N" stem="pađa;patta">pata</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="N" stem="rautapađa;rautapatta">rautapata</t>
+            <t pos="N">varipata</t>
+            <t pos="N" stem="pađa;patta">pata</t>
          </tg>
       </mg>
    </e>
@@ -67882,16 +67864,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ta">
-      <lg>
-         <l pos="N">ettersommer</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N" stem="syyskessä">syyskesä</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai">
       <lg>
          <l pos="N">høstsol</l>
@@ -75434,16 +75406,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="voithee">voiđet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">styrvol</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">vooli</t>
          </tg>
       </mg>
    </e>
@@ -97815,13 +97777,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;anb">
       <lg>
          <l pos="N">vårfiske</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">kevätpyytö</t>
+            <t pos="N">kevätfisku</t>
          </tg>
       </mg>
    </e>
@@ -114944,16 +114907,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="anb;es">
-      <lg>
-         <l pos="N">jerngryte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">varipata</t>
-         </tg>
-      </mg>
-   </e>
    <e src="anb;ki">
       <lg>
          <l pos="N">viljekraft</l>
@@ -115038,16 +114991,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">syysfisku</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="anb">
-      <lg>
-         <l pos="N">vårfiske</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">kevätfisku</t>
          </tg>
       </mg>
    </e>
@@ -115746,23 +115689,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="anb">
+   <e src="anb;ai">
       <lg>
          <l pos="N">styrvol</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tyyryvaala</t>
+            <t pos="N">vooli</t>
          </tg>
       </mg>
    </e>
-   <e src="anb">
+   <e src="anb;ai">
       <lg>
          <l pos="N">styrevol</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">tyyryvaala</t>
+            <t pos="N">vooli</t>
          </tg>
       </mg>
    </e>
@@ -116150,16 +116095,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">symfoniorkester</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">symfoniorkesteri</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="anb">
-      <lg>
          <l pos="N">forurensning</l>
       </lg>
       <mg>
@@ -116220,7 +116155,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">jernhæl</l>
+         <l pos="N">skohæl</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -116228,12 +116163,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="anb">
+   <e src="ki;mj">
       <lg>
          <l pos="N">tysk</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>språk</re>
             <t pos="N">tyskä</t>
             <t pos="N">tuiska</t>
             <t pos="N">saksa</t>
