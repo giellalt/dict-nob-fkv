@@ -45217,23 +45217,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">helligtrekongersdagen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="N">loppiainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
+   <e src="ta;ai">
       <lg>
          <l pos="N">helligtrekongersdag</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="loppiise;loppiis">loppiinen</t>
+            <t pos="N">loppiainen</t>
          </tg>
       </mg>
    </e>
