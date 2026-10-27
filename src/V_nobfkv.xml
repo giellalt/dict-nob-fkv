@@ -3802,8 +3802,8 @@ For the full license text, see the link above.</lic>
             <t pos="V">kuurota</t>
             <t pos="V">tukkeet</t>
             <t pos="V">avustaat</t>
-            <t pos="Phrase">olla kuurtona</t>
-            <t pos="Phrase">olla tukena</t>
+            <t t_type="Phrase">olla kuurtona</t>
+            <t t_type="Phrase">olla tukena</t>
             <xg>
                <x>De støtter en god sak.</x>
                <xt>Het tukkeevat hyvvää assiita.</xt>
@@ -11461,7 +11461,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="v">kiilttäät</t>
+            <t pos="V">kiilttäät</t>
             <xg>
                <x>Det er ikke gull alt som glimrer</x>
                <xt>Kaikki mikä kiilttää ei tartte olla kultta.</xt>
@@ -16735,7 +16735,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="Phrase">mennä kylmäksi</t>
+            <t t_type="Phrase">mennä kylmäksi</t>
          </tg>
       </mg>
    </e>
