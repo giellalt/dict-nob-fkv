@@ -23504,13 +23504,32 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+			 <re>rør som kan stenges eller åpnes</re>
             <t pos="N">hana</t>
+	        <t pos="N">kraana</t>
+            <xg>
+               <x>Åpner du kranen?</x>
+               <xt>Aukaisetko hanan?</xt>
+            </xg>
+            <xg>
+               <x>Gir du meg kaldt vann fra kranen?</x>
+               <xt>Annatko minule kylmää vettä kraanasta?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="N">krana</t>
-            <t pos="N">krani</t>
+			 <re>til å løfte eller flytte noe med</re>
+            <t pos="N">kraana</t>
+            <t pos="N">kraani</t>
+            <xg>
+               <x>Han sitter oppe i kranen.</x>
+               <xt>Hän istuu ylhäälä kraanassa.</xt>
+            </xg>
+            <xg>
+               <x>De greide å løfte den med hjelp av kran.</x>
+               <xt>Het pystytethiin nostamhaan sen kraanin avula.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
