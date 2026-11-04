@@ -17934,13 +17934,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;anb">
       <lg>
          <l pos="A">sivil</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">siviilinen</t>
+            <t pos="A">siviili</t>
+            <xg>
+               <x>siviilivaattheet</x>
+               <xt>sivile klær</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24543,20 +24548,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">siviilivaattheinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="anb">
-      <lg>
-         <l pos="A" t_type="Phrase">sivil</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">siviili</t>
-            <xg>
-               <x>siviilivaattheet</x>
-               <xt>sivile klær</xt>
-            </xg>
          </tg>
       </mg>
    </e>
