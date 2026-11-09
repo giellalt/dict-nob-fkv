@@ -12436,19 +12436,26 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>forhøye</re>
             <t pos="V">koroittaat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <re>f.eks. stemning</re>
+            <re>få til å stige</re>
             <t pos="V">nostattaat</t>
-            <xg>
-               <x>Han elsket å piske opp stemningen der han i stor skadefryd kom subbende over Magerøya.</x>
-               <xt>Se rakasti ko pääsi nostattamhaan tunnelmaa, siinä ko vahingoniloisesti pyhkäisi yli Makrean.</xt>
-            </xg>
          </tg>
       </mg>
+<!--      <mg>
+         <tg xml:lang="fkv">
+         <re>om gjær</re>
+            <t pos="V">käyđä</t>
+            <xg>
+               <x>Deigen står til heving.</x>
+               <xt>Jästi oon käymässä.</xt>
+            </xg>
+         </tg>
+      </mg> -->
    </e>
    <e src="ai;ta">
       <lg>
@@ -12864,6 +12871,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>fjerne</re>
             <t pos="V" stem="pyhi">pyhkiit</t>
             <xg>
                <x>Vi må tørke støv her.</x>
@@ -13439,18 +13447,26 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V" stem="lakaise;lakais">lakaista</t>
+            <xg>
+               <x>Han feide det under matta.</x>
+               <xt>Hän lakaisti sen maton alle.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
             <t pos="V">kustata</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <t pos="V" stem="lakaise;lakais">lakaista</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
-            <re>raskt, uvørent</re>
+            <re>raskt</re>
             <t pos="V">pyhkäistä</t>
+            <xg>
+               <x>Vinden feide over Magerøya.</x>
+               <xt>Tuuli pyhkäisi yli Makrean.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14578,7 +14594,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <re>raskt, uvørent</re>
+            <re>raskt</re>
             <t pos="V">pyhkäistä</t>
          </tg>
       </mg>
@@ -23219,16 +23235,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>gjøre glatt</re>
             <t pos="V" stem="silitä">silittäät</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fkv">
             <t pos="V" stem="stryykkää;stryykän">stryykätä</t>
+            <xg>
+               <x>Jeg har støket gardinene.</x>
+               <xt>Mie olen silittänny kardiinit.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
+         <re>berøre lett</re>
             <t pos="V" stem="pyhi">pyhkiit</t>
             <xg>
                <x>Jeg strøk katten.</x>
@@ -23271,6 +23289,16 @@ For the full license text, see the link above.</lic>
    <e src="ai">
       <lg>
          <l t_type="Phrase">binde seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V" val="IV">sittoonttuut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l t_type="Phrase">knytte seg</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
@@ -29355,7 +29383,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fkv">
-            <re>sope, feie raskt, uvørent</re>
+            <re>sope, feie raskt</re>
             <t pos="V">pyhkäistä</t>
          </tg>
       </mg>
@@ -34224,6 +34252,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="V">raporteerata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">gjære</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">käyđä</t>
+            <xg>
+               <x>Deigen gjærer.</x>
+               <xt>Jästi käypi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
