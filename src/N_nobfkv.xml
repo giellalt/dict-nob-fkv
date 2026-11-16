@@ -102639,14 +102639,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">taushetsplikt</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="V">vaikenemisvelvolisuus</t>
             <t t_type="Phrase">velvolinen olemhaan vaiti</t>
             <t t_type="Phrase">velvolisuus olla vaiti</t>
+            <xg>
+               <x>Opplysningene er underlagt taushetsplikt.</x>
+               <xt>Tieđot oon vaikenemisvelvolisuuđen alla.</xt>
+            </xg>
             <xg>
                <x>Alle medarbeidere har taushetsplikt.</x>
                <xt>Kaikki työntekkiijät oon velvoliset olemhaan vaiti.</xt>
