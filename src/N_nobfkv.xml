@@ -13579,12 +13579,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="es;ia">
       <lg>
          <l pos="N">lake</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N">liemi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>fisk</re>
             <t pos="N">mađet</t>
          </tg>
       </mg>
@@ -73427,11 +73433,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N" stem="valla;valtta">valta</t>
+            <xg>
+               <x>Nå har hen makten til å bestemme.</x>
+               <xt>Nyt hänelä oon valta päättäät.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">mahti</t>
+            <xg>
+               <x>korkkeemat mahđit</x>
+               <xt>høyere makter</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -75276,12 +75290,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+         <re>fysisk, mental styrke, naturkrefter</re>
             <t pos="N">voima</t>
+            <xg>
+               <x>Jeg må spare krefter.</x>
+               <xt>Mie häyđyn säästelä voimii.</xt>
+            </xg>
+            <xg>
+               <x>en indre kraft</x>
+               <xt>sisäinen voima</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="N">mahti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>væske fra koking av f.eks. kjøtt, fisk, grønnsaker</re>
+            <t pos="N">liemi</t>
          </tg>
       </mg>
    </e>
@@ -75396,6 +75425,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fkv">
+            <t pos="N" stem="voito">voitto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">utbytte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+         <re>gevinst, økonomisk fortjeneste</re>
             <t pos="N" stem="voito">voitto</t>
          </tg>
       </mg>
