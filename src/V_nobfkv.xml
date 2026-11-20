@@ -6840,16 +6840,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l t_type="Phrase">bli forsinket</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="V">hiljastuut</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="V">beherske</l>
       </lg>
       <mg>
@@ -26706,8 +26696,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fkv">
 			 <re>å bli forsinket selv</re>
-            <t pos="V" stem="viivytä">hiljestyyt</t>
-		   <t pos="V" stem="viivytä">hiljestuut</t>
+            <t pos="V">hiljestyyt</t>
+		   <t pos="V">hiljestuut</t>
          </tg>
       </mg>
    </e>
